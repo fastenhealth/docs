@@ -141,7 +141,7 @@
 - [https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token](https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token)
 - 
 
-![[auth.png]]
+![[./auth.png]]
 
 
 ## Schemas
@@ -171,7 +171,7 @@
 - https://github.com/MIT-LCP/mimic-code
 
 
-![[bluebutton.png]]
+![[./bluebutton.png]]
 
 
 # Application
