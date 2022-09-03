@@ -19,6 +19,11 @@
 - Vaccine records
 - Family history
 
+# Regulations
+- 21st Century Cures Act’s Interoperability
+- Patient Access Final Rule (CMS-9115-F)
+- https://www.cms.gov/Regulations-and-Guidance/Guidance/Interoperability/index
+
 
 # FHIR
 
@@ -83,7 +88,7 @@
 - https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html
 - [https://usefulangle.com/post/4/javascript-communication-parent-child-window](https://usefulangle.com/post/4/javascript-communication-parent-child-window)
 
-![[User agent.png]]
+![[auth.png]]
 
 
 ## Schemas
@@ -102,7 +107,20 @@
 - [http://docs.smarthealthit.org/dstu2-examples/](http://docs.smarthealthit.org/dstu2-examples/)
 - [https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md](https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md)
 
+## SMART/FHIR - Healthcare Applications Directories
+- https://apps.smarthealthit.org/apps/designed_for/patients?sort=name-asc
+- https://github.com/the-commons-project
+- [https://vci.org/](https://vci.org/)
+- [https://bluebutton.cms.gov/](https://bluebutton.cms.gov/)
+
+![[bluebutton.png]]
+
+
 # Application
+
+### Javascript 
+- [https://github.com/smart-on-fhir/client-js](https://github.com/smart-on-fhir/client-js)
+- 
 
 ## Golang
 - Workers - https://github.com/gocraft/work
