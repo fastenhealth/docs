@@ -22,10 +22,69 @@
 
 # FHIR
 
+## Medical Sources
+
+| **Medical Testing Companies** | Status |
+| --- | --- |
+| Quest Diagnostics	| |
+| Labcorp | |	
+| Abbott Laboratories | |	
+| Siemens Healthineers	| |
+| Danaher | |		
+| Becton Dickinson | |		
+| Bio-Reference Laboratories, Inc. | |		
+| bioMérieux | |		
+| Spectra Laboratories, Inc. | |		
+| Charles River Laboratories | |		
+| ARUP Laboratories | |		
+| Sonic Healthcare Ltd | |		
+| Genomic Health | |		
+| NeoGenomics | |		
+| Alere Inc. | |		
+| CareDx, Inc | |		
+| EXACT Sciences Corporation | |		
+| Fulgent Genetics	 | |	
+| F2 Labs | |		
+| Clarient, Inc. | |		
+| Genoptix Medical Laboratory | |		
+| Sanofi	 | |	
+| DaVita | |		
+| Myriad Genetics | |		
+
+| **Health Insurance Companies** | Status | Version |
+| --- | --- | --- |
+| Humana | |
+| UnitedHealth Group | |
+| Anthem | |
+| Cigna | Sandbox account | HL7 - FHIR 4.0.1 |
+| Kaiser Permanente | Account created |
+| Molina Healthcare | |
+| Golden Rule Insurance Company | |
+| Aetna | BETA - no dev access | v3.1.1: STU 3/ CARIN Blue Button Implementation Guide (v1.0.0)
+| Centene Corporation | |
+| Blue Cross Blue Shield Association | |
+| HealthPartners | |
+| CVS Health Corporation | |
+| Highmark | |
+| HCSC | |
+| Premera Blue Cross | |
+| Blue Shield of California | |
+| WellCare Health Plans | |
+| Independence Blue Cross | |
+| Medical Mutual of Ohio | |
+| Horizon Blue Cross Blue Shield of New Jersey | |
+| UnitedHealthcare Insurance Co | |
+| BlueCross BlueShield of South Carolina | |
+| Mutual of Omaha Insurance Company | |
+| EmblemHealth | |
+
+
 ## Authentication/OAuth
 - https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html
 - [https://usefulangle.com/post/4/javascript-communication-parent-child-window](https://usefulangle.com/post/4/javascript-communication-parent-child-window)
-- 
+
+![[User agent.png]]
+
 
 ## Schemas
 - [https://schema.org/MedicalEntity](https://schema.org/MedicalEntity)
@@ -36,7 +95,7 @@
 - [https://docs.microsoft.com/en-us/azure/healthcare-apis/fhir/patient-everything](https://docs.microsoft.com/en-us/azure/healthcare-apis/fhir/patient-everything)
 - [https://cloud.google.com/healthcare-api/docs/how-tos/fhir-bundles](https://cloud.google.com/healthcare-api/docs/how-tos/fhir-bundles)
 - [https://www.hl7.org/fhir/definitions.json.zip](https://www.hl7.org/fhir/definitions.json.zip)
-- 
+
 
 ## Example Datasets
 - [https://synthetichealth.github.io/synthea/](https://synthetichealth.github.io/synthea/)
