@@ -43,7 +43,7 @@
 - [http://docs.smarthealthit.org/dstu2-examples/](http://docs.smarthealthit.org/dstu2-examples/)
 - [https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md](https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md)
 
-# Architecture
+# Application
 
 ## Golang
 - Workers - https://github.com/gocraft/work
