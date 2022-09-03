@@ -53,3 +53,34 @@
 - Sqlite
 - BerkerleyDB
 - LevelDB / RocksDB are more modern, maintained, better for SSD workload
+
+
+## Marketing Website
+### Icons
+- [https://thenounproject.com/icon/electronic-health-record-3989976/](https://thenounproject.com/icon/electronic-health-record-3989976/)
+- [https://thenounproject.com/icon/mobile-ehr-3989867/](https://thenounproject.com/icon/mobile-ehr-3989867/)
+- [https://thenounproject.com/icon/medical-record-2082004/](https://thenounproject.com/icon/medical-record-2082004/)
+- [https://thenounproject.com/icon/medical-record-1527328/](https://thenounproject.com/icon/medical-record-1527328/)
+- [https://thenounproject.com/icon/medical-records-1983987/](https://thenounproject.com/icon/medical-records-1983987/)
+- [https://thenounproject.com/icon/medical-record-4996256/](https://thenounproject.com/icon/medical-record-4996256/)
+- [https://thenounproject.com/icon/medical-record-1880471/](https://thenounproject.com/icon/medical-record-1880471/)
+- [https://thenounproject.com/icon/medical-record-2112034/](https://thenounproject.com/icon/medical-record-2112034/)
+- [https://thenounproject.com/icon/medical-3518236/](https://thenounproject.com/icon/medical-3518236/)
+- [https://thenounproject.com/icon/medical-3518067/](https://thenounproject.com/icon/medical-3518067/)
+- [https://thenounproject.com/icon/safety-pin-69844/](https://thenounproject.com/icon/safety-pin-69844/)
+- [https://thenounproject.com/icon/safety-pin-69848/](https://thenounproject.com/icon/safety-pin-69848/)
+- [https://thenounproject.com/icon/safety-pin-73186/](https://thenounproject.com/icon/safety-pin-73186/)
+- [https://thenounproject.com/icon/safety-pin-73195/](https://thenounproject.com/icon/safety-pin-73195/)
+- [https://thenounproject.com/icon/safety-pins-2054141/](https://thenounproject.com/icon/safety-pins-2054141/)
+- [https://thenounproject.com/icon/safety-pin-5036400/](https://thenounproject.com/icon/safety-pin-5036400/)
+- [https://thenounproject.com/icon/safety-pin-4521866/](https://thenounproject.com/icon/safety-pin-4521866/)
+- [https://thenounproject.com/icon/medical-security-4228165/](https://thenounproject.com/icon/medical-security-4228165/)
+
+### Main Photo
+-   [https://unsplash.com/photos/REKXJ7JhwiI](https://unsplash.com/photos/REKXJ7JhwiI)
+-   [https://unsplash.com/photos/MpItbN6K398](https://unsplash.com/photos/MpItbN6K398)
+-   [https://unsplash.com/photos/TnBpsxXPfpM](https://unsplash.com/photos/TnBpsxXPfpM)
+-   [https://unsplash.com/photos/oUhSla4L_98](https://unsplash.com/photos/oUhSla4L_98)
+-   [https://unsplash.com/photos/mNGaaLeWEp0](https://unsplash.com/photos/mNGaaLeWEp0)
+-   [https://unsplash.com/photos/wBgAVAGjzFg](https://unsplash.com/photos/wBgAVAGjzFg)
+-   [https://unsplash.com/photos/7edWO30e32k](https://unsplash.com/photos/7edWO30e32k)
