@@ -1,12 +1,5 @@
 {
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
-  ],
+  "obsidian-git:commit": [],
   "obsidian-git:push": [
     {
       "modifiers": [
@@ -14,5 +7,6 @@
       ],
       "key": "G"
     }
-  ]
+  ],
+  "graph:open": []
 }
