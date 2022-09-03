@@ -6,5 +6,13 @@
       ],
       "key": "G"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
   ]
 }
