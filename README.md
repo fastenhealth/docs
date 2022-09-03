@@ -27,7 +27,56 @@
 
 # FHIR
 
+### Data Sources
+- Electronic Health Records (EHR)
+- Patient Portals
+- Health Systems
+- Hospitals & Doctors
+- Pharmacies
+- Wearable Devices
+- Health Insurers
+- Laboratories
+
+### Data Elements
+- Explanation of benefits
+- Genotypes & genetic traits
+- Activity
+- Sleep
+- Meals
+- Healthcare claims
+- Immunizations (vaccination status)
+- Plans of care
+- Narratives
+- Conditions
+- Medications
+- Procedures
+- Encounters
+- Test results
+- Demographics
+- Social history
+- Vitals/observations
+- Organizations
+
+### Insurance Types
+- Dental
+- Vision
+- Medical
+- Travel
+- Prescription
+- Telemedicine
+- Mental Health
+- Gap
+- Short Term
+- Hearing
+- Disability
+- Accident
+- Long Term Care
+-  Income Protection
+
+
 ## Medical Sources
+- [https://github.com/flexpa/sero/issues/78](https://github.com/flexpa/sero/issues/78)
+
 
 | **Medical Testing Companies** | Status |
 | --- | --- |
@@ -65,7 +114,7 @@
 | Kaiser Permanente | Account created |
 | Molina Healthcare | |
 | Golden Rule Insurance Company | |
-| Aetna | BETA - no dev access | v3.1.1: STU 3/ CARIN Blue Button Implementation Guide (v1.0.0)
+| [Aetna](https://developerportal.aetna.com/managedcontent/pdfs/Aetna_DeveloperPortal_Handbook_Sandbox.pdf)) [1](https://developerportal.aetna.com/gettingstarted) | BETA - no dev access | v3.1.1: STU 3/ CARIN Blue Button Implementation Guide (v1.0.0)
 | Centene Corporation | |
 | Blue Cross Blue Shield Association | |
 | HealthPartners | |
@@ -87,6 +136,10 @@
 ## Authentication/OAuth
 - https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html
 - [https://usefulangle.com/post/4/javascript-communication-parent-child-window](https://usefulangle.com/post/4/javascript-communication-parent-child-window)
+- [https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html](https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html)
+- [https://auth0.com/docs/flows/concepts/auth-code-pkce](https://auth0.com/docs/flows/concepts/auth-code-pkce)
+- [https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token](https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token)
+- 
 
 ![[auth.png]]
 
@@ -100,6 +153,8 @@
 - [https://docs.microsoft.com/en-us/azure/healthcare-apis/fhir/patient-everything](https://docs.microsoft.com/en-us/azure/healthcare-apis/fhir/patient-everything)
 - [https://cloud.google.com/healthcare-api/docs/how-tos/fhir-bundles](https://cloud.google.com/healthcare-api/docs/how-tos/fhir-bundles)
 - [https://www.hl7.org/fhir/definitions.json.zip](https://www.hl7.org/fhir/definitions.json.zip)
+- https://docs.sero.run/book/build/patient-access
+- 
 
 
 ## Example Datasets
@@ -112,6 +167,9 @@
 - https://github.com/the-commons-project
 - [https://vci.org/](https://vci.org/)
 - [https://bluebutton.cms.gov/](https://bluebutton.cms.gov/)
+- [https://onerecord.com/](https://onerecord.com/)
+- https://github.com/MIT-LCP/mimic-code
+
 
 ![[bluebutton.png]]
 
@@ -125,6 +183,9 @@
 ## Golang
 - Workers - https://github.com/gocraft/work
 - Role based authentication - [https://github.com/Permify/permify-gorm](https://github.com/Permify/permify-gorm)
+- https://github.com/google/fhir
+- [https://github.com/flexpa/awesome-fhir](https://github.com/flexpa/awesome-fhir)
+- 
 
 ## Database
 - Sqlite
