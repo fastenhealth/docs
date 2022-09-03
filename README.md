@@ -192,10 +192,19 @@
 - BerkerleyDB
 - LevelDB / RocksDB are more modern, maintained, better for SSD workload
 
+
 ## Themes
+- [https://zylon-ng.envytheme.com/](https://zylon-ng.envytheme.com/)
+- [https://preview.themeforest.net/item/zylon-angular-research-laboratory-template/full_screen_preview/29014781](https://preview.themeforest.net/item/zylon-angular-research-laboratory-template/full_screen_preview/29014781)
+- [https://topli-ng.envytheme.com/home-three](https://topli-ng.envytheme.com/home-three)
+- [https://preview.themeforest.net/item/topli-angular-loans-funding-agency-template/full_screen_preview/28317475](https://preview.themeforest.net/item/topli-angular-loans-funding-agency-template/full_screen_preview/28317475)
+- [https://themepure.net/template/medidove-prv/medidove/index-2.html](https://themepure.net/template/medidove-prv/medidove/index-2.html)
+- [https://preview.themeforest.net/item/medidove-medical-and-health-html5-template/full_screen_preview/23429465](https://preview.themeforest.net/item/medidove-medical-and-health-html5-template/full_screen_preview/23429465)
+- [https://github.com/themefisher/novena](https://github.com/themefisher/novena)
+- [https://themeforest.net/item/tinzer-telemedicine-telehealth-services-template/27539473](https://themeforest.net/item/tinzer-telemedicine-telehealth-services-template/27539473)
 - https://windmill-dashboard.vercel.app/tables.html
 - https://akveo.github.io/ngx-admin/
-- 
+
 
 
 ## Marketing Website
