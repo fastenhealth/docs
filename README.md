@@ -189,7 +189,8 @@
 ## UX
 - https://github.com/smart-on-fhir/patient-browser
 - https://patient-browser.smarthealthit.org/index.html#/ ![](patient-browser.png)
-
+- Resource viewer - http://docs.smarthealthit.org/fred/?resource=.%2Fsamples%2Fbundle.json
+- ![](fred-resource-viewer.png)
 
 ## Javascript 
 - [https://github.com/smart-on-fhir/client-js](https://github.com/smart-on-fhir/client-js)
