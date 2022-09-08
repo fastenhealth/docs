@@ -231,7 +231,8 @@
 - https://github.com/creativetimofficial/soft-ui-dashboard
 - https://github.com/BootstrapDash/star-admin2-free-admin-template
 - https://github.com/BootstrapDash/Azia-Admin-Bootstrap-Template
-
+- https://www.bootstrapdash.com/demo/azia-angular-free/preview/demo_1/dashboard
+- https://github.com/BootstrapDash/Azia-Angular
 
 
 ## Marketing Website
