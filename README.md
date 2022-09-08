@@ -230,6 +230,7 @@
 - https://akveo.github.io/ngx-admin/
 - https://github.com/creativetimofficial/soft-ui-dashboard
 - https://github.com/BootstrapDash/star-admin2-free-admin-template
+- https://github.com/BootstrapDash/Azia-Admin-Bootstrap-Template
 
 
 
