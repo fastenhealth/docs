@@ -156,6 +156,7 @@
 - https://docs.sero.run/book/build/patient-access
 - https://open.epic.com/Interface/FHIR
 - http://clinfhir.com/
+- https://fhirbase.aidbox.app/schema - basically store the full json resource in a field
 
 
 ## Example Datasets
@@ -182,7 +183,7 @@
 - https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Mapping+Language
 - https://github.com/microsoft/fhir-server/blob/main/docs/ConvertDataOperation.md
 - https://github.com/microsoft/FHIR-Converter/
-- 
+
 
 # Application
 
