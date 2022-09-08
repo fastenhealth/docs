@@ -228,6 +228,8 @@
 - [https://themeforest.net/item/tinzer-telemedicine-telehealth-services-template/27539473](https://themeforest.net/item/tinzer-telemedicine-telehealth-services-template/27539473)
 - https://windmill-dashboard.vercel.app/tables.html
 - https://akveo.github.io/ngx-admin/
+- https://github.com/creativetimofficial/soft-ui-dashboard
+- https://github.com/BootstrapDash/star-admin2-free-admin-template
 
 
 
