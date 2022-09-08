@@ -155,6 +155,7 @@
 - [https://www.hl7.org/fhir/definitions.json.zip](https://www.hl7.org/fhir/definitions.json.zip)
 - https://docs.sero.run/book/build/patient-access
 - https://open.epic.com/Interface/FHIR
+- http://clinfhir.com/
 
 
 ## Example Datasets
