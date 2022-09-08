@@ -180,6 +180,8 @@
 ## Map between versions
 - https://github.com/ahdis/fhir-mapping-tutorial
 - https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Mapping+Language
+- https://github.com/microsoft/fhir-server/blob/main/docs/ConvertDataOperation.md
+- https://github.com/microsoft/FHIR-Converter/
 - 
 
 # Application
