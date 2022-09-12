@@ -199,6 +199,13 @@
 - https://github.com/looker-open-source/healthcare_demo
 - 
 
+## Authentication
+- https://betterprogramming.pub/how-to-create-a-simple-web-login-using-gin-for-golang-9ac46a5b0f89
+- https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg
+- https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application
+- https://codewithmukesh.com/blog/jwt-authentication-in-golang/
+- https://github.com/golang-jwt/jwt
+- 
 
 ## Javascript 
 - [https://github.com/smart-on-fhir/client-js](https://github.com/smart-on-fhir/client-js)
