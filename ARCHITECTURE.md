@@ -24,13 +24,13 @@ sequenceDiagram
 
     User->>Medical Record Source: 7. Authenticate and consent
     Medical Record Source->>Lighthouse: 8. Authorization code stored.
-    Fasten App->>Medical Record Source: 9. Authorization code and code verified to OAuth token.
+    Fasten App->>Medical Record Source: 9. Authorization code and code verifier sent for OAuth token.
     
     loop validate
     Medical Record Source->Medical Record Source: 10. Validate code verifier and challenge.
     end
     
-    Medical Record Source->>User: 11. ID token and access token.
+    Medical Record Source->>User: 11. ID token, access token and, optionally, refresh token
     User->>Fasten App: 12. Store access token and request patient medical records.
     Fasten App->>Medical Record Source: 13. Electronic medical records retrieved
     Fasten App->>User: 14. Response.
@@ -41,4 +41,5 @@ sequenceDiagram
 > 
 > https://andrewowen.net/blog/creating-diagrams-with-mermaid/
 
-The Fasten Lighthouse acts like a man-in-the-middle, however it only temporarily stores the code 
+The Fasten Lighthouse service acts like a man-in-the-middle, however it only has access to the (temporary) `authroization_code` (not the `code_verifier`). The `authorization_code` is stored in the database temporarily, and returned to the user who can then trade the `authorization_code` **AND** `code_verifier` for an `access_token`.
+
