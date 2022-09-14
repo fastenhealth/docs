@@ -108,7 +108,7 @@
 | **Health Insurance Companies** | Status | Version |
 | --- | --- | --- |
 | Humana | [requirements](https://developers.humana.com/account/signup?ReturnUrl=/apis/secured) |
-| UnitedHealth Group | |
+| UnitedHealth Group | Tax ID/Business number |
 | Anthem | |
 | Cigna | Sandbox account | HL7 - FHIR 4.0.1 |
 | Kaiser Permanente | Account created |
