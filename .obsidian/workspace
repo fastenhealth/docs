@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ARCHITECTURE.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARCHITECTURE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARCHITECTURE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARCHITECTURE.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
+    "ARCHITECTURE.md",
     "README.md",
     "patient-browser.png",
     "bluebutton.png",
-    "auth.png",
-    "ARCHITECTURE.md"
+    "auth.png"
   ]
 }

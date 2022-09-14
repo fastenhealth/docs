@@ -107,7 +107,7 @@
 
 | **Health Insurance Companies** | Status | Version |
 | --- | --- | --- |
-| Humana | |
+| Humana | [requirements](https://developers.humana.com/account/signup?ReturnUrl=/apis/secured) |
 | UnitedHealth Group | |
 | Anthem | |
 | Cigna | Sandbox account | HL7 - FHIR 4.0.1 |
