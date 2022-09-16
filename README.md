@@ -27,6 +27,10 @@
 
 # FHIR
 
+- SANDBOX
+	- https://sandbox.logicahealth.org/fastenhealth/apps
+- MANUAL
+
 ### Data Sources
 - Electronic Health Records (EHR)
 - Patient Portals
@@ -36,6 +40,7 @@
 - Wearable Devices
 - Health Insurers
 - Laboratories
+
 
 ### Data Elements
 - Explanation of benefits
