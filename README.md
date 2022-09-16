@@ -162,6 +162,7 @@
 - https://open.epic.com/Interface/FHIR
 - http://clinfhir.com/
 - https://fhirbase.aidbox.app/schema - basically store the full json resource in a field
+- https://docs.aws.amazon.com/healthlake/latest/devguide/supported-resources.html
 
 > About 33% of respondents favored Epic, whereas 18% decided to renovate their contract with Cerner, and only 7% decided to renovate their contract with Athena Health. This research shows that not all hospitals use Epic; many hospitals also opt for their closest competitors- Cerner, Athena Health and Folio3,
  
