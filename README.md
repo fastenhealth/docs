@@ -23,6 +23,9 @@
 - 21st Century Cures Act’s Interoperability
 - Patient Access Final Rule (CMS-9115-F)
 - https://www.cms.gov/Regulations-and-Guidance/Guidance/Interoperability/index
+- Trusted Health Data Exchange Framework
+	- https://ehrintelligence.com/features/hies-eager-to-join-ambitious-onc-health-data-exchange-framework
+- 
 
 
 
