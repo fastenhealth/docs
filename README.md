@@ -192,6 +192,8 @@
 - https://cardinalkit.org/
 - https://futo.org/grants/
 - https://fosspost.org/open-source-emr/
+- https://simplifier.net/
+- 
 - 
 
 
