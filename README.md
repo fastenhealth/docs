@@ -33,6 +33,7 @@
 
 - SANDBOX
 	- https://sandbox.logicahealth.org/fastenhealth/apps
+	- https://confluence.hl7.org/display/FHIR/Public+Test+Servers
 - MANUAL
 
 ### Data Sources
