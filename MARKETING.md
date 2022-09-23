@@ -1,7 +1,6 @@
 ## Marketing Website
 
 # Domain
-
 https://www.fastenhealth.com
 
 
@@ -47,7 +46,7 @@ https://www.fastenhealth.com
 - [https://thenounproject.com/icon/safety-pin-4521866/](https://thenounproject.com/icon/safety-pin-4521866/)
 - [https://thenounproject.com/icon/medical-security-4228165/](https://thenounproject.com/icon/medical-security-4228165/)
 
-### Main Photo
+# Main Photo
 -   [https://unsplash.com/photos/REKXJ7JhwiI](https://unsplash.com/photos/REKXJ7JhwiI)
 -   [https://unsplash.com/photos/MpItbN6K398](https://unsplash.com/photos/MpItbN6K398)
 -   [https://unsplash.com/photos/TnBpsxXPfpM](https://unsplash.com/photos/TnBpsxXPfpM)
@@ -55,3 +54,7 @@ https://www.fastenhealth.com
 -   [https://unsplash.com/photos/mNGaaLeWEp0](https://unsplash.com/photos/mNGaaLeWEp0)
 -   [https://unsplash.com/photos/wBgAVAGjzFg](https://unsplash.com/photos/wBgAVAGjzFg)
 -   [https://unsplash.com/photos/7edWO30e32k](https://unsplash.com/photos/7edWO30e32k)
+
+# Privacy Policy
+- https://github.com/ArthurGareginyan/privacy-policy-template
+- https://github.com/revolutionarysystems/legal-docs/blob/master/privacy-policy/privacy-policy.txt

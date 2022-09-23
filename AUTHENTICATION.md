@@ -1,4 +1,6 @@
-## Authentication/OAuth/Smart-on-FHIR
+# Authentication
+
+## OAuth/Smart-on-FHIR
 - https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html
 - [https://usefulangle.com/post/4/javascript-communication-parent-child-window](https://usefulangle.com/post/4/javascript-communication-parent-child-window)
 - [https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html](https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html)
@@ -54,3 +56,12 @@ The Fasten Lighthouse service acts like a man-in-the-middle, however it only has
 
 
 ![](./img/auth.png)
+
+
+## Gin/Angular/JWT
+- https://betterprogramming.pub/how-to-create-a-simple-web-login-using-gin-for-golang-9ac46a5b0f89
+- https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg
+- https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application
+- https://codewithmukesh.com/blog/jwt-authentication-in-golang/
+- https://github.com/golang-jwt/jwt
+- 

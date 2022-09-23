@@ -151,33 +151,14 @@ Mandatory Elements
 - https://github.com/synthetichealth/fhir-visualizers/blob/master/src/index.js
 - 
 
-## Authentication
-- https://betterprogramming.pub/how-to-create-a-simple-web-login-using-gin-for-golang-9ac46a5b0f89
-- https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg
-- https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application
-- https://codewithmukesh.com/blog/jwt-authentication-in-golang/
-- https://github.com/golang-jwt/jwt
-- 
+
 
 ## ADMIN Dashboard
 - https://github.com/smart-on-fhir/fhir-server-dashboard
 - 
 
-## Javascript 
-- [https://github.com/smart-on-fhir/client-js](https://github.com/smart-on-fhir/client-js)
-- 
 
-## Golang
-- Workers - https://github.com/gocraft/work
-- Role based authentication - [https://github.com/Permify/permify-gorm](https://github.com/Permify/permify-gorm)
-- https://github.com/google/fhir
-- [https://github.com/flexpa/awesome-fhir](https://github.com/flexpa/awesome-fhir)
-- 
 
-## Database
-- Sqlite
-- BerkerleyDB
-- LevelDB / RocksDB are more modern, maintained, better for SSD workload
 
 
 ## Themes
@@ -188,6 +169,3 @@ Mandatory Elements
 
 
 
-## Privacy Policy
-- https://github.com/ArthurGareginyan/privacy-policy-template
-- https://github.com/revolutionarysystems/legal-docs/blob/master/privacy-policy/privacy-policy.txt

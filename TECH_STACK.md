@@ -11,6 +11,22 @@
 - record wildcard search
 - PDF/document upload & OCR (via a queue of some sort)
 
+## Javascript 
+- [https://github.com/smart-on-fhir/client-js](https://github.com/smart-on-fhir/client-js)
+ 
+
+## Golang
+- Workers - https://github.com/gocraft/work
+- Role based authentication - [https://github.com/Permify/permify-gorm](https://github.com/Permify/permify-gorm)
+- https://github.com/google/fhir
+- [https://github.com/flexpa/awesome-fhir](https://github.com/flexpa/awesome-fhir)
+
+
+## Database
+- **Sqlite (chosen)**
+- BerkerleyDB
+- LevelDB / RocksDB are more modern, maintained, better for SSD workload
+
 
 # Fasten Lighthouse
 - Go
