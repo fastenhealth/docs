@@ -130,11 +130,12 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "Funding.md",
+    "img/patient-browser.png",
     "README.md",
     "ARCHITECTURE.md",
-    "patient-browser.png",
-    "bluebutton.png",
-    "auth.png"
+    "img/auth.png",
+    "MARKETING.md",
+    "Funding.md",
+    "img/bluebutton.png"
   ]
 }
