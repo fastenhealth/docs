@@ -18,3 +18,18 @@
 - https://tryten.com/blog/industry-news/8-telemedicine-grant-and-funding-resources-for-health-systems-and-community-care-centers/
 - https://www.cms.gov/About-CMS/Contracting-With-CMS/ContractingGeneralInformation/Grant-Information/CurrentGrantsFundingOpportunities
 - https://www.hrsa.gov/grants/find-funding/HRSA-19-020
+
+
+## SMART/FHIR - Healthcare Applications Directories
+- https://apps.smarthealthit.org/apps/designed_for/patients?sort=name-asc
+- https://github.com/the-commons-project
+- [https://vci.org/](https://vci.org/)
+- [https://bluebutton.cms.gov/](https://bluebutton.cms.gov/)
+- [https://onerecord.com/](https://onerecord.com/)
+- https://github.com/MIT-LCP/mimic-code
+- https://appmarket.epic.com/
+- http://clinfhir.com/packageViewer.html
+- https://cardinalkit.org/
+- https://futo.org/grants/
+- https://fosspost.org/open-source-emr/
+- https://simplifier.net/

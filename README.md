@@ -180,19 +180,6 @@
 - [http://docs.smarthealthit.org/dstu2-examples/](http://docs.smarthealthit.org/dstu2-examples/)
 - [https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md](https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md)
 
-## SMART/FHIR - Healthcare Applications Directories
-- https://apps.smarthealthit.org/apps/designed_for/patients?sort=name-asc
-- https://github.com/the-commons-project
-- [https://vci.org/](https://vci.org/)
-- [https://bluebutton.cms.gov/](https://bluebutton.cms.gov/)
-- [https://onerecord.com/](https://onerecord.com/)
-- https://github.com/MIT-LCP/mimic-code
-- https://appmarket.epic.com/
-- http://clinfhir.com/packageViewer.html
-- https://cardinalkit.org/
-- https://futo.org/grants/
-- https://fosspost.org/open-source-emr/
-- https://simplifier.net/
 - 
 - 
 
