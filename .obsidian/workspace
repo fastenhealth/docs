@@ -7,12 +7,8 @@
         "id": "fa02f46e5fd6eac8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FAQs.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAQs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FAQs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,10 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa02f46e5fd6eac8",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
-    "TECH_STACK.md",
     "FAQs.md",
+    "TECH_STACK.md",
     "README.md",
     "MARKETING.md",
     "FUNDING_GROWTH.md",
