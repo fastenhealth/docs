@@ -83,68 +83,11 @@
 
 ## Medical Sources
 - [https://github.com/flexpa/sero/issues/78](https://github.com/flexpa/sero/issues/78)
-- SANDBOX
-	- https://sandbox.logicahealth.org/fastenhealth/apps
-	- https://confluence.hl7.org/display/FHIR/Public+Test+Servers
-- MANUAL
 
-| **Medical Testing Companies** | Status |
-| --- | --- |
-| Quest Diagnostics	| |
-| Labcorp | |	
-| Abbott Laboratories | |	
-| Siemens Healthineers	| |
-| Danaher | |		
-| Becton Dickinson | |		
-| Bio-Reference Laboratories, Inc. | |		
-| bioMérieux | |		
-| Spectra Laboratories, Inc. | |		
-| Charles River Laboratories | |		
-| ARUP Laboratories | |		
-| Sonic Healthcare Ltd | |		
-| Genomic Health | |		
-| NeoGenomics | |		
-| Alere Inc. | |		
-| CareDx, Inc | |		
-| EXACT Sciences Corporation | |		
-| Fulgent Genetics	 | |	
-| F2 Labs | |		
-| Clarient, Inc. | |		
-| Genoptix Medical Laboratory | |		
-| Sanofi	 | |	
-| DaVita | |		
-| Myriad Genetics | |		
+https://www.cmscompliancetracker.com/?page_id=89
 
-| **Health Insurance Companies** | Status | Version |
-| --- | --- | --- |
-| Humana | [requirements](https://developers.humana.com/account/signup?ReturnUrl=/apis/secured) |
-| UnitedHealth Group | Tax ID/Business number |
-| Anthem | |
-| Cigna | Sandbox account | HL7 - FHIR 4.0.1 |
-| Kaiser Permanente | Account created |
-| Molina Healthcare | |
-| Golden Rule Insurance Company | |
-| [Aetna](https://developerportal.aetna.com/managedcontent/pdfs/Aetna_DeveloperPortal_Handbook_Sandbox.pdf)) [1](https://developerportal.aetna.com/gettingstarted) | BETA - no dev access | v3.1.1: STU 3/ CARIN Blue Button Implementation Guide (v1.0.0)
-| Centene Corporation | |
-| Blue Cross Blue Shield Association | |
-| HealthPartners | |
-| CVS Health Corporation | |
-| Highmark | |
-| HCSC | |
-| Premera Blue Cross | |
-| Blue Shield of California | |
-| WellCare Health Plans | |
-| Independence Blue Cross | |
-| Medical Mutual of Ohio | |
-| Horizon Blue Cross Blue Shield of New Jersey | |
-| UnitedHealthcare Insurance Co | |
-| BlueCross BlueShield of South Carolina | |
-| Mutual of Omaha Insurance Company | |
-| EmblemHealth | |
+https://www.cmscompliancetracker.com/
 
-
-## Logos
-	https://1000logos.net/metlife-logo/
 
 ## Authentication/OAuth
 - https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html
@@ -175,13 +118,6 @@
 > About 33% of respondents favored Epic, whereas 18% decided to renovate their contract with Cerner, and only 7% decided to renovate their contract with Athena Health. This research shows that not all hospitals use Epic; many hospitals also opt for their closest competitors- Cerner, Athena Health and Folio3,
  
 
-## Example Datasets
-- [https://synthetichealth.github.io/synthea/](https://synthetichealth.github.io/synthea/)
-- [http://docs.smarthealthit.org/dstu2-examples/](http://docs.smarthealthit.org/dstu2-examples/)
-- [https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md](https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md)
-
-- 
-- 
 
 
 ![](img/bluebutton.png)
