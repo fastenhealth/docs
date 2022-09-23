@@ -35,11 +35,6 @@
 - 
 
 
-
-# FHIR
-
-
-
 ### Data Sources
 - Electronic Health Records (EHR)
 - Patient Portals
@@ -88,6 +83,11 @@
 -  Income Protection
 
 
+
+# FHIR
+
+
+
 ## Medical Sources
 - [https://github.com/flexpa/sero/issues/78](https://github.com/flexpa/sero/issues/78)
 
@@ -96,15 +96,7 @@ https://www.cmscompliancetracker.com/?page_id=89
 https://www.cmscompliancetracker.com/
 
 
-## Authentication/OAuth
-- https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html
-- [https://usefulangle.com/post/4/javascript-communication-parent-child-window](https://usefulangle.com/post/4/javascript-communication-parent-child-window)
-- [https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html](https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html)
-- [https://auth0.com/docs/flows/concepts/auth-code-pkce](https://auth0.com/docs/flows/concepts/auth-code-pkce)
-- [https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token](https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token)
-- 
 
-![](./img/auth.png)
 
 
 ## Schemas
