@@ -25,6 +25,13 @@
 - https://www.cms.gov/Regulations-and-Guidance/Guidance/Interoperability/index
 - Trusted Health Data Exchange Framework
 	- https://ehrintelligence.com/features/hies-eager-to-join-ambitious-onc-health-data-exchange-framework
+- https://www.cms.gov/files/document/faqs-interoperability-patient-access-and-cop-event-notifications-may-2021.pdf
+- https://www.cms.gov/files/document/cms-9115-f.pdf
+- https://confluence.hl7.org/display/DVP/Da+Vinci+Implementer+Support
+- https://www.cmspatientaccessrule.com/
+- https://data.cms.gov/provider-compliance
+- https://confluence.hl7.org/display/DVP/Da+Vinci+Implementer+Support
+- https://www.cmscompliancetracker.com/?page_id=89
 - 
 
 
@@ -118,6 +125,11 @@ https://www.cmscompliancetracker.com/
 > About 33% of respondents favored Epic, whereas 18% decided to renovate their contract with Cerner, and only 7% decided to renovate their contract with Athena Health. This research shows that not all hospitals use Epic; many hospitals also opt for their closest competitors- Cerner, Athena Health and Folio3,
  
 
+## Bulk Data
+- https://hl7.org/fhir/uv/bulkdata/
+
+Mandatory Elements
+- http://hl7.org/fhir/us/core/StructureDefinition-us-core-patient.html
 
 
 ![](img/bluebutton.png)
