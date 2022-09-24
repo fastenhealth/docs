@@ -4,6 +4,7 @@
 
 
 
+
 ## Grants
 - https://www.healthit.gov/topic/onc-funding-opportunities/leading-edge-acceleration-projects-leap-health-information
 	- $1,000,000
@@ -25,6 +26,10 @@
 - https://www.cms.gov/About-CMS/Contracting-With-CMS/ContractingGeneralInformation/Grant-Information/CurrentGrantsFundingOpportunities
 - https://www.hrsa.gov/grants/find-funding/HRSA-19-020
 
+# Growth
+
+## Share
+- Meetups in SF for HealthCare
 
 ## SMART/FHIR - Healthcare Applications Directories
 - https://apps.smarthealthit.org/apps/designed_for/patients?sort=name-asc
@@ -39,3 +44,5 @@
 - https://futo.org/grants/
 - https://fosspost.org/open-source-emr/
 - https://simplifier.net/
+
+
