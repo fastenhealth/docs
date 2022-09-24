@@ -1,4 +1,10 @@
-# Grants
+# Monetization Strategies
+
+## 
+
+
+
+## Grants
 - https://www.healthit.gov/topic/onc-funding-opportunities/leading-edge-acceleration-projects-leap-health-information
 	- $1,000,000
 	- Award Floor: $100,000
