@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
+    "CLA.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "README.md",
     "UI_UX.md",
     "MARKETING.md",
     "MONETIZATION_GROWTH.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "TECH_STACK.md",
     "AUTHENTICATION.md",
     "FAQs.md",
-    "Sources.csv.md",
-    "img/patient-browser.png"
+    "Sources.csv.md"
   ]
 }
