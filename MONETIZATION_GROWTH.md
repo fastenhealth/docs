@@ -2,7 +2,7 @@
 
 ## 
 
-> Originally from /u/Kairos8134 's helpful Reddit post
+> Originally from /u/Kairos8134 's helpful [Reddit comment](https://www.reddit.com/r/selfhosted/comments/xj9rx7/introducing_fasten_a_selfhosted_personal/ip78dhr/)
 
 1. Charging for a hosted service while licensing code using a source-available now / open source later license such as the BSL to limit commercial competition (has a non-commercial clause but reverts to an open source license after a preset period of time) such as [the one used by ZeroTier](https://github.com/zerotier/ZeroTierOne/blob/master/LICENSE.txt).  
 	- **[PRO]** - Hosted service, every customer would be "paid". 
@@ -24,12 +24,23 @@
 	- **[CON]** - Depends on Sponsors to keep the project alive
 
 4. The [HomeAssistant model](https://www.nabucasa.com/pricing/) of charging for a hosted service which manages paid connections to commercial entities to provide the service without the hassle of user setup (in the case of Nabu Casa, things like Google Assistant integration)
+	- **[PRO]** - Hosted service, every customer would be "paid". 
+	- **[PRO]** - Agreements with Healthcare providers would be clearer
+	- **[CON]** - Have to manage our own infrastructure
+	- **[CON]** - Compliance
+	- **[CON]** - Users have to Trust us 
 
+5. Open source the project, charge for pre-built artifacts
+	- **[PRO]** - Open source, users get every feature 
+	- **[PRO]** - Trust - Users who don't trust us can build their own 
+	- **[CON]** - Have to manage our own distribution system
 
-5. Open source the project, charge for distributables 
-
-6. Cripple-ware - Opensource the self-hosted application, close source the authentication gateway. If you want to communicate with it, you need a license. 
-
+6. Cripple-ware - Opensource but unusable without a license, because of Authentication Gateway
+	- **[PRO]** - Open source, users get every feature 
+	- **[PRO]** - Trust - Users who don't trust us can build their own 
+	- **[PRO]** - every customer would be "paid" 
+	- **[CON]** - Have to manage our own licensing distribution system
+	- **[CON]** - User's cant do much without Gateway access (true for all other models as well)
 
 
 ## Grants
