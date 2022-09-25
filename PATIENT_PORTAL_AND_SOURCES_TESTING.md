@@ -23,6 +23,10 @@
 
 
 http://hl7.org/fhir/us/davinci-pdex/index.html
+https://github.com/Open-Health-Manager/standard-patient-health-record-ig
+https://open-health-manager.github.io/standard-patient-health-record-ig/
+
+
 https://launch.smarthealthit.org/?auth_error=&fhir_version_2=r4&iss=&launch_pt=1&launch_url=&patient=&prov_skip_auth=1&provider=&pt_skip_auth=1&public_key=&sde=&token_lifetime=15&user_pt=
 
 
