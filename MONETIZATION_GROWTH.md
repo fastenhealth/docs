@@ -28,6 +28,8 @@
 
 5. Open source the project, charge for distributables 
 
+6. Cripple-ware - Opensource the self-hosted application, close source the authentication gateway. If you want to communicate with it, you need a license. 
+
 
 
 ## Grants
