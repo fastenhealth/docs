@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CLA.md",
+            "file": "UI_UX.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLA.md",
+                "file": "UI_UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLA.md",
+                "file": "UI_UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLA.md"
+                "file": "UI_UX.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
+    "CONTRIBUTORS.md",
     "README.md",
     "CLA.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
@@ -138,7 +139,6 @@
     "MONETIZATION_GROWTH.md",
     "TECH_STACK.md",
     "AUTHENTICATION.md",
-    "FAQs.md",
-    "Sources.csv.md"
+    "FAQs.md"
   ]
 }
