@@ -88,15 +88,6 @@
 
 
 
-## Medical Sources
-- [https://github.com/flexpa/sero/issues/78](https://github.com/flexpa/sero/issues/78)
-
-https://www.cmscompliancetracker.com/?page_id=89
-
-https://www.cmscompliancetracker.com/
-
-
-
 
 
 ## Schemas
