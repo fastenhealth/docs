@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MONETIZATION_GROWTH.md",
+            "file": "MARKETING.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MONETIZATION_GROWTH.md",
+                "file": "MARKETING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MONETIZATION_GROWTH.md",
+                "file": "MARKETING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MONETIZATION_GROWTH.md"
+                "file": "MARKETING.md"
               }
             }
           }
@@ -130,11 +130,11 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "SOURCES_TESTING.md",
-    "README.md",
     "MONETIZATION_GROWTH.md",
-    "MARKETING.md",
+    "README.md",
+    "SOURCES_TESTING.md",
     "TECH_STACK.md",
+    "MARKETING.md",
     "FAQs.md",
     "AUTHENTICATION.md",
     "Sources.csv.md",

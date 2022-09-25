@@ -8,9 +8,21 @@
 - https://www.cmscompliancetracker.com/?page_id=89
 - [https://github.com/flexpa/sero/issues/78](https://github.com/flexpa/sero/issues/78)
 - https://www.cmscompliancetracker.com/
+- https://www.cloverhealth.com/en/developers
+- https://www.alignmenthealth.com/api
+- https://touchstone.aegis.net/touchstone/
+
+
+
 
 ## Example Datasets / Synthetic Data
 - [https://synthetichealth.github.io/synthea/](https://synthetichealth.github.io/synthea/)
 - [http://docs.smarthealthit.org/dstu2-examples/](http://docs.smarthealthit.org/dstu2-examples/)
 - [https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md](https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md)
+
+
+
+http://hl7.org/fhir/us/davinci-pdex/index.html
+https://launch.smarthealthit.org/?auth_error=&fhir_version_2=r4&iss=&launch_pt=1&launch_url=&patient=&prov_skip_auth=1&provider=&pt_skip_auth=1&public_key=&sde=&token_lifetime=15&user_pt=
+
 
