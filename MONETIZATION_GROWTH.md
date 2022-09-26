@@ -42,6 +42,13 @@
 	- **[CON]** - Have to manage our own licensing distribution system
 	- **[CON]** - User's cant do much without Gateway access (true for all other models as well)
 
+7. Source Available - on purchase source code is available to users
+	- **[PRO]** - users get every feature 
+	- **[PRO]** - Trust - Users who don't trust us can build their own 
+	- **[PRO]** - every customer would be "paid" 
+	- **[CON]** - community of OS users cannot contribute fixes/providers. 
+
+
 
 ## Grants
 - https://www.healthit.gov/topic/onc-funding-opportunities/leading-edge-acceleration-projects-leap-health-information
