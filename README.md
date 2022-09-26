@@ -20,7 +20,7 @@ Here's a couple of screenshots that'll give you an idea of what it looks like:
 
 [Fasten Screenshots](https://imgur.com/a/vfgojBD)
 
-![./img/screenshots/3.callback.png]
+![](./img/screenshots/2.connect.png)
 
 
 
