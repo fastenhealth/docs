@@ -34,7 +34,7 @@ You can login to this test user with the following credentials:
 - **Username:** `test@test.com`
 - **Password:** `testtest`
 
-> You can also create a new account using the [Create an Account](http://localhost:9090/web/auth/signup) link on the sign-in page.
+> You can also create a new account using the [Create an Account](http://localhost:9090/web/auth/signup) link on the sign-in page. See `Connecting a new Source` below for credentials you can use to connect to healthcare providers yourself. 
 
 ### Dashboard
 
