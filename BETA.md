@@ -52,7 +52,7 @@ To do so, you'll need to use a Sandbox user and password from the table below.
 | AthenaHealth | Username: `phrtest_preview@mailinator.com` <br>Password: `Password1` | [test accounts](https://docs.athenahealth.com/api/guides/onboarding-overview)
 | Medicare | Username: `BBUser00000` <br>Password: `PW00000!` | |
 | CareEvolution | Username: `CEPatient` <br>Password: `CEPatient2018` | [test accounts](https://fhir.careevolution.com/TestPatientAccounts.html) |
-| Cerner | Username: `nancysmart` <br>Password: `Cerner01` | |
+| Cerner | Username: `nancysmart` <br>Password: `Cerner01` | [test accounts](https://docs.google.com/document/d/10RnVyF1etl_17pyCyK96tyhUWRbrTyEcqpwzW-Z-Ybs/edit)|
 | Cigna | Username: `syntheticuser05` <br>Password: `5ynthU5er5` | |
 | Epic | Username: `fhircamila` <br>Password: `epicepic1` | [test accounts](https://fhir.epic.com/Documentation?docId=testpatients)|
 | HealthIT | Username: `demouser` <br>Password: `Demouser1!` | |
