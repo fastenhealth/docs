@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BETA.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 248.5
   },
   "right": {
     "id": "58178119e53f4ea1",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BETA.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BETA.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BETA.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "BETA.md",
-    "MONETIZATION_GROWTH.md",
-    "MARKETING.md",
-    "FAQs.md",
-    "CONTRIBUTORS.md",
-    "CLA.md",
-    "AUTHENTICATION.md",
+    "UNORGANIZED.md",
     "README.md",
-    "UI_UX.md"
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "TECH_STACK.md",
+    "MARKETING.md",
+    "MONETIZATION_GROWTH.md",
+    "AUTHENTICATION.md",
+    "BETA.md",
+    "FAQs.md",
+    "CONTRIBUTORS.md"
   ]
 }

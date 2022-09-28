@@ -55,9 +55,6 @@ sequenceDiagram
 The Fasten Lighthouse service acts like a man-in-the-middle, however it only has access to the (temporary) `authroization_code` (not the `code_verifier`). The `authorization_code` is stored in the database temporarily, and returned to the user who can then trade the `authorization_code` **AND** `code_verifier` for an `access_token`.
 
 
-![](./img/auth.png)
-
-
 ## Gin/Angular/JWT
 - https://betterprogramming.pub/how-to-create-a-simple-web-login-using-gin-for-golang-9ac46a5b0f89
 - https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg
