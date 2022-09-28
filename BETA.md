@@ -24,15 +24,15 @@ docker run --rm -p 9090:8080 ghcr.io/fastenhealth/fasten-onprem:sandbox
 
 Next, open a browser to http://localhost:9090
 
-Att his point you'll be redirected to the login page. 
+At this point you'll be redirected to the login page. 
 
 ### Logging In
 
 The Fasten BETA contains a pre-populated database with a test user.
 You can login to this test user with the following credentials:
 
-- **Username:** test@test.com
-- **Password:** testtest
+- **Username:** `test@test.com`
+- **Password:** `testtest`
 
 ### Dashboard
 
