@@ -34,6 +34,8 @@ You can login to this test user with the following credentials:
 - **Username:** `test@test.com`
 - **Password:** `testtest`
 
+> You can also create a new account using the [Create an Account](http://localhost:9090/web/auth/signup) link on the sign-in page.
+
 ### Dashboard
 
 Once you login, you'll be taken to the dashboard. 
