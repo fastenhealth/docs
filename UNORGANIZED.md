@@ -61,7 +61,7 @@
 - Disability
 - Accident
 - Long Term Care
--  Income Protection
+- Income Protection
 
 
 

@@ -73,3 +73,18 @@ Thanks!!
 - [https://docs.smarthealthit.org/](https://docs.smarthealthit.org/)
 - Vaccine records
 - Family history
+
+
+| Data Sources                    | Data Elements                      | Insurance Types |
+|---------------------------------|------------------------------------|-----------------|
+| Electronic Health Records (EHR) | Explanation of benefits            | Dental          |
+| Patient Portals                 | Genotypes & genetic traits         | Vision          |
+| Health Systems                  | Activity                           | Medical         |
+| Hospitals & Doctors             | Sleep                              | Travel          |
+| Pharmacies                      | Meals                              | Prescription    |
+| Wearable Devices                | Healthcare claims                  | Telemedicine    |
+| Health Insurers                 | Immunizations (vaccination status) | Mental Health   |
+| Laboratories                    | Plans of care                      | Gap             |
+|                                 | Narratives                         | Short Term      |
+|                                 | Conditions                         | Hearing         |
+
