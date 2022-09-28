@@ -16,54 +16,6 @@
 - 
 
 
-### Data Sources
-- Electronic Health Records (EHR)
-- Patient Portals
-- Health Systems
-- Hospitals & Doctors
-- Pharmacies
-- Wearable Devices
-- Health Insurers
-- Laboratories
-
-
-### Data Elements
-- Explanation of benefits
-- Genotypes & genetic traits
-- Activity
-- Sleep
-- Meals
-- Healthcare claims
-- Immunizations (vaccination status)
-- Plans of care
-- Narratives
-- Conditions
-- Medications
-- Procedures
-- Encounters
-- Test results
-- Demographics
-- Social history
-- Vitals/observations
-- Organizations
-
-### Insurance Types
-- Dental
-- Vision
-- Medical
-- Travel
-- Prescription
-- Telemedicine
-- Mental Health
-- Gap
-- Short Term
-- Hearing
-- Disability
-- Accident
-- Long Term Care
-- Income Protection
-
-
 
 # FHIR
 
