@@ -45,12 +45,12 @@ You'll
 
 | Source | Credentials |
 | --- | --- |
-| Aetna | Username: `aetnaTestUser3` Password: `FHIRdemo2020` |
-| AthenaHealth | Username: `phrtest_preview@mailinator.com` Password: `Password1` | 
-| Medicare | Username: `BBUser00000` Password: `PW00000!` |
-| CareEvolution | Username: `CEPatient` Password: `CEPatient2018` |
-| Cerner | Username: `nancysmart` Password: `Cerner01` |
-| Cigna | Username: `syntheticuser05` Password: `5ynthU5er5` |
-| Epic | Username: `fhircamila` Password: `epicepic1` |
-| HealthIT | Username: `demouser` Password: `Demouser1!` |
-| Logica | Username: Password: |
+| Aetna | Username: `aetnaTestUser3` <br>Password: `FHIRdemo2020` |
+| AthenaHealth | Username: `phrtest_preview@mailinator.com` <br>Password: `Password1` | 
+| Medicare | Username: `BBUser00000` <br>Password: `PW00000!` |
+| CareEvolution | Username: `CEPatient` <br>Password: `CEPatient2018` |
+| Cerner | Username: `nancysmart` <br>Password: `Cerner01` |
+| Cigna | Username: `syntheticuser05` <br>Password: `5ynthU5er5` |
+| Epic | Username: `fhircamila` <br>Password: `epicepic1` |
+| HealthIT | Username: `demouser` <br>Password: `Demouser1!` |
+| Logica | Username: <br>Password: |
