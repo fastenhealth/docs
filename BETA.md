@@ -42,3 +42,15 @@ Now you can explore the data retrieved from the various healthcare providers.
 
 ### Connecting a new Source
 You'll 
+
+| Source | Credentials |
+| --- | --- |
+| Aetna | Username: `aetnaTestUser3` Password: `FHIRdemo2020` |
+| AthenaHealth | Username: `phrtest_preview@mailinator.com` Password: `Password1` | 
+| Medicare | Username: `BBUser00000` Password: `PW00000!` |
+| CareEvolution | Username: `CEPatient` Password: `CEPatient2018` |
+| Cerner | Username: `nancysmart` Password: `Cerner01` |
+| Cigna | Username: `syntheticuser05` Password: `5ynthU5er5` |
+| Epic | Username: `fhircamila` Password: `epicepic1` |
+| HealthIT | Username: `demouser` Password: `Demouser1!` |
+| Logica | Username: Password: |
