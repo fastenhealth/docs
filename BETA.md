@@ -43,7 +43,8 @@ From here you can explore the data retrieved from the various healthcare provide
 ### Connecting a new Source
 You may want to try (re)connecting a health care provider.
 To do so, you'll need to use a Sandbox user and password from the table below.
-You should not (and cannot) use real credentials to test Fasten. 
+
+> You should not (and cannot) use real credentials to test Fasten. 
 
 | Source | Credentials |
 | --- | --- |
@@ -56,3 +57,13 @@ You should not (and cannot) use real credentials to test Fasten.
 | Epic | Username: `fhircamila` <br>Password: `epicepic1` |
 | HealthIT | Username: `demouser` <br>Password: `Demouser1!` |
 | Logica | Username: <br>Password: |
+
+Some providers (such as Cerner) may take a long time to sync, as their sandbox accounts have lots of test data. Please be patient. 
+
+## Feedback
+
+If you notice any (non-obvious) issues with Fasten, please feel free to open an issue on Github. 
+If you have any ideas or feedback for how to make Fasten better, please also consider opening an issue on Github. 
+
+https://github.com/fastenhealth/docs/issues
+
