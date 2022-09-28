@@ -28,4 +28,17 @@ Att his point you'll be redirected to the login page.
 
 ### Logging In
 
-The Fasten BETA contains a pre-seeded database with 
+The Fasten BETA contains a pre-populated database with a test user.
+You can login to this test user with the following credentials:
+
+**Username:** test@test.com
+**Password:** testtest
+
+### Dashboard
+
+Once you login, you'll be taken to the dashboard. 
+Now you can explore the data retrieved from the various healthcare providers.
+
+
+### Connecting a new Source
+You'll 
