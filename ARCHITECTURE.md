@@ -33,7 +33,7 @@ User->>Healthcare Provider: Attempt connection to Healthcare provider
 Healthcare Provider-->>Fasten Lighthouse: Redirect
 
 loop Wait for temp auth code
-    Fasten Self-Hosted<<->>Fasten Lighthouse: Continously check for auth code
+    Fasten Self-Hosted->>Fasten Lighthouse: Continously check for auth code
 end
 Fasten Self-Hosted-->>Healthcare Provider:Retrieve private healthcare data
 ```
