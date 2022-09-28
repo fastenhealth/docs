@@ -63,7 +63,7 @@ Some providers (such as Cerner) may take a long time to sync, as their sandbox a
 ### Testing Manual Bundle Upload
 
 If you'd like to test the manual bundle upload, you can use data provided by the [Synthea](https://synthetichealth.github.io/synthea-sample-data/downloads/synthea_sample_data_fhir_r4_sep2019.zip) project to test. 
-Just extract the downloaded`zip` file, and upload one of the many `json`  files. 
+Just extract the downloaded `zip` file, and upload one of the many `json`  files. 
 
 
 ## Feedback
