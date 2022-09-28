@@ -34,7 +34,7 @@ I'm still debating the tradeoffs between whole-database encryption vs record enc
 
 ## Will there be a cloud-based offering of Fasten?
 
-I'm hesitant to go down the Cloud/SAAS model since Fasten would have to become HIPAA compliant.
+I'm hesitant to go down the Cloud/SAAS model since Fasten would become a huge target, and would need to become HIPAA compliant.
 
 I've been working on complaint software/infrastructure (PCI, HIPAA, SOC, FedRAMP) for most of my career and ideally I'd like to keep Fasten non-compliant -- with no access to medical/customer data.
 
