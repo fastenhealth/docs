@@ -74,7 +74,8 @@ If you have any ideas or feedback for how to make Fasten better, please also con
 https://github.com/fastenhealth/docs/issues
 
 ### Discord
-Please consider joining the Fasten Discord as well. I'll be keeping an eye on it, and answering questions. 
+Please consider joining the Fasten Discord as well. I'll be keeping an eye on it, and answering questions as they come up.
 
 https://discord.gg/2bEy6Y2d
+
 
