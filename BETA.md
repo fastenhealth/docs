@@ -49,12 +49,12 @@ To do so, you'll need to use a Sandbox user and password from the table below.
 | Source | Credentials | Link |
 | --- | --- | ---  | 
 | Aetna | Username: `aetnaTestUser3` <br>Password: `FHIRdemo2020` | |
-| AthenaHealth | Username: `phrtest_preview@mailinator.com` <br>Password: `Password1` | [creds](https://docs.athenahealth.com/api/guides/onboarding-overview)
+| AthenaHealth | Username: `phrtest_preview@mailinator.com` <br>Password: `Password1` | [test accounts](https://docs.athenahealth.com/api/guides/onboarding-overview)
 | Medicare | Username: `BBUser00000` <br>Password: `PW00000!` | |
 | CareEvolution | Username: `CEPatient` <br>Password: `CEPatient2018` | |
 | Cerner | Username: `nancysmart` <br>Password: `Cerner01` | |
 | Cigna | Username: `syntheticuser05` <br>Password: `5ynthU5er5` | |
-| Epic | Username: `fhircamila` <br>Password: `epicepic1` | |
+| Epic | Username: `fhircamila` <br>Password: `epicepic1` | [test accounts](https://fhir.epic.com/Documentation?docId=testpatients)|
 | HealthIT | Username: `demouser` <br>Password: `Demouser1!` | |
 | Logica | Username: <br>Password: | |
 
