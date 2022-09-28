@@ -60,6 +60,12 @@ To do so, you'll need to use a Sandbox user and password from the table below.
 
 Some providers (such as Cerner) may take a long time to sync, as their sandbox accounts have lots of test data. Please be patient. 
 
+### Testing Manual Bundle Upload
+
+If you'd like to test the manual bundle upload, you can use data provided by the [Synthea](https://synthetichealth.github.io/synthea-sample-data/downloads/synthea_sample_data_fhir_r4_sep2019.zip) project to test. 
+Just extract the downloaded`zip` file, and upload one of the many `json`  files. 
+
+
 ## Feedback
 
 If you notice any (non-obvious) issues with Fasten, please feel free to open an issue on Github. 
