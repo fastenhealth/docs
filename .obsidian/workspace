@@ -130,13 +130,13 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "CONTRIBUTORS.md",
-    "FAQs.md",
     "CLA.md",
     "BETA.md",
     "AUTHENTICATION.md",
-    "README.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "CONTRIBUTORS.md",
+    "FAQs.md",
+    "README.md",
     "UI_UX.md",
     "TECH_STACK.md",
     "MONETIZATION_GROWTH.md"
