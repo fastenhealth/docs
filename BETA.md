@@ -46,9 +46,9 @@ To do so, you'll need to use a Sandbox user and password from the table below.
 
 > You should not (and cannot) use real credentials to test Fasten. 
 
-| Source | Credentials |
-| --- | --- |
-| Aetna | Username: `aetnaTestUser3` <br>Password: `FHIRdemo2020` |
+| Source | Credentials | Link |
+| --- | --- | ---  | 
+| Aetna | Username: `aetnaTestUser3` <br>Password: `FHIRdemo2020` | 
 | AthenaHealth | Username: `phrtest_preview@mailinator.com` <br>Password: `Password1` | 
 | Medicare | Username: `BBUser00000` <br>Password: `PW00000!` |
 | CareEvolution | Username: `CEPatient` <br>Password: `CEPatient2018` |
@@ -66,4 +66,9 @@ If you notice any (non-obvious) issues with Fasten, please feel free to open an 
 If you have any ideas or feedback for how to make Fasten better, please also consider opening an issue on Github. 
 
 https://github.com/fastenhealth/docs/issues
+
+### Discord
+Please consider joining the Fasten Discord as well. I'll be keeping an eye on it, and answering questions. 
+
+https://discord.gg/2bEy6Y2d
 
