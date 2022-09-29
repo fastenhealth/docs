@@ -3,7 +3,7 @@
 
 
 
-Jason Kulatunga Individual Contributor License Agreement
+# Jason Kulatunga Individual Contributor License Agreement
 
 In order to clarify the intellectual property license granted with Contributions from any person or entity, Jason Kulatunga must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of Jason Kulatunga; it does not change your rights to use your own Contributions for any other purpose.
 
@@ -25,7 +25,11 @@ Subject to the terms and conditions of this Agreement, You hereby grant to Jason
 
 You represent that you are legally entitled to grant the above license. If your employer(s) has rights to intellectual property that you create that includes your Contributions, you represent that you have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions to Jason Kulatunga, or that your employer has executed a separate Corporate CLA with Jason Kulatunga.
 
+You agree that this agreement is entered into subject to the laws of the United States of America and the State of California, and you further agree to personal jurisdiction and venue in the courts thereof.
+
 ## Contributions.
+
+You acknowledge that you have not been promised and unless specifically stated elsewhere in writing do not expect to receive anything of value for Your Contributions even in the event that the contribution is used in a commercial manner.
 
 You represent that each of Your Contributions is Your original creation. You represent that Your Contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of Your Contributions.
 
@@ -34,3 +38,5 @@ You are not expected to provide support for Your Contributions, except to the ex
 Should You wish to submit work that is not Your original creation, You may submit it to Jason Kulatunga separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
 
 You agree to notify Jason Kulatunga of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
+
+You agree that Jason Kulatunga may keep electronic copies of the documents and these electronic copies may be considered as originals.
