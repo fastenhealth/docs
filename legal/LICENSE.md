@@ -51,8 +51,7 @@
   - **[PRO]** - users get every feature
   - **[PRO]** - Trust - Users who don't trust us can build their own
   - **[PRO]** - every customer would be "paid"
-  - **[CON]** - community of OS users cannot contribute fixes/providers. 
+  - **[CON]** - community of OS users cannot contribute fixes/providers.
 
-
-
-
+8. Common Clause
+  - https://commonsclause.com/
