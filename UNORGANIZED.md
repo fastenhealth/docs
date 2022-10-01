@@ -58,3 +58,67 @@ Mandatory Elements
 - https://github.com/microsoft/FHIR-Converter/
 
 
+
+
+
+
+- Plaid for health care
+	- https://www.humanapi.co/
+
+https://www.humanapi.co/clinical-data-network?utm_content=207034898&utm_medium=social&utm_source=twitter&hss_channel=tw-826261561
+
+
+https://www.humanapi.co/clinical-data-network
+
+
+https://www.reddit.com/r/medicalschool/comments/9lc1rf/im_a_physician_at_stanford_university_and_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+Lighthouse
+
+GitHub timeline
+Encryption at rest
+User accounts
+
+
+https://hbr.org/2022/03/standardized-apis-could-finally-make-it-easy-to-exchange-health-records
+
+
+A few examples:
+* The CARIN Alliance (Creating Access to Realtime Information Now) focuses on consumers’ access to and control of their health information.
+* CodeX is addressing the needs of cancer research, such as conducting clinical trials using “real-world data” gathered from EHRs, and matching patients with clinical trials.
+* Da Vinci’s efforts focus on interactions between health care providers and health plans: prior authorization, confirming a patient’s health insurance coverage, and accessing information about the price of care.
+* Helios, formed in fall 2021, is focusing on public health use cases, including reporting the incidence of diseases such as Covid-19, influenza, and sexually transmitted disease.
+
+
+https://www.hl7.org/about/fhir-accelerator/
+
+
+
+
+https://www.chcf.org/program/chcf-innovation-fund/
+
+
+
+
+https://www2.ccwdata.org/documents/10280/19002256/medicare-claims-maturity.pdf
+
+
+
+
+https://twitter.com/search?q=Argonaut%20FHIR&src=typed_query&f=live
+
+Argonaut & FHIR - search terms
+
+
+
+https://digital.ahrq.gov/ahrq-funded-projects/search?search=personal+health+record&sort_by=field_fp_dates&sort_order=DESC
+
+
+# hipaa policies
+
+
+
+# HIPAA compliance
+https://news.ycombinator.com/item?id=8347418
+
+- 

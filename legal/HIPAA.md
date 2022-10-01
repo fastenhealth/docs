@@ -1,3 +1,11 @@
+# Policy Files
+
+- https://github.com/HealthDecision/policies-ref-fork
+- https://github.com/lumahealthhq/policy
+- https://github.com/MolecularMatch/training
+- https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/special/healthit/phrs.pdf
+
+
 # Does Fasten Self-hosted need to be HIPAA Compliant
 
 Hey /r/healthit,
