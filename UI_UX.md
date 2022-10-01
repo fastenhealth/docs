@@ -1,3 +1,6 @@
+# Patient Portal Design Competitions
+- http://healthdesignchallenge.com/
+
 
 # Application
 ## UX
@@ -18,16 +21,11 @@
 - https://github.com/synthetichealth/fhir-visualizers/blob/master/src/index.js
 
 
-
-
 ## ADMIN Dashboard
 - https://github.com/smart-on-fhir/fhir-server-dashboard
-- 
 
 ## Themes
 - https://patient-browser.smarthealthit.org/index.html#/
-
-
 
 ## SMART Launch Flow
 - https://github.com/flexpa/sero/discussions/64
