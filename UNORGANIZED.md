@@ -13,13 +13,10 @@
 - https://data.cms.gov/provider-compliance
 - https://confluence.hl7.org/display/DVP/Da+Vinci+Implementer+Support
 - https://www.cmscompliancetracker.com/?page_id=89
-- 
-
-
 
 # FHIR
 
-
+https://fhir.meditech.com/explorer/topic/USCore-patient-health-data
 
 
 

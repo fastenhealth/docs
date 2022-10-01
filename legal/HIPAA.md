@@ -58,6 +58,26 @@ HIPAA as either a covered entity or business associate.
 - Does the consumer control all decisions about whether to transmit her data to a third party,  such as to her health care provider or health plan?
 - Do you have no relationship with that third party entity (other than an interoperability relationship)?
 
+---
+If you are specifically looking for your obligations under 21st Century Cures, you are probably looking for information about Information Blocking which is overseen by the Office of the National Coordinator of Health Information Technology (ONC). There is more information here:
+
+https://www.healthit.gov/topic/information-blocking
+
+The newer, better, nicer HHS is very cooperative with industry stakeholders and you can reach out to them directly once you've attempted to digest the available published materials. Don't be surprised if you get answers such as "OCR is responsible for enforcing that regulation and we can't speak to what they would do."
+
+Edit: Added ( ) for clarity.
+
+> https://www.reddit.com/r/healthIT/comments/xs3bk5/hipaa_compliance_requirements_for_3rd_party/iqinzxw/
+
+---
+
+If you haven't found a system to partner with, do that, you'll get more than you want to know about how to secure this.
+
+Also, if you haven't started looking at the trusted exchange framework and common agreement, I suggest you look at that to better facilitate gathering this information. It will be a few more years before the FHIR integration roadmap is implemented. More will be announced around this framework towards the end of the year.
+
+At the end of the day, while there is a need for something like this, I don't know if you fully understand the complexities involved in getting this kind of information. It is a huge clusterfuck of crazy. This is why a lot of healthcare start-ups struggle with this industry is that you have to deal with data quality and silos that come with decades of baggage.
+
+> https://www.reddit.com/r/hipaa/comments/xs349e/hipaa_compliance_requirements_for_3rd_party/iqj67sn/
 
 # Further Reading
 
