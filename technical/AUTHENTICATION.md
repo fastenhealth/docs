@@ -68,15 +68,30 @@ The Fasten Lighthouse service acts like a man-in-the-middle, however it only has
 
 
 
+# Full Redirect Based flow (no popups)
+This is a potential future authentication flow, primarily to make sure that mobile apps are able to work correctly. 
+
+
 ```mermaid
 sequenceDiagram
     participant User
-    participant Fasten App
+    participant Browser
+    participant Fasten Server
+    participant Fasten SPA
     participant Lighthouse
-    participant Medical Record Source
+    participant Healthcare Provider
 	
 
-    User->>Fasten App: 1. Click login link.
+    User->>Browser: 1. Request Fasten App
+    Browser->>Fasten Server: 2. Request Fasten App
+    Fasten Server->>Browser: 3. Respond with Fasten SPA
+
+	User->>Fasten SPA: 4. Click "Connect Healthcare Provider"
+	Fasten SPA->>Browser: 5. Generate & Store PKCE Challenge & Validator 
+	Browser->>Lighthouse: 6. Redirect to Lighthouse. Store Referrer URL (Fasten Server) in session storage
+	Lighthouse->>
+
+	
 
 	Fasten App->>Lighthouse: 2. Request Source configuration information
 
