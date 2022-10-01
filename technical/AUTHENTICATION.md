@@ -100,7 +100,7 @@ sequenceDiagram
 	Healthcare Provider->>Fasten SPA: 15 Validate code verifier & challenge, respond with id, access and refresh tokens. 
     Fasten SPA->>Fasten Server: 16. Store id, access & refresh token in database
     
-    loop async-request-patient-data
+    loop Async (Daily) Request Patient Data
     Fasten Server->>Healthcare Provider: 17. Update access token using refresh token, request Electonic medical records for patient.
     Healthcare Provider->>Fasten Server: 18. Store records in database. 
     end
