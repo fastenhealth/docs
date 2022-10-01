@@ -68,7 +68,7 @@ The Fasten Lighthouse service acts like a man-in-the-middle, however it only has
 
 
 
-# Full Redirect Based flow (no popups)
+# Self-Hosted Redirect Based flow
 This is a potential future authentication flow, primarily to make sure that mobile apps are able to work correctly. 
 
 
@@ -103,6 +103,55 @@ sequenceDiagram
     loop Async (Daily) Request Patient Data
     Fasten Server->>Healthcare Provider: 17. Update access token using refresh token, request Electonic medical records for patient.
     Healthcare Provider->>Fasten Server: 18. Store records in database. 
+    end
+
+```
+
+
+# Cloud Redirect Based flow
+This is a potential future authentication flow, primarily to ensure that patient data can be cloud accessible, with client-side encryption (Server cannot decrypt)
+
+
+```mermaid
+sequenceDiagram
+	participant Hello IdP
+    participant User
+    participant Browser
+    participant Fasten Cloud Server
+    participant Fasten Storage
+    participant Fasten SPA
+    participant Lighthouse
+    participant Healthcare Provider
+	
+
+    User->>Browser: 1. Request Fasten App
+    Browser->>Fasten Cloud Server: 2. Request Fasten App
+    Fasten Cloud Server->>Browser: 3. Respond with Fasten SPA
+	User->>Fasten SPA: 4. Click "Login with Hello"
+	Browser->>Hello IdP: 5. Redirect to Hello service
+	User->>Hello IdP: 6. User authenticates
+	Browser->>Fasten SPA: 7. Redirect to Fasten SPA (from Cache) with auth metadata & ID token.
+	Fasten SPA->>Browser: 8. Store ID token in browser session/cookie
+	
+	User->>Fasten SPA: 9. Click "Connect Healthcare Provider"
+	Fasten SPA->>Browser: 10. Generate & Store State, Code Challenge & Validator 
+	Browser->>Lighthouse: 11. Redirect to Lighthouse. 
+	Lighthouse->>Browser: 12. Store Referrer URL (Fasten Cloud Server) in session storage. 
+	Browser->>Healthcare Provider: 13. Redirect to Healthcare Provider & Login prompt 
+	User->>Browser: 14. Enter Healthcare provider credentials & complete auth flow.
+	Browser->>Lighthouse: 15. Redirect to Lighthouse service (callback url). Store Authorization Code in DB. Display "Connection Complete" URL, which reads Referrer URL from session storage.
+	Browser->>Fasten SPA: 16. Redirect to Fasten SPA (from Cache)
+	Fasten SPA->>Lighthouse: 17. Request Authorization Code via State parameter
+	Lighthouse->>Fasten SPA: 18. Respond with Authorization Code
+	Fasten SPA->>Healthcare Provider: 19. Request OAuth tokens using authorization code, code verifier & challenge
+	Healthcare Provider->>Fasten SPA: 20 Validate code verifier & challenge, respond with id, access and refresh tokens. 
+    Fasten SPA->>Fasten Cloud Server: 21. SPA Encrypts the access & refresh token with Hello ID token, then transmits both with hashed ID token.
+    Fasten Cloud Server->>Fasten Storage: 22. Fasten Cloud Server encrypts data (again) with hashed Hello ID + salt, then stores in Storage.
+    
+    loop Client-Side Encryption & Submit Medical Records
+	Fasten SPA->>Healthcare Provider: 23. Update access token using refresh token, request Electonic medical records for patient.
+	Fasten SPA->>Fasten Cloud Server: 24. SPA Encrypts the EMR records with Hello ID token, then transmits records with hashed ID token.
+    Fasten Cloud Server->>Fasten Storage: 25. Fasten Cloud Server encrypts data (again) with hashed Hello ID + salt, then stores in Storage
     end
 
 ```
