@@ -1,5 +1,5 @@
 > Note, this CLA is based off of [Google's Individual CLA](https://cla.developers.google.com/about/google-individual) 
-> The final version will be available at a different location
+> The final version will be [available at a different location](https://gist.github.com/AnalogJ/522e9edeea8dcb5eafdbf6cb1487cbed)
 
 
 

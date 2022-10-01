@@ -11,6 +11,7 @@ Most of us are aware that HIPAA ensures that our medical data stays private and 
 
 > The Privacy Rule, a Federal law, gives you rights over your health information and sets rules and limits on who can look at and receive your health information. The Privacy Rule applies to all forms of individuals' protected health information, whether electronic, written, or oral. The Security Rule is a Federal law that requires security for health information in electronic form.
 
+> See [lega/HIPAA.md](./legal/HIPAA.md) for more information. 
 
 ## Can I manually add my Medical data?
 
