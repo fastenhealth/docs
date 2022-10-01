@@ -87,36 +87,22 @@ sequenceDiagram
     Fasten Server->>Browser: 3. Respond with Fasten SPA
 
 	User->>Fasten SPA: 4. Click "Connect Healthcare Provider"
-	Fasten SPA->>Browser: 5. Generate & Store PKCE Challenge & Validator 
-	Browser->>Lighthouse: 6. Redirect to Lighthouse. Store Referrer URL (Fasten Server) in session storage
-	Lighthouse->>
-
-	
-
-	Fasten App->>Lighthouse: 2. Request Source configuration information
-
-    loop challenge
-    Fasten App->Fasten App: 3. Generate code verifier and code challenge.
-    end
-    
-    Fasten App->>Medical Record Source: 4. Authorization code request and code challenge to authorize.
-    Medical Record Source->>User: 5. Redirect to login/authorization prompt.
-
-	loop wait-for-code
-    Fasten App->Lighthouse: 6. Check if authorization code available
-    end
-
-    User->>Medical Record Source: 7. Authenticate and consent
-    Medical Record Source->>Lighthouse: 8. Authorization code stored.
-    Fasten App->>Medical Record Source: 9. Authorization code and code verifier sent for OAuth token.
+	Fasten SPA->>Browser: 5. Generate & Store State, Code Challenge & Validator 
+	Browser->>Lighthouse: 6. Redirect to Lighthouse. 
+	Lighthouse->>Browser: 7. Store Referrer URL (Fasten Server) in session storage. 
+	Browser->>Healthcare Provider: 8. Redirect to Healthcare Provider & Login prompt 
+	User->>Browser: 9. Enter Healthcare provider credentials & complete auth flow.
+	Browser->>Lighthouse: 10. Redirect to Lighthouse service (callback url). Store Authorization Code in DB. Display "Connection Complete" URL, which reads Referrer URL from session storage.
+	Browser->>Fasten SPA: 11. Redirect to Fasten SPA (from Cache)
+	Fasten SPA->>Lighthouse: 12. Request Authorization Code via State parameter
+	Lighthouse->>Fasten SPA: 13. Respond with Authorization Code
+	Fasten SPA->>Healthcare Provider: 14. Request OAuth tokens using authorization code, code verifier & challenge
+	Healthcare Provider->>Fasten SPA: 15 Validate code verifier & challenge, respond with id, access and refresh tokens. 
+    Fasten SPA->>Fasten Server: 16. Store id, access & refresh token in database
     
     loop validate
-    Medical Record Source->Medical Record Source: 10. Validate code verifier and challenge.
+    Fasten Server->>Healthcare Provider: 17. Update access token using refresh token, request Electonic medical records for patient.
+    Healthcare Provider->>Fasten Server: 18. Store records in database. 
     end
-    
-    Medical Record Source->>User: 11. ID token, access token and, optionally, refresh token
-    User->>Fasten App: 12. Store access token and request patient medical records.
-    Fasten App->>Medical Record Source: 13. Electronic medical records retrieved
-    Fasten App->>User: 14. Response.
 
 ```
