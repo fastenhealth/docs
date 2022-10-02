@@ -119,3 +119,11 @@ https://digital.ahrq.gov/ahrq-funded-projects/search?search=personal+health+reco
 https://news.ycombinator.com/item?id=8347418
 
 - 
+
+
+# RESEARCH
+
+PWA
+- Personal Web App (SPA converted)
+- find technical limits
+- 
