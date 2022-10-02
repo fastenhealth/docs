@@ -26,6 +26,8 @@
 - **Sqlite (chosen)**
 - BerkerleyDB
 - LevelDB / RocksDB are more modern, maintained, better for SSD workload
+- RxDB + CouchDB - https://rxdb.info/
+
 
 
 # Fasten Lighthouse
