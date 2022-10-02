@@ -126,4 +126,8 @@ https://news.ycombinator.com/item?id=8347418
 PWA
 - Personal Web App (SPA converted)
 - find technical limits
-- 
+
+
+
+# analytics
+- PLausable - https://plausible.io/
