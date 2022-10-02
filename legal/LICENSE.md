@@ -1,19 +1,20 @@
 # LICENSE
 
 ## Top Choice
+- https://polyformproject.org/licenses/
+	- Positive - https://heathermeeker.com/2018/12/15/source-available-scorecard/
+	- Positive - Founder - https://writing.kemitchell.com/2020/05/14/PolyForm-Defensive-Perimenter 
 
+## Other Source Available Licenses:
 - [MariaDB BSL1.1 license](https://mariadb.com/bsl-faq-adopting/#osl) - used by [ZeroTier](https://github.com/zerotier/ZeroTierOne/blob/master/LICENSE.txt)
 	- seems like a way to "safely" release the code, while ensuring that the code is fully open source if the company doesn't go anywhere.  
 	- concerns:
 	- > The BSL and Fair.io licenses are different ways of letting people see your source while limiting business uses. The problem with BSL is the ambiguity around the context of "non-production" use. This term has some general understanding in the context of databases, but what does that mean for an application like this? If it uses real data does that mean it is production? In which case, that would probably limit non-commercial use by individuals. If you allow people to use it with live data, what makes commercial use with the same data production? In a license like this where the pivotal language can be interpreted in different ways, then you may be required to take steps to enforce the language consistently or lose the ability to enforce it in a way that you want. In other words, you'd be forced to either take legal action or risk your inaction being held against you later. You could say "production commercial use", but then you are making your own license, which is legally fine as far as being enforceable, but makes it harder to convey what the license is to people.
-
-## Other Source Available Licenses:
+- Fair.io
+	- Negative - https://writing.kemitchell.com/2016/03/30/First-Read-of-the-Fair-Source-License
 - https://commonsclause.com/
 - Sustainable Use License - https://github.com/n8n-io/n8n/blob/master/LICENSE.md
 - https://www.elastic.co/licensing/elastic-license/
-- https://polyformproject.org/licenses/
-	- https://heathermeeker.com/2018/12/15/source-available-scorecard/
-- 
 
 
 
