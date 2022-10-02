@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "legal/LICENSE.md",
+            "file": "security/REFERENCES.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/LICENSE.md",
+                "file": "security/REFERENCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/LICENSE.md",
+                "file": "security/REFERENCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/LICENSE.md"
+                "file": "security/REFERENCES.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
-    "ROADMAP.md",
-    "UNORGANIZED.md",
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/HIPAA.md",
     "legal/CORP.md",
-    "FEATURES.md",
-    "LANDING_PAGE.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "README.md",
-    "legal/HIPAA.md"
+    "legal/CLA.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "technical/TECH_STACK.md",
+    "technical/AUTHENTICATION.md",
+    "technical/ARCHITECTURE.md"
   ]
 }
