@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technical/AUTHENTICATION.md",
+            "file": "ROADMAP.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/AUTHENTICATION.md",
+                "file": "ROADMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/AUTHENTICATION.md",
+                "file": "ROADMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/AUTHENTICATION.md"
+                "file": "ROADMAP.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "LANDING_PAGE.md",
-    "FAQs.md",
-    "CONTRIBUTORS.md",
-    "img/screenshots/1.signup.png",
-    "img/screenshots/2.connect.png",
-    "img/screenshots/3.callback.png",
-    "img/bluebutton.png",
-    "img/auth.png",
-    "img/fred-resource-viewer.png",
-    "README.md"
+    "legal/HIPAA.md",
+    "ROADMAP.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "legal/INTELLECTUAL_PROPERTY.md.md",
+    "legal/PRIVACY_POLICY.md",
+    "security/REFERENCES.md",
+    "legal/CORP.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/CLA.md",
+    "legal/LICENSE.md"
   ]
 }

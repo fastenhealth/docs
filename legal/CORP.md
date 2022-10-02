@@ -5,5 +5,13 @@
   - Stripe Atlas's registration fees seem pretty reasonable. 
 
 ## Alternatives
-
 - Clerky
+
+
+# LLC vs Corp
+### LLC
+- 
+
+### C-Corp
+
+
