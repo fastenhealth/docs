@@ -5,6 +5,14 @@
 - [MariaDB BSL1.1 license](https://mariadb.com/bsl-faq-adopting/#osl) - used by [ZeroTier](https://github.com/zerotier/ZeroTierOne/blob/master/LICENSE.txt)
   - seems like a way to "safely" release the code, while ensuring that the code is fully open source if the company doesn't go anywhere.  
 
+## Other Source Available Licenses:
+- https://commonsclause.com/
+- Sustainable Use License - https://github.com/n8n-io/n8n/blob/master/LICENSE.md
+- https://www.elastic.co/licensing/elastic-license/
+
+
+
+
 ## Alternatives
 
 > Originally from /u/Kairos8134 's helpful [Reddit comment](https://www.reddit.com/r/selfhosted/comments/xj9rx7/introducing_fasten_a_selfhosted_personal/ip78dhr/)
@@ -53,5 +61,4 @@
   - **[PRO]** - every customer would be "paid"
   - **[CON]** - community of OS users cannot contribute fixes/providers.
 
-8. Common Clause
-  - https://commonsclause.com/
+
