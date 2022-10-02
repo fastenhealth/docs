@@ -130,6 +130,8 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/LICENSE.md",
     "ROADMAP.md",
     "UNORGANIZED.md",
     "legal/CORP.md",
@@ -137,8 +139,6 @@
     "LANDING_PAGE.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "README.md",
-    "legal/INTELLECTUAL_PROPERTY.md.md",
-    "legal/HIPAA.md",
-    "legal/LICENSE.md"
+    "legal/HIPAA.md"
   ]
 }

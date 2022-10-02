@@ -6,7 +6,7 @@
 1. Incorporate
 	- See [legal/Corp.md](./legal/Corp.md)
 2. Register Trademark
-	- See [legal/INTELLECTUAL_PROPERTY.md](legal/INTELLECTUAL_PROPERTY.md.md)
+	- See [legal/INTELLECTUAL_PROPERTY](legal/INTELLECTUAL_PROPERTY.md)
 3. Sign up for AWS Activate (funding/credits)
 4. Complete AWS Infrastructure Hardening for Lighthouse
 	- See [security/REFERENCES.md](security/REFERENCES.md)

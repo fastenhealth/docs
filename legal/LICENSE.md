@@ -9,6 +9,9 @@
 - https://commonsclause.com/
 - Sustainable Use License - https://github.com/n8n-io/n8n/blob/master/LICENSE.md
 - https://www.elastic.co/licensing/elastic-license/
+- https://polyformproject.org/licenses/
+	- https://heathermeeker.com/2018/12/15/source-available-scorecard/
+- 
 
 
 
