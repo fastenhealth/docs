@@ -56,6 +56,7 @@ Thanks!!
 
 
 # Targeted Features
+> See [FEATURES](FEATURES.md)
 - Integrate with popular health portals
 - Track events (calendar)?
 - Upload photo records
