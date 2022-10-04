@@ -37,7 +37,8 @@ All of these issues need to be solved to implement Zero-knowledge encryption in 
 - https://github.com/pouchdb-community/pouchdb-authentication/blob/master/docs/recipes.md#some-people-can-read-some-docs-some-people-can-write-those-same-docs
 - https://docs.couchdb.org/en/main/api/server/authn.html
 - https://www.bennadel.com/blog/3206-configuring-pouchdb-after-login-for-a-database-per-user-architecture-in-angular-2-4-1.htm
-- 
+- https://gabrielpoca.com/2017-04-20-how-to-build-offline-web-applications-with-couchdb-and-pouchdb/
+- https://guide.couchdb.org/draft/documents.html
 
 ## Pouchdb Encrypted database
 - https://github.com/calvinmetcalf/crypto-pouch/issues/84
