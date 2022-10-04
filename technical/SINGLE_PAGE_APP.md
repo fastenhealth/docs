@@ -56,3 +56,8 @@ All of these issues need to be solved to implement Zero-knowledge encryption in 
 - https://web.dev/file-system-access/
 - https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API
 - https://stackoverflow.com/questions/62243648/pwa-persistent-storage-best-practice
+
+
+# PWA
+- https://blog.angular-university.io/angular-service-worker/
+- 
