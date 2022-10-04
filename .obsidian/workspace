@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technical/SINGLE_PAGE_APP.md",
+            "file": "technical/ID_VS_ACCESS_TOKEN.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/SINGLE_PAGE_APP.md",
+                "file": "technical/ID_VS_ACCESS_TOKEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/SINGLE_PAGE_APP.md",
+                "file": "technical/ID_VS_ACCESS_TOKEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/SINGLE_PAGE_APP.md"
+                "file": "technical/ID_VS_ACCESS_TOKEN.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "technical/TECH_STACK.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
+    "technical/SINGLE_PAGE_APP.md",
     "security/REFERENCES.md",
-    "legal/PRIVACY_POLICY.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
     "legal/HIPAA.md",
+    "legal/CLA.md",
     "legal/CORP.md",
-    "legal/CLA.md"
+    "technical/TECH_STACK.md",
+    "technical/AUTHENTICATION.md"
   ]
 }
