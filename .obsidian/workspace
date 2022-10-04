@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technical/ID_VS_ACCESS_TOKEN.md",
+            "file": "technical/SINGLE_PAGE_APP.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/ID_VS_ACCESS_TOKEN.md",
+                "file": "technical/SINGLE_PAGE_APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/ID_VS_ACCESS_TOKEN.md",
+                "file": "technical/SINGLE_PAGE_APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/ID_VS_ACCESS_TOKEN.md"
+                "file": "technical/SINGLE_PAGE_APP.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
+    "technical/ID_VS_ACCESS_TOKEN.md",
     "technical/SINGLE_PAGE_APP.md",
     "security/REFERENCES.md",
     "legal/CARIN_TRUST_FRAMEWORK.md",
@@ -138,7 +139,6 @@
     "legal/HIPAA.md",
     "legal/CLA.md",
     "legal/CORP.md",
-    "technical/TECH_STACK.md",
-    "technical/AUTHENTICATION.md"
+    "technical/TECH_STACK.md"
   ]
 }

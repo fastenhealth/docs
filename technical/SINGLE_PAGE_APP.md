@@ -17,7 +17,6 @@ vs Zero-knowledge encryption.
 
 # PouchDB/CouchDB
 - https://pouchdb.com/guides/databases.html
-- https://www.joshmorony.com/creating-a-multiple-user-app-with-pouchdb-couchdb/
 - https://rxdb.info/
 - https://web.dev/learn/pwa/offline-data/
 - https://github.com/go-kivik/kivik
@@ -27,6 +26,10 @@ vs Zero-knowledge encryption.
 - https://mircozeiss.com/couchdb-security-and-pouchdb-authentication
 - 
 ### MultiUser CouchDB
+- https://docs.couchdb.org/en/stable/config/couch-peruser.html
+- https://docs.huihoo.com/apache/couchdb/2.1/install/docker.html
+- https://gist.github.com/nolanlawson/9676093
+- https://www.joshmorony.com/creating-a-multiple-user-app-with-pouchdb-couchdb/
 - https://www.joshmorony.com/part-2-creating-a-multiple-user-app-with-ionic-2-pouchdb-couchdb/
 - https://groups.google.com/g/pouchdb/c/1Nr5ZYC0mc0
 - https://github.com/chorpler/pouchdb-authentication
