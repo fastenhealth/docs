@@ -8,12 +8,13 @@ This document is my scratchpad/work-in-progress notes as I work on sliming down 
 - Some healthcare providers require client id & client secret
 - Some healthcare providers speak protocols that are not web friendly - HL7 (how does auth work, what is this protocol)
 - Some healthcare providers do not support CORS. 
-- Encrypted patient data would need to be synced to a central location from the client side, if the user wants to see the data from multiple devices
+- Encrypted patient data would need to be synced to a central location from the client side, if the user wants to see the data from multiple devices - zero knowledge encryption
 - Progressive Web Apps (PWA) have an install flow that may be unfamiliar to most users. 
-- Background refresh of data is impossible, only available while user is logged in. 
+- Background refresh of data is difficult, only available while user is logged in. 
+	- https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/background-syncs
 - multi-user roles become complicated
 
-vs Zero-knowledge encryption. 
+All of these issues need to be solved to implement Zero-knowledge encryption in Fasten
 
 # PouchDB/CouchDB
 - https://pouchdb.com/guides/databases.html
