@@ -38,7 +38,7 @@ All of these issues need to be solved to implement Zero-knowledge encryption in 
 - https://docs.couchdb.org/en/main/api/server/authn.html
 - https://www.bennadel.com/blog/3206-configuring-pouchdb-after-login-for-a-database-per-user-architecture-in-angular-2-4-1.htm
 - https://gabrielpoca.com/2017-04-20-how-to-build-offline-web-applications-with-couchdb-and-pouchdb/
-
+https://www.bennadel.com/blog/3212-syncing-local-pouchdb-data-with-remote-ibm-cloudant-database-in-angular-2-4-1.htm
 
 
 ### CouchDB searching & pagination
