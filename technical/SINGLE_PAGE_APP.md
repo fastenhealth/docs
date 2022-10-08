@@ -60,4 +60,11 @@ https://www.bennadel.com/blog/3212-syncing-local-pouchdb-data-with-remote-ibm-cl
 
 # PWA
 - https://blog.angular-university.io/angular-service-worker/
-- 
+
+
+
+
+States
+
+
+| State Name | Local Database | Remote Database | 
