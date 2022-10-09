@@ -21,10 +21,12 @@ All of these issues need to be solved to implement Zero-knowledge encryption in 
 - https://rxdb.info/
 - https://web.dev/learn/pwa/offline-data/
 - https://github.com/go-kivik/kivik
+- https://github.com/Terreii/use-pouchdb/blob/13245db8f3b5d8698d6213c6ddd7588b3fb7bf22/docs/basics/sync.md
 
 ### Security CouchDB
 - http://guide.couchdb.org/draft/security.html
 - https://mircozeiss.com/couchdb-security-and-pouchdb-authentication
+- https://docs.couchdb.org/en/stable/config/auth.html
 - 
 ### MultiUser CouchDB
 - https://docs.couchdb.org/en/stable/config/couch-peruser.html
@@ -69,6 +71,9 @@ https://www.bennadel.com/blog/3212-syncing-local-pouchdb-data-with-remote-ibm-cl
 - https://github.com/microsoft/TypeScript/issues/12208
 - https://web.dev/module-workers/
 - 
+
+# Reverse Proxy to DB
+https://le-gall.bzh/post/go/a-reverse-proxy-in-go-using-gin/
 
 States
 
