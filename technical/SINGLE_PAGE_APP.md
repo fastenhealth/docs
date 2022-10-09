@@ -64,6 +64,10 @@ https://www.bennadel.com/blog/3212-syncing-local-pouchdb-data-with-remote-ibm-cl
 
 
 
+## Webworker Testing
+- http://ryanogles.by/testing-jasvascript-web-workers-with-jasmine/
+- 
+
 States
 
 
