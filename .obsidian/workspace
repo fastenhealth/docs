@@ -130,6 +130,8 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
+    "CONTRIBUTORS.md",
+    "BETA.md",
     "technical/TECH_STACK.md",
     "technical/SINGLE_PAGE_APP.md",
     "technical/ID_VS_ACCESS_TOKEN.md",
@@ -137,8 +139,6 @@
     "technical/ARCHITECTURE.md",
     "security/REFERENCES.md",
     "legal/PRIVACY_POLICY.md",
-    "legal/CARIN_TRUST_FRAMEWORK.md",
-    "legal/CLA.md",
-    "legal/CORP.md"
+    "legal/CARIN_TRUST_FRAMEWORK.md"
   ]
 }

@@ -18,8 +18,8 @@ This Beta is provided with a couple of caveats:
 
 Run the following commands to download and start the Fasten docker container.
 ```
-docker pull ghcr.io/fastenhealth/fasten-onprem:sandbox 
-docker run --rm -p 9090:8080 ghcr.io/fastenhealth/fasten-onprem:sandbox 
+docker pull ghcr.io/fastenhealth/fasten-onprem:main 
+docker run --rm -p 9090:8080 ghcr.io/fastenhealth/fasten-onprem:main 
 ```
 
 Next, open a browser to http://localhost:9090
@@ -28,22 +28,23 @@ At this point you'll be redirected to the login page.
 
 ### Logging In
 
-The Fasten BETA contains a pre-populated database with a test user.
-You can login to this test user with the following credentials:
+Before you can use the Fasten BETA you'll need to [Create an Account](http://localhost:9090/web/auth/signup).
 
-- **Username:** `test@test.com`
+It can be as simple as
+- **Username:** `testuser`
 - **Password:** `testtest`
 
-> You can also create a new account using the [Create an Account](http://localhost:9090/web/auth/signup) link on the sign-in page. See `Connecting a new Source` below for credentials you can use to connect to healthcare providers yourself. 
+> See `Connecting a new Source` below for credentials you can use to connect to healthcare providers. 
 
 ### Dashboard
 
 Once you login, you'll be taken to the dashboard. 
 From here you can explore the data retrieved from the various healthcare providers.
+This page will intially be empty, see the next section - `Connecting a new Source`  - for more info.
 
 
 ### Connecting a new Source
-You may want to try (re)connecting a health care provider.
+Before you can use Fasten, you'll need to connect a healthcare provider.
 To do so, you'll need to use a Sandbox user and password from the table below.
 
 > You should not (and cannot) use real credentials to test Fasten. 
@@ -64,6 +65,8 @@ Some providers (such as Cerner) may take a long time to sync, as their sandbox a
 
 ### Testing Manual Bundle Upload
 
+> NOTE: this functionality is not working in the BETA2
+
 If you'd like to test the manual bundle upload, you can use data provided by the [Synthea](https://synthetichealth.github.io/synthea-sample-data/downloads/synthea_sample_data_fhir_r4_sep2019.zip) project to test. 
 Just extract the downloaded `zip` file, and upload one of the many `json`  files. 
 
@@ -78,6 +81,6 @@ https://github.com/fastenhealth/docs/issues
 ### Discord
 Please consider joining the Fasten Discord as well. I'll be keeping an eye on it, and answering questions as they come up.
 
-https://discord.gg/2bEy6Y2d
+https://discord.gg/Bykz6BAN8p
 
 
