@@ -1,10 +1,9 @@
 # LICENSE
 
 ## Top Choice
-- https://polyformproject.org/licenses/
-    - Positive - https://heathermeeker.com/2018/12/15/source-available-scorecard/
-    - Positive - Founder - https://writing.kemitchell.com/2020/05/14/PolyForm-Defensive-Perimenter 
-    - Positive - Umbrel - https://blog.getumbrel.com/everything-you-need-to-know-about-umbrels-new-license-f9807203a57e
+
+GPLv4
+
 
 ## Other Source Available Licenses:
 - [MariaDB BSL1.1 license](https://mariadb.com/bsl-faq-adopting/#osl) - used by [ZeroTier](https://github.com/zerotier/ZeroTierOne/blob/master/LICENSE.txt)
@@ -17,7 +16,10 @@
 - Sustainable Use License - https://github.com/n8n-io/n8n/blob/master/LICENSE.md
 - https://www.elastic.co/licensing/elastic-license/
 
-
+- https://polyformproject.org/licenses/
+    - Positive - https://heathermeeker.com/2018/12/15/source-available-scorecard/
+    - Positive - Founder - https://writing.kemitchell.com/2020/05/14/PolyForm-Defensive-Perimenter 
+    - Positive - Umbrel - https://blog.getumbrel.com/everything-you-need-to-know-about-umbrels-new-license-f9807203a57e
 
 
 ## Alternatives
