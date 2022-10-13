@@ -2,7 +2,7 @@
 
 ## Top Choice
 
-GPLv4
+- GPLv3
 
 
 ## Other Source Available Licenses:
