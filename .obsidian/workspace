@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BETA.md",
+            "file": "legal/LICENSE.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BETA.md",
+                "file": "legal/LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BETA.md",
+                "file": "legal/LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BETA.md"
+                "file": "legal/LICENSE.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "CONTRIBUTORS.md",
-    "BETA.md",
-    "technical/TECH_STACK.md",
-    "technical/SINGLE_PAGE_APP.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
-    "security/REFERENCES.md",
-    "legal/PRIVACY_POLICY.md",
-    "legal/CARIN_TRUST_FRAMEWORK.md"
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/CORP.md",
+    "legal/CLA.md",
+    "img/patient-browser.png",
+    "img/fred-resource-viewer.png",
+    "img/screenshots/5.data.png",
+    "img/screenshots/1.signup.png",
+    "img/screenshots/2.connect.png",
+    "img/screenshots/3.callback.png",
+    "img/screenshots/4.dashboard.png"
   ]
 }
