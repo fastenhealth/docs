@@ -3,17 +3,17 @@
 
 ## Phase 1 - Production Accesss
 
-1. Incorporate
+1. [x] Incorporate 
 	- See [legal/Corp.md](./legal/Corp.md)
-2. Register Trademark
+2. [ ] Register Trademark
 	- See [legal/INTELLECTUAL_PROPERTY](legal/INTELLECTUAL_PROPERTY.md)
-3. Sign up for AWS Activate (funding/credits)
-4. Complete AWS Infrastructure Hardening for Lighthouse
+3. [ ] Sign up for AWS Activate (funding/credits)
+4. [ ] Complete AWS Infrastructure Hardening for Lighthouse
 	- See [security/REFERENCES.md](security/REFERENCES.md)
-5. Configure Github CI for Lighthouse
+5. [ ] Configure Github CI for Lighthouse
 6. Release source code
-	- Fasten on Premise
-	- Fasten Lighthouse (timeline unknown)
+	- [x] Fasten on Premise
+	- [ ] Fasten Lighthouse (timeline unknown)
 7. User Interviews
 8. Sign Healthcare provider attestations for Production access
 	- Limit to existing healthcare providers
@@ -25,7 +25,7 @@
 		- Medicare BlueButton
 		- Athena
 		- CareEvolution
-9. Release a production capable version of Fasten
+9. [ ] Release a production capable version of Fasten
 10. Coordinate with Designers to begin work on the Fasten UI
 
 

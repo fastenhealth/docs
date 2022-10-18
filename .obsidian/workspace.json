@@ -23,9 +23,11 @@
             "id": "f211bd74fa1efb43",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "ROADMAP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BETA.md",
+                "file": "ROADMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BETA.md",
+                "file": "ROADMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BETA.md"
+                "file": "ROADMAP.md"
               }
             }
           }
@@ -152,15 +154,15 @@
   },
   "active": "f211bd74fa1efb43",
   "lastOpenFiles": [
-    "README.md",
-    "LANDING_PAGE.md",
-    "legal/LICENSE.md",
-    "legal/INTELLECTUAL_PROPERTY.md",
     "legal/CORP.md",
-    "legal/CLA.md",
-    "img/patient-browser.png",
-    "img/fred-resource-viewer.png",
-    "img/screenshots/5.data.png",
-    "img/screenshots/1.signup.png"
+    "UNORGANIZED.md",
+    "UI_UX.md",
+    "ROADMAP.md",
+    "README.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "LANDING_PAGE.md",
+    "FEATURES.md",
+    "FAQs.md",
+    "CONTRIBUTORS.md"
   ]
 }
