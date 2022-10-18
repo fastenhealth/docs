@@ -29,7 +29,30 @@ be a lot of "it depends". You may be fine, but it can also be an expensive mess.
 At the end of the day do what makes you comfortable, as you can be successful with either, and can be well protected with 
 either. Just be careful about where you get your advice as there is a lot of just wrong information people take as true on the internet.
 
-## Corp Accounts
+## LLC
+- dont use your house address (do you want to be your own registered agent = NO)
+	- if you get sued, it pierces the corp veil if you are the corp agent
+	- use a registered agent (Stripe Atlas provides)
+- LLC is super easy, fast, easy to maintain. no BS documents
+- LLC with foreign qualification
+	- $300 taxes in Delaware
+	- $1800 taxes in CA
+		- 800$ + 125$ registered 
+- Possible to convert Delaware LLC to a CCorp
+- as a sole proprietier, you can write off taxes
+	- eg 100k LLC profit is personal income
+	- you can write off losses and expenses to get tax deductions
+- Very tax efficient
+
+
+## CORP
+- Minutes required  
+- shares
+- packages. 
+- Taxes are more complicated
+	- even 1$ is taxed
+
+# Corp Banking Accounts
 - Brex
 	- Look into competitors
-	- 
+
