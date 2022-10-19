@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/CORP.md",
+                "file": "security/REFERENCES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "254d42c38914a4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/CORP.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/CORP.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/CORP.md"
+                "file": "legal/21ST_CENTURY_CURES_ACT.md"
               }
             }
           }
@@ -152,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f211bd74fa1efb43",
+  "active": "254d42c38914a4f4",
   "lastOpenFiles": [
-    "ROADMAP.md",
-    "legal/CORP.md",
-    "UNORGANIZED.md",
+    "security/REFERENCES.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/PRIVACY_POLICY.md",
+    "legal/HIPAA.md",
     "UI_UX.md",
+    "ROADMAP.md",
     "README.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md",
-    "FEATURES.md",
-    "FAQs.md",
-    "CONTRIBUTORS.md"
+    "FEATURES.md"
   ]
 }
