@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "legal/CARIN_TRUST_FRAMEWORK.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "legal/CARIN_TRUST_FRAMEWORK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "legal/CARIN_TRUST_FRAMEWORK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md"
+                "file": "legal/CARIN_TRUST_FRAMEWORK.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "254d42c38914a4f4",
   "lastOpenFiles": [
-    "legal/HIPAA.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
+    "legal/HIPAA.md",
     "security/REFERENCES.md",
     "legal/CARIN_TRUST_FRAMEWORK.md",
     "legal/PRIVACY_POLICY.md",
     "UI_UX.md",
     "ROADMAP.md",
     "README.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md"
   ]
 }
