@@ -1,3 +1,5 @@
+https://www.federalregister.gov/documents/2020/05/01/2020-07419/21st-century-cures-act-interoperability-information-blocking-and-the-onc-health-it-certification
+
 >By December 31, 2022, all Certified Health Information Technology (i.e., EHR vendors) must have the new HL7 FHIR API capability and make information in USCDI Version 1 available to their customers.
 
 
@@ -75,3 +77,5 @@ whether the app is a “good one,” including whether
 it has appropriate privacy and security in place. If the  
 patient’s information is breached once stored within  
 the app, you are not responsible.
+
+
