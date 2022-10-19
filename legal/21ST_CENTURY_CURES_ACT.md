@@ -62,3 +62,16 @@ Information blocking practices can be an Actor’s acts or omissions—essential
 
 Physicians may implicate the information blocking rule if they knowingly take actions that interfere with exchange, access and use of EHI, even if no harm materializes.
 
+https://www.ama-assn.org/practice-management/digital/patient-access-playbook-information-blocking
+
+https://www.ama-assn.org/system/files/2020-02/patient-records-playbook.pdf
+
+> If a patient requests that you share information  
+through an app, you are required to do so under  
+HIPAA if you have the technology to do so. Your EHR’s  
+API should allow the app to connect and receive  
+information securely. You are not responsible for  
+whether the app is a “good one,” including whether  
+it has appropriate privacy and security in place. If the  
+patient’s information is breached once stored within  
+the app, you are not responsible.
