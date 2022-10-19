@@ -48,3 +48,17 @@ The eight (8) types of clinical notes that must be shared are outlined in the Un
 
 
 https://www.healthit.gov/sites/default/files/2018-12/LeveragingHITtoPromotePatientAccess2.pdf
+
+
+---
+While the Cures Act specifies penalties for health IT developers, HINs and HIEs, Congress left it up to the Department of Health and Human Services (HHS) to issue regulations on “disincentives” and enforcement policies for physicians. At this time, HHS has not yet released information on physician penalties.
+
+Information blocking practices can be an Actor’s acts or omissions—essentially anything that interferes with the access, exchange or use of EHI. However, just because an action interferes with the access, exchange or use of EHI does not mean the practice is automatically considered an information blocking violation—facts and circumstances unique to each action should be considered. For instance, physician Actors must have the required **_knowledge and intent_** to interfere with access, exchange or use of EHI. Information blocking practices may include but are not limited to:
+
+-   Limiting or restricting the interoperability of health IT;
+-   Implementing health IT in ways that are likely to restrict the access, exchange or use of EHI;
+-   Acts that lead to fraud, waste or abuse or impede care delivery enabled by health IT (for example, modifying EHR data reported to federal payment programs such as MIPS) and
+-   Having the capability to provide same-day access to EHI in a form and format requested by a patient or a patient’s health care provider but taking several days to respond.
+
+Physicians may implicate the information blocking rule if they knowingly take actions that interfere with exchange, access and use of EHI, even if no harm materializes.
+
