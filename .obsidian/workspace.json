@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/CARIN_TRUST_FRAMEWORK.md",
+                "file": "legal/INTELLECTUAL_PROPERTY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7209060f4f0f48df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "security/REFERENCES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/CARIN_TRUST_FRAMEWORK.md",
+                "file": "security/REFERENCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/CARIN_TRUST_FRAMEWORK.md",
+                "file": "security/REFERENCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/CARIN_TRUST_FRAMEWORK.md"
+                "file": "security/REFERENCES.md"
               }
             }
           }
@@ -164,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "254d42c38914a4f4",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "sharing/INFORMATION_SHARING.md",
+    "legal/INTELLECTUAL_PROPERTY.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "legal/HIPAA.md",
     "security/REFERENCES.md",
-    "legal/CARIN_TRUST_FRAMEWORK.md",
     "legal/PRIVACY_POLICY.md",
     "UI_UX.md",
-    "ROADMAP.md",
-    "README.md",
-    "LANDING_PAGE.md"
+    "ROADMAP.md"
   ]
 }
