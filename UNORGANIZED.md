@@ -129,10 +129,6 @@ PWA
 
 
 
-# analytics (if required)
-- NOT Google Analytics
-- PLausable - https://plausible.io/
-
 # FASTEN rename?
 - means secure/unmovable
 	- fasten a seatbelt

@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/REFERENCES.md",
+                "file": "UNORGANIZED.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db2150027e839aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/ANALYTICS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/REFERENCES.md",
+                "file": "technical/ANALYTICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/REFERENCES.md",
+                "file": "technical/ANALYTICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/REFERENCES.md"
+                "file": "technical/ANALYTICS.md"
               }
             }
           }
@@ -176,17 +188,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8360a188f8a1d092",
+  "active": "db2150027e839aba",
   "lastOpenFiles": [
-    "sharing/INFORMATION_SHARING.md",
-    "legal/INTELLECTUAL_PROPERTY.md",
-    "legal/21ST_CENTURY_CURES_ACT.md",
-    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "UNORGANIZED.md",
+    "README.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "legal/HIPAA.md",
-    "security/REFERENCES.md",
-    "legal/PRIVACY_POLICY.md",
-    "UI_UX.md",
-    "ROADMAP.md"
+    "LANDING_PAGE.md",
+    "FEATURES.md",
+    "FAQs.md",
+    "CONTRIBUTORS.md",
+    "BETA.md",
+    "technical/ARCHITECTURE.md",
+    "technical/AUTHENTICATION.md"
   ]
 }
