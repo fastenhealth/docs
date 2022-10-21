@@ -30,12 +30,12 @@
 
 
 #### Phase 1 - Costs
-- register corp
-- buy website
-- trademarking
-- AWS hosting for Lighthouse
+- [ ] register corp
+- [ ] buy website
+- [ ] trademarking
+- [ ] AWS hosting for Lighthouse
 	- Offset by AWS Activate credits
-- Legal review of provider attestations
+- [ ] Legal review of provider attestations
 
 ### Phase 2 - Expanding Healthcare Providers
 
