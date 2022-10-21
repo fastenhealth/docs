@@ -8,5 +8,13 @@
       "key": "G"
     }
   ],
-  "graph:open": []
+  "graph:open": [],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
 }
