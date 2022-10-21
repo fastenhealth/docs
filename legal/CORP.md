@@ -57,4 +57,4 @@ either. Just be careful about where you get your advice as there is a lot of jus
 	- Look into competitors
 
 
-- [ ] 83(b) election within 30 calendar days 📅 2022-11-19
+- [ ] 83(b) election within 30 calendar days 📅 2022-11-19 #task

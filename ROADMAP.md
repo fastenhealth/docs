@@ -9,7 +9,11 @@
 	- See [legal/INTELLECTUAL_PROPERTY](legal/INTELLECTUAL_PROPERTY.md)
 3. [x] Sign up for AWS Activate (funding/credits)
 	- 10k credit with Stripe Atlas
-	- [ ] Waiting for confirmation⏳ 
+	- [ ] Waiting for confirmation⏳  #task
+4. [ ] Open Bank account
+		- SVB or other Stripe Atlas reccomended #task
+		- Chase/BoA/etc
+5. [ ] Move all infrastructure to new AWS account
 1. Complete AWS Infrastructure Hardening for Lighthouse
 	- See [security/REFERENCES.md](security/REFERENCES.md)
 2. Configure Github CI for Lighthouse
@@ -27,6 +31,7 @@
 		- Medicare BlueButton
 		- Athena
 		- CareEvolution
+		- [PATIENT_PORTAL_AND_SOURCES_TESTING](PATIENT_PORTAL_AND_SOURCES_TESTING.md)
 6. Release a production capable version of Fasten
 7. Coordinate with Designers to begin work on the Fasten UI
 
