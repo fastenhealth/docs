@@ -4,4 +4,10 @@
 - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-66r2.ipd.pdf
 
 
+https://github.com/forter/security-101-for-saas-startups
+
 # AWS
+
+
+# Restricted Usernames/Namespaces
+https://github.com/dsignr/disallowed-usernames
