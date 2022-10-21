@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/sources/EPIC.md",
+                "file": "security/REFERENCES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b56d17a0c7423e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "security/COUCHDB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/sources/EPIC.md",
+                "file": "security/COUCHDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/sources/EPIC.md",
+                "file": "security/COUCHDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/sources/EPIC.md"
+                "file": "security/COUCHDB.md"
               }
             }
           }
@@ -236,8 +248,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7666acd8e70d5e00",
+  "active": "b56d17a0c7423e14",
   "lastOpenFiles": [
+    "security/REFERENCES.md",
+    "legal/sources/EPIC.md",
     "legal/sources/CERNER.md",
     "ROADMAP.md",
     "technical/SOFTWARE.md",
@@ -245,8 +259,6 @@
     "technical/SINGLE_PAGE_APP.md",
     "technical/ID_VS_ACCESS_TOKEN.md",
     "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
-    "technical/ANALYTICS.md",
-    "UNORGANIZED.md"
+    "technical/ARCHITECTURE.md"
   ]
 }
