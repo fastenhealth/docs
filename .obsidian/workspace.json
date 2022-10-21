@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7666acd8e70d5e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "legal/sources/EPIC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/sources/CERNER.md",
+                "file": "legal/sources/EPIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/sources/CERNER.md",
+                "file": "legal/sources/EPIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/sources/CERNER.md"
+                "file": "legal/sources/EPIC.md"
               }
             }
           }
@@ -224,8 +236,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "349b9eacdfb1535b",
+  "active": "7666acd8e70d5e00",
   "lastOpenFiles": [
+    "legal/sources/CERNER.md",
     "ROADMAP.md",
     "technical/SOFTWARE.md",
     "technical/TECH_STACK.md",
@@ -234,7 +247,6 @@
     "technical/AUTHENTICATION.md",
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS.md",
-    "UNORGANIZED.md",
-    "legal/21ST_CENTURY_CURES_ACT.md"
+    "UNORGANIZED.md"
   ]
 }
