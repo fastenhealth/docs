@@ -7,15 +7,17 @@
 	- See [legal/Corp.md](./legal/Corp.md)
 2. [ ] Register Trademark
 	- See [legal/INTELLECTUAL_PROPERTY](legal/INTELLECTUAL_PROPERTY.md)
-3. [ ] Sign up for AWS Activate (funding/credits)
-4. [ ] Complete AWS Infrastructure Hardening for Lighthouse
+3. [x] Sign up for AWS Activate (funding/credits)
+	- 10k credit with Stripe Atlas
+	- [ ] Waiting for confirmation⏳ 
+1. Complete AWS Infrastructure Hardening for Lighthouse
 	- See [security/REFERENCES.md](security/REFERENCES.md)
-5. [ ] Configure Github CI for Lighthouse
-6. Release source code
+2. Configure Github CI for Lighthouse
+3. Release source code
 	- [x] Fasten on Premise
 	- [ ] Fasten Lighthouse (timeline unknown)
-7. User Interviews
-8. Sign Healthcare provider attestations for Production access
+4. User Interviews
+5. Sign Healthcare provider attestations for Production access
 	- Limit to existing healthcare providers
 		- Cerner
 		- Epic
@@ -25,8 +27,8 @@
 		- Medicare BlueButton
 		- Athena
 		- CareEvolution
-9. [ ] Release a production capable version of Fasten
-10. Coordinate with Designers to begin work on the Fasten UI
+6. Release a production capable version of Fasten
+7. Coordinate with Designers to begin work on the Fasten UI
 
 
 #### Phase 1 - Costs
