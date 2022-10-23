@@ -133,14 +133,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/SOFTWARE.md",
+                "file": "security/REFERENCES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23d8534695884cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "security/CORS Relay.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/SOFTWARE.md",
+                "file": "security/CORS Relay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/SOFTWARE.md",
+                "file": "security/CORS Relay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/SOFTWARE.md"
+                "file": "security/CORS Relay.md"
               }
             }
           }
@@ -260,17 +272,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "30f120e5307f9270",
+  "active": "23d8534695884cb1",
   "lastOpenFiles": [
+    "security/REFERENCES.md",
+    "security/COUCHDB.md",
+    "technical/SOFTWARE.md",
     "technical/TECH_STACK.md",
     "technical/ARCHITECTURE.md",
     "technical/AUTHENTICATION.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "ROADMAP.md",
     "TODO_TASKS.md",
-    "legal/CORP.md",
-    "README.md",
-    "technical/SINGLE_PAGE_APP.md",
-    "technical/ANALYTICS.md"
+    "legal/CORP.md"
   ]
 }
