@@ -1,0 +1,1 @@
+![](../../img/fasten-cloud.drawio.png)

@@ -145,14 +145,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/CORS Relay.md",
+                "file": "technical/ARCHITECTURE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2125048b88fcc029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/cloud/ARCHITECTURE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/CORS Relay.md",
+                "file": "technical/cloud/ARCHITECTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/CORS Relay.md",
+                "file": "technical/cloud/ARCHITECTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/CORS Relay.md"
+                "file": "technical/cloud/ARCHITECTURE.md"
               }
             }
           }
@@ -272,17 +284,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "23d8534695884cb1",
+  "active": "2125048b88fcc029",
   "lastOpenFiles": [
+    "img/fasten-cloud.drawio.png",
+    "technical/cloud/ARCHITECTURE.md",
+    "technical/ARCHITECTURE.md",
+    "technical/AUTHENTICATION.md",
+    "security/CORS Relay.md",
     "security/REFERENCES.md",
     "security/COUCHDB.md",
     "technical/SOFTWARE.md",
     "technical/TECH_STACK.md",
-    "technical/ARCHITECTURE.md",
-    "technical/AUTHENTICATION.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "ROADMAP.md",
-    "TODO_TASKS.md",
-    "legal/CORP.md"
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
   ]
 }
