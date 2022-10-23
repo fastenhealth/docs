@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROADMAP.md",
+                "file": "technical/SOFTWARE.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROADMAP.md",
+                "file": "technical/SOFTWARE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROADMAP.md",
+                "file": "technical/SOFTWARE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROADMAP.md"
+                "file": "technical/SOFTWARE.md"
               }
             }
           }
@@ -262,15 +262,15 @@
   },
   "active": "30f120e5307f9270",
   "lastOpenFiles": [
+    "technical/TECH_STACK.md",
+    "technical/ARCHITECTURE.md",
+    "technical/AUTHENTICATION.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "ROADMAP.md",
     "TODO_TASKS.md",
     "legal/CORP.md",
     "README.md",
     "technical/SINGLE_PAGE_APP.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
-    "technical/ANALYTICS.md",
-    "sharing/INFORMATION_SHARING.md"
+    "technical/ANALYTICS.md"
   ]
 }
