@@ -3,3 +3,4 @@
 
 # VPC
 - https://github.com/nozaq/terraform-aws-secure-baseline
+- https://github.com/nozaq/terraform-aws-secure-vpc
