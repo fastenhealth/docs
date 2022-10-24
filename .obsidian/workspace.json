@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/cloud/ARCHITECTURE.md",
+                "file": "technical/cloud/TERRAFORM.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/cloud/ARCHITECTURE.md",
+                "file": "technical/cloud/TERRAFORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/cloud/ARCHITECTURE.md",
+                "file": "technical/cloud/TERRAFORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/cloud/ARCHITECTURE.md"
+                "file": "technical/cloud/TERRAFORM.md"
               }
             }
           }
@@ -286,8 +286,8 @@
   },
   "active": "2125048b88fcc029",
   "lastOpenFiles": [
-    "img/fasten-cloud.drawio.png",
     "technical/cloud/ARCHITECTURE.md",
+    "img/fasten-cloud.drawio.png",
     "technical/ARCHITECTURE.md",
     "technical/AUTHENTICATION.md",
     "security/CORS Relay.md",
