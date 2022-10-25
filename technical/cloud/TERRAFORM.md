@@ -14,4 +14,7 @@
 - https://bitnami.com/stack/couchdb/cloud/aws
 - https://docs.bitnami.com/ibm/infrastructure/couchdb/administration/backup-restore/
 
-https://gitlab.com/aw5academy/terraform/session-manager/-/blob/master/iam.tf
+# Session Manager
+- https://gitlab.com/aw5academy/terraform/session-manager/-/blob/master/iam.tf
+- https://aws.plainenglish.io/aws-session-manager-an-alternative-to-access-amazon-ec2-instance-e72b689ceb5c
+- 
