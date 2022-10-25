@@ -19,3 +19,5 @@
 - https://aws.plainenglish.io/aws-session-manager-an-alternative-to-access-amazon-ec2-instance-e72b689ceb5c
 - https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-prerequisites.html
 - https://medium.com/@khimananda.oli/terraform-aws-ec2-and-system-manager-e0f0c914132c
+- `aws ssm start-session --target i-0724453fde1b4ab26 --region us-east-1`
+- 
