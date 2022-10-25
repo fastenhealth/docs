@@ -8,3 +8,10 @@
 
 # Cloudfront Routing
 - https://advancedweb.hu/how-cloudfront-routing-works/
+
+# CouchDB
+- https://aws.amazon.com/marketplace/pp/prodview-b5apghf5ubdso
+- https://bitnami.com/stack/couchdb/cloud/aws
+- https://docs.bitnami.com/ibm/infrastructure/couchdb/administration/backup-restore/
+
+https://gitlab.com/aw5academy/terraform/session-manager/-/blob/master/iam.tf
