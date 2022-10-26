@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md",
+                "file": "technical/SINGLE_PAGE_APP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aa628c916fb4288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md",
+                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md",
+                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md"
+                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md"
               }
             }
           }
@@ -284,17 +296,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2125048b88fcc029",
+  "active": "6aa628c916fb4288",
   "lastOpenFiles": [
-    "technical/cloud/ARCHITECTURE.md",
-    "img/fasten-cloud.drawio.png",
-    "technical/ARCHITECTURE.md",
+    "technical/SINGLE_PAGE_APP.md",
     "technical/AUTHENTICATION.md",
-    "security/CORS Relay.md",
+    "technical/ARCHITECTURE.md",
+    "technical/cloud/TERRAFORM.md",
+    "technical/cloud/ARCHITECTURE.md",
     "security/REFERENCES.md",
     "security/COUCHDB.md",
     "technical/SOFTWARE.md",
     "technical/TECH_STACK.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
+    "technical/ID_VS_ACCESS_TOKEN.md"
   ]
 }
