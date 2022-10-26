@@ -23,3 +23,16 @@
 
 # ASG/ALB/EC2
 - https://stackoverflow.com/questions/69279369/launching-aws-elb-instace-using-terraform
+
+# Cloudfront Serve - API Gateway & S3
+- https://medium.com/vectoscalar/use-cloudfront-for-api-gateway-s3-both-cc0e30e0962a
+
+
+# Github - AWS ODIC
+- https://github.com/aws-actions/configure-aws-credentials
+
+# Github trigger another repo
+- https://github.com/orgs/community/discussions/26323
+- https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+- https://github.com/marketplace/actions/deployment-action
+- 
