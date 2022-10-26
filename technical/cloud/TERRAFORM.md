@@ -30,6 +30,7 @@
 - https://medium.com/radon-dev/redirection-on-cloudfront-with-lambda-edge-e72fd633603e
 - https://awstip.com/setting-up-a-cloudfront-application-with-ecs-backend-with-terraform-7dc51d59e969
 - https://github.com/getlift/lift/blob/cb9c914b2730faab9b8059ef36dbdd92143730bc/docs/server-side-website.md
+- https://www.madskills.io/fullstack-serverless/
 
 
 # Github - AWS ODIC
