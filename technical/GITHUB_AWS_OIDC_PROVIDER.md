@@ -9,3 +9,7 @@ the various roles used for deployments are defined in the app component, as each
 - https://www.cloudquery.io/blog/keyless-access-to-aws-in-github-actions-with-oidc
 - https://www.eliasbrange.dev/posts/secure-aws-deploys-from-github-actions-with-oidc/
 - https://github.com/unfunco/terraform-aws-oidc-github
+
+
+# Serverless Framework 
+- https://serverlessfirst.com/create-iam-deployer-roles-serverless-app/
