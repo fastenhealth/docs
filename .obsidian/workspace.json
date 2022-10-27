@@ -169,14 +169,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+                "file": "technical/SOFTWARE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ca76e5b80412477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 298.5
   },
   "right": {
     "id": "58178119e53f4ea1",
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/ZERO_KNOWLEDGE_ENCRYPTION.md"
+                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md"
               }
             }
           }
@@ -296,17 +308,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6aa628c916fb4288",
+  "active": "3ca76e5b80412477",
   "lastOpenFiles": [
-    "technical/SINGLE_PAGE_APP.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
-    "technical/cloud/TERRAFORM.md",
-    "technical/cloud/ARCHITECTURE.md",
-    "security/REFERENCES.md",
-    "security/COUCHDB.md",
     "technical/SOFTWARE.md",
     "technical/TECH_STACK.md",
-    "technical/ID_VS_ACCESS_TOKEN.md"
+    "technical/AUTHENTICATION.md",
+    "technical/ID_VS_ACCESS_TOKEN.md",
+    "security/COUCHDB.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "technical/SINGLE_PAGE_APP.md",
+    "technical/ARCHITECTURE.md",
+    "technical/cloud/TERRAFORM.md",
+    "technical/cloud/ARCHITECTURE.md"
   ]
 }
