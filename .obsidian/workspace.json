@@ -18,177 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f211bd74fa1efb43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "security/REFERENCES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "254d42c38914a4f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "legal/INTELLECTUAL_PROPERTY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7209060f4f0f48df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNORGANIZED.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db2150027e839aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sharing/INFORMATION_SHARING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69fea27a06c605a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/TECH_STACK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62f504e3ded0fb1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROADMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "349b9eacdfb1535b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "legal/sources/CERNER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7666acd8e70d5e00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "security/REFERENCES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b56d17a0c7423e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROADMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30f120e5307f9270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "security/REFERENCES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23d8534695884cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/ARCHITECTURE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2125048b88fcc029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/SINGLE_PAGE_APP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aa628c916fb4288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/SOFTWARE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ca76e5b80412477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md",
+                "file": "BETA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md",
+                "file": "BETA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/GITHUB_AWS_OIDC_PROVIDER.md"
+                "file": "BETA.md"
               }
             }
           }
@@ -308,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3ca76e5b80412477",
+  "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
-    "technical/SOFTWARE.md",
-    "technical/TECH_STACK.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "security/COUCHDB.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "technical/SINGLE_PAGE_APP.md",
-    "technical/ARCHITECTURE.md",
-    "technical/cloud/TERRAFORM.md",
-    "technical/cloud/ARCHITECTURE.md"
+    "security/REFERENCES.md",
+    "BETA.md",
+    "sharing/INFORMATION_SHARING.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "README.md",
+    "TODO_TASKS.md",
+    "ROADMAP.md",
+    "CONTRIBUTORS.md",
+    "FAQs.md",
+    "FEATURES.md"
   ]
 }
