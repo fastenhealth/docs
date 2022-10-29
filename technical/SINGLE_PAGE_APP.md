@@ -58,7 +58,9 @@ https://www.bennadel.com/blog/3212-syncing-local-pouchdb-data-with-remote-ibm-cl
 - https://web.dev/file-system-access/
 - https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API
 - https://stackoverflow.com/questions/62243648/pwa-persistent-storage-best-practice
-
+- https://news.ycombinator.com/item?id=33374402
+- https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/
+- 
 
 # PWA
 - https://blog.angular-university.io/angular-service-worker/

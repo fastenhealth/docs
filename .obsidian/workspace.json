@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
+                "file": "technical/SINGLE_PAGE_APP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
+                "file": "technical/SINGLE_PAGE_APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
+                "file": "technical/SINGLE_PAGE_APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md"
+                "file": "technical/SINGLE_PAGE_APP.md"
               }
             }
           }
@@ -154,6 +154,8 @@
   },
   "active": "f99ee251dfe1f98e",
   "lastOpenFiles": [
+    "marketing/MARKETING_CHECKLIST.md",
+    "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
     "technical/cloud/TERRAFORM.md",
     "technical/cloud/ARCHITECTURE.md",
     "technical/ARCHITECTURE.md",
@@ -161,8 +163,6 @@
     "TODO_TASKS.md",
     "BETA.md",
     "security/REFERENCES.md",
-    "sharing/INFORMATION_SHARING.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "README.md"
+    "sharing/INFORMATION_SHARING.md"
   ]
 }
