@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5cab3ce1061b31e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,10 +159,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f99ee251dfe1f98e",
+  "active": "c5cab3ce1061b31e",
   "lastOpenFiles": [
     "marketing/MARKETING_CHECKLIST.md",
     "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
