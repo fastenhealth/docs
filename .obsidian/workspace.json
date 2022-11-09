@@ -35,9 +35,11 @@
             "id": "c5cab3ce1061b31e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "legal/CLA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Features",
+                "query": "terms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/SINGLE_PAGE_APP.md",
+                "file": "legal/CLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/SINGLE_PAGE_APP.md",
+                "file": "legal/CLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/SINGLE_PAGE_APP.md"
+                "file": "legal/CLA.md"
               }
             }
           }
@@ -161,15 +163,15 @@
   },
   "active": "c5cab3ce1061b31e",
   "lastOpenFiles": [
+    "legal/PRIVACY_POLICY.md",
+    "legal/LICENSE.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/HIPAA.md",
+    "legal/CLA.md",
+    "legal/CORP.md",
     "marketing/MARKETING_CHECKLIST.md",
     "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
     "technical/cloud/TERRAFORM.md",
-    "technical/cloud/ARCHITECTURE.md",
-    "technical/ARCHITECTURE.md",
-    "technical/AUTHENTICATION.md",
-    "TODO_TASKS.md",
-    "BETA.md",
-    "security/REFERENCES.md",
-    "sharing/INFORMATION_SHARING.md"
+    "technical/cloud/ARCHITECTURE.md"
   ]
 }
