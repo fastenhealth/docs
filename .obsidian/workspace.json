@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/CLA.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "terms",
+                "query": "tag:#EPIC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/CLA.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/CLA.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/CLA.md"
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
               }
             }
           }
@@ -161,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5cab3ce1061b31e",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
+    "LANDING_PAGE.md",
+    "FEATURES.md",
+    "CONTRIBUTORS.md",
+    "sharing/INFORMATION_SHARING.md",
+    "security/REFERENCES.md",
+    "legal/sources/EPIC.md",
+    "legal/CLA.md",
     "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
-    "legal/CARIN_TRUST_FRAMEWORK.md",
-    "legal/HIPAA.md",
-    "legal/CLA.md",
-    "legal/CORP.md",
-    "marketing/MARKETING_CHECKLIST.md",
-    "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
-    "technical/cloud/TERRAFORM.md",
-    "technical/cloud/ARCHITECTURE.md"
+    "legal/CARIN_TRUST_FRAMEWORK.md"
   ]
 }

@@ -11,6 +11,10 @@
 - https://sandbox.logicahealth.org/fastenhealth/apps
 - https://confluence.hl7.org/display/FHIR/Public+Test+Servers
 
+# EPIC SOURCES
+https://open.epic.com/MyApps/Endpoints
+
+
 # FHIR Source Directories
 - https://1up.health/fhir-endpoint-directory/1
 - https://www.cmscompliancetracker.com/?page_id=89
