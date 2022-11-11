@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/UI Widgets.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/UI Widgets.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/UI Widgets.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/UI Widgets.md"
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "564e5dd27a693649",
   "lastOpenFiles": [
+    "technical/UI Widgets.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md",
     "FEATURES.md",
@@ -179,7 +180,6 @@
     "security/REFERENCES.md",
     "legal/sources/EPIC.md",
     "legal/CLA.md",
-    "legal/PRIVACY_POLICY.md",
-    "legal/LICENSE.md"
+    "legal/PRIVACY_POLICY.md"
   ]
 }
