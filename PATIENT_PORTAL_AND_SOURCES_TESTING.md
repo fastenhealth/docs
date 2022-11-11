@@ -17,6 +17,14 @@ https://open.epic.com/MyApps/Endpoints
 https://hackmd.io/@argonaut
 
 
+FHIR Endpoint Discovery
+- https://groups.google.com/g/smart-on-fhir/c/X1zRsk43Wnk
+- https://groups.google.com/g/smart-on-fhir/c/0tn4qAsWNCQ
+- http://community.fhir.org/t/list-of-production-fhir-endpoint-api-urls/2136
+- https://chat.fhir.org/#narrow/stream/252301-Endpoint-Discovery
+- https://lantern.healthit.gov/?tab=dashboard_tab
+- 
+
 # FHIR Source Directories
 - https://1up.health/fhir-endpoint-directory/1
 - https://www.cmscompliancetracker.com/?page_id=89
