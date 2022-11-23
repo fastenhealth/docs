@@ -23,7 +23,7 @@ FHIR Endpoint Discovery
 - http://community.fhir.org/t/list-of-production-fhir-endpoint-api-urls/2136
 - https://chat.fhir.org/#narrow/stream/252301-Endpoint-Discovery
 - https://lantern.healthit.gov/?tab=dashboard_tab
-- 
+- https://github.com/cerner/ignite-endpoints/blob/main/millennium_provider_r4_endpoints.json
 
 # FHIR Source Directories
 - https://1up.health/fhir-endpoint-directory/1
