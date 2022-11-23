@@ -30,3 +30,11 @@
 ## SMART Launch Flow
 - https://github.com/flexpa/sero/discussions/64
 - 
+
+
+Drag and Drop Widget Dashboard
+- https://stackblitz.com/edit/drag-drop-dashboard?file=src%2Fapp%2Fdashboard%2Fdashboard.component.html
+- https://themeforest.net/item/medux-medical-react-dashboard/41061766
+- http://healthdesignchallenge.com/showcase/nightingale/nightingale.pdf
+- http://healthdesignchallenge.com/showcase/studiotack/studiotack.pdf
+- http://healthdesignchallenge.com/showcase/method/method.pdf
