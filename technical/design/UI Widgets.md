@@ -19,3 +19,37 @@ Drag and Drop Widget Dashboard
 # Sources List
 
 ![](img/Screen%20Shot%202022-11-23%20at%208.29.38%20PM.png)
+
+# Calendar/Timeline
+![](img/Screen%20Shot%202022-11-23%20at%209.09.22%20PM.png)
+
+https://walterra.github.io/d3-milestones/?path=/story/d3-milestones--vikings
+![](img/Screen%20Shot%202022-11-23%20at%209.11.37%20PM.png)
+
+## AllergyIntolerance
+
+
+## Binary
+## CarePlan
+## CareTeam
+## Condition
+## Coverage
+## Device
+## DiagnosticReport
+## DocumentReference
+## Encounter
+## Goal
+## Immunization
+## Location
+## Medication
+## MedicationRequest
+## Observation
+## Organization
+## Patient
+## Practitioner
+## PractitionerRole
+## Procedure
+## Provenance
+## RelatedPerson
+## ServiceRequest
+## Specimen
