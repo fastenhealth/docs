@@ -40,10 +40,15 @@ https://walterra.github.io/d3-milestones/?path=/story/d3-milestones--vikings
 ## Encounter
 ## Goal
 ## Immunization
+
+![](img/Screen%20Shot%202022-11-23%20at%209.20.00%20PM.png)
 ## Location
 ## Medication
 ## MedicationRequest
 ## Observation
+
+![](img/Screen%20Shot%202022-11-23%20at%209.19.38%20PM.png)
+
 ## Organization
 ## Patient
 ## Practitioner
