@@ -13,3 +13,9 @@ Drag and Drop Widget Dashboard
 - https://javascript.plainenglish.io/drag-and-drop-dashboard-builder-with-angular-and-gridster-a07592e54ce2
 - https://github.com/tiberiuzuld/angular-gridster2
 - https://rawgit.com/ManifestWebDesign/angular-gridster/master/index.html#/dashboard
+
+# Widget For Resource Type
+
+# Sources List
+
+![](img/Screen%20Shot%202022-11-23%20at%208.29.38%20PM.png)
