@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI_UX.md",
+                "file": "technical/design/UI Widgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI_UX.md",
+                "file": "technical/design/UI Widgets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI_UX.md",
+                "file": "technical/design/UI Widgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI_UX.md"
+                "file": "technical/design/UI Widgets.md"
               }
             }
           }
@@ -171,15 +171,15 @@
   },
   "active": "564e5dd27a693649",
   "lastOpenFiles": [
+    "technical/design/UI_UX.md",
+    "technical/design/UI Widgets.md",
+    "technical/SINGLE_PAGE_APP.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md",
     "marketing/MARKETING_CHECKLIST.md",
     "sharing/INFORMATION_SHARING.md",
-    "technical/UI Widgets.md",
     "FEATURES.md",
     "CONTRIBUTORS.md",
-    "security/REFERENCES.md",
-    "legal/sources/EPIC.md",
-    "legal/CLA.md"
+    "security/REFERENCES.md"
   ]
 }

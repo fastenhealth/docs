@@ -1,3 +1,8 @@
+> This has been reverted as of Nov, 2022. Fasten would be great as a single-page-app, however we ran into the following issues:
+> - Webworkers were difficult to work with, the WW environment is very different from the browser js sandbox, and lots of libraries fail to work
+> - CORS is incredibly difficult to work with
+
+
 One of Fasten's long term goals is to support a cloud deployment model with zero-knowledge encryption for your medical records.
 
 While considering the implications of this, it became apparent that I may have to move a majority of the Server side logic to the client-side (Angular SPA). 
