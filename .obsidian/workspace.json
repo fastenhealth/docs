@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/design/UI Widgets.md",
+                "file": "technical/design/UI_UX.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/design/UI Widgets.md",
+                "file": "technical/design/UI_UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/design/UI Widgets.md",
+                "file": "technical/design/UI_UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/design/UI Widgets.md"
+                "file": "technical/design/UI_UX.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "564e5dd27a693649",
   "lastOpenFiles": [
-    "technical/design/UI_UX.md",
     "technical/design/UI Widgets.md",
+    "technical/design/UI_UX.md",
     "technical/SINGLE_PAGE_APP.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md",
