@@ -67,10 +67,8 @@
             "id": "4f455ab569458f46",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -140,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
+                "file": "technical/cloud/TERRAFORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
+                "file": "technical/cloud/TERRAFORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md"
+                "file": "technical/cloud/TERRAFORM.md"
               }
             }
           }
@@ -201,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f455ab569458f46",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
     "security/REFERENCES.md",
     "security/COUCHDB.md",
