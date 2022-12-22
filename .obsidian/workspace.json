@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md",
+                "file": "technical/design/UI_UX.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md",
+                "file": "technical/design/UI_UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md",
+                "file": "technical/design/UI_UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/cloud/TERRAFORM.md"
+                "file": "technical/design/UI_UX.md"
               }
             }
           }
@@ -199,8 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "fa02f46e5fd6eac8",
   "lastOpenFiles": [
+    "technical/design/UI Widgets.md",
+    "technical/cloud/TERRAFORM.md",
     "security/REFERENCES.md",
     "security/COUCHDB.md",
     "security/CORS Relay.md",
@@ -208,8 +209,6 @@
     "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
-    "legal/HIPAA.md",
-    "legal/CORP.md",
-    "legal/CLA.md"
+    "legal/HIPAA.md"
   ]
 }
