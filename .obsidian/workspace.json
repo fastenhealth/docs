@@ -32,6 +32,66 @@
             }
           },
           {
+            "id": "baa82aeff4da05a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BETA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d4353d7ab399e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reports/medical history.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbcd87cc04a0e064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reports/patient profile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b81e2731911fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reports/contracts - phonebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee6317f49a46da3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reports/medications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f99ee251dfe1f98e",
             "type": "leaf",
             "state": {
@@ -84,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "reports/medications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "reports/medications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
+                "file": "reports/medications.md"
               }
             }
           }
@@ -211,17 +271,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aee51d51f01e8ce6",
+  "active": "ee6317f49a46da3f",
   "lastOpenFiles": [
+    "reports/contracts - phonebook.md",
+    "reports/patient profile.md",
+    "reports/medical history.md",
+    "BETA.md",
+    "reports/labs.md",
+    "Untitled.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md",
     "FEATURES.md",
-    "CONTRIBUTORS.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "technical/TECH_STACK.md",
-    "technical/SOFTWARE.md",
-    "technical/SINGLE_PAGE_APP.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
-    "technical/FHIR COMMUNITY.md"
+    "CONTRIBUTORS.md"
   ]
 }
