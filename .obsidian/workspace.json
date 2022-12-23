@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/medications.md",
+                "file": "technical/FHIR COMMUNITY.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,22 +129,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
+                "file": "TODO_TASKS.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f455ab569458f46",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -210,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reports/medications.md",
+                "file": "TODO_TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reports/medications.md",
+                "file": "TODO_TASKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/medications.md"
+                "file": "TODO_TASKS.md"
               }
             }
           }
@@ -271,17 +263,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee6317f49a46da3f",
+  "active": "c1f886b14c834e94",
   "lastOpenFiles": [
-    "reports/contracts - phonebook.md",
-    "reports/patient profile.md",
+    "technical/FHIR COMMUNITY.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "sharing/INFORMATION_SHARING.md",
+    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
+    "TODO_TASKS.md",
+    "marketing/MARKETING_CHECKLIST.md",
+    "security/REFERENCES.md",
     "reports/medical history.md",
-    "BETA.md",
-    "reports/labs.md",
-    "Untitled.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "LANDING_PAGE.md",
-    "FEATURES.md",
-    "CONTRIBUTORS.md"
+    "security/CORS Relay.md",
+    "reports/medications.md"
   ]
 }
