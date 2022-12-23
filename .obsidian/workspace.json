@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/design/UI_UX.md",
+                "file": "sharing/INFORMATION_SHARING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee51d51f01e8ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/FHIR COMMUNITY.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/design/UI_UX.md",
+                "file": "technical/FHIR COMMUNITY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/design/UI_UX.md",
+                "file": "technical/FHIR COMMUNITY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/design/UI_UX.md"
+                "file": "technical/FHIR COMMUNITY.md"
               }
             }
           }
@@ -198,17 +211,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa02f46e5fd6eac8",
+  "active": "aee51d51f01e8ce6",
   "lastOpenFiles": [
-    "technical/design/UI Widgets.md",
-    "technical/cloud/TERRAFORM.md",
-    "security/REFERENCES.md",
-    "security/COUCHDB.md",
-    "security/CORS Relay.md",
-    "marketing/MARKETING_CHECKLIST.md",
-    "legal/PRIVACY_POLICY.md",
-    "legal/LICENSE.md",
-    "legal/INTELLECTUAL_PROPERTY.md",
-    "legal/HIPAA.md"
+    "sharing/INFORMATION_SHARING.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "LANDING_PAGE.md",
+    "CONTRIBUTORS.md",
+    "FAQs.md",
+    "technical/TECH_STACK.md",
+    "technical/SOFTWARE.md",
+    "technical/SINGLE_PAGE_APP.md",
+    "technical/ID_VS_ACCESS_TOKEN.md"
   ]
 }
