@@ -38,7 +38,8 @@ FHIR Endpoint Discovery
 - https://support.apple.com/en-us/HT208647\
 - ALL MyChart should be supported via Epic integration - https://open.epic.com/Tutorial/PatientAuthentication?whereFrom=MyChart
 - https://download.cms.gov/nppes/NPI_Files.html
-
+- https://carequality.org/active-sites-search/
+- https://lantern.healthit.gov/?tab=dashboard_tab
 
 
 ## Example Datasets / Synthetic Data

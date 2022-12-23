@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md"
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
               }
             }
           }
@@ -213,15 +213,15 @@
   },
   "active": "aee51d51f01e8ce6",
   "lastOpenFiles": [
-    "sharing/INFORMATION_SHARING.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md",
+    "FEATURES.md",
     "CONTRIBUTORS.md",
-    "FAQs.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
     "technical/TECH_STACK.md",
     "technical/SOFTWARE.md",
     "technical/SINGLE_PAGE_APP.md",
-    "technical/ID_VS_ACCESS_TOKEN.md"
+    "technical/ID_VS_ACCESS_TOKEN.md",
+    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
+    "technical/FHIR COMMUNITY.md"
   ]
 }
