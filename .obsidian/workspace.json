@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md",
+                "file": "technical/ARCHITECTURE.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md",
+                "file": "technical/ARCHITECTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md",
+                "file": "technical/ARCHITECTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md"
+                "file": "technical/ARCHITECTURE.md"
               }
             }
           }
@@ -265,15 +265,15 @@
   },
   "active": "c1f886b14c834e94",
   "lastOpenFiles": [
+    "technical/design/UI_UX.md",
+    "marketing/MARKETING_CHECKLIST.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/screenshots/2.connect.png",
     "img/screenshots/3.callback.png",
     "technical/FHIR COMMUNITY.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "marketing/MARKETING_CHECKLIST.md",
     "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
     "technical/cloud/ARCHITECTURE.md",
-    "security/REFERENCES.md",
-    "TODO_TASKS.md"
+    "security/REFERENCES.md"
   ]
 }

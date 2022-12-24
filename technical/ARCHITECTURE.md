@@ -29,11 +29,9 @@ Container_Boundary(publicInternet, "Public Internet") {
 sequenceDiagram
 User->>Fasten Self-Hosted: Open Fasten in Browser
 Fasten Self-Hosted->>User: Respond with Angular Frontend
-User->>Healthcare Provider: Attempt connection to Healthcare provider
-Healthcare Provider-->>Fasten Lighthouse: Redirect
-
-loop Wait for temp auth code
-    Fasten Self-Hosted->>Fasten Lighthouse: Continously check for auth code
-end
+User->>Fasten Lighthouse: Register self-hosted redirect url
+Fasten Lighthouse->>Healthcare Provider: Attempt connection to Healthcare provider
+Healthcare Provider-->>Fasten Lighthouse: Redirect with auth code Fragment
+Fasten Lighthouse-->>Fasten Self-Hosted: Redirect to self-hosted url 
 Fasten Self-Hosted-->>Healthcare Provider:Retrieve private healthcare data
 ```
