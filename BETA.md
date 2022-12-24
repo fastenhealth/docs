@@ -8,19 +8,25 @@ If you haven't already, please fill out this [Google Form](https://forms.gle/SNs
 
 This Beta is provided with a couple of caveats:
 
-- Fasten is still closed-source (please see the Reddit discussion for more info)
+- Fasten is still partially closed-source (please see the Reddit discussion for more info)
 - The Beta version is only available as a Docker image (eventually we'll support other modes of distribution)
 - Fasten is still a work-in-progress (many buttons in the UI do not do anything)
-- Fasten can only connect to a handful of healthcare providers, but only their Sandbox accounts
-	- Sandbox accounts are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information. 
 
 ## Instructions
 
+There are 2 flavors of Fasten:
+- `sandbox` - This version only allows you to connect to a handful of Healthcare providers, using Sandbox accounts that are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information.
+- `main` - This version allows you to connect to 650+ different Healthcare providers, using your existing accounts. It will allow you to connect and retrive your full electronic medical record and store it within Fasten. 
+
 Run the following commands to download and start the Fasten docker container.
+
+> The instructions below are for the `sandbox` flavor of Fasten. If you'd like to connect using your real account, please use `ghcr.io/fastenhealth/fasten-onprem:main` in the commands below.
+
 ```
-docker pull ghcr.io/fastenhealth/fasten-onprem:main 
-docker run --rm -p 9090:8080 ghcr.io/fastenhealth/fasten-onprem:main 
+docker pull ghcr.io/fastenhealth/fasten-onprem:sandbox 
+docker run --rm -p 9090:8080 ghcr.io/fastenhealth/fasten-onprem:sandbox 
 ```
+
 
 Next, open a browser to http://localhost:9090
 
@@ -45,9 +51,16 @@ This page will intially be empty, see the next section - `Connecting a new Sourc
 
 ### Connecting a new Source
 Before you can use Fasten, you'll need to connect a healthcare provider.
-To do so, you'll need to use a Sandbox user and password from the table below.
 
-> You should not (and cannot) use real credentials to test Fasten. 
+#### Production (Main) Flavor
+
+If you're using the `main` flavor of Fasten, find a Source where you have an account, and login with your credentials. 
+
+#### Sandbox Flavor
+
+This version only allows you to connect to a handful of Healthcare providers, using Sandbox accounts that are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information.
+
+To do so, you'll need to use a Sandbox user and password from the table below. You should not (and cannot) use real credentials with the Sandbox version o Fasten. 
 
 | Source | Credentials | Link |
 | --- | --- | ---  | 
