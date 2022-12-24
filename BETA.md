@@ -60,7 +60,7 @@ If you're using the `main` flavor of Fasten, find a Source where you have an acc
 
 This version only allows you to connect to a handful of Healthcare providers, using Sandbox accounts that are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information.
 
-To do so, you'll need to use a Sandbox user and password from the table below. You should not (and cannot) use real credentials with the Sandbox version o Fasten. 
+To do so, you'll need to use a Sandbox user and password from the table below. You should not (and cannot) use real credentials with the Sandbox version of Fasten. 
 
 | Source | Credentials | Link |
 | --- | --- | ---  | 
