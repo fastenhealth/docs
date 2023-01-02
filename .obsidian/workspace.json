@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BETA.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BETA.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BETA.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BETA.md"
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
               }
             }
           }
@@ -265,6 +265,7 @@
   },
   "active": "c1f886b14c834e94",
   "lastOpenFiles": [
+    "BETA.md",
     "technical/ARCHITECTURE.md",
     "technical/design/UI_UX.md",
     "marketing/MARKETING_CHECKLIST.md",
@@ -273,7 +274,6 @@
     "img/screenshots/3.callback.png",
     "technical/FHIR COMMUNITY.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
-    "technical/cloud/ARCHITECTURE.md"
+    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md"
   ]
 }

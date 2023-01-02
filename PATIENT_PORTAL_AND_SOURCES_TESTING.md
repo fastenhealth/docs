@@ -1,10 +1,12 @@
 
 # EMR Vendors & Market Share
 -   Epic: 32.9%
+	- https://open.epic.com/MyApps/Endpoints
 -   Cerner: 24.4%
 -   Meditech: 16.7%
 -   CPSI: 8.7%
 -   Allscripts: 4.3%
+	- https://open.allscripts.com/fhirendpoints
 -   Medhost: 3.1%
 
 # FHIR Sandboxes
@@ -12,7 +14,7 @@
 - https://confluence.hl7.org/display/FHIR/Public+Test+Servers
 
 # EPIC SOURCES
-https://open.epic.com/MyApps/Endpoints
+
 
 https://hackmd.io/@argonaut
 
