@@ -1,4 +1,6 @@
 
+
+
 # EMR Vendors & Market Share
 -   Epic: 32.9%
 	- https://open.epic.com/MyApps/Endpoints
@@ -26,6 +28,8 @@ FHIR Endpoint Discovery
 - https://chat.fhir.org/#narrow/stream/252301-Endpoint-Discovery
 - https://lantern.healthit.gov/?tab=dashboard_tab
 - https://github.com/cerner/ignite-endpoints/blob/main/millennium_provider_r4_endpoints.json
+- https://chpl.healthit.gov/#/search
+- 
 
 # FHIR Source Directories
 - https://1up.health/fhir-endpoint-directory/1
