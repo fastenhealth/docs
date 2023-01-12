@@ -4,12 +4,18 @@
 # EMR Vendors & Market Share
 -   Epic: 32.9%
 	- https://open.epic.com/MyApps/Endpoints
+	- status: prod access granted
 -   Cerner: 24.4%
+	- status: prod access granted
 -   Meditech: 16.7%
+	- status: --
 -   CPSI: 8.7%
+	- status: --
 -   Allscripts: 4.3%
 	- https://open.allscripts.com/fhirendpoints
+	- status: requested app creds
 -   Medhost: 3.1%
+	- status: --
 
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
