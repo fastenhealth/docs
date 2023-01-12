@@ -1,0 +1,2 @@
+https://tx.fhir.org/loinc/en-US?srch=LP14890-5
+https://terminology.hl7.org/
