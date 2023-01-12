@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/SINGLE_PAGE_APP.md",
+                "file": "technical/archive/SINGLE_PAGE_APP.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+                "file": "technical/archive/SINGLE_PAGE_APP.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+                "file": "technical/archive/SINGLE_PAGE_APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+                "file": "technical/archive/SINGLE_PAGE_APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md"
+                "file": "technical/archive/SINGLE_PAGE_APP.md"
               }
             }
           }
@@ -301,15 +301,15 @@
   },
   "active": "27ebfae37f116ff8",
   "lastOpenFiles": [
+    "technical/cloud/ARCHITECTURE.md",
+    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
+    "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
+    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
     "technical/FHIR COMMUNITY.md",
     "technical/AUTHENTICATION.md",
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS.md",
     "technical/cloud/TERRAFORM.md",
-    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
-    "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
-    "technical/cloud/ARCHITECTURE.md",
-    "sharing/INFORMATION_SHARING.md",
-    "security/REFERENCES.md"
+    "sharing/INFORMATION_SHARING.md"
   ]
 }
