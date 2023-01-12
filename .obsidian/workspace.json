@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/archive/SINGLE_PAGE_APP.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/archive/SINGLE_PAGE_APP.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/archive/SINGLE_PAGE_APP.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/archive/SINGLE_PAGE_APP.md"
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
               }
             }
           }
@@ -301,15 +301,15 @@
   },
   "active": "27ebfae37f116ff8",
   "lastOpenFiles": [
-    "technical/cloud/ARCHITECTURE.md",
-    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
-    "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
+    "technical/TECH_STACK.md",
+    "technical/SOFTWARE.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+    "technical/ID_VS_ACCESS_TOKEN.md",
+    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
     "technical/FHIR COMMUNITY.md",
     "technical/AUTHENTICATION.md",
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS.md",
-    "technical/cloud/TERRAFORM.md",
-    "sharing/INFORMATION_SHARING.md"
+    "technical/cloud/TERRAFORM.md"
   ]
 }
