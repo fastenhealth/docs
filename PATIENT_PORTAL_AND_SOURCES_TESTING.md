@@ -2,20 +2,24 @@
 
 
 # EMR Vendors & Market Share
--   Epic: 32.9%
+- Epic: 32.9%
 	- https://open.epic.com/MyApps/Endpoints
 	- status: prod access granted
--   Cerner: 24.4%
+- Cerner: 24.4%
 	- status: prod access granted
--   Meditech: 16.7%
+- Meditech: 16.7%
+	- status: need to request new creds (email)
+- CPSI: 8.7%
 	- status: --
--   CPSI: 8.7%
-	- status: --
--   Allscripts: 4.3%
+- Allscripts: 4.3%
 	- https://open.allscripts.com/fhirendpoints
-	- status: requested app creds
--   Medhost: 3.1%
+	- status: sandbox access granted
+- Medhost: 3.1%
 	- status: --
+- Cerner
+	- status: prod access requested - fill out form
+- CareEvolution
+	- status: sandbox access - no production access available (site by site required)
 
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
