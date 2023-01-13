@@ -2,6 +2,10 @@
 
 
 # EMR Vendors & Market Share
+
+>[full list of CURES Act compliant EHR systems](https://chpl.healthit.gov/#/search) 
+>- 170.315 (g)(10): Standardized API for Patient and Population Services (Cures Update)
+
 - Epic: 32.9%
 	- [x] https://open.epic.com/MyApps/Endpoints
 	- [ ] https://fhir.epic.com/Developer/Management?id=21498
