@@ -8,6 +8,7 @@
 
 - Epic: 32.9%
 	- [x] https://open.epic.com/MyApps/Endpoints
+	- [x] https://open.epic.com/Endpoints/R4 ✅ 2023-01-12
 	- [ ] https://fhir.epic.com/Developer/Management?id=21498
 	- [ ] https://www.mychart.com/LoginSignup
 	- status: prod access granted
