@@ -3,7 +3,9 @@
 
 # EMR Vendors & Market Share
 - Epic: 32.9%
-	- https://open.epic.com/MyApps/Endpoints
+	- [x] https://open.epic.com/MyApps/Endpoints
+	- [ ] https://fhir.epic.com/Developer/Management?id=21498
+	- [ ] https://www.mychart.com/LoginSignup
 	- status: prod access granted
 - Cerner: 24.4%
 	- status: prod access granted
@@ -17,11 +19,14 @@
 - Medhost: 3.1%
 	- status: --
 - Cerner
+	- [x] https://github.com/cerner/ignite-endpoints/blob/main/millennium_provider_r4_endpoints.json
 	- status: prod access requested - fill out form
 - CareEvolution
 	- status: sandbox access - no production access available (site by site required)
 - eClinicalWorks
-
+- NextGenHealthcare
+	- [ ] https://www.nextgen.com/api/practice-search
+	- status: -- 
 
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
@@ -39,7 +44,6 @@ FHIR Endpoint Discovery
 - http://community.fhir.org/t/list-of-production-fhir-endpoint-api-urls/2136
 - https://chat.fhir.org/#narrow/stream/252301-Endpoint-Discovery
 - https://lantern.healthit.gov/?tab=dashboard_tab
-- https://github.com/cerner/ignite-endpoints/blob/main/millennium_provider_r4_endpoints.json
 - https://chpl.healthit.gov/#/search
 - 
 
