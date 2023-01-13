@@ -24,7 +24,7 @@
 - CareEvolution
 	- status: sandbox access - no production access available (site by site required)
 - eClinicalWorks - healow.com
-	- 
+	- status: [submitted api request](https://www.eclinicalworks.com/products-services/interoperability/provider-centric-apps/)
 - NextGenHealthcare
 	- [ ] https://www.nextgen.com/api/practice-search
 	- status: -- 

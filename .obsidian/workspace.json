@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "LANDING_PAGE.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "LANDING_PAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "LANDING_PAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
+                "file": "LANDING_PAGE.md"
               }
             }
           }
@@ -301,6 +301,7 @@
   },
   "active": "27ebfae37f116ff8",
   "lastOpenFiles": [
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "technical/TECH_STACK.md",
     "technical/SOFTWARE.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
@@ -309,7 +310,6 @@
     "technical/FHIR COMMUNITY.md",
     "technical/AUTHENTICATION.md",
     "technical/ARCHITECTURE.md",
-    "technical/ANALYTICS.md",
-    "technical/cloud/TERRAFORM.md"
+    "technical/ANALYTICS.md"
   ]
 }
