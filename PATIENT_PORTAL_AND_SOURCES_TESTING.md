@@ -28,6 +28,8 @@
 	- [ ] https://www.nextgen.com/api/practice-search
 	- status: -- 
 
+
+
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
 - https://confluence.hl7.org/display/FHIR/Public+Test+Servers
@@ -45,7 +47,7 @@ FHIR Endpoint Discovery
 - https://chat.fhir.org/#narrow/stream/252301-Endpoint-Discovery
 - https://lantern.healthit.gov/?tab=dashboard_tab
 - https://chpl.healthit.gov/#/search
-- 
+- https://github.com/the-commons-project/vci-directory/blob/main/vci-issuers.json
 
 # FHIR Source Directories
 - https://1up.health/fhir-endpoint-directory/1
