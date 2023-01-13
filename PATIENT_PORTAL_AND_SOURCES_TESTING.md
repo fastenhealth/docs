@@ -34,7 +34,9 @@
 - NextGenHealthcare (4036)
 	- [ ] https://www.nextgen.com/api/practice-search
 	- status: -- 
-
+- Anthem
+	- [x] https://patient360.anthem.com/P360Member/fhir/endpoints
+	- status: prod
 
 
 # FHIR Sandboxes
