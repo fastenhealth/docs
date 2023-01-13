@@ -15,7 +15,7 @@
 - Cerner: 24.4%
 	- [x] https://github.com/cerner/ignite-endpoints/blob/main/millennium_patient_r4_endpoints.json
 	- status: prod access granted
-- Meditech: 16.7%
+- Meditech: 16.7% (350)
 	- status: need to request new creds (email)
 - CPSI: 8.7%
 	- status: --
@@ -31,7 +31,7 @@
 	- status: sandbox access - no production access available (site by site required)
 - eClinicalWorks - healow.com
 	- status: [submitted api request](https://www.eclinicalworks.com/products-services/interoperability/provider-centric-apps/)
-- NextGenHealthcare
+- NextGenHealthcare (4036)
 	- [ ] https://www.nextgen.com/api/practice-search
 	- status: -- 
 
