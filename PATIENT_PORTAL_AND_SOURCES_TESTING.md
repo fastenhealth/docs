@@ -13,6 +13,7 @@
 	- [ ] https://www.mychart.com/LoginSignup
 	- status: prod access granted
 - Cerner: 24.4%
+	- [x] https://github.com/cerner/ignite-endpoints/blob/main/millennium_patient_r4_endpoints.json
 	- status: prod access granted
 - Meditech: 16.7%
 	- status: need to request new creds (email)
@@ -23,9 +24,9 @@
 	- status: sandbox access granted
 - Medhost: 3.1%
 	- status: --
-- Cerner
-	- [x] https://github.com/cerner/ignite-endpoints/blob/main/millennium_provider_r4_endpoints.json
-	- status: prod access requested - fill out form
+- Cigna
+	- [ ]
+	- status: fill out form
 - CareEvolution
 	- status: sandbox access - no production access available (site by site required)
 - eClinicalWorks - healow.com
