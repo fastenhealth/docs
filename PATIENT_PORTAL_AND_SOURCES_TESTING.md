@@ -42,6 +42,8 @@
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
 - https://confluence.hl7.org/display/FHIR/Public+Test+Servers
+- https://github.com/sync-for-science/procure-wip/blob/f234eb1d4f7121da31baf1809be8f5726210bc99/public/config/sandbox_endpoints.json#L84
+
 
 # EPIC SOURCES
 
