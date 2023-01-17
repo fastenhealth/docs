@@ -21,7 +21,7 @@
 	- status: --
 - Allscripts: 4.3%
 	- https://open.allscripts.com/fhirendpoints
-	- status: sandbox access granted
+	- status: sandbox access granted - testing failed
 - Medhost: 3.1%
 	- status: --
 - Cigna
