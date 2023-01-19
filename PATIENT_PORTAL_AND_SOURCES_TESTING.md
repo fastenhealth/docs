@@ -41,6 +41,28 @@
 	- status: prod
 
 
+https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/endpointmanager/pkg/chplendpointquerier/chplendpointquerier.go
+
+var MedHostURL = "https://api.mhdi10xasayd.com/medhost-developer-composition/v1/fhir-base-urls.json"
+var NextGenURL = "https://nextgen.com/api/practice-search"
+var CanvasURL = "https://docs.canvasmedical.com/reference/service-base-urls"
+var AllScriptsURL = "https://open.allscripts.com/fhirendpoints"
+var EpicURL = "https://open.epic.com/MyApps/Endpoints"
+var MeditechURL = "https://home.meditech.com/en/d/restapiresources/pages/apidoc.htm"
+var DocsAthenaURL = "https://docs.athenahealth.com/api/base-fhir-urls"
+var MyDataAthenaURL = "https://mydata.athenahealth.com/home"
+var OneMedicalURL = "https://apidocs.onemedical.io/fhir/overview/"
+var unifyURL = "https://unify-developer.chbase.com/?page=FHIRAPI"
+var trimedtechURL = "https://www.trimedtech.com/Documentation/FHIRAPI/FHIRAPI.html"
+var trimedtechv8URL = "https://www.trimedtech.com/Documentation/FHIRAPI/V8FHIRAPI.html"
+
+var oneUpURL = "https://1up.health/fhir-endpoint-directory"
+var careEvolutionURL = "https://fhir.docs.careevolution.com/overview/public_endpoints.html"
+var techCareURL = "https://devportal.techcareehr.com/Serviceurls"
+var carefluenceURL = "https://carefluence.com/carefluence-fhir-endpoints/"
+
+https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/resources/dev_resources/CHPLEndpointResourcesList.json
+
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
 - https://confluence.hl7.org/display/FHIR/Public+Test+Servers
