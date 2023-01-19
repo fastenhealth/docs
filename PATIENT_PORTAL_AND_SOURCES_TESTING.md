@@ -16,8 +16,10 @@
 	- [x] https://github.com/cerner/ignite-endpoints/blob/main/millennium_patient_r4_endpoints.json
 	- status: prod access granted
 - Meditech: 16.7% (350)
+	- [ ] https://fhir.meditech.com/explorer/endpoints
 	- status: need to request new creds (email sent)
 - CPSI: 8.7%
+	- https://unify-developer.chbase.com/?page=FHIRAPI
 	- status: --
 - Allscripts: 4.3%
 	- https://open.allscripts.com/fhirendpoints
