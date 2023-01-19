@@ -61,7 +61,12 @@ var careEvolutionURL = "https://fhir.docs.careevolution.com/overview/public_endp
 var techCareURL = "https://devportal.techcareehr.com/Serviceurls"
 var carefluenceURL = "https://carefluence.com/carefluence-fhir-endpoints/"
 
+
+https://github.com/onc-healthit/lantern-back-end/tree/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/db
+
 https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/resources/dev_resources/CHPLEndpointResourcesList.json
+https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/resources/prod_resources/CHPLEndpointResourcesList.json
+https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/resources/prod_resources/CHPLProductsInfo.json
 
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
