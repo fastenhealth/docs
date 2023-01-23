@@ -42,3 +42,17 @@ I've been working on complaint software/infrastructure (PCI, HIPAA, SOC, FedRAMP
 1. TBH, if healthcare data was aggregated and managed by a single organization in the cloud, it would become a massive target and a likely source of data-breaches.
 2. They would have to be HIPAA compliant. As someone who has developed complaint software -- HIPAA, SOC, PCI, FedRAMP -- for most of my career, I don't want to touch that ball of wax with Fasten.
 3. Personally, I wouldn't trust a single company with all my healthcare data, especially a for-profit. I think many of us in [/r/selfhosted](https://www.reddit.com/r/selfhosted) feel the same way.
+
+## How do you plan on monetizing Fasten?
+
+I think there's lots of possibilities for monetization, however I want to be thoughtful about it. 
+
+Ideally Fasten will become a zero-knowledge application, where monetizing user-data is a non-starter. However there's a couple of different ways to still build a viable company, given that integrating with healthcare providers is so high-friction. 
+
+
+- free open-source self-hosted version but charge for cloud-hosted version - this broadens our market to include non-technical users and allows for the possibility of sharing data with healthcare institutions (with the patients consent)
+- become a data-platform/gateway, similar to plaid, and charge institutions to integrate with Fasten. This means when a patient changes healthcare providers/insurance companies, they may see an "import" button in their patient portals to pull their full history from Fasten into their provider. This is only viable if Fasten has significant market share. 
+- become a data-gateway, for a specific niche. Partner with researchers/providers that work with  high-risk groups (diabetics, liver disease, etc) and build dashboard widgets focused on providing relevant information for those patient types, so that the researchers and providers in that niche direct all new users towards Fasten. rinse-and-repeat for other diseases, then tackle Enterprise agreements
+
+
+Ideally Fasten is free for self-hosted users, and free/minimal cost for cloud-users. Eventually I'd like to partner with (and charge) medical institutions, as B2B/B2E is the most lucrative, but it'll probably be a long time before that's viable. Personally I'm not depending on Fasten making money anytime soon, I just want to build something that will help people track their medical information, and build a community around it. If our community becomes big enough, monetization will be easy. The community will support the sharing features since they are in control, and our goals align.
