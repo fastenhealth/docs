@@ -301,15 +301,15 @@
   },
   "active": "27ebfae37f116ff8",
   "lastOpenFiles": [
+    "legal/FHIR_FEES.md",
+    "legal/HIPAA.md",
+    "CONTRIBUTORS.md",
+    "FAQs.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "LANDING_PAGE.md",
     "technical/TECH_STACK.md",
     "technical/SOFTWARE.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
-    "technical/FHIR COMMUNITY.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md"
+    "technical/ID_VS_ACCESS_TOKEN.md"
   ]
 }
