@@ -21,7 +21,7 @@
 - CPSI: 8.7%
 	- https://unify-developer.chbase.com/?page=FHIRAPI
 	- unifyURL = "[https://unify-developer.chbase.com/?page=FHIRAPI](https://unify-developer.chbase.com/?page=FHIRAPI)"
-	- status: --
+	- status: Cannot register application
 - Allscripts: 4.3%
 	- https://open.allscripts.com/fhirendpoints
 	- status: sandbox access granted - testing failed
@@ -40,7 +40,9 @@
 - Anthem
 	- [x] https://patient360.anthem.com/P360Member/fhir/endpoints
 	- status: prod
-
+- One Medical 
+	- - OneMedicalURL = "https://apidocs.onemedical.io/fhir/overview/"
+	- status: not ready for customers
 
 https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/endpointmanager/pkg/chplendpointquerier/chplendpointquerier.go
 
