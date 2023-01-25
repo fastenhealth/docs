@@ -20,6 +20,7 @@
 	- status: need to request new creds (email sent)
 - CPSI: 8.7%
 	- https://unify-developer.chbase.com/?page=FHIRAPI
+	- unifyURL = "[https://unify-developer.chbase.com/?page=FHIRAPI](https://unify-developer.chbase.com/?page=FHIRAPI)"
 	- status: --
 - Allscripts: 4.3%
 	- https://open.allscripts.com/fhirendpoints
@@ -54,7 +55,7 @@ https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b
 - DocsAthenaURL = "https://docs.athenahealth.com/api/base-fhir-urls"
 - MyDataAthenaURL = "https://mydata.athenahealth.com/home"
 - OneMedicalURL = "https://apidocs.onemedical.io/fhir/overview/"
-- unifyURL = "[https://unify-developer.chbase.com/?page=FHIRAPI](https://unify-developer.chbase.com/?page=FHIRAPI)"
+
 - trimedtechURL = "[https://www.trimedtech.com/Documentation/FHIRAPI/FHIRAPI.html](https://www.trimedtech.com/Documentation/FHIRAPI/FHIRAPI.html)"
 - trimedtechv8URL = "[https://www.trimedtech.com/Documentation/FHIRAPI/V8FHIRAPI.html](https://www.trimedtech.com/Documentation/FHIRAPI/V8FHIRAPI.html)"
 - cernerR4URL = "[https://github.com/cerner/ignite-endpoints/blob/main/soarian_patient_r4_endpoints.json](https://github.com/cerner/ignite-endpoints/blob/main/soarian_patient_r4_endpoints.json)"
