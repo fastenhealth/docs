@@ -6,6 +6,8 @@
 > Certified API Developers must publish service base URLs for all Health IT Modules certified to § 170.315(g)(10) that can be used by patients to access their EHI.  
 > Certified API Developers must publicly publish service base URLs for all customers in a machine-readable format at no charge.  
 > 
+> As discussed in section VIII.C.6.c of the ONC Cures Act Final Rule, API Information  Sources who locally manage their FHIR servers without Certified API Developer  assistance cannot refuse to provide to Certified API Developers the FHIR service  base URL(s) that is/are necessary for patients to use to access their EHI. Equally,  pursuant to this Maintenance of Certification requirement, they would be  required to publish the FHIR service base URLs they centrally manage on behalf  of API Information Sources.
+> 
 > https://www.healthit.gov/sites/default/files/2021-12/Lantern-webinar_508.pdf
 
 
