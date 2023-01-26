@@ -1,5 +1,16 @@
 
 
+> It’s an ONC Cures Rule maintenance of certification requirement for certification criterion  Standardized API for Patient and Population Services 170.315(g)(10) for certified API  developers to publish service base URLs for all customers in a machine-readable format.
+> 
+> [Regulatory Text: 45 CFR 170.404(b)(2) ](https://ecfr.federalregister.gov/current/title-45/subtitle-A/subchapter-D/part-170/subpart-Dp-170.404(b)(2))
+> Certified API Developers must publish service base URLs for all Health IT Modules certified to § 170.315(g)(10) that can be used by patients to access their EHI.  
+> Certified API Developers must publicly publish service base URLs for all customers in a machine-readable format at no charge.  
+> 
+> https://www.healthit.gov/sites/default/files/2021-12/Lantern-webinar_508.pdf
+
+
+
+
 
 # EMR Vendors & Market Share
 
