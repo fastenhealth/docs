@@ -24,16 +24,6 @@
 https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/endpointmanager/pkg/chplendpointquerier/chplendpointquerier.go
 
 
-
-- carefluenceURL = "[https://carefluence.com/carefluence-fhir-endpoints/](https://carefluence.com/carefluence-fhir-endpoints/)"
-- abeoSolutionsURL = "[https://www.crystalpm.com/FHIRServiceURLs.csv](https://www.crystalpm.com/FHIRServiceURLs.csv)"
-- practiceSuiteURL = "[https://academy.practicesuite.com/fhir-server-links/](https://academy.practicesuite.com/fhir-server-links/)"
-- bizmaticsURL = "[https://prognocis.com/fhir/index.html](https://prognocis.com/fhir/index.html)"
-- indianHealthServiceURL = "[https://www.ihs.gov/cis/](https://www.ihs.gov/cis/)"
-- geniusSolutionsURL = "[https://gsehrwebapi.geniussolutions.com/Help/html/ServiceUrl.html](https://gsehrwebapi.geniussolutions.com/Help/html/ServiceUrl.html)"
-- assureCareURL = "[https://ipatientcare.com/onc-acb-certified-2015-edition/](https://ipatientcare.com/onc-acb-certified-2015-edition/)"
-- intelichartURL = "[https://fhirtest.intelichart.com/Help/BaseUrl](https://fhirtest.intelichart.com/Help/BaseUrl)"
-- healthCare2000URL = "[https://www.provider.care/FHIR/MDVitaFHIRUrls.csv](https://www.provider.care/FHIR/MDVitaFHIRUrls.csv)"
 - firstInsightURL = "[https://www.first-insight.com/maximeyes_fhir_base_url_endpoints/](https://www.first-insight.com/maximeyes_fhir_base_url_endpoints/)"
 - healthSamuraiURL = "https://cmpl.aidbox.app/smart"
 - triarqURL = "https://fhir.myqone.com/Endpoints"
