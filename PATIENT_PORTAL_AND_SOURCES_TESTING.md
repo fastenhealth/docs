@@ -24,24 +24,6 @@
 https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/endpointmanager/pkg/chplendpointquerier/chplendpointquerier.go
 
 
-- firstInsightURL = "[https://www.first-insight.com/maximeyes_fhir_base_url_endpoints/](https://www.first-insight.com/maximeyes_fhir_base_url_endpoints/)"
-- healthSamuraiURL = "https://cmpl.aidbox.app/smart"
-- triarqURL = "https://fhir.myqone.com/Endpoints"
-- napchareURL = "https://devportal.techcareehr.com/Serviceurls"
-- goldblattURL = "https://www.goldblattsystems.com/apis"
-- cyfluentURL = "https://app.swaggerhub.com/apis-docs/Cyfluent/ProviderPortalApi/3.3#/FHIR/fhir"
-- mphrxURL = "https://www.mphrx.com/fhir-service-base-url-directory/"
-- meridianURL = "https://api-datamanager.carecloud.com:8081/fhirurl"
-- qualifactsURL = "https://qualifacts.com/api-documentation/"
-- medinfoengineeringURL = "https://docs.webchartnow.com/resources/system-specifications/fhir-application-programming-interface-api/endpoints/"
-- relimedsolutionsURL = "https://help.relimedsolutions.com/fhir/fhir-service-urls.csv"
-- eclinicalworksURL = "https://fhir.eclinicalworks.com/ecwopendev"
-- integraconnectURL = "https://www.integraconnect.com/certifications/"
-- streamlinemdURL = "https://patientportal.streamlinemd.com/FHIRReg/Practice%20Service%20based%20URL%20List.csv"
-- bridgepatientportalURL = "https://bridgepatientportal.docs.apiary.io/#/introduction/fhir-bridge-patient-portal/fhir-endpoints"
-- medicalmineURL = "https://www.charmhealth.com/resources/fhir/index.html#api-endpoints"
-- microfourURL = "https://oauth.patientwebportal.com/Fhir/Documentation#serviceBaseUrls"
-- magilenenterprisesURL = "https://www.qsmartcare.com/api-documentation.html"
 
 https://github.com/onc-healthit/lantern-back-end/tree/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/db
 
