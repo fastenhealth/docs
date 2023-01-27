@@ -19,62 +19,12 @@
 >[full list of CURES Act compliant EHR systems](https://chpl.healthit.gov/#/search) 
 >- 170.315 (g)(10): Standardized API for Patient and Population Services (Cures Update)
 
-- Epic: 32.9%
-	- [x] https://open.epic.com/MyApps/Endpoints
-	- [x] https://open.epic.com/Endpoints/R4 ✅ 2023-01-12
-	- [ ] https://fhir.epic.com/Developer/Management?id=21498
-	- [ ] https://www.mychart.com/LoginSignup
-	- status: prod access granted
-- Cerner: 24.4%
-	- [x] https://github.com/cerner/ignite-endpoints/blob/main/millennium_patient_r4_endpoints.json
-	- status: prod access granted
-- Meditech: 16.7% (350)
-	- [ ] https://fhir.meditech.com/explorer/endpoints
-	- status: need to request new creds (email sent)
-- CPSI: 8.7%
-	- https://unify-developer.chbase.com/?page=FHIRAPI
-	- unifyURL = "[https://unify-developer.chbase.com/?page=FHIRAPI](https://unify-developer.chbase.com/?page=FHIRAPI)"
-	- status: Cannot register application
-- Allscripts: 4.3%
-	- https://open.allscripts.com/fhirendpoints
-	- status: sandbox access granted - testing failed
-- Medhost: 3.1%
-	- status: --
-- Cigna
-	- [ ]
-	- status: fill out form
-- CareEvolution
-	- status: sandbox access - no production access available (site by site required)
-- eClinicalWorks - healow.com
-	- status: [submitted api request](https://www.eclinicalworks.com/products-services/interoperability/provider-centric-apps/)
-- NextGenHealthcare (4036)
-	- [ ] https://www.nextgen.com/api/practice-search
-	- status: sent email requesting client
-- Anthem
-	- [x] https://patient360.anthem.com/P360Member/fhir/endpoints
-	- status: prod
-- One Medical 
-	- - OneMedicalURL = "https://apidocs.onemedical.io/fhir/overview/"
-	- status: not ready for customers
+
 
 https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/endpointmanager/pkg/chplendpointquerier/chplendpointquerier.go
 
-- MedHostURL = "https://api.mhdi10xasayd.com/medhost-developer-composition/v1/fhir-base-urls.json"
-- NextGenURL = "https://nextgen.com/api/practice-search"
-- CanvasURL = "https://docs.canvasmedical.com/reference/service-base-urls"
-- AllScriptsURL = "https://open.allscripts.com/fhirendpoints"
-- AlteraURL = "https://open.allscripts.com/fhirendpoints"
-- EpicURL = "https://open.epic.com/MyApps/Endpoints"
-- MeditechURL = "https://home.meditech.com/en/d/restapiresources/pages/apidoc.htm"
-- MeditechURL = "https://fhir.meditech.com/explorer/endpoints"
-- DocsAthenaURL = "https://docs.athenahealth.com/api/base-fhir-urls"
-- MyDataAthenaURL = "https://mydata.athenahealth.com/home"
-- OneMedicalURL = "https://apidocs.onemedical.io/fhir/overview/"
 
-- trimedtechURL = "[https://www.trimedtech.com/Documentation/FHIRAPI/FHIRAPI.html](https://www.trimedtech.com/Documentation/FHIRAPI/FHIRAPI.html)"
-- trimedtechv8URL = "[https://www.trimedtech.com/Documentation/FHIRAPI/V8FHIRAPI.html](https://www.trimedtech.com/Documentation/FHIRAPI/V8FHIRAPI.html)"
-- cernerR4URL = "[https://github.com/cerner/ignite-endpoints/blob/main/soarian_patient_r4_endpoints.json](https://github.com/cerner/ignite-endpoints/blob/main/soarian_patient_r4_endpoints.json)"
-- techCareURL = "[https://devportal.techcareehr.com/Serviceurls](https://devportal.techcareehr.com/Serviceurls)"
+
 - carefluenceURL = "[https://carefluence.com/carefluence-fhir-endpoints/](https://carefluence.com/carefluence-fhir-endpoints/)"
 - abeoSolutionsURL = "[https://www.crystalpm.com/FHIRServiceURLs.csv](https://www.crystalpm.com/FHIRServiceURLs.csv)"
 - practiceSuiteURL = "[https://academy.practicesuite.com/fhir-server-links/](https://academy.practicesuite.com/fhir-server-links/)"
