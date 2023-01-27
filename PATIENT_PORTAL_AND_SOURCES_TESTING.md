@@ -16,12 +16,7 @@
 
 # EMR Vendors & Market Share
 
->[full list of CURES Act compliant EHR systems](https://chpl.healthit.gov/#/search) 
->- 170.315 (g)(10): Standardized API for Patient and Population Services (Cures Update)
 
-
-
-https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b1e58b8e552a6d7/endpointmanager/pkg/chplendpointquerier/chplendpointquerier.go
 
 
 
@@ -33,7 +28,6 @@ https://github.com/onc-healthit/lantern-back-end/blob/939e4b3979ce4e37f9473fdc8b
 
 # FHIR Sandboxes
 - https://sandbox.logicahealth.org/fastenhealth/apps
-- https://confluence.hl7.org/display/FHIR/Public+Test+Servers
 - https://github.com/sync-for-science/procure-wip/blob/f234eb1d4f7121da31baf1809be8f5726210bc99/public/config/sandbox_endpoints.json#L84
 - https://developer.veradigm.com/Fhir/FHIR_Sandboxes#tw
 
