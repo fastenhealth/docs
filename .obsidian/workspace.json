@@ -175,11 +175,9 @@
             "id": "8e751fff95a4cf5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-                "mode": "source",
-                "source": false
+                "file": "img/sponsors/depot.png"
               }
             }
           }
@@ -250,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+                "file": "img/sponsors/depot.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+                "file": "img/sponsors/depot.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md"
+                "file": "img/sponsors/depot.png"
               }
             }
           }
@@ -313,6 +311,7 @@
   },
   "active": "8e751fff95a4cf5f",
   "lastOpenFiles": [
+    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
     "TODO_TASKS.md",
     "ROADMAP.md",
     "README.md",
@@ -321,7 +320,6 @@
     "FEATURES.md",
     "FAQs.md",
     "CONTRIBUTORS.md",
-    "BETA.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md"
+    "BETA.md"
   ]
 }
