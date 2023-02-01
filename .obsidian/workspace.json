@@ -180,9 +180,21 @@
                 "file": "img/sponsors/depot.png"
               }
             }
+          },
+          {
+            "id": "4e22db4a25b05219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/github_cicd/CICD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/sponsors/depot.png",
+                "file": "technical/github_cicd/CICD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/sponsors/depot.png",
+                "file": "technical/github_cicd/CICD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/sponsors/depot.png"
+                "file": "technical/github_cicd/CICD.md"
               }
             }
           }
@@ -309,8 +321,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e751fff95a4cf5f",
+  "active": "4e22db4a25b05219",
   "lastOpenFiles": [
+    "img/sponsors/depot.png",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
     "TODO_TASKS.md",
     "ROADMAP.md",
@@ -319,7 +332,6 @@
     "LANDING_PAGE.md",
     "FEATURES.md",
     "FAQs.md",
-    "CONTRIBUTORS.md",
-    "BETA.md"
+    "CONTRIBUTORS.md"
   ]
 }
