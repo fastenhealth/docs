@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
+                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md"
               }
             }
           }
@@ -313,15 +313,15 @@
   },
   "active": "8e751fff95a4cf5f",
   "lastOpenFiles": [
-    "marketing/US Healthcare Institutions.md",
-    "reports/contracts - phonebook.md",
+    "TODO_TASKS.md",
+    "ROADMAP.md",
+    "README.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "FAQs.md",
-    "legal/FHIR_FEES.md",
-    "legal/HIPAA.md",
-    "CONTRIBUTORS.md",
     "LANDING_PAGE.md",
-    "technical/TECH_STACK.md",
-    "technical/SOFTWARE.md"
+    "FEATURES.md",
+    "FAQs.md",
+    "CONTRIBUTORS.md",
+    "BETA.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md"
   ]
 }
