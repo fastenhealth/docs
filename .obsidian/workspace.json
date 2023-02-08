@@ -187,14 +187,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/github_cicd/CICD.md",
+                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73d257670d72fab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/PATIENT_DATA_COLLECTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e637ef23fd1f9c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PATIENT_CONTRIBUTED_DATA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f0781c120c674fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PATIENT_CONTRIBUTED_DATA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -260,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/github_cicd/CICD.md",
+                "file": "PATIENT_CONTRIBUTED_DATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/github_cicd/CICD.md",
+                "file": "PATIENT_CONTRIBUTED_DATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/github_cicd/CICD.md"
+                "file": "PATIENT_CONTRIBUTED_DATA.md"
               }
             }
           }
@@ -321,17 +357,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e22db4a25b05219",
+  "active": "7f0781c120c674fc",
   "lastOpenFiles": [
-    "img/sponsors/depot.png",
+    "Untitled.md",
+    "PATIENT_CONTRIBUTED_DATA.md",
+    "technical/PATIENT_DATA_COLLECTION.md",
+    "technical/ARCHITECTURE.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "TODO_TASKS.md",
-    "ROADMAP.md",
-    "README.md",
+    "technical/SOFTWARE.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "technical/TECH_STACK.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "LANDING_PAGE.md",
-    "FEATURES.md",
-    "FAQs.md",
-    "CONTRIBUTORS.md"
+    "technical/github_cicd/CICD.md"
   ]
 }

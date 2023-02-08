@@ -67,7 +67,8 @@ FHIR Endpoint Discovery
 - [https://synthetichealth.github.io/synthea/](https://synthetichealth.github.io/synthea/)
 - [http://docs.smarthealthit.org/dstu2-examples/](http://docs.smarthealthit.org/dstu2-examples/)
 - [https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md](https://github.com/hapifhir/fhir-tutorial/blob/master/Transactions/lesson.md)
-
+- [https://physionet.org/content/mimic-iv-fhir-demo/2.0/](https://physionet.org/content/mimic-iv-fhir-demo/2.0/ "https://physionet.org/content/mimic-iv-fhir-demo/2.0/")
+- https://www.mdpi.com/2079-9292/11/8/1199
 
 
 http://hl7.org/fhir/us/davinci-pdex/index.html
