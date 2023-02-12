@@ -4,233 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "af84ee23c05702e0",
+        "id": "3489e5c8bebf3507",
         "type": "tabs",
         "children": [
           {
-            "id": "fa02f46e5fd6eac8",
+            "id": "acf9634ab5e9445d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sharing/INFORMATION_SHARING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aee51d51f01e8ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baa82aeff4da05a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BETA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d4353d7ab399e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reports/medical history.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbcd87cc04a0e064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reports/patient profile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0b81e2731911fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reports/contracts - phonebook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee6317f49a46da3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/FHIR COMMUNITY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f99ee251dfe1f98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/archive/SINGLE_PAGE_APP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5cab3ce1061b31e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "564e5dd27a693649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "security/REFERENCES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1f886b14c834e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNORGANIZED.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "954ad33a02d5b7c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a78f885fb55ceed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/FHIR COMMUNITY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27ebfae37f116ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e751fff95a4cf5f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/sponsors/depot.png"
-              }
-            }
-          },
-          {
-            "id": "4e22db4a25b05219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d257670d72fab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/PATIENT_DATA_COLLECTION.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e637ef23fd1f9c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PATIENT_CONTRIBUTED_DATA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f0781c120c674fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PATIENT_CONTRIBUTED_DATA.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PATIENT_CONTRIBUTED_DATA.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PATIENT_CONTRIBUTED_DATA.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PATIENT_CONTRIBUTED_DATA.md"
+                "file": "README.md"
               }
             }
           }
@@ -357,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f0781c120c674fc",
+  "active": "acf9634ab5e9445d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "PATIENT_CONTRIBUTED_DATA.md",
-    "technical/PATIENT_DATA_COLLECTION.md",
-    "technical/ARCHITECTURE.md",
-    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "technical/SOFTWARE.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "technical/TECH_STACK.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "technical/github_cicd/CICD.md"
+    "technical/SOFTWARE.md",
+    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+    "technical/FHIR COMMUNITY.md",
+    "FAQs.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "technical/design/UI_UX.md",
+    "technical/design/UI Widgets.md",
+    "technical/cloud/TERRAFORM.md",
+    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md"
   ]
 }

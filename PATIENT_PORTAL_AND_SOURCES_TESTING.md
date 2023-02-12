@@ -46,6 +46,31 @@ FHIR Endpoint Discovery
 - https://chpl.healthit.gov/#/search
 - https://github.com/the-commons-project/vci-directory/blob/main/vci-issuers.json
 
+
+[patient app registration-who's misinformed at the ONC Forum?](https://chat.fhir.org/#narrow/stream/179262-patient-empowerment/topic/patient.20app.20registration-who's.20misinformed.20at.20the.20ONC.20Forum.3F "Narrow to stream "patient empowerment", topic "patient app registration-who's misinformed at the ONC Forum?"")
+
+Here is our general experience for open developer environments. The problem is essentially endpoint discovery and whitelisting. Please note that not all vendors are included below. However, OneRecord is patiently waiting for ALL endpoints to be published by ALL vendors with no whitelisting :)
+
+Epic: You get a single set of creds (client ID and secret) to connect to all Epic sites. All endpoints published. ( This is the easiest method for patient-facing apps.)
+
+Cerner: You get a single set of creds (client ID and secret) to connect to all Cerner sites (like Epic) BUT whitelisting is required.
+
+eCW: You get a single set of creds (client ID and secret) to connect to all eCW sites (Like Cerner) BUT whitelisting is required.
+
+Allscripts: You get different creds (client ID and secret) for each client to connect to Allscripts sites AND whitelisting is required.
+
+Meditech: You get different creds (client ID and secret) for each client to connect to Meditech sites (like Allscripts) AND whitelisting is required.
+
+NextGen: You get different creds (client ID and secret) for each client to connect to NextGen sites AND whitelisting is required.
+
+Athena: To date does not support 3 Legged OAUTH
+
+Ultimately you are going to see some sort of configuration that follows the patterns above and as @Debi Willis said "it’s an Olympic exercise" to find the right stakeholder to get whitelisted...even at the patient request.
+
+
+https://chat.fhir.org/#narrow/stream/179262-patient-empowerment/topic/patient.20app.20registration-who's.20misinformed.20at.20the.20ONC.20Forum.3F
+
+
 # FHIR Source Directories
 - https://1up.health/fhir-endpoint-directory/1
 - https://www.cmscompliancetracker.com/?page_id=89
