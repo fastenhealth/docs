@@ -6,4 +6,6 @@ Distributed Tracing
 - Sentry - https://sentry.io
 - Datadog
 - Newrelic
+- Jaeger
+-
 https://news.ycombinator.com/item?id=34707583
