@@ -6,6 +6,8 @@
 
 
 ## Other Source Available Licenses:
+- AGPL vs GPL
+	- https://github.com/dani-garcia/vaultwarden/discussions/2450
 - [MariaDB BSL1.1 license](https://mariadb.com/bsl-faq-adopting/#osl) - used by [ZeroTier](https://github.com/zerotier/ZeroTierOne/blob/master/LICENSE.txt)
 	- seems like a way to "safely" release the code, while ensuring that the code is fully open source if the company doesn't go anywhere.  
 	- concerns:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "legal/LICENSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "legal/LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "legal/LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "legal/LICENSE.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "acf9634ab5e9445d",
   "lastOpenFiles": [
+    "README.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "technical/SOFTWARE.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
@@ -156,7 +157,6 @@
     "legal/21ST_CENTURY_CURES_ACT.md",
     "technical/design/UI_UX.md",
     "technical/design/UI Widgets.md",
-    "technical/cloud/TERRAFORM.md",
-    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md"
+    "technical/cloud/TERRAFORM.md"
   ]
 }
