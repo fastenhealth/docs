@@ -4,6 +4,7 @@
 
 - GPLv3 
 	- https://meta.discourse.org/t/why-gnu-license/2531
+	- https://github.com/typesense/typesense#why-the-gpl-license
 
 
 ## Other Source Available Licenses:
