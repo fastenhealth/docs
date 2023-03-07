@@ -2,7 +2,8 @@
 
 ## Top Choice
 
-- GPLv3
+- GPLv3 
+	- https://meta.discourse.org/t/why-gnu-license/2531
 
 
 ## Other Source Available Licenses:
