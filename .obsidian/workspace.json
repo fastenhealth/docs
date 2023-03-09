@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/LICENSE.md",
+                "file": "UNORGANIZED.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "021387de147d6cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "legal/HIPAA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/LICENSE.md",
+                "file": "legal/HIPAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/LICENSE.md",
+                "file": "legal/HIPAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/LICENSE.md"
+                "file": "legal/HIPAA.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fe76b87431e4584",
+  "active": "021387de147d6cd0",
   "lastOpenFiles": [
+    "legal/compliance.md",
+    "legal/HIPAA.md",
+    "UNORGANIZED.md",
+    "TODO_TASKS.md",
+    "ROADMAP.md",
+    "README.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "technical/cloud/TERRAFORM.md",
-    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
-    "technical/cloud/ARCHITECTURE.md",
-    "technical/TECH_STACK.md",
-    "technical/SOFTWARE.md",
-    "technical/PATIENT_DATA_COLLECTION.md",
-    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/GITHUB_AWS_OIDC_PROVIDER.md"
+    "PATIENT_CONTRIBUTED_DATA.md",
+    "LANDING_PAGE.md",
+    "FEATURES.md"
   ]
 }
