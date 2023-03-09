@@ -73,6 +73,7 @@ To do so, you'll need to use a Sandbox user and password from the table below. Y
 | Epic | Username: `fhircamila` <br>Password: `epicepic1` | [test accounts](https://fhir.epic.com/Documentation?docId=testpatients)|
 | HealthIT | Username: `demouser` <br>Password: `Demouser1!` | [test accounts](https://fhirsandbox.healthit.gov/secure/r4/view/userlogin.html)|
 | Logica | Username: <br>Password: | |
+| NextGen | Username: <br>Password: | |
 
 Some providers (such as Cerner) may take a long time to sync, as their sandbox accounts have lots of test data. Please be patient. 
 

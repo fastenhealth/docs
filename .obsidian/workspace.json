@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "BETA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "BETA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "BETA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/HIPAA.md"
+                "file": "BETA.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "021387de147d6cd0",
   "lastOpenFiles": [
-    "legal/compliance.md",
-    "legal/HIPAA.md",
-    "UNORGANIZED.md",
-    "TODO_TASKS.md",
-    "ROADMAP.md",
+    "FAQs.md",
     "README.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "PATIENT_CONTRIBUTED_DATA.md",
     "LANDING_PAGE.md",
-    "FEATURES.md"
+    "FEATURES.md",
+    "CONTRIBUTORS.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "technical/TECH_STACK.md",
+    "technical/SOFTWARE.md"
   ]
 }
