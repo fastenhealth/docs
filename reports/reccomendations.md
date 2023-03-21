@@ -17,3 +17,4 @@ https://provider.amerigroup.com/docs/gpp/WAWA_CAIDHEDISAdultPrevScreenPresent.pd
 
 https://github.com/cqframework/cql-execution
 https://github.com/cqframework/cql-exec-fhir
+https://store.ncqa.org/hedis-quality-measurement/hedis-my-2022-dqms.html
