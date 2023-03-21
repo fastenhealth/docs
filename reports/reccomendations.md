@@ -2,7 +2,7 @@
 HEDIS - population health measures 
 
 https://www.ncqa.org/hedis/data-submission/
-
+https://www.cms.gov/Medicare/Health-Plans/SpecialNeedsPlans/SNP-HEDIS
 https://www.ncqa.org/hedis/reports-and-research/
 https://provider.amerigroup.com/washington-provider/resources/hedis
 
