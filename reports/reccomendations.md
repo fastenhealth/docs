@@ -11,6 +11,7 @@ https://provider.amerigroup.com/docs/gpp/WAWA_CAIDHEDISPediatricPreventPresent.p
 https://provider.amerigroup.com/docs/gpp/WAWA_CAIDHEDISBenchmarksQualityCare.pdf?v=202112201748
 https://provider.amerigroup.com/docs/gpp/WAWA_CAIDHEDISAdultPrevScreenPresent.pdf?v=202201191738
 
+https://www.hca.wa.gov/about-hca/data-and-reports/apple-health-medicaid-and-managed-care-reports
 
 
 # CODE
@@ -18,3 +19,5 @@ https://provider.amerigroup.com/docs/gpp/WAWA_CAIDHEDISAdultPrevScreenPresent.pd
 https://github.com/cqframework/cql-execution
 https://github.com/cqframework/cql-exec-fhir
 https://store.ncqa.org/hedis-quality-measurement/hedis-my-2022-dqms.html
+
+
