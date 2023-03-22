@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86702eb4b2deea74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROVIDER_DIRECTORY.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "PROVIDER_DIRECTORY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "PROVIDER_DIRECTORY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/reccomendations.md"
+                "file": "PROVIDER_DIRECTORY.md"
               }
             }
           }
@@ -183,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c22307f533328ea8",
+  "active": "86702eb4b2deea74",
   "lastOpenFiles": [
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "marketing/US Healthcare Institutions.md",
+    "reports/reccomendations.md",
     "PATIENT_CONTRIBUTED_DATA.md",
     "LANDING_PAGE.md",
     "FEATURES.md",
     "FAQs.md",
     "CONTRIBUTORS.md",
     "technical/FHIR COMMUNITY.md",
-    "BETA.md",
-    "README.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md"
+    "BETA.md"
   ]
 }
