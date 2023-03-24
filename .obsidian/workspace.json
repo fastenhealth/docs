@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab688a65d5972ce8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86702eb4b2deea74",
+  "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "marketing/US Healthcare Institutions.md",
