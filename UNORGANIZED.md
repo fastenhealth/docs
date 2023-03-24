@@ -2,6 +2,8 @@
 https://www.unblock.health/patient-impact-stories/
 https://participatorymedicine.org/epatients/2020/01/patient-caregiver-letter-supporting-proposed-onc-rule-on-improving-flow-of-our-data.html
 
+https://www.cmspatientaccessrule.com/
+
 
 
 # Regulations
