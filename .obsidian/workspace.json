@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "legal/LICENSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "legal/LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+                "file": "legal/LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
+                "file": "legal/LICENSE.md"
               }
             }
           }
@@ -210,16 +210,26 @@
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
     "BETA.md",
+    "CONTRIBUTORS.md",
+    "sharing/INFORMATION_SHARING.md",
+    "security/REFERENCES.md",
+    "security/COUCHDB.md",
+    "security/CORS Relay.md",
+    "reports/reccomendations.md",
+    "reports/patient profile.md",
+    "reports/medications.md",
+    "reports/medical history.md",
+    "reports/labs.md",
+    "reports/contracts - phonebook.md",
+    "marketing/US Healthcare Institutions.md",
+    "marketing/MARKETING_CHECKLIST.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "PROVIDER_DIRECTORY.md",
     "UNORGANIZED.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "marketing/US Healthcare Institutions.md",
-    "reports/reccomendations.md",
     "PATIENT_CONTRIBUTED_DATA.md",
     "LANDING_PAGE.md",
     "FEATURES.md",
     "FAQs.md",
-    "CONTRIBUTORS.md",
     "technical/FHIR COMMUNITY.md"
   ]
 }
