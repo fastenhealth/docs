@@ -20,4 +20,4 @@ https://github.com/cqframework/cql-execution
 https://github.com/cqframework/cql-exec-fhir
 https://store.ncqa.org/hedis-quality-measurement/hedis-my-2022-dqms.html
 
-
+https://github.com/WorldHealthOrganization/smart-immunizations/tree/main/input/cql

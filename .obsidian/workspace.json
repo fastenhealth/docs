@@ -217,6 +217,8 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
+    "reports/patient profile.md",
+    "reports/reccomendations.md",
     "marketing/US Healthcare Institutions.md",
     "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "legal/LICENSE.md",
@@ -226,8 +228,6 @@
     "security/REFERENCES.md",
     "security/COUCHDB.md",
     "security/CORS Relay.md",
-    "reports/reccomendations.md",
-    "reports/patient profile.md",
     "reports/medications.md",
     "reports/medical history.md",
     "reports/labs.md",
