@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/reccomendations.md"
+                "file": "PATIENT_PORTAL_AND_SOURCES_TESTING.md"
               }
             }
           }
@@ -217,28 +217,31 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
-    "reports/patient profile.md",
-    "reports/reccomendations.md",
-    "marketing/US Healthcare Institutions.md",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "legal/LICENSE.md",
-    "BETA.md",
-    "CONTRIBUTORS.md",
-    "sharing/INFORMATION_SHARING.md",
-    "security/REFERENCES.md",
-    "security/COUCHDB.md",
-    "security/CORS Relay.md",
-    "reports/medications.md",
-    "reports/medical history.md",
-    "reports/labs.md",
-    "reports/contracts - phonebook.md",
-    "marketing/MARKETING_CHECKLIST.md",
     "PROVIDER_DIRECTORY.md",
-    "UNORGANIZED.md",
+    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "PATIENT_CONTRIBUTED_DATA.md",
     "LANDING_PAGE.md",
     "FEATURES.md",
     "FAQs.md",
-    "technical/FHIR COMMUNITY.md"
+    "CONTRIBUTORS.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "technical/TECH_STACK.md",
+    "technical/SOFTWARE.md",
+    "technical/PATIENT_DATA_COLLECTION.md",
+    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+    "technical/ID_VS_ACCESS_TOKEN.md",
+    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
+    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
+    "technical/FHIR COMMUNITY.md",
+    "technical/AUTHENTICATION.md",
+    "technical/ARCHITECTURE.md",
+    "technical/ANALYTICS - TELEMETRY.md",
+    "technical/github_cicd/CICD.md",
+    "technical/design/UI_UX.md",
+    "technical/design/UI Widgets.md",
+    "technical/cloud/TERRAFORM.md",
+    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
+    "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md",
+    "technical/cloud/ARCHITECTURE.md"
   ]
 }
