@@ -36,7 +36,7 @@ title: Roadmap
 		- Medicare BlueButton
 		- Athena
 		- CareEvolution
-		- [PATIENT_PORTAL_AND_SOURCES_TESTING](PATIENT_PORTAL_AND_SOURCES_TESTING.md)
+		- [PATIENT_PORTAL_AND_SOURCES_TESTING](providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md)
 - [ ] Release a production capable version of Fasten
 - [ ] Coordinate with Designers to begin work on the Fasten UI
 
@@ -61,7 +61,7 @@ title: Roadmap
 	5. Support FHIR Release 4b (Version 4b)
 	6. Support FHIR Release 5 (STU) (Version 5)
 - [ ] Integrate additional Provider sources (prioritizing those used by Fasten users)
-	1. See [PATIENT_PORTAL_AND_SOURCES_TESTING](PATIENT_PORTAL_AND_SOURCES_TESTING.md)
+	1. See [PATIENT_PORTAL_AND_SOURCES_TESTING](providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md)
 - [ ] Look for Grants & Sponsors
 - [ ] Look for EMR System to Partner with (Funding)
 - [ ] Add opt-in "tracking" to Fasten On-Prem

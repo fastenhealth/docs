@@ -1,6 +1,9 @@
-# Fasten Intellectual Property
+---
+title: Fasten Intellectual Property
+---
 
 - [x] Domain Purchase
 - [ ] Register Trademark
 - [ ] Release Software under non-commercial license
-	- See [[LICENSE]]
+	- See [LICENSE.md](./LICENSE.md)
+

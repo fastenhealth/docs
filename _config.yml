@@ -18,9 +18,15 @@ gh_edit_branch: "main"
 gh_edit_view_mode: "edit"
 color_scheme: light
 callouts:
+  error:
+    title: Error
+    color: red
   warning:
     title: Warning
-    color: red
+    color: yellow
+  important:
+    title: Important
+    color: blue
 ga_tracking: G-WZK565L4EN
 mermaid:
   version: "9.1.3"
