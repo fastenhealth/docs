@@ -1,3 +1,8 @@
+---
+title: Marketing Website
+parent: Technical
+---
+
 ## Marketing Website
 
 # Domain

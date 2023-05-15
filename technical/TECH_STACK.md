@@ -1,3 +1,8 @@
+---
+title: Tech Stack
+parent: Technical
+---
+
 # Fasten 
 - Go backend
 	- Gin web framework
@@ -8,7 +13,7 @@
 #### Not implemented yet, which will impact performance:
 
 - record/full db encryption
-- record wildcard search
+- record wildcard search (ElastiSearch?)
 - PDF/document upload & OCR (via a queue of some sort)
 
 ## Javascript 
@@ -37,4 +42,4 @@
 
 
 # Marketing Page
- - Hugo
+ - Jekyll

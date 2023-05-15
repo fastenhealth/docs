@@ -1,3 +1,4 @@
+
 > This has been reverted as of Nov, 2022. Fasten would be great as a single-page-app, however we ran into the following issues:
 > - Webworkers were difficult to work with, the WW environment is very different from the browser js sandbox, and lots of libraries fail to work
 > - CORS is incredibly difficult to work with

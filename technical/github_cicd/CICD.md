@@ -1,3 +1,7 @@
+---
+title: Github Actions CICD
+parent: Technical
+---
 
 https://github.blog/changelog/2021-11-19-allow-bypassing-required-pull-requests/
 https://github.com/renovatebot/renovate/discussions/15123

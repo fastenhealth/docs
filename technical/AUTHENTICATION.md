@@ -1,3 +1,8 @@
+---
+title: Authentication
+parent: Technical
+---
+
 # Authentication
 
 ## OAuth/Smart-on-FHIR
@@ -6,9 +11,6 @@
 - [https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html](https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html)
 - [https://auth0.com/docs/flows/concepts/auth-code-pkce](https://auth0.com/docs/flows/concepts/auth-code-pkce)
 - [https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token](https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token)
-- 
-
-
 
 ```mermaid
 sequenceDiagram
@@ -48,10 +50,6 @@ sequenceDiagram
 
 ```
 
-
-
-
-
 > The PKCE authorization code flow adds a secret (a `code_verifier` generated using SHA-256) created by the client application that is verified by the authorization server. The client application creates a transform value (hash string) of the `code_verifier` called the `code_challenge` which is sent using HTTPS to retrieve an authorization code. A malicious attacker can intercept this code, but cannot exchange it for a token without the `code_verifier`.
 > 
 > https://andrewowen.net/blog/creating-diagrams-with-mermaid/
@@ -66,11 +64,8 @@ The Fasten Lighthouse service acts like a man-in-the-middle, however it only has
 - https://codewithmukesh.com/blog/jwt-authentication-in-golang/
 - https://github.com/golang-jwt/jwt
 
-
-
 # Self-Hosted Redirect Based flow
-This is a potential future authentication flow, primarily to make sure that mobile apps are able to work correctly. 
-
+This is a potential future authentication flow, primarily to make sure that mobile apps are able to work correctly.
 
 ```mermaid
 sequenceDiagram
@@ -107,10 +102,8 @@ sequenceDiagram
 
 ```
 
-
 # Cloud Redirect Based flow
 This is a potential future authentication flow, primarily to ensure that patient data can be cloud accessible, with client-side encryption (Server cannot decrypt)
-
 
 ```mermaid
 sequenceDiagram

@@ -1,3 +1,8 @@
+---
+title: Github as an AWS OIDC Provider
+parent: Technical
+---
+
 Register Github as an OpenID OIDC identity provider for AWS
 This allows us to access out AWS environment without storing IAM credentials in GitHub
 

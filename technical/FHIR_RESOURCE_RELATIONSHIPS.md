@@ -1,3 +1,7 @@
+---
+title: FHIR Resource Relationships
+parent: Technical
+---
 
 ```mermaid
 flowchart LR  

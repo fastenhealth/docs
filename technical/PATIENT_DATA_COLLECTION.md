@@ -1,3 +1,8 @@
+---
+title: Patient Data Collection
+parent: Technical
+---
+
 https://chat.fhir.org/#narrow/stream/179166-implementers/topic/Patient-focused.20record.20creator/near/325989726
 
 > Hi,
