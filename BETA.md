@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fasten BETA Instructions
+---
+
 # Fasten BETA Instructions
 
 Welcome to the Fasten Beta!

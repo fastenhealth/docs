@@ -1,3 +1,8 @@
+---
+layout: default
+title: FAQs
+---
+
 > Most of these answers are copied responses to questions from Reddit:
 > https://www.reddit.com/r/selfhosted/comments/xj9rx7/introducing_fasten_a_selfhosted_personal/
 
