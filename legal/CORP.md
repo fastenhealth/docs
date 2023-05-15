@@ -1,5 +1,6 @@
 ---
 title: Fasten Health, Inc. Corporation
+parent: Legal
 ---
 
 # Corp

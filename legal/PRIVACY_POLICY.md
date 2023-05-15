@@ -1,5 +1,6 @@
 ---
 title: Fasten Privacy Policy
+parent: Legal
 ---
 
 # Privacy Policy

@@ -1,5 +1,6 @@
 ---
 title: 21st Century Cures Act
+parent: Legal
 ---
 
 https://www.federalregister.gov/documents/2020/05/01/2020-07419/21st-century-cures-act-interoperability-information-blocking-and-the-onc-health-it-certification

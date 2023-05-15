@@ -1,5 +1,6 @@
 ---
 title: Carin Trust Framework
+parent: Legal
 ---
 
 - https://www.carinalliance.com/

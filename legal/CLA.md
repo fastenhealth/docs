@@ -1,5 +1,6 @@
 ---
 title: CLA - Contributor License Agreement
+parent: Legal
 ---
 
 > Note, this CLA is based off of [Google's Individual CLA](https://cla.developers.google.com/about/google-individual) 

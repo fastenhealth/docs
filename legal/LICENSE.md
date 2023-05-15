@@ -1,5 +1,6 @@
 ---
 title: Fasten Intellectual Property
+parent: Legal
 ---
 
 ## Top Choice

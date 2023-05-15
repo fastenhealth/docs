@@ -1,3 +1,8 @@
+---
+title: FHIR Fees
+parent: Legal
+---
+
 Conversation was found on - https://chat.fhir.org/#narrow/stream/179166-implementers/topic/Charging.20fees.20for.20FHIR.20API
 
 

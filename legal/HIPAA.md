@@ -1,4 +1,7 @@
-
+---
+title: HIPAA
+parent: Legal
+---
 
 
 # Policy Files
