@@ -5,21 +5,22 @@ search_enabled: true
 aux_links:
   "fastenhealth.com":
     - "https://www.fastenhealth.com"
+heading_anchors: true
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 back_to_top: true
 back_to_top_text: "Back to top"
 footer_content: 'Copyright &copy; 2022 Fasten Health. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a>.'
 gh_edit_link: true
-gh_edit_link_text: "Prior Versions"
-gh_edit_repository: "https://github.com/fastenhealth/policy"
+gh_edit_link_text: "Suggestions? Edit this page on GitHub."
+gh_edit_repository: "https://github.com/fastenhealth/docs"
 gh_edit_branch: "main"
-gh_edit_view_mode: "commits"
+gh_edit_view_mode: "edit"
 color_scheme: light
 callouts:
   warning:
     title: Warning
     color: red
-
+ga_tracking: G-WZK565L4EN
 mermaid:
   version: "9.1.3"

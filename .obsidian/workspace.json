@@ -71,9 +71,11 @@
             "id": "ab688a65d5972ce8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/screenshots/security-manager-import.png"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/screenshots/security-manager-import.png",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/screenshots/security-manager-import.png",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/screenshots/security-manager-import.png"
+                "file": "index.md"
               }
             }
           }
@@ -215,6 +217,11 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
+    "marketing/MARKETING_CHECKLIST.md",
+    "technical/FHIR COMMUNITY.md",
+    "TODO_TASKS.md",
+    "UNORGANIZED.md",
+    "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
     "img/screenshots/medical-history.png",
     "img/screenshots/labs.png",
@@ -239,15 +246,12 @@
     "technical/ID_VS_ACCESS_TOKEN.md",
     "technical/GITHUB_AWS_OIDC_PROVIDER.md",
     "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
-    "technical/FHIR COMMUNITY.md",
     "technical/AUTHENTICATION.md",
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS - TELEMETRY.md",
     "technical/github_cicd/CICD.md",
     "technical/design/UI_UX.md",
     "technical/design/UI Widgets.md",
-    "technical/cloud/TERRAFORM.md",
-    "technical/cloud/CONDITION_ENCOUNTER_GRAPH.md",
-    "technical/cloud/CLOUDFLARE_REVERSE_PROXY.md"
+    "technical/cloud/TERRAFORM.md"
   ]
 }
