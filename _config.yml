@@ -1,0 +1,22 @@
+logo: banner-transparent.png
+title: "Fasten Health Policies"
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
+aux_links:
+  "fastenhealth.com":
+    - "https://www.fastenhealth.com"
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: 'Copyright &copy; 2022 Fasten Health. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a>.'
+gh_edit_link: true
+gh_edit_link_text: "Prior Versions"
+gh_edit_repository: "https://github.com/fastenhealth/policy"
+gh_edit_branch: "main"
+gh_edit_view_mode: "commits"
+color_scheme: light
+callouts:
+  warning:
+    title: Warning
+    color: red
