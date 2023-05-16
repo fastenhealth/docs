@@ -9,7 +9,8 @@ https://www.federalregister.gov/documents/2020/05/01/2020-07419/21st-century-cur
 
 
 https://www.healthit.gov/buzz-blog/healthit-certification/an-upcoming-milestone-in-our-interoperability-journey
-
+Century Cures Act, [certified electronic medical record systems are now required to provide open FHIR API endpoints to their customers and patients](https://www.healthit.gov/buzz-blog/healthit-certification/an-upcoming-milestone-in-our-interoperability-journey). FHIR is a HL7 standard that defines data primitives in healthcare and allows medical systems to communicate using these data primitives. In short, FHIR defines a standardized way for external programs to communicate with these health systems to access patient data.
+> https://meremedical.co/blog/what-is-mere-medical/
 
 
 https://www.opennotes.org/onc-federal-rule/
