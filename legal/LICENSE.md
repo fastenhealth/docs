@@ -8,6 +8,7 @@ parent: Legal
 - GPLv3 
 	- https://meta.discourse.org/t/why-gnu-license/2531
 	- https://github.com/typesense/typesense#why-the-gpl-license
+	- https://www.reddit.com/r/opensource/comments/13i200b/open_source_but_but_commercial_use_is_paid/
 
 
 ## Other Source Available Licenses:

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "legal/21ST_CENTURY_CURES_ACT.md"
               }
             }
           }
@@ -201,6 +201,8 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
+    "legal/LICENSE.md",
+    "index.md",
     "marketing/MARKETING_CHECKLIST.md",
     "technical/FHIR COMMUNITY.md",
     "TODO_TASKS.md",
@@ -234,8 +236,6 @@
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS - TELEMETRY.md",
     "technical/github_cicd/CICD.md",
-    "technical/design/UI_UX.md",
-    "technical/design/UI Widgets.md",
-    "technical/cloud/TERRAFORM.md"
+    "technical/design/UI_UX.md"
   ]
 }

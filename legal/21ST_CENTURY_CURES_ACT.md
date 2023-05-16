@@ -8,6 +8,10 @@ https://www.federalregister.gov/documents/2020/05/01/2020-07419/21st-century-cur
 >By December 31, 2022, all Certified Health Information Technology (i.e., EHR vendors) must have the new HL7 FHIR API capability and make information in USCDI Version 1 available to their customers.
 
 
+https://www.healthit.gov/buzz-blog/healthit-certification/an-upcoming-milestone-in-our-interoperability-journey
+
+
+
 https://www.opennotes.org/onc-federal-rule/
 
 
