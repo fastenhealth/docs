@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "news/FASTEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "news/FASTEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "news/FASTEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md"
+                "file": "news/FASTEN.md"
               }
             }
           }
@@ -201,6 +201,7 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
+    "legal/21ST_CENTURY_CURES_ACT.md",
     "legal/LICENSE.md",
     "index.md",
     "marketing/MARKETING_CHECKLIST.md",
@@ -235,7 +236,6 @@
     "technical/AUTHENTICATION.md",
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS - TELEMETRY.md",
-    "technical/github_cicd/CICD.md",
-    "technical/design/UI_UX.md"
+    "technical/github_cicd/CICD.md"
   ]
 }
