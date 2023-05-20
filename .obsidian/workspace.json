@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "news/INDUSTRY.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "news/INDUSTRY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "news/INDUSTRY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/FASTEN.md"
+                "file": "news/INDUSTRY.md"
               }
             }
           }
@@ -201,6 +201,8 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
+    "news/index.md",
+    "news/FASTEN.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
     "legal/LICENSE.md",
     "index.md",
@@ -234,8 +236,6 @@
     "technical/GITHUB_AWS_OIDC_PROVIDER.md",
     "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
     "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
-    "technical/ANALYTICS - TELEMETRY.md",
-    "technical/github_cicd/CICD.md"
+    "technical/ARCHITECTURE.md"
   ]
 }
