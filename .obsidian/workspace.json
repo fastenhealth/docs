@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FEATURES.md",
+                "file": "news/INDUSTRY.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FEATURES.md",
+                "file": "news/INDUSTRY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FEATURES.md",
+                "file": "news/INDUSTRY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FEATURES.md"
+                "file": "news/INDUSTRY.md"
               }
             }
           }
@@ -201,6 +201,12 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
+    "news/FASTEN.md",
+    "reports/patient profile.md",
+    "reports/medical history.md",
+    "marketing/MARKETING_CHECKLIST.md",
+    "marketing/US Healthcare Institutions.md",
+    "FEATURES.md",
     "technical/ARCHITECTURE.md",
     "technical/AUTHENTICATION.md",
     "technical/FHIR COMMUNITY.md",
@@ -221,12 +227,6 @@
     "technical/archive/SINGLE_PAGE_APP.md",
     "sharing/INFORMATION_SHARING.md",
     "security/HARDENING.md",
-    "security/CORS Relay.md",
-    "reports/patient profile.md",
-    "reports/labs.md",
-    "reports/contracts - phonebook.md",
-    "providers/PROVIDER_DIRECTORY.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
