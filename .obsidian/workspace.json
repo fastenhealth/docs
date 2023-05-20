@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "technical/ARCHITECTURE.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "technical/ARCHITECTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "technical/ARCHITECTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/FASTEN.md"
+                "file": "technical/ARCHITECTURE.md"
               }
             }
           }
@@ -201,16 +201,33 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
-    "news/INDUSTRY.md",
-    "news/FASTEN.md",
-    "news/index.md",
-    "legal/21ST_CENTURY_CURES_ACT.md",
-    "legal/LICENSE.md",
-    "index.md",
-    "marketing/MARKETING_CHECKLIST.md",
+    "technical/AUTHENTICATION.md",
+    "technical/ARCHITECTURE.md",
     "technical/FHIR COMMUNITY.md",
-    "TODO_TASKS.md",
-    "UNORGANIZED.md",
+    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
+    "technical/FREE_FOR_DEV.md",
+    "technical/ID_VS_ACCESS_TOKEN.md",
+    "technical/index.md",
+    "technical/LANDING_PAGE.md",
+    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+    "technical/PATIENT_DATA_COLLECTION.md",
+    "technical/TECH_STACK.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "technical/design/index.md",
+    "technical/design/UI_UX.md",
+    "technical/design/UI Widgets.md",
+    "technical/cloud/TERRAFORM.md",
+    "technical/cloud/ARCHITECTURE.md",
+    "technical/archive/SINGLE_PAGE_APP.md",
+    "sharing/INFORMATION_SHARING.md",
+    "security/HARDENING.md",
+    "security/CORS Relay.md",
+    "reports/patient profile.md",
+    "reports/labs.md",
+    "reports/contracts - phonebook.md",
+    "providers/PROVIDER_DIRECTORY.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
     "img/screenshots/medical-history.png",
@@ -219,23 +236,6 @@
     "img/screenshots/4.dashboard.png",
     "img/screenshots/3.callback.png",
     "img/screenshots/2.connect.png",
-    "img/screenshots/2.b-medical-sources-prod.png",
-    "img/screenshots/1.signup.png",
-    "PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "PROVIDER_DIRECTORY.md",
-    "PATIENT_CONTRIBUTED_DATA.md",
-    "LANDING_PAGE.md",
-    "FEATURES.md",
-    "FAQs.md",
-    "CONTRIBUTORS.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "technical/TECH_STACK.md",
-    "technical/SOFTWARE.md",
-    "technical/PATIENT_DATA_COLLECTION.md",
-    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
-    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
-    "technical/AUTHENTICATION.md"
+    "img/screenshots/2.b-medical-sources-prod.png"
   ]
 }
