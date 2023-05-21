@@ -4,7 +4,7 @@
 #CQL 
 Clinical Quality Language
 
-
+https://www.carinalliance.com/wp-content/uploads/2022/03/Proof-of-Concept-Kickoff-Slides_1.25.21.pdf
 
 HEDIS - population health measures 
 
