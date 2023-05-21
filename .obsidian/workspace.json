@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "reports/reccomendations.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cql",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "reports/reccomendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "reports/reccomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/INDUSTRY.md"
+                "file": "reports/reccomendations.md"
               }
             }
           }
@@ -201,32 +202,32 @@
   },
   "active": "ab688a65d5972ce8",
   "lastOpenFiles": [
-    "news/FASTEN.md",
-    "reports/patient profile.md",
-    "reports/medical history.md",
-    "marketing/MARKETING_CHECKLIST.md",
-    "marketing/US Healthcare Institutions.md",
-    "FEATURES.md",
+    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
+    "technical/PATIENT_DATA_COLLECTION.md",
+    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
+    "technical/LANDING_PAGE.md",
+    "technical/ID_VS_ACCESS_TOKEN.md",
+    "technical/FREE_FOR_DEV.md",
+    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
+    "technical/FHIR COMMUNITY.md",
     "technical/ARCHITECTURE.md",
     "technical/AUTHENTICATION.md",
-    "technical/FHIR COMMUNITY.md",
-    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
-    "technical/FREE_FOR_DEV.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/index.md",
-    "technical/LANDING_PAGE.md",
-    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "technical/PATIENT_DATA_COLLECTION.md",
-    "technical/TECH_STACK.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "technical/design/index.md",
-    "technical/design/UI_UX.md",
-    "technical/design/UI Widgets.md",
+    "technical/ANALYTICS_TELEMETRY.md",
     "technical/cloud/TERRAFORM.md",
     "technical/cloud/ARCHITECTURE.md",
-    "technical/archive/SINGLE_PAGE_APP.md",
-    "sharing/INFORMATION_SHARING.md",
     "security/HARDENING.md",
+    "reports/reccomendations.md",
+    "reports/patient profile.md",
+    "reports/medications.md",
+    "reports/medical history.md",
+    "providers/PROVIDER_DIRECTORY.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "providers/PATIENT_CONTRIBUTED_DATA.md",
+    "marketing/MARKETING_CHECKLIST.md",
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "news/INDUSTRY.md",
+    "news/FASTEN.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
