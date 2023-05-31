@@ -1,5 +1,5 @@
 - [May 19, 2023 - Selfhosted Podcast Episode 97 - 34m25s](https://selfhosted.show/97?t=2087)
-
+- [May 31, 2023 - Metriport Blog Post - Patent Tools and Apps to Access Health Records](https://www.metriport.com/blog/patient-tools-and-apps-to-access-health-records)
 
 ## Discussions
 
