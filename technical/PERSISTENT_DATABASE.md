@@ -1,3 +1,7 @@
+---
+title: Persistent Database
+parent: Technical
+---
 
 > Everything appears to be stored inside the docker container. So doesn't that mean that restarting or upgrading the container will wipe out the data?
 
