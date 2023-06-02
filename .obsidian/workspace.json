@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "technical/PERSISTENT_DATABASE.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "technical/PERSISTENT_DATABASE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "technical/PERSISTENT_DATABASE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/FASTEN.md"
+                "file": "technical/PERSISTENT_DATABASE.md"
               }
             }
           }
@@ -217,6 +217,11 @@
   },
   "active": "b31db7d277a1ca6c",
   "lastOpenFiles": [
+    "FEATURES.md",
+    "technical/PERSISTENT_DATABASE.md",
+    "FAQs.md",
+    "BETA.md",
+    "news/FASTEN.md",
     "marketing/MARKETING_CHECKLIST.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
@@ -238,11 +243,6 @@
     "reports/reccomendations.md",
     "reports/patient profile.md",
     "reports/medications.md",
-    "reports/medical history.md",
-    "providers/PROVIDER_DIRECTORY.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "providers/PATIENT_CONTRIBUTED_DATA.md",
-    "legal/21ST_CENTURY_CURES_ACT.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
