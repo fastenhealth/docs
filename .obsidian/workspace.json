@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "news/INDUSTRY.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "news/INDUSTRY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/FASTEN.md",
+                "file": "news/INDUSTRY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/FASTEN.md"
+                "file": "news/INDUSTRY.md"
               }
             }
           }
@@ -229,8 +229,8 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
-    "news/INDUSTRY.md",
     "news/FASTEN.md",
+    "news/INDUSTRY.md",
     "reports/reccomendations.md",
     "news/index.md",
     "marketing/US Healthcare Institutions.md",
