@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "news/FASTEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CQL",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "news/FASTEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "news/FASTEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/reccomendations.md"
+                "file": "news/FASTEN.md"
               }
             }
           }
@@ -232,6 +231,7 @@
   "lastOpenFiles": [
     "news/INDUSTRY.md",
     "news/FASTEN.md",
+    "reports/reccomendations.md",
     "news/index.md",
     "marketing/US Healthcare Institutions.md",
     "marketing/MARKETING_CHECKLIST.md",
@@ -255,7 +255,6 @@
     "technical/ANALYTICS_TELEMETRY.md",
     "technical/cloud/TERRAFORM.md",
     "technical/cloud/ARCHITECTURE.md",
-    "security/HARDENING.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",

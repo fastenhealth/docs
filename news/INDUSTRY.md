@@ -5,3 +5,5 @@
 	- https://www.reddit.com/r/privacy/comments/ydyfzj/were_hoping_to_gather_the_medical_records_of/
 - [LabCorp makes test results accessible through Apple’s Health app](https://www.fiercehealthcare.com/tech/labcorp-makes-test-results-accessible-through-apple-s-health-app)
 - [DevDays 2023 - Consumer voices - Why interoperability matters](https://vimeo.com/834430967/6e734c67e5)
+- [A Blueprint for a CoProduced Personal Health Ecosystem (Canada)](https://discord.com/channels/1072794087188615208/1072794087188615211/1116599635243450499)
+- [Shared Pan-Canadian Interoperability Roadmap (Canada)](https://www.infoway-inforoute.ca/en/component/edocman/6444-connecting-you-to-modern-health-care-shared-pan-canadian-interoperability-roadmap/view-document?Itemid=101)
