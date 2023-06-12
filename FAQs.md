@@ -48,6 +48,18 @@ I've been working on complaint software/infrastructure (PCI, HIPAA, SOC, FedRAMP
 2. They would have to be HIPAA compliant. As someone who has developed complaint software -- HIPAA, SOC, PCI, FedRAMP -- for most of my career, I don't want to touch that ball of wax with Fasten.
 3. Personally, I wouldn't trust a single company with all my healthcare data, especially a for-profit. I think many of us in [/r/selfhosted](https://www.reddit.com/r/selfhosted) feel the same way.
 
+## What is the Fasten Lighthouse? I thought Fasten was Self-Hosted?
+
+
+1. The Lighthouse allows users to search for any supported healthcare institution by name, tag, address (and eventually country). It returns logos and additional metadata about the endpoint so that the Fasten application knows how to correctly communicate with the healthcare institution. As you can imagine, this dataset will be large ([NPPES](https://www.cms.gov/Regulations-and-Guidance/Administrative-Simplification/NationalProvIdentStand/DataDissemination) is 8gb by itself -- and that only contains US institutions). 
+2. Conforming US Healthcare institutions must allow patient access using the SMART-on-FHIR authentication protocol (its basically OpenID Connect). This means that app developers need to register an app with each EMR system (and sometimes each institution) and then securely store the returned client_id and client_secret. 
+	- Registering applications is supposed to be simple, however in practice it can be a huge pain in the ass (legal contracts, privacy policies, technical documentation, audits, registered corporation, etc) -- its part of the reason why progress in [PLATFORM_LIST.md](https://github.com/fastenhealth/fasten-sources/blob/main/PLATFORM_LIST.md) is taking so long. I think that more PHR applications in the healthcare space will force EMR systems to streamline their developer onboarding flow, but until then a service like Fasten Lighthouse is required to have even a minimally functional user-experience. 
+3. Fasten Lighthouse is designed such that it is only involved in the authentication flow, but it doesn't have access to the AccessToken/RefreshToken (by leveraging [PKCE](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow-with-proof-key-for-code-exchange-pkce)), and no patient data ever transits the service (the requests are made directly by the Fasten Go backend, running on your own hardware). See [FastenHealth/docs AUTHENTICATION.md](https://github.com/fastenhealth/docs/blob/main/technical/AUTHENTICATION.md) for more information and a data transfer diagram.
+
+Regarding an "open source the Fasten Lighthouse" -- unfortunately for now the Fasten Lighthouse will remain closed source. 
+- I'm still unsure about the Fasten monetization strategy (which will probably involve the Lighthouse since all new-connections require it)
+- I do plan on releasing a "spec" for the Fasten Lighthouse API (other than search, its a pretty simple service under the hood)
+
 ## How do you plan on monetizing Fasten?
 
 I think there's lots of possibilities for monetization, however I want to be thoughtful about it. 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "FAQs.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "FAQs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "FAQs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/INDUSTRY.md"
+                "file": "FAQs.md"
               }
             }
           }
@@ -229,8 +229,9 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
-    "news/FASTEN.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
     "news/INDUSTRY.md",
+    "news/FASTEN.md",
     "reports/reccomendations.md",
     "news/index.md",
     "marketing/US Healthcare Institutions.md",
@@ -254,7 +255,6 @@
     "technical/FHIR COMMUNITY.md",
     "technical/ANALYTICS_TELEMETRY.md",
     "technical/cloud/TERRAFORM.md",
-    "technical/cloud/ARCHITECTURE.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
