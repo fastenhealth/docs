@@ -35,7 +35,7 @@ Fasten will definitely be storing its data encrypted at rest, however that funct
 
 I'm still debating the tradeoffs between whole-database encryption vs record encryption, as searchability is definitely something fasten users will want.
 
-## Is my Medical data available offline if I'm unable to communciate with the Provider?
+## Is my Medical data available offline if I'm unable to communicate with the Provider?
 100%, the (raw) data is stored in a local SQLite DB, and the app will be designed so it can work offline (with certain functionality disabled -- like automatic updates).
 
 ## Will there be a cloud-based offering of Fasten?
