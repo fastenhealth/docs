@@ -48,6 +48,12 @@ I've been working on complaint software/infrastructure (PCI, HIPAA, SOC, FedRAMP
 2. They would have to be HIPAA compliant. As someone who has developed complaint software -- HIPAA, SOC, PCI, FedRAMP -- for most of my career, I don't want to touch that ball of wax with Fasten.
 3. Personally, I wouldn't trust a single company with all my healthcare data, especially a for-profit. I think many of us in [/r/selfhosted](https://www.reddit.com/r/selfhosted) feel the same way.
 
+## Does Fasten pull my records from an Health Information Exchange (HIE/HIX)
+
+HIE's are ubiquitous and ONC's information blocking rules require providers to contribute PHI data for all patients to HIE's. However, HIE's have no way to determine which providers should have access to an individual's medical records, so they have no authorization layer preventing unauthorized access. Any healthcare employee authorized to access patient records through an HIE essentially has access to the medical records of everyone in the US.
+
+**Fasten doesn't integrate with HIE/HIX's** and you will still be able to access your records, even if you decide to opt-out of HIE sharing. Fasten integrates directly with your healthcare institutions to retrieve your health records -- its more tedious, but there's no middleman.
+
 ## What is the Fasten Lighthouse? I thought Fasten was Self-Hosted?
 
 
