@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAQs.md",
+                "file": "technical/FHIR COMMUNITY.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQs.md",
+                "file": "technical/FHIR COMMUNITY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAQs.md",
+                "file": "technical/FHIR COMMUNITY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAQs.md"
+                "file": "technical/FHIR COMMUNITY.md"
               }
             }
           }
@@ -229,6 +229,7 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "FAQs.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
     "news/INDUSTRY.md",
     "news/FASTEN.md",
@@ -242,7 +243,6 @@
     "technical/PERSISTENT_DATABASE.md",
     "technical/PATIENT_DATA_COLLECTION.md",
     "FEATURES.md",
-    "FAQs.md",
     "BETA.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
