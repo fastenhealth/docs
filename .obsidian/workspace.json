@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "technical/design/Angular to React.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "technical/design/Angular to React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "technical/design/Angular to React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md"
+                "file": "technical/design/Angular to React.md"
               }
             }
           }
@@ -229,6 +229,8 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "technical/FHIR COMMUNITY.md",
+    "technical/design/Angular to React.md",
     "FAQs.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
     "news/INDUSTRY.md",
@@ -252,9 +254,7 @@
     "technical/LANDING_PAGE.md",
     "technical/ID_VS_ACCESS_TOKEN.md",
     "technical/FREE_FOR_DEV.md",
-    "technical/FHIR COMMUNITY.md",
     "technical/ANALYTICS_TELEMETRY.md",
-    "technical/cloud/TERRAFORM.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
