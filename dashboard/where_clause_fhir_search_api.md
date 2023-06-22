@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Query Syntax - FHIR Search API
-parent: Dashboard
+title: Where Clause - FHIR Search API
+parent: Query Syntax
+nav_order: 3
 ---
 
 # Query Syntax - FHIR Search API
@@ -222,4 +223,5 @@ Any patients with a name with a given part containing "eve" at any position. Thi
 }
 ```
 Any patients with a name with a given part that is exactly "Eve". Note: This would not include patients with the given name "eve" or "EVE".
+
 

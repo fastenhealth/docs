@@ -2,6 +2,7 @@
 layout: default
 title: Configuration
 parent: Dashboard
+nav_order: 2
 ---
 
 Dashboards are defined in a simple JSON syntax.
