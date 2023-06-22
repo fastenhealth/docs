@@ -2,6 +2,7 @@
 layout: default
 title: Where Clause - FHIR Search API
 parent: Query Syntax
+grand_parent: Dashboard
 nav_order: 3
 ---
 
