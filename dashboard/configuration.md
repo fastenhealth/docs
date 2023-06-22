@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Configuration
+parent: Dashboard
 ---
 
 Dashboards are defined in a simple JSON syntax.
@@ -66,7 +67,8 @@ All widgets have the same basic properties:
       "where": {
        "code": "http://loinc.org|29463-7,http://loinc.org|3141-9,http://snomed.info/sct|27113001"
       }
-    }
+    },
+    "dataset_options": {}
   }],
   "parsing": {
     "xAxisKey": "label",
@@ -82,8 +84,8 @@ All widgets have the same basic properties:
 - `width` - The width of the widget in cells.
 - `height` - The height of the widget in cells.
 - `item_type` - The type of widget. See [Widget Types](#widget-types) for more info.
-- `queries` [OPTIONAL] - A list of queries to run against the user's medical records. See [Querying](#querying) for more info.
-- `parsing` [OPTIONAL] - A set of rules to parse the results of the query. See [Parsing](#parsing) for more info.
+- `queries` [OPTIONAL] - A list of queries to run against the user's medical records. See [Query Syntax](#query_syntax) for more info.
+- `parsing` [OPTIONAL] - A set of rules to parse the results of the query. See [Query Syntax](#query_syntax) for more info.
 
 ## Widget Types
 <a name="widget-types"></a>
@@ -111,3 +113,39 @@ All widgets have the same basic properties:
 ### Table Widget
 
 - set the `item_type` to `table-widget`
+
+
+## Query Syntax
+<a name="query_syntax"></a>
+
+Queries are used to retrieve data from the user's medical records. They are defined using a simple JSON syntax.
+The JSON syntax is similar to SQL, but is designed to query deeply nested FHIR resources. 
+
+```json
+{
+  "q": {
+    "select": [
+      "valueQuantity.value as data",
+      "(effectiveDateTime | issued).first() as label"
+    ],
+    "from": "Observation",
+    "where": {
+     "code": "http://loinc.org|29463-7,http://loinc.org|3141-9,http://snomed.info/sct|27113001"
+    }
+  },
+  "dataset_options": {
+    "label": "string",
+    "borderWidth": 0,
+    "borderColor": "string",
+    "fill": false,
+    "backgroundColor": "string",
+  }
+}
+```
+The query is broken up into the following elements, each of which are handled by a slightly different query syntax:
+
+
+- `q.from` [OPTIONAL] - The FHIR resource type to query. This will limit the search to a specific table in the database.
+- `q.select` - An array of FHIRPath statements. Each statement will be evaluated against the FHIR resource, extracting potentially deeply nested data and making it available for graphing. See [FHIRPath Syntax](#fhirpath) for more info.
+- `q.where` - The conditions to apply when querying the database. Uses the FHIR Search API syntax to determine which resources to return (for subsequent FHIRPath processing in the Select clause) [FHIR Search API Syntax](#fhir_search_api) for more info.
+- `dataset_options` [OPTIONAL] - The display/visualization options to apply to the dataset when generating the widget chart. See [ChartJS DataSet Options Syntax](#dataset_options_syntax) for more info.

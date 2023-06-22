@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Query Syntax
+title: Query Syntax - FHIR Search API
 parent: Dashboard
 ---
-

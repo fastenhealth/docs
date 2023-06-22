@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Philosophy
+parent: Dashboard
 ---
 
 These are the basic principles that were used when designing the Fasten dashboard.

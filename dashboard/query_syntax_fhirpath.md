@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Query Syntax
+title: Query Syntax - FHIRPath
 parent: Dashboard
 ---
-
