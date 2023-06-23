@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/design/Angular to React.md",
+                "file": "dashboard/where_clause.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/design/Angular to React.md",
+                "file": "dashboard/where_clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/design/Angular to React.md",
+                "file": "dashboard/where_clause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/design/Angular to React.md"
+                "file": "dashboard/where_clause.md"
               }
             }
           }
@@ -229,8 +229,13 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
-    "technical/FHIR COMMUNITY.md",
+    "dashboard/from_clause.md",
+    "dashboard/query_syntax.md",
+    "dashboard/select_clause.md",
+    "dashboard/where_clause.md",
+    "dashboard/configuration.md",
     "technical/design/Angular to React.md",
+    "technical/FHIR COMMUNITY.md",
     "FAQs.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
     "news/INDUSTRY.md",
@@ -250,11 +255,6 @@
     "legal/INTELLECTUAL_PROPERTY.md",
     "legal/HIPAA.md",
     "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "technical/LANDING_PAGE.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/FREE_FOR_DEV.md",
-    "technical/ANALYTICS_TELEMETRY.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",

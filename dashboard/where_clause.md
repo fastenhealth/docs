@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Where Clause - FHIR Search API
+title: Where Clause
 parent: Query Syntax
 grand_parent: Dashboard
 nav_order: 3
 ---
 
-# Query Syntax - FHIR Search API
+# Where Clause - FHIR Search API
 
 The `where` clause syntax for Fasten Dashboard Widgets is based on the official [FHIR Search API syntax](http://hl7.org/fhir/R4/search.html)
 with some modifications.
@@ -28,6 +28,7 @@ with some modifications.
 
 
 ## Introduction
+
 At it's most basic, the FHIR Search API syntax is a search by key-value pairs against a list of predefined Search Parameter 
 keys for each FHIR Resource.
 
@@ -46,7 +47,7 @@ The following parameters apply to all resources: `content`, `id`, `lastUpdated`,
 
 The search parameter `id` refers to the logical id of the resource, and can be used when the search context specifies a resource type:
 
-```
+```json
 {
     "from": "Patient",
     "where": {
@@ -109,7 +110,7 @@ For the ordered parameter types of [number](#number), [date](#date), and [quanti
 If no prefix is present, the prefix `eq` is assumed. 
 
 
-## `number`
+## `number` Search Parameter Type
 <a name="number"></a>
 Searching on a simple numerical value in a resource. Examples:
 
@@ -138,7 +139,7 @@ Here are some example searches:
 | `{"from": "RiskAssessment","where": {"probability": "gt0.8"}}` | Search for all the Risk Assessments with probability great than 0.8 (could also be `probability=gt8e-1` using exponential form)
 | `{"from": "ImmunizationRecommendation","where": {"doseNumber": "gt2"}}` | Search for any immunization recommendation recommending a second dose
 
-## `date`
+## `date` Search Parameter Type
 <a name="date"></a>
 
 A date parameter searches on a date/time or period. As is usual for date/time related functionality, while the concepts are 
@@ -180,7 +181,8 @@ To search for all the procedures in a patient compartment that occurred over a 2
 ![](assets/images/dragon.png "Here Be Dragons!")
 
 Fasten doesn't yet take into account the timezone of the record or the client. 
-## `string`
+
+## `string` Search Parameter Type
 <a name="string"></a>
 
 For a simple string search, a string parameter serves as the input for a search against sequences of characters. 
