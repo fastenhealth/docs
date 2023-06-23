@@ -9,10 +9,8 @@ These are the basic principles that were used when designing the Fasten dashboar
 
 # Widgets
 
-
 The goal is for Fasten to have a customizable, widget based Dashboard similar to Grafana/Datadog. 
-Users can create personalized dashboards tracking the information they care about, by querying their own medical records using a SQL-like syntax. 
-
+Users can create personalized dashboards tracking the information they care about, by querying their own medical records using a SQL-like syntax.
 
 # Sharing
 
