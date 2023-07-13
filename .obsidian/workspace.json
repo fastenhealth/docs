@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboard/where_clause.md",
+                "file": "marketing/MARKETING_CHECKLIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashboard/where_clause.md",
+                "file": "marketing/MARKETING_CHECKLIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashboard/where_clause.md",
+                "file": "marketing/MARKETING_CHECKLIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashboard/where_clause.md"
+                "file": "marketing/MARKETING_CHECKLIST.md"
               }
             }
           }
@@ -229,10 +229,11 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "marketing/US Healthcare Institutions.md",
+    "dashboard/where_clause.md",
     "dashboard/from_clause.md",
     "dashboard/query_syntax.md",
     "dashboard/select_clause.md",
-    "dashboard/where_clause.md",
     "dashboard/configuration.md",
     "technical/design/Angular to React.md",
     "technical/FHIR COMMUNITY.md",
@@ -242,7 +243,6 @@
     "news/FASTEN.md",
     "reports/reccomendations.md",
     "news/index.md",
-    "marketing/US Healthcare Institutions.md",
     "marketing/MARKETING_CHECKLIST.md",
     "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
     "technical/AUTHENTICATION.md",
