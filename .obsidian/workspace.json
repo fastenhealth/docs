@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md",
+                "file": "legal/21ST_CENTURY_CURES_ACT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marketing/MARKETING_CHECKLIST.md"
+                "file": "legal/21ST_CENTURY_CURES_ACT.md"
               }
             }
           }
@@ -229,32 +229,32 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "legal/PRIVACY_POLICY.md",
+    "legal/LICENSE.md",
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/index.md",
+    "legal/HIPAA.md",
+    "legal/FHIR_FEES.md",
+    "legal/CORP.md",
+    "legal/CLA.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "UNORGANIZED.md",
+    "reports/reccomendations.md",
+    "technical/FHIR COMMUNITY.md",
+    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
+    "technical/ID_VS_ACCESS_TOKEN.md",
+    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
+    "technical/FREE_FOR_DEV.md",
+    "providers/PATIENT_CONTRIBUTED_DATA.md",
+    "providers/PROVIDER_DIRECTORY.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "dashboard/select_clause.md",
+    "marketing/MARKETING_CHECKLIST.md",
     "marketing/US Healthcare Institutions.md",
     "dashboard/where_clause.md",
     "dashboard/from_clause.md",
     "dashboard/query_syntax.md",
-    "dashboard/select_clause.md",
-    "dashboard/configuration.md",
-    "technical/design/Angular to React.md",
-    "technical/FHIR COMMUNITY.md",
-    "FAQs.md",
-    "legal/21ST_CENTURY_CURES_ACT.md",
-    "news/INDUSTRY.md",
-    "news/FASTEN.md",
-    "reports/reccomendations.md",
-    "news/index.md",
-    "marketing/MARKETING_CHECKLIST.md",
-    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
-    "technical/PERSISTENT_DATABASE.md",
-    "technical/PATIENT_DATA_COLLECTION.md",
-    "FEATURES.md",
-    "BETA.md",
-    "legal/LICENSE.md",
-    "legal/INTELLECTUAL_PROPERTY.md",
-    "legal/HIPAA.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
     "img/auth.png",
     "img/screenshots/security-manager-import.png",
     "img/screenshots/security-manager-generate.png",
