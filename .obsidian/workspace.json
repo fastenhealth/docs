@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "dashboard/philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "dashboard/philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md",
+                "file": "dashboard/philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/21ST_CENTURY_CURES_ACT.md"
+                "file": "dashboard/philosophy.md"
               }
             }
           }
@@ -229,6 +229,22 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "dashboard/query_syntax.md",
+    "dashboard/index.md",
+    "dashboard/from_clause.md",
+    "dashboard/configuration.md",
+    "img/screenshots/widget-dashboard.png",
+    "img/screenshots/2.connect.png",
+    "img/screenshots/1.signup.png",
+    "img/screenshots/2.b-medical-sources-prod.png",
+    "img/screenshots/3.callback.png",
+    "img/screenshots/security-manager-import.png",
+    "img/screenshots/security-manager-generate.png",
+    "img/screenshots/medical-history.png",
+    "img/screenshots/labs.png",
+    "img/screenshots/5.data.png",
+    "dashboard/philosophy.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
     "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
@@ -238,7 +254,6 @@
     "legal/CORP.md",
     "legal/CLA.md",
     "legal/CARIN_TRUST_FRAMEWORK.md",
-    "legal/21ST_CENTURY_CURES_ACT.md",
     "UNORGANIZED.md",
     "reports/reccomendations.md",
     "technical/FHIR COMMUNITY.md",
@@ -249,21 +264,6 @@
     "providers/PATIENT_CONTRIBUTED_DATA.md",
     "providers/PROVIDER_DIRECTORY.md",
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "dashboard/select_clause.md",
-    "marketing/MARKETING_CHECKLIST.md",
-    "marketing/US Healthcare Institutions.md",
-    "dashboard/where_clause.md",
-    "dashboard/from_clause.md",
-    "dashboard/query_syntax.md",
-    "img/auth.png",
-    "img/screenshots/security-manager-import.png",
-    "img/screenshots/security-manager-generate.png",
-    "img/screenshots/medical-history.png",
-    "img/screenshots/labs.png",
-    "img/screenshots/5.data.png",
-    "img/screenshots/4.dashboard.png",
-    "img/screenshots/3.callback.png",
-    "img/screenshots/2.connect.png",
-    "img/screenshots/2.b-medical-sources-prod.png"
+    "dashboard/select_clause.md"
   ]
 }
