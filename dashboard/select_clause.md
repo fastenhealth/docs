@@ -17,7 +17,7 @@ with some simplifications.
   "q": {
     "select": [
       "valueQuantity.value as data",  
-	  "(effectiveDateTime | issued).first() as label"
+      "(effectiveDateTime | issued).first() as label"
     ],
     "from": "Observation",
     "where": {
@@ -83,7 +83,7 @@ You can explicitly set an alias/name for a query using the `as` query format:
   "q": {
     "select": [
       "valueQuantity.value as data",  
-	  "(effectiveDateTime | issued).first() as label"
+      "(effectiveDateTime | issued).first() as label"
     ],
     "from": "Observation",
     "where": {
