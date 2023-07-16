@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboard/select_clause.md",
+                "file": "ROADMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashboard/select_clause.md",
+                "file": "ROADMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashboard/select_clause.md",
+                "file": "ROADMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashboard/select_clause.md"
+                "file": "ROADMAP.md"
               }
             }
           }
@@ -229,41 +229,41 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
-    "dashboard/query_syntax.md",
-    "dashboard/where_clause.md",
-    "dashboard/select_clause.md",
-    "dashboard/philosophy.md",
-    "dashboard/index.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "ROADMAP.md",
+    "TODO_TASKS.md",
+    "legal/CORP.md",
+    "legal/CLA.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
+    "img/patient-browser.png",
+    "img/Pasted image 20221018215022.png",
+    "img/auth.png",
+    "img/sponsors/depot.png",
     "dashboard/from_clause.md",
+    "dashboard/index.md",
+    "dashboard/philosophy.md",
+    "dashboard/query_syntax.md",
+    "dashboard/select_clause.md",
+    "dashboard/where_clause.md",
     "dashboard/configuration.md",
     "img/screenshots/widget-dashboard.png",
     "img/screenshots/2.connect.png",
     "img/screenshots/1.signup.png",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/screenshots/3.callback.png",
-    "img/screenshots/security-manager-import.png",
-    "img/screenshots/security-manager-generate.png",
-    "img/screenshots/medical-history.png",
-    "img/screenshots/labs.png",
-    "img/screenshots/5.data.png",
-    "legal/21ST_CENTURY_CURES_ACT.md",
     "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
     "legal/index.md",
     "legal/HIPAA.md",
     "legal/FHIR_FEES.md",
-    "legal/CORP.md",
-    "legal/CLA.md",
-    "legal/CARIN_TRUST_FRAMEWORK.md",
     "UNORGANIZED.md",
     "reports/reccomendations.md",
     "technical/FHIR COMMUNITY.md",
     "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
     "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
-    "technical/FREE_FOR_DEV.md",
-    "providers/PATIENT_CONTRIBUTED_DATA.md",
-    "providers/PROVIDER_DIRECTORY.md"
+    "technical/GITHUB_AWS_OIDC_PROVIDER.md"
   ]
 }

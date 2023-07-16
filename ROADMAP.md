@@ -18,7 +18,7 @@ title: Roadmap
 - [x] Open Bank account
 		- SVB or other Stripe Atlas reccomended #task
 		- Chase/BoA/etc
-- [ ] Move all infrastructure to new AWS account
+- [x] Move all infrastructure to new AWS account ✅ 2023-07-16
 - [ ] Complete AWS Infrastructure Hardening for Lighthouse
 	- See [security/REFERENCES.md](security/REFERENCES.md)
 - [ ] Configure Github CI for Lighthouse
@@ -42,8 +42,8 @@ title: Roadmap
 
 
 ## Expenses
-- [ ] register corp
-- [ ] buy website
+- [x] register corp ✅ 2023-07-16
+- [x] buy website ✅ 2023-07-16
 - [ ] trademarking
 - [ ] AWS hosting for Lighthouse
 	- Offset by AWS Activate credits
