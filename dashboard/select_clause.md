@@ -74,26 +74,21 @@ You can use the `*` query in the select statement to return the FHIR resource as
 }
 ```
 
-### FhirPath field
+### Field Aliases
 
-As long as you describe an actual path, you can use FhirPath as a field designator: The following syntaxes are valid:
+You can explicitly set an alias/name for a query using the `as` query format:
 
 ```json
 {
   "q": {
     "select": [
-      "meta.profile",
-	  "name[0].family",
-      "name.given",
-      "name.given[0]",  
+      "valueQuantity.value as data",  
+	  "(effectiveDateTime | issued).first() as label"
     ],
-    "from": "Patient",
+    "from": "Observation",
     "where": {
       ...
     }
   }
 }
 ```
-    
-
-Note that a FhirPath statement can have more than one result. Since `name.given` can have multiple values, your select set will result in an array for the field `given` as well. It will not give you the `name` structure.
