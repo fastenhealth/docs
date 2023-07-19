@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/design/UI Widgets.md",
+                "file": "BETA.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/design/UI Widgets.md",
+                "file": "BETA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/design/UI Widgets.md",
+                "file": "BETA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/design/UI Widgets.md"
+                "file": "BETA.md"
               }
             }
           }
@@ -229,6 +229,7 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "technical/design/UI Widgets.md",
     "technical/design/Angular to React.md",
     "technical/PERSISTENT_DATABASE.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
@@ -254,7 +255,6 @@
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "TODO_TASKS.md",
     "legal/CORP.md",
-    "legal/CLA.md",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20221018215022.png",
