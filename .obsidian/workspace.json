@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "BETA.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "BETA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "BETA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/INDUSTRY.md"
+                "file": "BETA.md"
               }
             }
           }
@@ -229,6 +229,7 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "news/INDUSTRY.md",
     "BETA.md",
     "technical/design/UI Widgets.md",
     "technical/design/Angular to React.md",
@@ -254,7 +255,6 @@
     "dashboard/where_clause.md",
     "ROADMAP.md",
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "TODO_TASKS.md",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20221018215022.png",
