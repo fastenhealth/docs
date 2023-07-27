@@ -75,6 +75,7 @@ To do so, you'll need to use a Sandbox user and password from the table below. Y
 | CareEvolution | Username: `CEPatient` <br>Password: `CEPatient2018` | [test accounts](https://fhir.careevolution.com/TestPatientAccounts.html) |
 | Cerner | Username: `nancysmart` <br>Password: `Cerner01` | [test accounts](https://docs.google.com/document/d/10RnVyF1etl_17pyCyK96tyhUWRbrTyEcqpwzW-Z-Ybs/edit)|
 | Cigna | Username: `syntheticuser05` <br>Password: `5ynthU5er5` | [test accounts](https://developer.cigna.com/service-apis/patient-access/sandbox#How-to-Use-the-Sandbox-Sandbox-Test-Users) |
+| eClinicalWorks/Healow | Username: `AdultFemaleFHIR` <br>Password: `e@CWFHIR1` | [test accounts](https://fhir.eclinicalworks.com/ecwopendev/)|
 | Epic | Username: `fhircamila` <br>Password: `epicepic1` | [test accounts](https://fhir.epic.com/Documentation?docId=testpatients)|
 | HealthIT | Username: `demouser` <br>Password: `Demouser1!` | [test accounts](https://fhirsandbox.healthit.gov/secure/r4/view/userlogin.html)|
 | Kaiser | Username: <br>Password: | |
