@@ -82,7 +82,7 @@ To do so, you'll need to use a Sandbox user and password from the table below. Y
 | Logica | Username: <br>Password: | |
 | Medicare | Username: `BBUser00000` <br>Password: `PW00000!` | [test accounts](https://bluebutton.cms.gov/developers/#developer-guidelines) |
 | Meditech | Username: <br>Password: | |
-| NextGen | Username: <br>Password: | |
+| NextGen | Username: `patientapitest` <br>Password: `Password1!` | [test accounts](https://www.nextgen.com/-/media/files/api/nge-patient-api-auth-guide.pdf)|
 
 Some providers (such as Cerner) may take a long time to sync, as their sandbox accounts have lots of test data. Please be patient. 
 
