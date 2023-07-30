@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "technical/LICENSE_MANAGEMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "technical/LICENSE_MANAGEMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "technical/LICENSE_MANAGEMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/INDUSTRY.md"
+                "file": "technical/LICENSE_MANAGEMENT.md"
               }
             }
           }
@@ -229,10 +229,11 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
+    "news/INDUSTRY.md",
+    "technical/LICENSE_MANAGEMENT.md",
     "marketing/US Healthcare Institutions.md",
     "marketing/MARKETING_CHECKLIST.md",
     "BETA.md",
-    "news/INDUSTRY.md",
     "technical/design/UI Widgets.md",
     "technical/design/Angular to React.md",
     "technical/PERSISTENT_DATABASE.md",
@@ -254,7 +255,6 @@
     "dashboard/philosophy.md",
     "dashboard/query_syntax.md",
     "dashboard/select_clause.md",
-    "dashboard/where_clause.md",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20221018215022.png",
