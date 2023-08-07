@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/LICENSE_MANAGEMENT.md",
+                "file": "legal/HIPAA.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/LICENSE_MANAGEMENT.md",
+                "file": "legal/HIPAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/LICENSE_MANAGEMENT.md",
+                "file": "legal/HIPAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/LICENSE_MANAGEMENT.md"
+                "file": "legal/HIPAA.md"
               }
             }
           }
@@ -229,8 +229,8 @@
   },
   "active": "767a75926b2b1b55",
   "lastOpenFiles": [
-    "news/INDUSTRY.md",
     "technical/LICENSE_MANAGEMENT.md",
+    "news/INDUSTRY.md",
     "marketing/US Healthcare Institutions.md",
     "marketing/MARKETING_CHECKLIST.md",
     "BETA.md",
