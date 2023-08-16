@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "dashboard/configuration.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8cd784a9276ccfed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
               }
             }
           },
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "dashboard/configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "dashboard/configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/HIPAA.md"
+                "file": "dashboard/configuration.md"
               }
             }
           }
@@ -227,8 +237,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "767a75926b2b1b55",
+  "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
+    "dashboard/from_clause.md",
+    "dashboard/philosophy.md",
+    "dashboard/query_syntax.md",
+    "dashboard/select_clause.md",
+    "dashboard/where_clause.md",
+    "legal/HIPAA.md",
     "technical/LICENSE_MANAGEMENT.md",
     "news/INDUSTRY.md",
     "marketing/US Healthcare Institutions.md",
@@ -249,12 +265,6 @@
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS_TELEMETRY.md",
     "technical/github_cicd/CICD.md",
-    "dashboard/configuration.md",
-    "dashboard/from_clause.md",
-    "dashboard/index.md",
-    "dashboard/philosophy.md",
-    "dashboard/query_syntax.md",
-    "dashboard/select_clause.md",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20221018215022.png",
