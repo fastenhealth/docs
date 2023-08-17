@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "QR",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,7 +156,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashboard/configuration.md",
+                "file": "FAQs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashboard/configuration.md",
+                "file": "FAQs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashboard/configuration.md"
+                "file": "FAQs.md"
               }
             }
           }
@@ -237,7 +238,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cd784a9276ccfed",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
     "dashboard/from_clause.md",
     "dashboard/philosophy.md",
