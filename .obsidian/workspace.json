@@ -47,9 +47,11 @@
             "id": "8cd784a9276ccfed",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "legal/HIPAA.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -131,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QR",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQs.md",
+                "file": "legal/HIPAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAQs.md",
+                "file": "legal/HIPAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAQs.md"
+                "file": "legal/HIPAA.md"
               }
             }
           }
@@ -238,14 +239,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/CLA.md",
+    "legal/CORP.md",
+    "legal/FHIR_FEES.md",
+    "legal/HIPAA.md",
+    "legal/index.md",
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/LICENSE.md",
+    "legal/PRIVACY_POLICY.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "Untitled.canvas",
+    "FAQs.md",
     "dashboard/from_clause.md",
     "dashboard/philosophy.md",
     "dashboard/query_syntax.md",
     "dashboard/select_clause.md",
     "dashboard/where_clause.md",
-    "legal/HIPAA.md",
     "technical/LICENSE_MANAGEMENT.md",
     "news/INDUSTRY.md",
     "marketing/US Healthcare Institutions.md",
@@ -256,16 +268,6 @@
     "technical/PERSISTENT_DATABASE.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
     "technical/LANDING_PAGE.md",
-    "technical/index.md",
-    "technical/ID_VS_ACCESS_TOKEN.md",
-    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
-    "technical/FREE_FOR_DEV.md",
-    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
-    "technical/FHIR COMMUNITY.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ARCHITECTURE.md",
-    "technical/ANALYTICS_TELEMETRY.md",
-    "technical/github_cicd/CICD.md",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20221018215022.png",
