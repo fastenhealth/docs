@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "reports/reccomendations.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cql",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "reports/reccomendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/HIPAA.md",
+                "file": "reports/reccomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/HIPAA.md"
+                "file": "reports/reccomendations.md"
               }
             }
           }
@@ -239,13 +240,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cd784a9276ccfed",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
+    "legal/HIPAA.md",
     "legal/CARIN_TRUST_FRAMEWORK.md",
     "legal/CLA.md",
     "legal/CORP.md",
     "legal/FHIR_FEES.md",
-    "legal/HIPAA.md",
     "legal/index.md",
     "legal/INTELLECTUAL_PROPERTY.md",
     "legal/LICENSE.md",
