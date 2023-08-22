@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboard/from_clause.md",
+                "file": "dashboard/configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashboard/from_clause.md",
+                "file": "dashboard/configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashboard/from_clause.md",
+                "file": "dashboard/configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashboard/from_clause.md"
+                "file": "dashboard/configuration.md"
               }
             }
           }
@@ -241,10 +241,10 @@
   },
   "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
-    "dashboard/index.md",
-    "dashboard/from_clause.md",
-    "dashboard/configuration.md",
     "dashboard/aggregations.md",
+    "dashboard/configuration.md",
+    "dashboard/from_clause.md",
+    "dashboard/index.md",
     "dashboard/select_clause.md",
     "dashboard/query_syntax.md",
     "dashboard/philosophy.md",
