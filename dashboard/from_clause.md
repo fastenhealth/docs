@@ -63,5 +63,6 @@ As such, only the following values are acceptable for the `from` clause:
 - ServiceRequest
 - Slot
 - Specimen
-- VisionPrescription"
+- VisionPrescription
 
+As additional FHIR Resource types are added to the [USCDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) specification, or become commonly available by EHR systems, Fasten will support them as well. 
