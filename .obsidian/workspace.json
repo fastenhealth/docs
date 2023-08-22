@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "dashboard/aggregations.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cql",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "dashboard/aggregations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "dashboard/aggregations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/reccomendations.md"
+                "file": "dashboard/aggregations.md"
               }
             }
           }
@@ -240,8 +239,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
+    "dashboard/select_clause.md",
+    "dashboard/query_syntax.md",
+    "dashboard/philosophy.md",
+    "dashboard/index.md",
+    "dashboard/configuration.md",
+    "dashboard/from_clause.md",
+    "dashboard/where_clause.md",
+    "dashboard/aggregations.md",
+    "reports/reccomendations.md",
     "legal/HIPAA.md",
     "legal/CARIN_TRUST_FRAMEWORK.md",
     "legal/CLA.md",
@@ -254,21 +262,12 @@
     "legal/21ST_CENTURY_CURES_ACT.md",
     "Untitled.canvas",
     "FAQs.md",
-    "dashboard/from_clause.md",
-    "dashboard/philosophy.md",
-    "dashboard/query_syntax.md",
-    "dashboard/select_clause.md",
-    "dashboard/where_clause.md",
     "technical/LICENSE_MANAGEMENT.md",
     "news/INDUSTRY.md",
     "marketing/US Healthcare Institutions.md",
     "marketing/MARKETING_CHECKLIST.md",
     "BETA.md",
     "technical/design/UI Widgets.md",
-    "technical/design/Angular to React.md",
-    "technical/PERSISTENT_DATABASE.md",
-    "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
-    "technical/LANDING_PAGE.md",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20221018215022.png",
