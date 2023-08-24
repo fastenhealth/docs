@@ -18,3 +18,4 @@
 - Source Code & Active Pull Requests https://github.com/Open-Health-Manager/standard-patient-health-record-ig/pulls
 - Project Scope Statement: https://jira.hl7.org/browse/PSS-2125
 - EHI Export https://build.fhir.org/ig/argonautproject/ehi-api/
+- https://open-health-manager.github.io/standard-patient-health-record-ig/datamodel.html
