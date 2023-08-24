@@ -14,7 +14,7 @@
 ## Patient Empowerment - Standardized Personal Health Record
 
 - https://confluence.hl7.org/display/PE/SPHR+Project+Minutes+2023-06-16
-- SPHR Implementation Guide https://open-health-manager.github.io/standard-patient-health-record-ig/
+- SPHR Implementation Guide https://github.com/HL7/standard-patient-health-record-ig/
 - Source Code & Active Pull Requests https://github.com/Open-Health-Manager/standard-patient-health-record-ig/pulls
 - Project Scope Statement: https://jira.hl7.org/browse/PSS-2125
 - EHI Export https://build.fhir.org/ig/argonautproject/ehi-api/
