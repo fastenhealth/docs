@@ -87,6 +87,7 @@ All widgets have the same basic properties:
 - `item_type` - The type of widget. See [Widget Types](#widget-types) for more info.
 - `queries` [OPTIONAL] - A list of queries to run against the user's medical records. See [Query Syntax](#query_syntax) for more info.
 - `parsing` [OPTIONAL] - A set of rules to parse the results of the query. See [Query Syntax](#query_syntax) for more info.
+- `aggregations` [OPTIONAL] - A clause which can be used to group or aggregate the results
 
 ## Widget Types
 <a name="widget-types"></a>
