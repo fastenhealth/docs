@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboard/configuration.md",
+                "file": "dashboard/aggregations.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashboard/configuration.md",
+                "file": "dashboard/aggregations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashboard/configuration.md",
+                "file": "dashboard/aggregations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashboard/configuration.md"
+                "file": "dashboard/aggregations.md"
               }
             }
           }
@@ -241,6 +241,7 @@
   },
   "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
+    "dashboard/configuration.md",
     "dashboard/aggregations.md",
     "dashboard/where_clause.md",
     "dashboard/select_clause.md",
@@ -248,7 +249,6 @@
     "dashboard/philosophy.md",
     "dashboard/index.md",
     "dashboard/from_clause.md",
-    "dashboard/configuration.md",
     "legal/FHIR_FEES.md",
     "legal/CORP.md",
     "legal/CLA.md",
