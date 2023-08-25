@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboard/philosophy.md",
+                "file": "dashboard/configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashboard/philosophy.md",
+                "file": "dashboard/configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashboard/philosophy.md",
+                "file": "dashboard/configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashboard/philosophy.md"
+                "file": "dashboard/configuration.md"
               }
             }
           }
@@ -242,12 +242,18 @@
   "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
     "dashboard/aggregations.md",
-    "dashboard/configuration.md",
+    "dashboard/where_clause.md",
     "dashboard/select_clause.md",
     "dashboard/query_syntax.md",
-    "dashboard/where_clause.md",
+    "dashboard/philosophy.md",
     "dashboard/index.md",
     "dashboard/from_clause.md",
+    "dashboard/configuration.md",
+    "legal/FHIR_FEES.md",
+    "legal/CORP.md",
+    "legal/CLA.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
     "technical/FHIR COMMUNITY.md",
     "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
     "technical/ARCHITECTURE.md",
@@ -261,12 +267,6 @@
     "technical/ID_VS_ACCESS_TOKEN.md",
     "technical/GITHUB_AWS_OIDC_PROVIDER.md",
     "technical/FREE_FOR_DEV.md",
-    "providers/PROVIDER_DIRECTORY.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "providers/PATIENT_CONTRIBUTED_DATA.md",
-    "technical/TECH_STACK.md",
-    "dashboard/philosophy.md",
-    "legal/HIPAA.md",
     "Untitled.canvas",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",

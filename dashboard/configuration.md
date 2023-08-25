@@ -91,6 +91,7 @@ All widgets have the same basic properties:
 
 ## Widget Types
 <a name="widget-types"></a>
+> If there's a chart/widget type from [ChartJS](https://www.chartjs.org/) that you'd like to use, but is missing in Fasten, please open a [Github Issue](https://github.com/fastenhealth/fasten-onprem/issues), we'd be happy to add it for you. 
 
 ### Simple Line Widget
 
