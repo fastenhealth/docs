@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "dashboard/from_clause.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "dashboard/from_clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md",
+                "file": "dashboard/from_clause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/FHIR COMMUNITY.md"
+                "file": "dashboard/from_clause.md"
               }
             }
           }
@@ -241,8 +241,11 @@
   },
   "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
-    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
+    "dashboard/select_clause.md",
+    "dashboard/query_syntax.md",
+    "dashboard/from_clause.md",
     "technical/FHIR COMMUNITY.md",
+    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
     "technical/ARCHITECTURE.md",
     "technical/ANALYTICS_TELEMETRY.md",
     "technical/archive/SINGLE_PAGE_APP.md",
@@ -260,10 +263,7 @@
     "technical/TECH_STACK.md",
     "dashboard/aggregations.md",
     "dashboard/configuration.md",
-    "dashboard/from_clause.md",
     "dashboard/index.md",
-    "dashboard/select_clause.md",
-    "dashboard/query_syntax.md",
     "dashboard/philosophy.md",
     "dashboard/where_clause.md",
     "legal/HIPAA.md",
