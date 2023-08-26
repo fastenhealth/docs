@@ -22,7 +22,7 @@ I wanted a single (private) location to store our medical records, and I just co
 
 So, I built it
 
-**Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics**
+**Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics**
 
 Here's a couple of screenshots that'll give you an idea of what it looks like:
 
