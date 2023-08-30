@@ -5,7 +5,7 @@ title: Fundraising Lifetime License
 
 Hey everyone, 
 
-I've always been candid about the need to make Fasten Health sustainable, especially considering the legal and compliance complexities we face. Now that I'm dedicated to Fasten full-time, I'm eager to raise capital to bootstrap the project and bring in some talented contractors who can help us accelerate our progress.
+I've always been candid about the need to build Fasten Health in a sustainable way, especially considering the legal and compliance complexities we face. Now that I'm dedicated to Fasten full-time, I'm eager to raise capital to bootstrap the project and bring in some talented contractors who can help us accelerate our progress.
 
 Here's my current plan:
 
@@ -14,7 +14,7 @@ Here's my current plan:
 
 # What do you get? 
 
-**A lifetime license to the Fasten Health self-hosted software.** However, at this point, you'll receive essentially nothing tangible since the app is entirely open source. In the future, we plan to monetize Fasten by offering a SAAS version with a subscription fee and desktop versions which you'll be able to purchase in the Windows/Mac App Stores. Your lifetime license will apply to both. 
+**A lifetime license to the Fasten Health software.** However, at this point, you'll receive essentially nothing tangible since the app is entirely open source. In the future, we plan to monetize Fasten by offering a SAAS version with a subscription fee and desktop versions which you'll be able to purchase in the Windows/Mac App Stores. Your lifetime license will apply to both. 
 
 > Users who purchase the lifetime license will get access to the Fasten Health Desktop app Private Beta -- no docker required
 
