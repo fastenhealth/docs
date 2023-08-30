@@ -5,7 +5,7 @@ title: Fundraising Lifetime License
 
 Hey everyone, 
 
-I've always been candid about the need to build Fasten Health in a sustainable way, especially considering the legal and compliance complexities we face. Now that I'm dedicated to Fasten full-time, I'm eager to raise capital to bootstrap the project and bring in some talented contractors who can help us accelerate our progress.
+I've always been candid about the need to build [Fasten Health](https://github.com/fastenhealth/fasten-onprem) in a sustainable way, especially considering the legal and compliance complexities we face. Now that I'm dedicated to Fasten full-time, I'm eager to raise capital to bootstrap the project and bring in some talented contractors who can help us accelerate our progress.
 
 Here's my current plan:
 
