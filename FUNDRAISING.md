@@ -16,7 +16,8 @@ Here's my current plan:
 
 **A lifetime license to the Fasten Health software.** However, at this point, you'll receive essentially nothing tangible since the app is entirely open source. In the future, we plan to monetize Fasten by offering a SAAS version with a subscription fee and desktop versions which you'll be able to purchase in the Windows/Mac App Stores. Your lifetime license will apply to both. 
 
-> Users who purchase the lifetime license will get access to the Fasten Health Desktop app Private Beta -- no docker required
+{: .important }
+Users who purchase the lifetime license will get access to the Fasten Health Desktop app Private Beta -- no docker required
 
 # $75,000 is a lot of money! What are you going to do with it? 
 
@@ -25,7 +26,7 @@ Agreed, it sounds like a lot, however after taxes, legal fees & infrastructure c
 
 Specifically, there are a number of features I’ll be prioritizing with this funding: 
 
-- **UI/UX Experience**
+- **Enhanced User Experience**
 - **Smart device/wearable integration**
 - **ChatGPT-Like Offline Interface** for Querying Your Health Record
 - **Predefined Dashboards for Chronic Conditions** - work with a number of chronic condition communities to see how we can display the data they actually care about
