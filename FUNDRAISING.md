@@ -44,7 +44,7 @@ As for Venture Capitalists (VCs), while they’ll give money to [almost anyone](
 
 Your support means the world to me, and Fasten Health wouldn't be where it is today without you. Once your purchase is complete, your email address will be linked to the Lifetime License, granting you access to all future Fasten Health products and services.
 
-If the button below is grayed out, it means we've sold out of the Fasten Health Lifetime License for now. But don't worry; your ongoing support keeps us moving forward!
+If the button below is grayed out, it means we've sold out of the Fasten Health Lifetime License  :)
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
