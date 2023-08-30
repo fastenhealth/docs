@@ -42,3 +42,14 @@ As for Venture Capitalists (VCs), while they’ll give money to [almost anyone](
 # This sounds great, how do I buy it?  
 
 Well I’m  still trying to figure out if this is a good idea, so I wanted to get your feedback before I did anything rash.
+
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1Nkh95IFLNuhRPAOxqLT4xL2"
+  publishable-key="pk_live_51Lu66OIFLNuhRPAOdj1Z7GGu8H7LXLiqZzIPsm9mxtBWFMJezICT9VM8cRBlyxAqX6hxsPOFxEpcCE7VamBFXJvh00dCxySPpr"
+>
+</stripe-buy-button>
