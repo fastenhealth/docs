@@ -10,7 +10,7 @@ I've always been candid about the need to build Fasten Health in a sustainable w
 Here's my current plan:
 
 - **$200 lifetime license for the first 500 users** 
-  That will effectively net us ~$75,000 after taxes  
+  <br/>That will effectively net us ~$75,000 after taxes  
 
 # What do you get? 
 
@@ -38,7 +38,8 @@ Let's be crystal clear, anyone who purchases a “lifetime” license at this po
  
 Increasing the count of total lifetime licenses could have long-term consequences. If Fasten becomes successful, "power-users" who upgrade and use our services regularly will be grandfathered into heavily discounted plans, potentially paying much less than the actual service costs to run. **It's a balancing act.**
 
-As for Venture Capitalists (VCs), while they’ll give money to [almost anyone](https://techcrunch.com/2014/07/18/yo-raises-1-5m-in-funding-at-a-10m-valuation-investors-include-betaworks-and-pete-cashmore), their money comes with serious strings attached. Founders are typically required to rapidly expand their user base and profit, which may not might not align with our mission of patient empowerment. Frankly it just makes me uncomfortable, and I believe that selling directly to our users keeps our incentives in alignment.
+As for Venture Capitalists (VCs), while they’ll give money to [almost anyone](https://techcrunch.com/2014/07/18/yo-raises-1-5m-in-funding-at-a-10m-valuation-investors-include-betaworks-and-pete-cashmore), their money comes with serious strings attached. Founders are typically required to rapidly expand their user base and profit, which may not might not align with our mission of patient empowerment.
+Frankly it just makes me uncomfortable, and I believe that selling directly to our users keeps our incentives in alignment.
 
 # This sounds great, sign me up!  
 
