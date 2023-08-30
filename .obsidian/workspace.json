@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboard/aggregations.md",
+                "file": "BETA.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashboard/aggregations.md",
+                "file": "BETA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashboard/aggregations.md",
+                "file": "BETA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashboard/aggregations.md"
+                "file": "BETA.md"
               }
             }
           }
@@ -241,8 +241,8 @@
   },
   "active": "8cd784a9276ccfed",
   "lastOpenFiles": [
-    "dashboard/configuration.md",
     "dashboard/aggregations.md",
+    "dashboard/configuration.md",
     "dashboard/where_clause.md",
     "dashboard/select_clause.md",
     "dashboard/query_syntax.md",
