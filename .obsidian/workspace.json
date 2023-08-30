@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/App Gallery.md",
+                "file": "marketing/MARKETING_CHECKLIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marketing/App Gallery.md",
+                "file": "marketing/MARKETING_CHECKLIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marketing/App Gallery.md",
+                "file": "marketing/MARKETING_CHECKLIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marketing/App Gallery.md"
+                "file": "marketing/MARKETING_CHECKLIST.md"
               }
             }
           }
@@ -253,12 +253,13 @@
   },
   "active": "ed46b107a62630fd",
   "lastOpenFiles": [
-    "marketing/US Healthcare Institutions.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "providers/PROVIDER_DIRECTORY.md",
     "marketing/App Gallery.md",
+    "marketing/US Healthcare Institutions.md",
     "marketing/MARKETING_CHECKLIST.md",
     "marketing/Epic Connection Hub.md",
     "news/FASTEN.md",
-    "providers/PROVIDER_DIRECTORY.md",
     "FUNDRAISING.md",
     "BETA.md",
     "TODO_TASKS.md",
@@ -278,7 +279,6 @@
     "legal/21ST_CENTURY_CURES_ACT.md",
     "technical/FHIR COMMUNITY.md",
     "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
-    "technical/ARCHITECTURE.md",
     "Untitled.canvas",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
