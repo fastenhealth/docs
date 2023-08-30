@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FUNDRAISING.md",
+                "file": "providers/PROVIDER_DIRECTORY.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FUNDRAISING.md",
+                "file": "providers/PROVIDER_DIRECTORY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FUNDRAISING.md",
+                "file": "providers/PROVIDER_DIRECTORY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FUNDRAISING.md"
+                "file": "providers/PROVIDER_DIRECTORY.md"
               }
             }
           }
@@ -253,8 +253,11 @@
   },
   "active": "ed46b107a62630fd",
   "lastOpenFiles": [
-    "BETA.md",
+    "marketing/Epic Connection Hub.md",
+    "marketing/US Healthcare Institutions.md",
+    "marketing/MARKETING_CHECKLIST.md",
     "FUNDRAISING.md",
+    "BETA.md",
     "TODO_TASKS.md",
     "UNORGANIZED.md",
     "dashboard/aggregations.md",
@@ -276,9 +279,6 @@
     "technical/ANALYTICS_TELEMETRY.md",
     "technical/archive/SINGLE_PAGE_APP.md",
     "legal/RECORD OWNERSHIP.md",
-    "reports/reccomendations.md",
-    "FAQs.md",
-    "technical/PATIENT_DATA_COLLECTION.md",
     "Untitled.canvas",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
