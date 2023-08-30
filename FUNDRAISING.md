@@ -17,7 +17,7 @@ Here's my current plan:
 **A lifetime license to the Fasten Health software.** However, at this point, you'll receive essentially nothing tangible since the app is entirely open source. In the future, we plan to monetize Fasten by offering a SAAS version with a subscription fee and desktop versions which you'll be able to purchase in the Windows/Mac App Stores. Your lifetime license will apply to both. 
 
 {: .important }
-To make sure you still get *something* for your money, users who purchase the lifetime license will get access to the Fasten Health Desktop App private beta. It's a desktop version of the Fasten Health app that is available for Windows, Mac & (eventually) Linux. 
+To make sure you still get *something* for your money, users who purchase the lifetime license will get exclusive access to the Fasten Health Desktop App private beta. It's a desktop version of the Fasten Health app that is available for Windows, Mac & (eventually) Linux. 
 It's a standalone (non-docker) app that will allow you to access your health record offline, and will open Fasten up to a new set of users who may not have their own home server or understand how Docker works.
 
 # $75,000 is a lot of money! What are you going to do with it? 
