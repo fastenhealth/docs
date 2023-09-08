@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BETA.md",
+                "file": "reports/reccomendations.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BETA.md",
+                "file": "reports/reccomendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BETA.md",
+                "file": "reports/reccomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BETA.md"
+                "file": "reports/reccomendations.md"
               }
             }
           }
@@ -253,9 +254,9 @@
   },
   "active": "ed46b107a62630fd",
   "lastOpenFiles": [
+    "BETA.md",
     "marketing/App Gallery.md",
     "providers/PROVIDER_DIRECTORY.md",
-    "BETA.md",
     "technical/archive/SINGLE_PAGE_APP.md",
     "sharing/INFORMATION_SHARING.md",
     "news/INDUSTRY.md",
