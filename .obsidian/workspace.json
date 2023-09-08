@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "FAQs.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cql",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "FAQs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reports/reccomendations.md",
+                "file": "FAQs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reports/reccomendations.md"
+                "file": "FAQs.md"
               }
             }
           }
@@ -254,6 +253,7 @@
   },
   "active": "ed46b107a62630fd",
   "lastOpenFiles": [
+    "reports/reccomendations.md",
     "BETA.md",
     "marketing/App Gallery.md",
     "providers/PROVIDER_DIRECTORY.md",
@@ -279,7 +279,6 @@
     "legal/FHIR_FEES.md",
     "legal/CORP.md",
     "legal/CLA.md",
-    "legal/CARIN_TRUST_FRAMEWORK.md",
     "Untitled.canvas",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
     "img/patient-browser.png",
