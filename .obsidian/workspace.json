@@ -59,11 +59,9 @@
             "id": "ed46b107a62630fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FAQs.md",
-                "mode": "source",
-                "source": false
+                "file": "img/screenshots/2.connect.png"
               }
             }
           },
@@ -190,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQs.md",
+                "file": "img/screenshots/2.connect.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAQs.md",
+                "file": "img/screenshots/2.connect.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAQs.md"
+                "file": "img/screenshots/2.connect.png"
               }
             }
           }
@@ -253,42 +251,42 @@
   },
   "active": "ed46b107a62630fd",
   "lastOpenFiles": [
+    "img/screenshots/3.callback.png",
+    "img/screenshots/5.data.png",
+    "img/screenshots/widget-dashboard.png",
+    "img/screenshots/security-manager-import.png",
+    "img/screenshots/security-manager-generate.png",
+    "img/screenshots/medical-history.png",
+    "img/screenshots/labs.png",
+    "img/screenshots/4.dashboard.png",
+    "img/screenshots/2.connect.png",
+    "img/screenshots/2.b-medical-sources-prod.png",
+    "img/screenshots/1.signup.png",
     "reports/reccomendations.md",
-    "BETA.md",
+    "reports/patient profile.md",
+    "reports/medications.md",
+    "reports/medical history.md",
+    "reports/contracts - phonebook.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "providers/PATIENT_CONTRIBUTED_DATA.md",
+    "providers/sources/EPIC.md",
+    "providers/sources/CERNER.md",
+    "marketing/US Healthcare Institutions.md",
+    "marketing/MARKETING_CHECKLIST.md",
+    "marketing/Epic Connection Hub.md",
     "marketing/App Gallery.md",
+    "news/FASTEN.md",
+    "FUNDRAISING.md",
+    "FAQs.md",
+    "BETA.md",
     "providers/PROVIDER_DIRECTORY.md",
     "technical/archive/SINGLE_PAGE_APP.md",
     "sharing/INFORMATION_SHARING.md",
     "news/INDUSTRY.md",
-    "marketing/MARKETING_CHECKLIST.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "marketing/US Healthcare Institutions.md",
-    "marketing/Epic Connection Hub.md",
-    "news/FASTEN.md",
-    "FUNDRAISING.md",
     "TODO_TASKS.md",
     "UNORGANIZED.md",
     "dashboard/aggregations.md",
     "dashboard/configuration.md",
-    "dashboard/where_clause.md",
-    "dashboard/select_clause.md",
-    "dashboard/query_syntax.md",
-    "dashboard/philosophy.md",
-    "dashboard/index.md",
-    "dashboard/from_clause.md",
-    "legal/FHIR_FEES.md",
-    "legal/CORP.md",
-    "legal/CLA.md",
-    "Untitled.canvas",
-    "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
-    "img/patient-browser.png",
-    "img/Pasted image 20221018215022.png",
-    "img/auth.png",
-    "img/sponsors/depot.png",
-    "img/screenshots/widget-dashboard.png",
-    "img/screenshots/2.connect.png",
-    "img/screenshots/1.signup.png",
-    "img/screenshots/2.b-medical-sources-prod.png",
-    "img/screenshots/3.callback.png"
+    "Untitled.canvas"
   ]
 }
