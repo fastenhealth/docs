@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md",
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md",
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md",
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md"
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md"
               }
             }
           },
@@ -263,15 +263,17 @@
   },
   "active": "ed46b107a62630fd",
   "lastOpenFiles": [
-    "legal/HIPAA.md",
+    "legal/PRIVACY_POLICY.md",
+    "legal/BLUE_BUTTON_CHECKLIST.md",
+    "legal/LICENSE.md",
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/index.md",
     "legal/FHIR_FEES.md",
     "legal/CORP.md",
     "legal/CLA.md",
     "legal/CARIN_TRUST_FRAMEWORK.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
-    "legal/PRIVACY_POLICY.md",
-    "legal/LICENSE.md",
-    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/HIPAA.md",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20230122210718.png",
@@ -298,8 +300,6 @@
     "marketing/App Gallery.md",
     "news/FASTEN.md",
     "FUNDRAISING.md",
-    "FAQs.md",
-    "BETA.md",
     "Untitled.canvas"
   ]
 }
