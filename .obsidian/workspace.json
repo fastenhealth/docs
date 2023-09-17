@@ -231,6 +231,16 @@
                 "file": "img/screenshots/2.connect.png"
               }
             }
+          },
+          {
+            "id": "459b62846e293739",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
