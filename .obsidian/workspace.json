@@ -59,9 +59,11 @@
             "id": "ed46b107a62630fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/screenshots/2.connect.png"
+                "file": "legal/PRIVACY_POLICY.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/screenshots/2.connect.png",
+                "file": "legal/PRIVACY_POLICY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/screenshots/2.connect.png",
+                "file": "legal/PRIVACY_POLICY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/screenshots/2.connect.png"
+                "file": "legal/PRIVACY_POLICY.md"
               }
             }
           },
@@ -261,17 +263,26 @@
   },
   "active": "ed46b107a62630fd",
   "lastOpenFiles": [
-    "img/screenshots/3.callback.png",
-    "img/screenshots/5.data.png",
-    "img/screenshots/widget-dashboard.png",
-    "img/screenshots/security-manager-import.png",
-    "img/screenshots/security-manager-generate.png",
-    "img/screenshots/medical-history.png",
-    "img/screenshots/labs.png",
-    "img/screenshots/4.dashboard.png",
+    "legal/HIPAA.md",
+    "legal/PRIVACY_POLICY.md",
+    "legal/LICENSE.md",
+    "legal/INTELLECTUAL_PROPERTY.md",
+    "legal/FHIR_FEES.md",
+    "legal/CORP.md",
+    "legal/CLA.md",
+    "legal/CARIN_TRUST_FRAMEWORK.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
+    "img/patient-browser.png",
+    "img/Pasted image 20230122210718.png",
+    "img/fred-resource-viewer.png",
+    "img/fasten-cloud.drawio.png",
+    "img/fasten_images_merged.pdf",
+    "img/bluebutton.png",
+    "img/auth.png",
+    "img/sponsors/depot.png",
     "img/screenshots/2.connect.png",
-    "img/screenshots/2.b-medical-sources-prod.png",
-    "img/screenshots/1.signup.png",
+    "img/screenshots/3.callback.png",
     "reports/reccomendations.md",
     "reports/patient profile.md",
     "reports/medications.md",
@@ -289,14 +300,6 @@
     "FUNDRAISING.md",
     "FAQs.md",
     "BETA.md",
-    "providers/PROVIDER_DIRECTORY.md",
-    "technical/archive/SINGLE_PAGE_APP.md",
-    "sharing/INFORMATION_SHARING.md",
-    "news/INDUSTRY.md",
-    "TODO_TASKS.md",
-    "UNORGANIZED.md",
-    "dashboard/aggregations.md",
-    "dashboard/configuration.md",
     "Untitled.canvas"
   ]
 }
