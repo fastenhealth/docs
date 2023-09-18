@@ -56,24 +56,24 @@
             }
           },
           {
-            "id": "ed46b107a62630fd",
+            "id": "8fe76b87431e4584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
+                "file": "sharing/INFORMATION_SHARING.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fe76b87431e4584",
+            "id": "ed46b107a62630fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNORGANIZED.md",
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
+                "file": "sharing/INFORMATION_SHARING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
+                "file": "sharing/INFORMATION_SHARING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md"
+                "file": "sharing/INFORMATION_SHARING.md"
               }
             }
           },
@@ -261,10 +261,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed46b107a62630fd",
+  "active": "8fe76b87431e4584",
   "lastOpenFiles": [
-    "legal/PRIVACY_POLICY.md",
     "legal/BLUE_BUTTON_CHECKLIST.md",
+    "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
     "legal/index.md",
