@@ -12,6 +12,8 @@ Privacy Policy and Terms of Service have been moved to the policy repository - [
 - https://www.circl.lu/privacy/
 	- https://github.com/CIRCL/compliance/blob/master/gdpr/notice-template/privacy.md
 - https://smarthealthit.org/smart-health-it-privacy-policy/
+- https://guavahealth.com/privacy
+- https://yocierge.com/privacy_policy
 
 
 # Generators
