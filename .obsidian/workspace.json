@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md",
+                "file": "news/INDUSTRY.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md",
+                "file": "news/INDUSTRY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md",
+                "file": "news/INDUSTRY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/PRIVACY_POLICY.md"
+                "file": "news/INDUSTRY.md"
               }
             }
           },
@@ -263,9 +263,10 @@
   },
   "active": "8fe76b87431e4584",
   "lastOpenFiles": [
+    "news/FASTEN.md",
+    "legal/PRIVACY_POLICY.md",
     "legal/BLUE_BUTTON_CHECKLIST.md",
     "sharing/INFORMATION_SHARING.md",
-    "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
     "legal/index.md",
@@ -299,7 +300,6 @@
     "marketing/MARKETING_CHECKLIST.md",
     "marketing/Epic Connection Hub.md",
     "marketing/App Gallery.md",
-    "news/FASTEN.md",
     "Untitled.canvas"
   ]
 }
