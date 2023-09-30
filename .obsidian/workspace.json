@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/INDUSTRY.md",
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/INDUSTRY.md"
+                "file": "legal/BLUE_BUTTON_CHECKLIST.md"
               }
             }
           },
@@ -263,21 +263,21 @@
   },
   "active": "8fe76b87431e4584",
   "lastOpenFiles": [
-    "news/index.md",
-    "news/FASTEN.md",
-    "news/INDUSTRY.md",
     "legal/PRIVACY_POLICY.md",
-    "legal/BLUE_BUTTON_CHECKLIST.md",
-    "sharing/INFORMATION_SHARING.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
-    "legal/index.md",
     "legal/FHIR_FEES.md",
+    "legal/HIPAA.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "legal/BLUE_BUTTON_CHECKLIST.md",
+    "news/INDUSTRY.md",
+    "news/index.md",
+    "news/FASTEN.md",
+    "sharing/INFORMATION_SHARING.md",
+    "legal/index.md",
     "legal/CORP.md",
     "legal/CLA.md",
     "legal/CARIN_TRUST_FRAMEWORK.md",
-    "legal/21ST_CENTURY_CURES_ACT.md",
-    "legal/HIPAA.md",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20230122210718.png",

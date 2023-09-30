@@ -1,11 +1,12 @@
 
 ### Ensuring Your Privacy Policy Meets the Basics
 
-- [ ] Do you have a privacy policy that is based on industry best practices?
-- [ ] Is your privacy policy prominent and publicly accessible?
+- [x] Do you have a privacy policy that is based on industry best practices? ✅ 2023-09-29
+- [x] Is your privacy policy prominent and publicly accessible? ✅ 2023-09-29
 - [ ] Please include a link to your publicly available Terms of Service and Privacy Policy.
-- [ ] Is your privacy policy easy to read, especially from the perspective of a Medicare beneficiary? Or do you explain the privacy policy in another document that is easier to read?
-    - [ ] If yes, what is the estimated reading level of your Privacy Policy and Terms of Service? How do you know?
+- [x] Is your privacy policy easy to read, especially from the perspective of a Medicare beneficiary? Or do you explain the privacy policy in another document that is easier to read? ✅ 2023-09-29
+    - [x] If yes, what is the estimated reading level of your Privacy Policy and Terms of Service? How do you know? ✅ 2023-09-29
+    - [ ] https://www.webfx.com/tools/read-able/?url=https://policy.fastenhealth.com/privacy_policy.html
 
 ### Ensuring Your Privacy Policy Helps Inform and Protect Medicare Beneficiaries
 
