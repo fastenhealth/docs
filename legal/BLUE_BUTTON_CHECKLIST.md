@@ -22,8 +22,8 @@ Does your privacy policy…
 
 Also, affirm whether or not your privacy policy addresses the following questions:
 
-- [ ] Does your privacy policy address when data sharing might have an impact on others (such as the impact of sharing genetic or family history information on relatives)?
-- [ ] Will Medicare beneficiaries be notified if your app’s privacy policy is updated to use personal information in a materially different way? Or makes material, retroactive changes to the way it uses personal information your app already collected?
+- [x] Does your privacy policy address when data sharing might have an impact on others (such as the impact of sharing genetic or family history information on relatives)? ✅ 2023-09-29
+- [x] Will Medicare beneficiaries be notified if your app’s privacy policy is updated to use personal information in a materially different way? Or makes material, retroactive changes to the way it uses personal information your app already collected? ✅ 2023-09-29
     - [ ] Will the notification give the user context for what has changed and allow them to update their privacy settings and/or opt-out of service?
 - [ ] Do you understand that, prior to rolling out changes to your Privacy Policy or Terms of Service, you must submit drafts of the new documents and draft notification to beneficiaries by emailing [BlueButtonAPI@cms.hhs.gov](mailto:BlueButtonAPI@cms.hhs.gov)? The CMS team will review your documents and respond with feedback or approval within five business days. You may not roll out the new documents or notify beneficiaries of changes until you receive approval from CMS.
 - [ ] Have you used ONC’s Model Privacy Notice (MPN) in developing your application’s privacy policy?
