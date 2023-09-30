@@ -14,6 +14,9 @@ Privacy Policy and Terms of Service have been moved to the policy repository - [
 - https://smarthealthit.org/smart-health-it-privacy-policy/
 - https://guavahealth.com/privacy
 - https://yocierge.com/privacy_policy
+- https://mattermost.com/privacy-policy/
+- https://www.authelia.com/policies/privacy/
+- https://www.portainer.io/privacy-policy
 
 
 # Generators
@@ -22,6 +25,7 @@ Privacy Policy and Terms of Service have been moved to the policy repository - [
 - https://github.com/rickysahu/mpngen
 - https://github.com/ajveach/MadeClear
 - http://www.enterprivacy.com/generator.html
+- https://app.freeprivacypolicy.com/wizard/privacy-policy
 ## Alternatives
 - https://github.com/ArthurGareginyan/privacy-policy-template
 - https://github.com/revolutionarysystems/legal-docs/blob/master/privacy-policy/privacy-policy.txt

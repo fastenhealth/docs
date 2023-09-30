@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
+                "file": "legal/PRIVACY_POLICY.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
+                "file": "legal/PRIVACY_POLICY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md",
+                "file": "legal/PRIVACY_POLICY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/BLUE_BUTTON_CHECKLIST.md"
+                "file": "legal/PRIVACY_POLICY.md"
               }
             }
           },
@@ -263,13 +263,13 @@
   },
   "active": "8fe76b87431e4584",
   "lastOpenFiles": [
+    "legal/BLUE_BUTTON_CHECKLIST.md",
     "legal/PRIVACY_POLICY.md",
     "legal/LICENSE.md",
     "legal/INTELLECTUAL_PROPERTY.md",
     "legal/FHIR_FEES.md",
     "legal/HIPAA.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
-    "legal/BLUE_BUTTON_CHECKLIST.md",
     "news/INDUSTRY.md",
     "news/index.md",
     "news/FASTEN.md",
