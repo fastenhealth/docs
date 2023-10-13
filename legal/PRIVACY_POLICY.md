@@ -17,7 +17,7 @@ Privacy Policy and Terms of Service have been moved to the policy repository - [
 - https://mattermost.com/privacy-policy/
 - https://www.authelia.com/policies/privacy/
 - https://www.portainer.io/privacy-policy
-
+- https://commonpaper.com/standards/terms-of-service/
 
 # Generators
 - https://www.healthit.gov/topic/privacy-security-and-hipaa/model-privacy-notice-mpn
