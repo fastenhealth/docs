@@ -130,14 +130,14 @@ sequenceDiagram
 	Browser->>Fasten Server: 11. Retrieve Referrer URL (Fasten Server) from session storage and Redirect with Authorization Code & response data.
 	Fasten Server->>Browser: 12. Respond with Fasten SPA
 	Fasten SPA->>Lighthouse: 13. Request OAuth tokens using authorization code, code verifier & challenge
-	Lighthouse->>Healthcare Provider: 14. Request OAuth tokens using authorization code, code verifier, challenge & <b>client secret</b>
+	Lighthouse->>Healthcare Provider: 14. Request OAuth tokens using authorization code, code verifier, challenge & client secret
 	Healthcare Provider->>Lighthouse: 15. Validate code verifier & challenge, respond with id, access and refresh tokens. 
 	Lighthouse->>Fasten SPA: 16. Respond with id, access and refresh tokens. 
     Fasten SPA->>Fasten Server: 17. Store id, access & refresh token in database
     
     loop Async (Daily/Weekly) Request Patient Data
     Fasten Server->>Lighthouse: 18. Request updated access token using refresh token.
-    Lighthouse->>Healthcare Provider: 19. Request updated access token using refresh token & <b>client secret</b>
+    Lighthouse->>Healthcare Provider: 19. Request updated access token using refresh token & client secret
 	Healthcare Provider->>Lighthouse: 20. Respond with access and refresh tokens. 
 	Lighthouse->>Fasten Server: 21. Store updated access and refresh tokens in database
     
