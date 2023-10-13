@@ -94,7 +94,7 @@ sequenceDiagram
 
 ```
 
-# Authentication Flow - Confidential Client
+## Authentication Flow - Confidential Client
 
 In some cases, Healthcare Providers will require a [Confidential client](https://oauth.net/2/client-types/), which means that the 
 client application cannot directly exchange the authorization code for an access token, a Client Secret is necessary.
