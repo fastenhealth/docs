@@ -59,12 +59,15 @@ This is the preferred Self-Hosted authentication flow, leveraging Public Client 
 
 ```mermaid
 sequenceDiagram
+    
     participant User
     participant Browser
     participant Fasten Server
     participant Fasten SPA
-    participant Lighthouse
-    participant Healthcare Provider
+    box MistyRose Public Network
+        participant Lighthouse
+        participant Healthcare Provider
+    end
 	
 
     User->>Browser: 1. Request Fasten App
