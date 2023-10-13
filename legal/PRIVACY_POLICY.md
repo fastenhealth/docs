@@ -22,9 +22,10 @@ Privacy Policy and Terms of Service have been moved to the policy repository - [
 
 # Terms of Service
 
-- https://commonpaper.com/standards/terms-of-service/
-- https://about.sourcegraph.com/terms/self-hosted
+- https://www.photoprism.app/terms
 - https://invoiceninja.com/self-hosting-terms-service/
+- https://about.sourcegraph.com/terms/self-hosted
+- https://commonpaper.com/standards/terms-of-service/
 
 # Generators
 - https://www.healthit.gov/topic/privacy-security-and-hipaa/model-privacy-notice-mpn
