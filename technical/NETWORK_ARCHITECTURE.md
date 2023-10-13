@@ -1,3 +1,8 @@
+---
+layout: default
+title: Network Architecture
+---
+
 # Network Diagram
 
 ```mermaid
@@ -22,17 +27,4 @@ Container_Boundary(publicInternet, "Public Internet") {
 }
 
 
-```
-# Data-flow Diagram
-
-```mermaid
-sequenceDiagram
-User->>Fasten Self-Hosted: Open Fasten in Browser
-Fasten Self-Hosted->>User: Respond with Angular Frontend
-User->>Fasten Lighthouse: Register self-hosted redirect url
-Fasten Lighthouse->>Healthcare Provider: Redirect user to Healthcare provider
-User->>Healthcare Provider: Authorizes Fasten connection to Healthcare provider
-Healthcare Provider-->>Fasten Lighthouse: Redirect with auth code Fragment
-Fasten Lighthouse-->>Fasten Self-Hosted: Redirect to self-hosted url 
-Fasten Self-Hosted-->>Healthcare Provider:Retrieve private healthcare data
 ```
