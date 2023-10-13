@@ -82,13 +82,66 @@ sequenceDiagram
 	User->>Browser: 9. Enter Healthcare provider credentials & complete auth flow.
 	Browser->>Lighthouse: 10. Redirect to Lighthouse service (callback url). Display "Connection Complete".
 	Browser->>Fasten Server: 11. Retrieve Referrer URL (Fasten Server) from session storage and Redirect with Authorization Code & response data.
-	Fasten Server->>Browser: 12. Response with Fasten SPA
+	Fasten Server->>Browser: 12. Respond with Fasten SPA
 	Fasten SPA->>Healthcare Provider: 13. Request OAuth tokens using authorization code, code verifier & challenge
-	Healthcare Provider->>Fasten SPA: 14 Validate code verifier & challenge, respond with id, access and refresh tokens. 
+	Healthcare Provider->>Fasten SPA: 14. Validate code verifier & challenge, respond with id, access and refresh tokens. 
     Fasten SPA->>Fasten Server: 15. Store id, access & refresh token in database
     
     loop Async (Daily/Weekly) Request Patient Data
     Fasten Server->>Healthcare Provider: 16. Update access token using refresh token, request Electonic medical records for patient.
+    Healthcare Provider->>Fasten Server: 17. Store records in database. 
+    end
+
+```
+
+# Authentication Flow - Confidential Client
+
+In some cases, Healthcare Providers will require a [Confidential client](https://oauth.net/2/client-types/), which means that the 
+client application cannot directly exchange the authorization code for an access token, a Client Secret is necessary.
+For security purposes the Client Secret is not stored in the client application, but is stored on the Lighthouse server.
+
+As such, all token exchange requests must be proxied through the Lighthouse server (which is different from the Public Client flow).
+However, Electronic Medical Record requests are still done directly from the client application to the Healthcare Provider.
+
+```mermaid
+sequenceDiagram
+    
+    participant User
+    participant Browser
+    participant Fasten Server
+    participant Fasten SPA
+    box MistyRose Public Network
+        participant Lighthouse
+        participant Healthcare Provider
+    end
+	
+
+    User->>Browser: 1. Request Fasten App
+    Browser->>Fasten Server: 2. Request Fasten App
+    Fasten Server->>Browser: 3. Respond with Fasten SPA
+
+	User->>Fasten SPA: 4. Click "Connect Healthcare Provider"
+	Fasten SPA->>Browser: 5. Generate & Store State, Code Challenge & Validator 
+	Browser->>Lighthouse: 6. Redirect to Lighthouse. 
+	Lighthouse->>Browser: 7. Store Referrer URL (Fasten Server) in session storage. 
+	Browser->>Healthcare Provider: 8. Redirect to Healthcare Provider & Login prompt 
+	User->>Browser: 9. Enter Healthcare provider credentials & complete auth flow.
+	Browser->>Lighthouse: 10. Redirect to Lighthouse service (callback url). Display "Connection Complete".
+	Browser->>Fasten Server: 11. Retrieve Referrer URL (Fasten Server) from session storage and Redirect with Authorization Code & response data.
+	Fasten Server->>Browser: 12. Respond with Fasten SPA
+	Fasten SPA->>Lighthouse: 13. Request OAuth tokens using authorization code, code verifier & challenge
+	Lighthouse->>Healthcare Provider: 14. Request OAuth tokens using authorization code, code verifier, challenge & <b>client secret</b>
+	Healthcare Provider->>Lighthouse: 15. Validate code verifier & challenge, respond with id, access and refresh tokens. 
+	Lighthouse->>Fasten SPA: 16. Respond with id, access and refresh tokens. 
+    Fasten SPA->>Fasten Server: 17. Store id, access & refresh token in database
+    
+    loop Async (Daily/Weekly) Request Patient Data
+    Fasten Server->>Lighthouse: 18. Request updated access token using refresh token.
+    Lighthouse->>Healthcare Provider: 19. Request updated access token using refresh token & <b>client secret</b>
+	Healthcare Provider->>Lighthouse: 20. Respond with access and refresh tokens. 
+	Lighthouse->>Fasten Server: 21. Store updated access and refresh tokens in database
+    
+    Fasten Server->>Healthcare Provider: 16. Request Electonic medical records for patient using access token.
     Healthcare Provider->>Fasten Server: 17. Store records in database. 
     end
 
