@@ -3,7 +3,12 @@
 
 # Insurance Companies & Payers
 
-
+1. UnitedHealthcare
+2. Anthem
+3. Aetna 
+4. Cigna
+5. Humana
+6. [CVS Health Corp. (CVS)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CVS)
 
 # Hospital Networks
 
