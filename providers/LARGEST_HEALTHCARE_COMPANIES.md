@@ -3,12 +3,34 @@
 
 # Insurance Companies & Payers
 
-1. UnitedHealthcare
-2. Anthem
-3. Aetna 
-4. Cigna
-5. Humana
-6. [CVS Health Corp. (CVS)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CVS)
+- [ ] UnitedHealthcare
+- [ ] Anthem
+- [ ] Aetna 
+- [ ] [Cigna Corp. (CI)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CI)
+- [ ] Humana
+- [ ] [CVS Health Corp. (CVS)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CVS) - Aetna
+- [ ] [McKesson Corp. (MCK)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=MCK)
+- [ ] [AmerisourceBergen Corp. (ABC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=ABC)
+- [ ] [Cardinal Health Inc. (CAH)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CAH)
+- [ ] [Elevance Health (ELV)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=ELV) - Anthem
+- [ ] [Centene Corp. (CNC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CNC) - Ambetter
+- [ ] [Walgreens Boots Alliance Inc. (WBA)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=WBA)
+- [ ] [Pfizer (PFE)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=PFE)
+- [ ] [Kaiser Permanente](https://www.valuepenguin.com/largest-health-insurance-companies#kaiser "Kaiser Permanente")
+- [ ] HCSC - Blue Cross
+- [ ] Molina
+- [ ] Guidewell - Florida Blue
+- [ ] Independence Health
+- [ ] Highmark
+- [ ] Regence
+- [ ] Oscar Health
+- [ ] CareFirst
+- [ ] UPMC
+- [ ] HealthPartners
+- [ ] Golden Rule Insurance
+- [ ] CareSource
+- [ ] Priority Health Insurance
+
 
 # Hospital Networks
 
