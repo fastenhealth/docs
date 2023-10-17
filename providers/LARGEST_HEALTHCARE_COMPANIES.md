@@ -43,41 +43,41 @@
 - [x] Ascension (St. Louis): 139 hospitals ✅ 2023-10-16
 - [x] Trinity Health (Livonia, Mich.): 88 hospitals ✅ 2023-10-16
 - [x] LifePoint Health (Brentwood, Tenn.): 84 hospitals ✅ 2023-10-16
-- [ ] Community Health Systems (Franklin, Tenn.): 79 hospitals  
+- [x] Community Health Systems (Franklin, Tenn.): 79 hospitals ✅ 2023-10-16
 - [ ] Advocate Health (Charlotte, N.C.): 67 hospitals   
 - [ ] Tenet Healthcare (Dallas): 61 hospitals   
-- [ ] Christus Health (Irving, Texas): 60 hospitals  
-- [ ] Providence (Renton, Wash.): 52 hospitals   
+- [x] Christus Health (Irving, Texas): 60 hospitals ✅ 2023-10-16
+- [x] Providence (Renton, Wash.): 52 hospitals ✅ 2023-10-16
 - [ ] Baylor Scott & White Health (Dallas): 51 hospitals   
-- [ ] Bon Secours Mercy Health (Cincinnati): 48 hospitals  
-- [ ] Sanford Health (Sioux Falls, S.D.): 47 hospitals   
-- [ ] AdventHealth (Altamonte Springs, Fla.): 46 hospitals 
+- [x] Bon Secours Mercy Health (Cincinnati): 48 hospitals ✅ 2023-10-16
+- [x] Sanford Health (Sioux Falls, S.D.): 47 hospitals ✅ 2023-10-16
+- [x] AdventHealth (Altamonte Springs, Fla.): 46 hospitals ✅ 2023-10-16
 - [ ] Indian Health Service (Rockville, Md.): 46 [24 IHS-operated and 22 tribally operated] hospitals  
 - [ ] Prime Healthcare (Ontario, Calif.): 45 hospitals   
-- [ ] UPMC (Pittsburgh): 40 hospitals   
+- [x] UPMC (Pittsburgh): 40 hospitals ✅ 2023-10-16
 - [ ] Mercy (St. Louis): 40 hospitals    
 - [ ] Kaiser Permanente (Oakland, Calif.): 39 hospitals    
-- [ ] UnityPoint Health (West Des Moines, Iowa): 39 hospitals   
+- [x] UnityPoint Health (West Des Moines, Iowa): 39 hospitals ✅ 2023-10-16
 - [ ] Avera Health (Sioux Falls, S.D.): 37 hospitals    
-- [ ] Intermountain Healthcare (Salt Lake City): 33 hospitals  
-- [ ] Ardent Health Services (Nashville, Tenn.): 30 hospitals    
-- [ ] Banner Health (Phoenix): 30 hospitals    
+- [x] Intermountain Healthcare (Salt Lake City): 33 hospitals ✅ 2023-10-16
+- [x] Ardent Health Services (Nashville, Tenn.): 30 hospitals ✅ 2023-10-16
+- [x] Banner Health (Phoenix): 30 hospitals ✅ 2023-10-16
 - [ ] Community Hospital Corp. (Plano, Texas): 29 hospitals  
 - [ ] Texas Health Resources (Arlington): 29 hospitals   
 - [ ] Universal Health Services (King of Prussia, Pa.): 28 hospitals 
 - [ ] Great Plains Health Alliance (Wichita, Kan.): 26 hospitals  
-- [ ]  Adventist Health (Roseville, Calif.): 23 hospitals  
-- [ ] Sutter Health (Sacramento, Calif.): 23 hospitals   
+- [x] Adventist Health (Roseville, Calif.): 23 hospitals ✅ 2023-10-16
+- [x] Sutter Health (Sacramento, Calif.): 23 hospitals ✅ 2023-10-16
 - [ ] MercyOne (Des Moines, Iowa): 23 hospitals   
 - [ ] SSM Health (St. Louis): 23 hospitals    
-- [ ] Baptist (Memphis, Tenn.): 22 hospitals   
-- [ ] Cleveland Clinic: 22 hospitals  
-- [ ] Piedmont Healthcare (Atlanta): 22 hospitals  
-- [ ] Ballad Health (Johnson City, Tenn.): 21 hospitals   
+- [x] Baptist (Memphis, Tenn.): 22 hospitals ✅ 2023-10-16
+- [x] Cleveland Clinic: 22 hospitals ✅ 2023-10-16
+- [x] Piedmont Healthcare (Atlanta): 22 hospitals ✅ 2023-10-16
+- [x] Ballad Health (Johnson City, Tenn.): 21 hospitals ✅ 2023-10-16
 - [ ] Northwell Health (New Hyde Park, N.Y.): 21 hospitals   
-- [ ] Quorum Health Corp. (Brentwood, Tenn.): 21 hospitals    
+- [x] Quorum Health Corp. (Brentwood, Tenn.): 21 hospitals ✅ 2023-10-16
 - [ ] University Hospitals (Cleveland): 21 hospitals   
-- [ ] Mayo Clinic Health System (Rochester, Minn.): 16 hospitals
+- [x] Mayo Clinic Health System (Rochester, Minn.): 16 hospitals ✅ 2023-10-16
 
 ### **Largest Hospitals**
 
