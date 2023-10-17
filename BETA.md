@@ -78,6 +78,7 @@ To do so, you'll need to use a Sandbox user and password from the table below. Y
 | eClinicalWorks/Healow | Username: `AdultFemaleFHIR` <br>Password: `e@CWFHIR1` | [test accounts](https://fhir.eclinicalworks.com/ecwopendev/)|
 | Epic                  | Username: `fhircamila` <br>Password: `epicepic1` | [test accounts](https://fhir.epic.com/Documentation?docId=testpatients)|
 | HealthIT              | Username: `demouser` <br>Password: `Demouser1!` | [test accounts](https://fhirsandbox.healthit.gov/secure/r4/view/userlogin.html)|
+| Humana              | Username: `HUser00007` <br>Password: `PW00007!` | [test accounts](https://developers.humana.com/apis/oauth)|
 | Kaiser                | Username: <br>Password: | |
 | Logica                | Username: <br>Password: | |
 | Medicare              | Username: `BBUser00000` <br>Password: `PW00000!` | [test accounts](https://bluebutton.cms.gov/developers/#developer-guidelines) |
