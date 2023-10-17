@@ -4,28 +4,28 @@
 # Insurance Companies & Payers
 
 - [ ] UnitedHealthcare
-- [ ] Anthem
-- [ ] Aetna 
+- [x] Anthem ✅ 2023-10-16
+- [x] Aetna ✅ 2023-10-16
 - [ ] [Cigna Corp. (CI)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CI)
 - [ ] Humana
-- [ ] [CVS Health Corp. (CVS)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CVS) - Aetna
+- [x] [CVS Health Corp. (CVS)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CVS) - Aetna ✅ 2023-10-16
 - [ ] [McKesson Corp. (MCK)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=MCK)
 - [ ] [AmerisourceBergen Corp. (ABC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=ABC)
 - [ ] [Cardinal Health Inc. (CAH)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CAH)
 - [ ] [Elevance Health (ELV)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=ELV) - Anthem
-- [ ] [Centene Corp. (CNC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CNC) - Ambetter
+- [x] [Centene Corp. (CNC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CNC) - Ambetter ✅ 2023-10-16
 - [ ] [Walgreens Boots Alliance Inc. (WBA)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=WBA)
 - [ ] [Pfizer (PFE)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=PFE)
 - [ ] [Kaiser Permanente](https://www.valuepenguin.com/largest-health-insurance-companies#kaiser "Kaiser Permanente")
 - [ ] HCSC - Blue Cross
-- [ ] Molina
+- [x] Molina ✅ 2023-10-16
 - [ ] Guidewell - Florida Blue
 - [ ] Independence Health
 - [ ] Highmark
-- [ ] Regence
+- [x] Regence ✅ 2023-10-16
 - [ ] Oscar Health
 - [ ] CareFirst
-- [ ] UPMC
+- [x] UPMC ✅ 2023-10-16
 - [ ] HealthPartners
 - [ ] Golden Rule Insurance
 - [ ] CareSource
@@ -37,12 +37,12 @@
 > Source - https://www.beckershospitalreview.com/lists/100-of-the-largest-hospitals-and-health-systems-in-america-2023.html
 
 
-- [ ] HCA Healthcare (Nashville, Tenn.): 182 hospitals   
+- [x] HCA Healthcare (Nashville, Tenn.): 182 hospitals ✅ 2023-10-16
 - [ ] Veterans Health Administration: 171 hospitals   
-- [ ] CommonSpirit Health (Chicago): 140 hospitals   
-- [ ] Ascension (St. Louis): 139 hospitals   
-- [ ] Trinity Health (Livonia, Mich.): 88 hospitals   
-- [ ] LifePoint Health (Brentwood, Tenn.): 84 hospitals  
+- [x] CommonSpirit Health (Chicago): 140 hospitals ✅ 2023-10-16
+- [x] Ascension (St. Louis): 139 hospitals ✅ 2023-10-16
+- [x] Trinity Health (Livonia, Mich.): 88 hospitals ✅ 2023-10-16
+- [x] LifePoint Health (Brentwood, Tenn.): 84 hospitals ✅ 2023-10-16
 - [ ] Community Health Systems (Franklin, Tenn.): 79 hospitals  
 - [ ] Advocate Health (Charlotte, N.C.): 67 hospitals   
 - [ ] Tenet Healthcare (Dallas): 61 hospitals   
