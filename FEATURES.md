@@ -24,9 +24,10 @@ title: Features
 - [https://docs.smarthealthit.org/](https://docs.smarthealthit.org/)
 - Vaccine records
 - User entered family history
-- billing comparisons with external data
+- billing comparisons with external data:
+
 | Data Sources                    | Data Elements                      | Insurance Types |
-|---------------------------------|------------------------------------|-----------------|
+|:--------------------------------|:-----------------------------------|:----------------|
 | Electronic Health Records (EHR) | Explanation of benefits            | Dental          |
 | Patient Portals                 | Genotypes & genetic traits         | Vision          |
 | Health Systems                  | Activity                           | Medical         |
