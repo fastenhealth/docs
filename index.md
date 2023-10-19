@@ -1,10 +1,30 @@
 ---
 layout: default
-title: docs
+title: Welcome
+description: "What is Fasten?"
+nav_order: 0
 ---
-# docs
 
-> From my [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem/)
+# What is Fasten?
+
+{: .fs-6 .fw-300 }
+Fasten is an open-source and self-hosted electronic medical record aggregator for individuals and families. Securely connect your healthcare providers together, creating a personal health record that never leaves your hands.
+
+[Get started now](/BETA.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View on GitHub](https://github.com/fastenhealth/fasten-onprem/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+
+> Fasten is a Work-in-Progress and can only communicate with a limited number of Healthcare Instutions (approx 25,000 at last count).
+> Please fill out this [Google Form](https://forms.gle/SNsYX9BNMXB6TuTw6) if you'd like to be kept up-to-date on Fasten
+>
+> To ensure Fasten's long-term sustainability, we're exploring some funding options. While we're still deciding a long-term monetization strategy, I'm kicking off with a crowdfunding/fundraising experiment for the first 500 users (including a surprise desktop app):
+>
+> - [Fasten Self-Hosted Lifetime License - **$200**](https://buy.stripe.com/fZe00deiUexS58Y4gg)
+>
+> Got questions or want to learn more about our fundraising experiment? [Click here to dive into the details & FAQs](https://docs.fastenhealth.com/FUNDRAISING.html)
 
 # Introduction
 
@@ -25,7 +45,6 @@ So, I built it
 **Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics**
 
 Here's a couple of screenshots that'll give you an idea of what it looks like:
-
 
 <p align="center">
   <a href="https://imgur.com/a/vfgojBD">
@@ -52,4 +71,4 @@ It's pretty basic right now, but it's designed with a easily extensible core aro
 
 See [FAQs](./FAQs.md) for common questions (& answers) regarding Fasten
 
-See [FEATURES.md](./FEATURES.md) for a list of features that are planned for Fasten
+See [FEATURES](./FEATURES.md) for a list of features that are planned for Fasten
