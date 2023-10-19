@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting started
-description: "Getting started with the Fasten Beta"
+description: "Getting started with self-hosting the Fasten Beta"
 nav_order: 1
 ---
 
@@ -17,18 +17,20 @@ If you haven't already, please fill out this [Google Form](https://forms.gle/SNs
 
 ## Getting Started
 
+Below are instructions to get started with self hosting the Fasten Beta.
+
 Fasten comes in two flavors depending on whether you want to use it with your real medical records, or just test it out with fake data.
 
 {: .fs-6 .fw-300 }
 
 How would you like to use Fasten?
 
-[With real medical records](#setting-up-fasten-to-use-with-real-medical-data-main){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[With real medical records](#setting-up-fasten-to-use-with-real-medical-data){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [With fake test data](#setting-up-fasten-to-use-fake-test-data-sandbox){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-### Setting up Fasten to use with real medical data (Main)
+### Setting up Fasten to use with real medical data
 
 This version allows you to connect to 650+ different Healthcare providers, using your existing accounts. It will allow you to connect and retrive your full electronic medical record and store it within Fasten.
 
@@ -74,7 +76,7 @@ Congrats, you're all set! Fasten will now start syncing your medical records.
 
 {: .warning }
 
-> The instructions below are for the `sandbox` flavor of Fasten. If you'd like to connect using your real account, please follow the instructions [here](#setting-up-fasten-main).
+> The instructions below are for the `sandbox` flavor of Fasten, which cannot connect to real patient portals. If you'd like to use Fasten with your real healthcare accounts, please follow the instructions [here](#setting-up-fasten-main).
 
 This version only allows you to connect to a handful of Healthcare providers, using Sandbox accounts that are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information.
 
