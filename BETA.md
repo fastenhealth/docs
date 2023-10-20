@@ -82,25 +82,6 @@ This version only allows you to connect to a handful of Healthcare providers, us
 
 Run the following commands to download and start the Fasten docker container.
 
-| Source                | Credentials                                                                | Link                                                                                                                                  |
-| --------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Aetna                 | Username: `aetnaTestUser3` <br>Password: `FHIRdemo2020`                    |                                                                                                                                       |
-| AllScripts            | Username: `alice.newman@sunrise184region.com` <br>Password: `Allscripts#1` | [test accounts](https://developer.allscripts.com/Content/fhir/FHIRSandboxes_index.html)                                               |
-| AthenaHealth          | Username: `phrtest_preview@mailinator.com` <br>Password: `Password1`       | [test accounts](https://docs.athenahealth.com/api/guides/onboarding-overview)                                                         |
-| CareEvolution         | Username: `CEPatient` <br>Password: `CEPatient2018`                        | [test accounts](https://fhir.careevolution.com/TestPatientAccounts.html)                                                              |
-| Cerner                | Username: `nancysmart` <br>Password: `Cerner01`                            | [test accounts](https://docs.google.com/document/d/10RnVyF1etl_17pyCyK96tyhUWRbrTyEcqpwzW-Z-Ybs/edit)                                 |
-| Cigna                 | Username: `syntheticuser05` <br>Password: `5ynthU5er5`                     | [test accounts](https://developer.cigna.com/service-apis/patient-access/sandbox#How-to-Use-the-Sandbox-Sandbox-Test-Users)            |
-| eClinicalWorks/Healow | Username: `AdultFemaleFHIR` <br>Password: `e@CWFHIR1`                      | [test accounts](https://fhir.eclinicalworks.com/ecwopendev/)                                                                          |
-| Epic                  | Username: `fhircamila` <br>Password: `epicepic1`                           | [test accounts](https://fhir.epic.com/Documentation?docId=testpatients)                                                               |
-| HealthIT              | Username: `demouser` <br>Password: `Demouser1!`                            | [test accounts](https://fhirsandbox.healthit.gov/secure/r4/view/userlogin.html)                                                       |
-| Humana                | Username: `HUser00007` <br>Password: `PW00007!`                            | [test accounts](https://developers.humana.com/apis/oauth)                                                                             |
-| Kaiser                | Username: <br>Password:                                                    |                                                                                                                                       |
-| Logica                | Username: <br>Password:                                                    |                                                                                                                                       |
-| Medicare              | Username: `BBUser00000` <br>Password: `PW00000!`                           | [test accounts](https://bluebutton.cms.gov/developers/#developer-guidelines)                                                          |
-| Meditech              | Username: <br>Password:                                                    |                                                                                                                                       |
-| NextGen               | Username: `patientapitest` <br>Password: `Password1!`                      | [test accounts](https://www.nextgen.com/-/media/files/api/nge-patient-api-auth-guide.pdf)                                             |
-| VA Health             | Username: `va.api.user+idme.101@gmail.com` <br>Password: `Password1234!`   | [test accounts](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/health_test_accounts.md) |
-
 Next, open a browser to [http://localhost:9090](http://localhost:9090)
 
 At this point you'll be redirected to the login page.
