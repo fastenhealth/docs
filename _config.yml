@@ -30,3 +30,5 @@ callouts:
 ga_tracking: G-WZK565L4EN
 mermaid:
   version: "9.1.3"
+plugins:
+  - jekyll-redirect-from
