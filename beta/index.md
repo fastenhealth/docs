@@ -4,6 +4,8 @@ title: Getting started
 description: "Getting started with self-hosting the Fasten Beta"
 nav_order: 1
 has_children: true
+redirect_from:
+- /BETA.html
 ---
 
 # Welcome to the Fasten Beta
