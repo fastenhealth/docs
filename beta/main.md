@@ -8,7 +8,7 @@ nav_order: 1
 
 # Setting up Fasten to Use With Real Medical Data
 
-This version lets you connect to 27,000+ institutions using your existing accounts. It will enable you to connect and retrieve your full electronic medical record and store it within Fasten.
+These instructions will help you set up a version of Fasten that lets you connect to 27,000+ institutions using your existing accounts. It will enable you to connect and retrieve your full electronic medical record and store it within Fasten.
 
 Run the following commands to download and start the Fasten docker container.
 

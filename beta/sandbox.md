@@ -12,13 +12,13 @@ nav_order: 2
 
 > The instructions below are for the `sandbox` flavor of Fasten, which cannot connect to real patient portals. If you'd like to use Fasten with your real healthcare accounts, please follow the instructions [here](/beta/main.html).
 
-This version only allows you to connect to a handful of Healthcare providers, using Sandbox accounts that are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information.
+These instructions will help you set up a version of Fasten that only allows you to connect to a handful of Healthcare providers using Sandbox accounts that are meant for testing and contain synthetic(fake) data to give you an idea of what Fasten will look like without requiring personal medical information.
 
 Run the following commands to download and start the Fasten docker container.
 
 Next, open a browser to [http://localhost:9090](http://localhost:9090)
 
-At this point you'll be redirected to the login page.
+At this point, you'll be redirected to the login page.
 
 ## Logging In
 
@@ -29,19 +29,19 @@ It can be as simple as
 - **Username:** `testuser`
 - **Password:** `testtest`
 
-Congrats! You're now logged in. You'll be redirected to the dashboard, which will be empty until you connect a healthcare provider.
+Congrats! You're now logged in. You'll be redirected to the dashboard, which will be empty until you connect with a healthcare provider.
 
 ## Dashboard
 
 Once you login, you'll be taken to the dashboard.
-From here you can explore the data retrieved from the various healthcare providers.
-This page will intially be empty, see the next section - `Connecting a new Source` - for more info.
+From here, you can explore the data retrieved from the various healthcare providers.
+This page will initially be empty; see the next section - `Connecting a new Source` - for more info.
 
 ## Connecting a new Source
 
 Before you can use Fasten, you'll need to connect a healthcare provider.
 
-This version only allows you to connect to a handful of Healthcare providers, using Sandbox accounts that are meant for testing, and contain synthetic(fake) data to give you an idea what Fasten will look like, without requiring personal medical information.
+This version only allows you to connect to a handful of Healthcare providers using Sandbox accounts that are meant for testing and contain synthetic(fake) data to give you an idea of what Fasten will look like without requiring personal medical information.
 
 To do so, you'll need to use a Sandbox user and password from the table below. You should not (and cannot) use real credentials with the Sandbox version of Fasten.
 
@@ -63,9 +63,9 @@ To do so, you'll need to use a Sandbox user and password from the table below. Y
 | NextGen               | Username: `patientapitest` <br>Password: `Password1!`                      | [test accounts](https://www.nextgen.com/-/media/files/api/nge-patient-api-auth-guide.pdf)                                             |
 | VA Health             | Username: `va.api.user+idme.101@gmail.com` <br>Password: `Password1234!`   | [test accounts](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/health_test_accounts.md) |
 
-Some providers (such as Cerner) may take a long time to sync, as their sandbox accounts have lots of test data. Please be patient.
+Some providers (such as Cerner) may take a long time to sync as their sandbox accounts have lots of test data. Please be patient.
 
 ## Testing Manual Bundle Upload
 
 If you'd like to test the manual bundle upload, you can use data provided by the [Synthea](https://synthetichealth.github.io/synthea-sample-data/downloads/synthea_sample_data_fhir_r4_sep2019.zip) project to test.
-Just extract the downloaded `zip` file, and upload one of the many `json` files.
+Just extract the downloaded `zip` file and upload one of the many `json` files.
