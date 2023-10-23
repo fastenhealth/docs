@@ -1,6 +1,6 @@
 ---
-title: Github Actions CICD
-parent: CICD
+title: Github Actions CI/CD
+parent: CI/CD
 grand_parent: Technical
 ---
 
