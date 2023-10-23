@@ -10,7 +10,7 @@ nav_order: 0
 {: .fs-6 .fw-300 }
 Fasten is an open-source and self-hosted electronic medical record aggregator for individuals and families. Securely connect your healthcare providers together, creating a personal health record that never leaves your hands.
 
-[Get started now](/beta/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started now](/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/fastenhealth/fasten-onprem/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---

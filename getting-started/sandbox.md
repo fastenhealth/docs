@@ -10,7 +10,7 @@ nav_order: 2
 
 {: .warning }
 
-> The instructions below are for the `sandbox` flavor of Fasten, which cannot connect to real patient portals. If you'd like to use Fasten with your real healthcare accounts, please follow the instructions [here](/beta/main.html).
+> The instructions below are for the `sandbox` flavor of Fasten, which cannot connect to real patient portals. If you'd like to use Fasten with your real healthcare accounts, please follow the instructions [here](/getting-started/main.html).
 
 These instructions will help you set up a version of Fasten that only allows you to connect to a handful of Healthcare providers using Sandbox accounts that are meant for testing and contain synthetic(fake) data to give you an idea of what Fasten will look like without requiring personal medical information.
 

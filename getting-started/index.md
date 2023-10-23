@@ -28,8 +28,8 @@ Fasten comes in two flavors depending on whether you want to use it with your re
 
 ## How would you like to use Fasten?
 
-[With real medical records](/beta/main.html){: .btn .btn-primary .fs-5 .mb-4 .mt-4 .mb-md-0 .mr-2 }
-[With fake test data](/beta/sandbox.html){: .btn .fs-5 .mb-4 .mt-4 .mb-md-0 }
+[With real medical records](/getting-started/main.html){: .btn .btn-primary .fs-5 .mb-4 .mt-4 .mb-md-0 .mr-2 }
+[With fake test data](/getting-started/sandbox.html){: .btn .fs-5 .mb-4 .mt-4 .mb-md-0 }
 
 ---
 
