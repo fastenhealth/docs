@@ -1,7 +1,7 @@
 ---
 title: Github as an AWS OIDC Provider
-parent: Technical
-grand_parent: CI/CD
+parent: CI/CD
+grand_parent: Technical
 ---
 
 Register Github as an OpenID OIDC identity provider for AWS

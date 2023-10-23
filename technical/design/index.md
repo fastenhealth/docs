@@ -1,5 +1,5 @@
 ---
 title: Design
 has_children: true
-grand_parent: Technical
+parent: Technical
 ---
