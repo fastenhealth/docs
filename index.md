@@ -10,7 +10,7 @@ nav_order: 0
 {: .fs-6 .fw-300 }
 Fasten is an open-source and self-hosted electronic medical record aggregator for individuals and families. Securely connect your healthcare providers together, creating a personal health record that never leaves your hands.
 
-[Get started now](/BETA.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started now](/beta/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/fastenhealth/fasten-onprem/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -35,16 +35,14 @@ Recently I had a semi-serious medical issue, and I realized that my medical hist
 is a lot more complicated than I realized and distributed across the many healthcare providers I've used over the years.
 I wanted a single (private) location to store our medical records, and I just couldn't find any software that worked as I'd like:
 
-- self-hosted/offline - this is my medical history, I'm not willing to give it to some random multi-national corporation to data-mine and sell
-- It should aggregate my data from multiple healthcare providers (insurance companies, hospital networks, clinics, labs) across multiple industries (vision, dental, medical) -- all in one dashboard
-- automatic - it should pull my EMR (electronic medical record) directly from my insurance provider/clinic/hospital network - I dont want to scan/OCR physical documents (unless I have to)
-- open source - the code should be available for contributions & auditing
+- **Self-hosted** - this is my medical history, I'm not willing to give it to some random multi-national corporation to data-mine and sell
+- **All inclusive** - It should aggregate my data from multiple healthcare providers (insurance companies, hospital networks, clinics, labs) across multiple industries (vision, dental, medical) -- all in one dashboard
+- **Automatic** - It should pull my EMR (electronic medical record) directly from my insurance provider/clinic/hospital network - I dont want to scan/OCR physical documents (unless I have to)
+- **Open Source** - The code should be available for contributions & auditing
 
-So, I built it
+So, I built it.
 
 **Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics**
-
-Here's a couple of screenshots that'll give you an idea of what it looks like:
 
 <p align="center">
   <a href="https://imgur.com/a/vfgojBD">
@@ -56,7 +54,7 @@ Here's a couple of screenshots that'll give you an idea of what it looks like:
 
 # Features
 
-It's pretty basic right now, but it's designed with a easily extensible core around a solid foundation:
+Fasten is designed with a solid foundation that is easily extensible:
 
 - Self-hosted
 - Designed for families, not Clinics (unlike OpenEMR and other popular EMR systems)

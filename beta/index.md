@@ -11,16 +11,16 @@ has_children: true
 Welcome to the Fasten beta! This beta is provided with a couple of caveats:
 
 - Fasten is still partially closed-source (please see the Reddit discussion for more info)
-- The Beta version is only available as a Docker image (eventually we'll support other modes of distribution)
+- The beta version is only available as a Docker image (eventually we'll support other modes of distribution)
 - Fasten is still a work-in-progress (many buttons in the UI do not do anything)
 
-If you haven't already, please fill out this [Google Form](https://forms.gle/SNsYX9BNMXB6TuTw6)
+If you would like to stay up-to-date with the latest updates, please fill out this [Google Form](https://forms.gle/SNsYX9BNMXB6TuTw6)
 
 ---
 
 ## Getting Started
 
-Below are instructions to get started with self hosting the Fasten Beta.
+Below are instructions to get started with self hosting the Fasten beta.
 
 Fasten comes in two flavors depending on whether you want to use it with your real medical records, or just test it out with fake data.
 
