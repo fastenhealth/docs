@@ -32,3 +32,4 @@ mermaid:
   version: "9.1.3"
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
