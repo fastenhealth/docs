@@ -1,6 +1,7 @@
 ---
-title: UI UX
+title: UI/UX
 parent: Design
+grand_parent: Technical
 ---
 
 

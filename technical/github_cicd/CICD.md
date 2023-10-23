@@ -1,6 +1,7 @@
 ---
 title: Github Actions CICD
-parent: Technical
+parent: CICD
+grand_parent: Technical
 ---
 
 https://github.blog/changelog/2021-11-19-allow-bypassing-required-pull-requests/
