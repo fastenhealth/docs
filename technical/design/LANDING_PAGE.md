@@ -1,6 +1,7 @@
 ---
 title: Marketing Website
-parent: Technical
+parent: Design
+grand_parent: Technical
 ---
 
 ## Marketing Website

@@ -1,3 +1,7 @@
+---
+title: FHIR Community
+parent: Technical
+---
 
 - https://chat.fhir.org
 - https://groups.google.com/forum/#!forum/smart-on-fhir

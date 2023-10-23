@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Network Architecture
+parent: Technical
 ---
 
 # Network Diagram
