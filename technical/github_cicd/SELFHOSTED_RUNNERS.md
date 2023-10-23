@@ -6,6 +6,7 @@ grand_parent: Technical
 
 # Mac
 
+{: .warning }
 > This content is sourced from https://www.scaleway.com/en/docs/tutorials/install-github-actions-runner-mac/
 
 ## Introduction
@@ -26,12 +27,15 @@ runner on a Mac mini M1 to execute macOS pipelines.
 3. Click **Runners**.
 4. Click the **New self-hosted runner** button. You are redirected to the self-hosted runners configuration page.
 5. Select **macOS** as a runner image and **ARM64** as an architecture.
+   {: .warning }
    > After selecting the runner image and architecture, GitHub prompts you to execute a sequence of shell commands. Those commands serve to authenticate your machine with your Github repository, download the necessary runtime and set-up the runner within your environment. Take note of these commands, as you will need to execute them on your Mac mini M1.
 6. [Connect](/bare-metal/apple-silicon/how-to/connect-to-mac-mini-m1/) to your Mac mini M1 using VNC.
+   {: .warning }
    > In this instance, SSH cannot be used as the runner service needs a graphical session to be started.
    
 7. Open a terminal and execute the commands previously prompted by Github. Don't launch the runner yet.
-    > This tutorial assumes that you picked the default settings when prompted during step 6.
+   {: .warning } 
+   > This tutorial assumes that you picked the default settings when prompted during step 6.
     
 ## Configuring the runner
 
@@ -51,9 +55,9 @@ Once the runner is installed, you must configure it to use the dependencies need
     ```
     HOMEBREW_NO_INSTALL_CLEANUP=TRUE
     ```
-    <Message type="note">
-      The `.env` file follows the bash syntax to set variables.
-    </Message>
+   {: .warning }
+   > The `.env` file follows the bash syntax to set variables.
+   
 
 4. You can create your own scripts to [execute before or after a job](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/running-scripts-before-or-after-a-job).
 
@@ -62,7 +66,6 @@ Once the runner is installed, you must configure it to use the dependencies need
 After configuring the runner, you can configure it as a service in order to run it in the background and follow the lifecycle of your Mac mini from boot time to shut down, as well as restarts in case of failures.
 
 1. Your Mac must be configured to log-in automatically. Go to **System Preferences** > **Users and Groups** > **Login Options** and select the **m1** user in the **Automatic Login** picklist.
-   <Lightbox src="scaleway-github-runner-m1-automatic-login.webp" alt="" />
 
 2. Install and run the service:
 ```sh
