@@ -1,6 +1,6 @@
 ---
 title: Terraform
-parent: cloud
+parent: Cloud
 grand_parent: Technical
 ---
 
