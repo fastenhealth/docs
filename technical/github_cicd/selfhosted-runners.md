@@ -101,8 +101,9 @@ This tutorial showed you how to set up, configure, and connect a self-hosted run
 
 # Windows
 
-- https://github.com/actions/runner-images/blob/main/docs/create-image-and-azure-resources.md
-- https://github.com/philips-labs/terraform-aws-github-runner
+- <https://github.com/actions/runner-images/blob/main/docs/create-image-and-azure-resources.md>
+- <https://github.com/philips-labs/terraform-aws-github-runner>
+- <https://github.com/actions/runner-images>
 
 To build these images you first need to install packer. You will also need an amazon account and to have provisioned your credentials for packer to consume.
 
