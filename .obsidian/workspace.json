@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md",
+                "file": "technical/github_cicd/cicd.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 315.5
   },
   "right": {
     "id": "58178119e53f4ea1",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md",
+                "file": "technical/github_cicd/cicd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md",
+                "file": "technical/github_cicd/cicd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md"
+                "file": "technical/github_cicd/cicd.md"
               }
             }
           },
@@ -251,6 +251,9 @@
   },
   "active": "8fe76b87431e4584",
   "lastOpenFiles": [
+    "technical/github_cicd/aws-oidc-provider.md",
+    "technical/github_cicd/cicd.md",
+    "technical/github_cicd/selfhosted-runners.md",
     "technical/ID_VS_ACCESS_TOKEN.md",
     "technical/LANDING_PAGE.md",
     "technical/LICENSE_MANAGEMENT.md",
@@ -276,9 +279,6 @@
     "technical/GITHUB_AWS_OIDC_PROVIDER.md",
     "technical/FREE_FOR_DEV.md",
     "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
-    "technical/FHIR COMMUNITY.md",
-    "technical/AUTHENTICATION.md",
-    "technical/ANALYTICS_TELEMETRY.md",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20230122210718.png",
