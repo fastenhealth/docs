@@ -1,3 +1,7 @@
+---
+title: Patient Contributed Data
+parent: Providers
+---
 
 - whitepaper (long) - http://www.hl7.org/documentcenter/public/ballots/2022SEP/downloads/HL7_PCD_R1_I1_2022SEP.pdf
 - wiki (long) - https://confluence.hl7.org/display/PE/Patient+Contributed+Data+Whitepaper
