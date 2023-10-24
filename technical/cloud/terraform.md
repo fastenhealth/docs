@@ -31,19 +31,19 @@ grand_parent: Technical
 - https://stackoverflow.com/questions/69279369/launching-aws-elb-instace-using-terraform
 
 # Cloudfront Serve - API Gateway & S3
-- https://medium.com/vectoscalar/use-cloudfront-for-api-gateway-s3-both-cc0e30e0962a
-- https://stackoverflow.com/questions/71064028/aws-cloudfront-in-front-of-s3-and-alb
-- https://medium.com/radon-dev/redirection-on-cloudfront-with-lambda-edge-e72fd633603e
-- https://awstip.com/setting-up-a-cloudfront-application-with-ecs-backend-with-terraform-7dc51d59e969
-- https://github.com/getlift/lift/blob/cb9c914b2730faab9b8059ef36dbdd92143730bc/docs/server-side-website.md
-- https://www.madskills.io/fullstack-serverless/
+- <https://medium.com/vectoscalar/use-cloudfront-for-api-gateway-s3-both-cc0e30e0962a>
+- <https://stackoverflow.com/questions/71064028/aws-cloudfront-in-front-of-s3-and-alb>
+- <https://medium.com/radon-dev/redirection-on-cloudfront-with-lambda-edge-e72fd633603e>
+- <https://awstip.com/setting-up-a-cloudfront-application-with-ecs-backend-with-terraform-7dc51d59e969>
+- <https://github.com/getlift/lift/blob/cb9c914b2730faab9b8059ef36dbdd92143730bc/docs/server-side-website.md>
+- <https://www.madskills.io/fullstack-serverless/>
 
 
 # Github - AWS ODIC
-- https://github.com/aws-actions/configure-aws-credentials
+- <https://github.com/aws-actions/configure-aws-credentials>
 
 # Github trigger another repo
-- https://github.com/orgs/community/discussions/26323
-- https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
-- https://github.com/marketplace/actions/deployment-action
-- 
+- <https://github.com/orgs/community/discussions/26323>
+- <https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows>
+- <https://github.com/marketplace/actions/deployment-action>
+

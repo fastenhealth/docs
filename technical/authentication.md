@@ -149,16 +149,16 @@ sequenceDiagram
 
 # References
 
-- [https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html](https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html)
-- [https://usefulangle.com/post/4/javascript-communication-parent-child-window](https://usefulangle.com/post/4/javascript-communication-parent-child-window)
-- [https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html](https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html)
-- [https://auth0.com/docs/flows/concepts/auth-code-pkce](https://auth0.com/docs/flows/concepts/auth-code-pkce)
-- [https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token](https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token)
+- <https://build.fhir.org/ig/HL7/smart-app-launch/scopes-and-launch-context.html>
+- <https://usefulangle.com/post/4/javascript-communication-parent-child-window>
+- <https://build.fhir.org/ig/HL7/smart-app-launch/app-launch.html>
+- <https://auth0.com/docs/flows/concepts/auth-code-pkce>
+- <https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token](https://build.fhir.org/ig/HL7/smart-app-launch/example-app-launch-public.html#step-5-access-token)
 
 ## Gin/Angular/JWT
 
-- [https://betterprogramming.pub/how-to-create-a-simple-web-login-using-gin-for-golang-9ac46a5b0f89](https://betterprogramming.pub/how-to-create-a-simple-web-login-using-gin-for-golang-9ac46a5b0f89)
-- [https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg](https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg)
-- [https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application](https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application)
-- [https://codewithmukesh.com/blog/jwt-authentication-in-golang/](https://codewithmukesh.com/blog/jwt-authentication-in-golang/)
-- [https://github.com/golang-jwt/jwt](https://github.com/golang-jwt/jwt)
+- <https://betterprogramming.pub/how-to-create-a-simple-web-login-using-gin-for-golang-9ac46a5b0f89>
+- <https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg>
+- <https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application>
+- <https://codewithmukesh.com/blog/jwt-authentication-in-golang/>
+- <https://github.com/golang-jwt/jwt>

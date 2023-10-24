@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/github_cicd/cicd.md",
+                "file": "providers/sources/epic.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/github_cicd/cicd.md",
+                "file": "providers/sources/epic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/github_cicd/cicd.md",
+                "file": "providers/sources/epic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/github_cicd/cicd.md"
+                "file": "providers/sources/epic.md"
               }
             }
           },
@@ -249,10 +249,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fe76b87431e4584",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
-    "technical/github_cicd/aws-oidc-provider.md",
+    "providers/sources/cerner.md",
+    "getting-started/main.md",
+    "getting-started/index.md",
+    "marketing/App Gallery.md",
+    "legal/21ST_CENTURY_CURES_ACT.md",
+    "getting-started/sandbox.md",
+    "technical/design/LANDING_PAGE.md",
+    "technical/design/UI Widgets.md",
+    "technical/design/UI_UX.md",
     "technical/github_cicd/cicd.md",
+    "technical/github_cicd/aws-oidc-provider.md",
     "technical/github_cicd/selfhosted-runners.md",
     "technical/ID_VS_ACCESS_TOKEN.md",
     "technical/LANDING_PAGE.md",
@@ -269,16 +278,7 @@
     "UNORGANIZED.md",
     "TODO_TASKS.md",
     "ROADMAP.md",
-    "index.md",
-    "FUNDRAISING.md",
-    "FEATURES.md",
-    "FAQs.md",
-    "BETA.md",
     "banner-transparent.png",
-    "technical/index.md",
-    "technical/GITHUB_AWS_OIDC_PROVIDER.md",
-    "technical/FREE_FOR_DEV.md",
-    "technical/FHIR_RESOURCE_RELATIONSHIPS.md",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
     "img/patient-browser.png",
     "img/Pasted image 20230122210718.png",
