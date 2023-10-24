@@ -98,3 +98,25 @@ jobs:
 ## Conclusion
 
 This tutorial showed you how to set up, configure, and connect a self-hosted runner on a Mac mini M1 for executing macOS pipelines. The runner is now ready to be used in your workflows. For more information, visit [Managing self-hosted runners on Github Docs](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners).
+
+# Windows
+
+- https://github.com/actions/runner-images/blob/main/docs/create-image-and-azure-resources.md
+- https://github.com/philips-labs/terraform-aws-github-runner
+
+To build these images you first need to install packer. You will also need an amazon account and to have provisioned your credentials for packer to consume.
+
+Assuming you are building the `windows-core-2022` image. Then run the following from within the windows-core-2022 folder
+
+```
+subl github_agent.windows.pkr.hcl
+# update region to us-east-1
+# update root_volume_size_gb to 50
+
+
+packer init .
+packer validate .
+packer build github_agent.windows.pkr.hcl
+```
+
+Your image will then begin to build inside AWS and when finished you will be provided with complete AMI.
