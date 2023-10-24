@@ -1,5 +1,5 @@
 ---
-title: Fasten Intellectual Property
+title: Intellectual Property
 parent: Legal
 ---
 

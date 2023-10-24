@@ -1,7 +1,13 @@
+---
+title: Epic
+parent: Sources
+grand_parent: Providers
+---
+
 - [terms of use](https://fhir.epic.com/Resources/Terms) of open.epic.
-- https://fhir.epic.com/Documentation?docId=patientfacingfhirapps
-- https://fhir.epic.com/Documentation?docId=developerguidelines
-- https://fhir.epic.com/FAQ
+- <https://fhir.epic.com/Documentation?docId=patientfacingfhirapps>
+- <https://fhir.epic.com/Documentation?docId=developerguidelines>
+- <https://fhir.epic.com/FAQ>
 
 
 > The app should protect authentication credentials provided by Epic or Epic Community Members, such as user names, user passwords, access tokens, or refresh tokens. Credentials used to access Epic Community Member’s Epic systems should be unique to each Epic Community Member, should only be used in conjunction with Epic APIs, and should never be passed to non-Epic systems. If the app needs to persist this data to non-volatile storage, it should use approved secure storage functionality provided by the host platform/operating system.
