@@ -5,11 +5,11 @@ parent: Legal
 
 
 # Policy Files
-- https://github.com/truevault/hipaa-compliance-developers-guide
-- https://github.com/HealthDecision/policies-ref-fork
-- https://github.com/lumahealthhq/policy
-- https://github.com/MolecularMatch/training
-- https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/special/healthit/phrs.pdf
+- <https://github.com/truevault/hipaa-compliance-developers-guide>
+- <https://github.com/HealthDecision/policies-ref-fork>
+- <https://github.com/lumahealthhq/policy>
+- <https://github.com/MolecularMatch/training>
+- <https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/special/healthit/phrs.pdf>
 
 # Does Fasten Self-hosted need to be HIPAA Compliant
 
@@ -30,13 +30,13 @@ There is some additional nuance here related to the authentication flow, but I c
 
 At this point I'd just like to confirm my understanding that **an application storing a patients data on their own device, at the patients request, would not fall under HIPAA compliance.**
 
-> https://www.reddit.com/r/healthIT/comments/xs3bk5/hipaa_compliance_requirements_for_3rd_party/
-> https://www.reddit.com/r/hipaa/comments/xs349e/hipaa_compliance_requirements_for_3rd_party/
+> - <https://www.reddit.com/r/healthIT/comments/xs3bk5/hipaa_compliance_requirements_for_3rd_party/>
+> - <https://www.reddit.com/r/hipaa/comments/xs349e/hipaa_compliance_requirements_for_3rd_party/>
 
 
 # Responses 
 
-> https://www.hhs.gov/sites/default/files/ocr-health-app-developer-scenarios-2-2016.pdf
+> <https://www.hhs.gov/sites/default/files/ocr-health-app-developer-scenarios-2-2016.pdf>
 
 | Scenario | Based on the Facts Presented in the Scenario, Is App Developer a HIPAA Business Associate? |
 | --- | --- |
@@ -66,13 +66,13 @@ HIPAA as either a covered entity or business associate.
 ---
 If you are specifically looking for your obligations under 21st Century Cures, you are probably looking for information about Information Blocking which is overseen by the Office of the National Coordinator of Health Information Technology (ONC). There is more information here:
 
-https://www.healthit.gov/topic/information-blocking
+<https://www.healthit.gov/topic/information-blocking>
 
 The newer, better, nicer HHS is very cooperative with industry stakeholders and you can reach out to them directly once you've attempted to digest the available published materials. Don't be surprised if you get answers such as "OCR is responsible for enforcing that regulation and we can't speak to what they would do."
 
 Edit: Added ( ) for clarity.
 
-> https://www.reddit.com/r/healthIT/comments/xs3bk5/hipaa_compliance_requirements_for_3rd_party/iqinzxw/
+> <https://www.reddit.com/r/healthIT/comments/xs3bk5/hipaa_compliance_requirements_for_3rd_party/iqinzxw/>
 
 ---
 
@@ -82,13 +82,13 @@ Also, if you haven't started looking at the trusted exchange framework and commo
 
 At the end of the day, while there is a need for something like this, I don't know if you fully understand the complexities involved in getting this kind of information. It is a huge clusterfuck of crazy. This is why a lot of healthcare start-ups struggle with this industry is that you have to deal with data quality and silos that come with decades of baggage.
 
-> https://www.reddit.com/r/hipaa/comments/xs349e/hipaa_compliance_requirements_for_3rd_party/iqj67sn/
+> <https://www.reddit.com/r/hipaa/comments/xs349e/hipaa_compliance_requirements_for_3rd_party/iqj67sn/>
 
 # Further Reading
 
 > This was why the CURES act also established TEFCA, although the act didn't go as far as adopting TEFCA. It did leave the opportunity for any federal agency taking health data to require the use of TEFCA, and hopefully CMS does that.
-> https://www.reddit.com/r/hipaa/comments/xs349e/hipaa_compliance_requirements_for_3rd_party/iqjkxo8/
-
-> https://www.hhs.gov/hipaa/for-professionals/special-topics/health-apps/index.html
-> https://www.healthit.gov/topic/information-blocking
-> https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html
+> <https://www.reddit.com/r/hipaa/comments/xs349e/hipaa_compliance_requirements_for_3rd_party/iqjkxo8/>
+>
+> - <https://www.hhs.gov/hipaa/for-professionals/special-topics/health-apps/index.html>
+> - <https://www.healthit.gov/topic/information-blocking>
+> - <https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html>

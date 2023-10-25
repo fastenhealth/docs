@@ -30,3 +30,9 @@ grand_parent: Providers
 >  The app should appropriately manage end users’ assumptions and expectations of healthcare software to avoid negative outcomes. If the app permits end users to input data that is typically input and stored in an Epic system, or if the app uses an API to look up data from an Epic system and also permits end users to edit that data, then end users are likely to assume or expect that the app will file the new or updated data to Epic. If the app facilitates part of a workflow, then end users are likely to assume or expect the app to trigger downstream steps in the workflow (e.g., trigger a message to another end user, trigger an interface message, etc.).
 >  
 >  You and your apps should not corrupt or otherwise cause material inconsistencies in any data used by your apps.(d)(2)
+
+# Epic Connection hub
+
+> You agree to pay the annual, non-refundable Connection Hub listing fee of $500 per Product per year. This fee helps cover the administrative costs of maintaining the Connection Hub site and its listings. Fees are subject to change. Modifications related to Fees will take effect no sooner than thirty (30) days after Epic notifies You.
+
+<https://fhir.epic.com/Developer/ConnectionHubListingAgreement?download=true&termId=78>

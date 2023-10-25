@@ -1,5 +1,9 @@
-> copied from https://github.com/draftdev/startup-marketing-checklist
+---
+title: Marketing Checklist
+parent: Marketing
+---
 
+> copied from https://github.com/draftdev/startup-marketing-checklist
 
 ## Pre-Launch
 
