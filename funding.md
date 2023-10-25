@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Fundraising Lifetime License
+redirect_from:
+- /FUNDRAISING.html
 ---
 
 Hey everyone, 

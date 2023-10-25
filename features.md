@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Features
+redirect_from:
+- /FEATURES.html
 ---
 
 # Self-Hosted (Future) Features

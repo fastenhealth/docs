@@ -1,6 +1,8 @@
 ---
 layout: default
 title: FAQs
+redirect_from:
+- /FAQs.html
 ---
 
 > Most of these answers are copied responses to questions from Reddit:

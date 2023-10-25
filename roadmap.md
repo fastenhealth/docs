@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Roadmap
+redirect_from:
+- /ROADMAP.html
 ---
 
 # Roadmap
