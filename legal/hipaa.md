@@ -3,6 +3,10 @@ title: HIPAA
 parent: Legal
 ---
 
+# HIPAA/HITRUST BAA
+- https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-hipaa-us
+    > AFAIK (and a cursory read of the terms confirms this) that the Microsoft BAA applies to you automatically via the product terms so long as you are either a CE or BA. Of course, if you don’t like the terms of the default BAA that’s up to you.  But it’s basically free and doesn’t require new paperwork. Make sure to confirm that your services are covered:
+
 
 # Policy Files
 - <https://github.com/truevault/hipaa-compliance-developers-guide>
