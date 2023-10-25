@@ -13,9 +13,9 @@ grand_parent: Technical
 ## UX
 - <https://github.com/smart-on-fhir/patient-browser - REACT
 - <https://patient-browser.smarthealthit.org/index.html#/>
-    ![](./img/patient-browser.png)
+    ![](/img/patient-browser.png)
 - Resource viewer - <http://docs.smarthealthit.org/fred/?resource=.%2Fsamples%2Fbundle.json>
-- ![](img/fred-resource-viewer.png)
+- ![](/img/fred-resource-viewer.png)
 - <https://github.com/healthintellect/fhir-ui> - REACT
 	- <https://healthintellect.github.io/fhir-ui/components/allergy/AllergyTable>
 - <https://github.com/openmrs/openmrs-esm-patient-chart>

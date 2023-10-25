@@ -90,6 +90,6 @@ patient’s information is breached once stored within
 the app, you are not responsible.
 
 
-![](img/Pasted%20image%2020221018215022.png)
+![](/img/Pasted%20image%2020221018215022.png)
 
 https://www.particlehealth.com/blog/cures-act-timeline
