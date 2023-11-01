@@ -50,7 +50,93 @@ grand_parent: Technical
 
 # Signing Credentials
 
+Beginning with macOS Catalina (10.15), Apple is [requiring all software distributed outside of the Mac App Store (Direct Distribution) to be signed and notarized](https://developer.apple.com/news/?id=10032019a). 
+Software that isn't properly signed or notarized will be shown an error message with the only actionable option being to "Move to Bin". The software cannot be run even from the command-line.
+
+Apps submitted to TestFlight need to be signed with an [App Store Distribution Profile](https://developer.apple.com/forums/thread/733942).
+
+For information on how to set up these code signing identities, see [Developer Account Help](https://help.apple.com/developer-account/).
+
+This means you will need to create the following certificates and profiles:
+- **1x [Application Identifier](https://developer.apple.com/account/resources/identifiers/list)** - This contains your Bundle ID(e.g. `com.example.app`) and associated Capabilities
+- **2x [Certificates](https://developer.apple.com/account/resources/certificates/list)** 
+  - 1x **Developer ID Application Certificate** for Direct Distribution
+  - 1x **Apple Distribution** for App Store Distribution
+- 2x [Provisioning Profiles](https://developer.apple.com/account/resources/profiles/list)
+  - 1x **Developer ID Application Profile** for Direct Distribution
+  - 1x **App Store Distribution Profile** for App Store Distribution
+
+|  | TestFlight/App Store Distribution | Direct/External Distribution |
+| --- | --- | --- |
+|  Certificate | `Apple Distribution: TTT` | `Developer ID Application: TTT` |
+|  Provisioning Profile | `App Store Distribution: TTT` | `Developer ID Application: TTT` |
+
+## Create a Certificate Signing Request
+
+{: .important }
+> You may need to create 2 of these (depending on your distribution methods)
+
+We start by obtaining the certificates. After logging to your developer account and selecting `Certificates`, you should be able to create a new certificate. 
+From all the listed types, select `Developer ID Application` as per its description.
+
+![create-new-certificate.png](/img/marketplace/apple/create-new-certificate.png)
+
+To be able to obtain the certificate, you need to create a Certificate Signing Request (CSR) first, which you can easily get by opening Keychain Access and going to `Certificate Assistant` -> `Request a Certificate from a Certificate Authority`
+
+![keychain-access-request-certificate.png](/img/marketplace/apple/keychain-access-request-certificate.png)
+
+Fill in the necessary information and select your request to be `Saved to disk`. Note that the email address should be the same as the one you’re logging to the developer account. For an organization you can use something like `marketplace@example.com`
+
+![keychain-access-certificate-assistant.png](/img/marketplace/apple/keychain-access-certificate-assistant.png)
+
+You can then upload the CSR request file to the web which should successfully create a new certificate for you. Download it and add it to your Keychain Access by simply opening it. The certificate should be added to one of your default keychains and not to the system; otherwise you might later have troubles exporting it.
+
+![keychain-access.png](/img/marketplace/apple/keychain-access.png)
+
+{: .warning }
+> If you see a "certificate is not trusted" error for the Certificate in your Keychain, you will need to install the [Apple Worldwide Developer Relations Certification Authority](https://developer.apple.com/support/expiration/) certificate.
+> ![keychain-intermediate.png](/img/marketplace/apple/keychain-intermediate.png)
+> 
+> - <https://developer.apple.com/account/resources/certificates/add>
+> - [Developer ID Intermediate Certificate](https://www.apple.com/certificateauthority/DeveloperIDG2CA.cer)
+> - [Distribution Intermediate Certificate](https://www.apple.com/certificateauthority/AppleWWDRCAG3.cer)
+
+To be able to use the certificate for automated code signing, we need some format which would allow us to store the certificate as 
+a string, so we can later add it to Github Secrets as an environment variable. For that purpose, we’ll make use of a little 
+trick by encoding it to base64 first and then decoding it during the workflow. Let’s export the certificate by selecting 
+both the certificate and its private key, invoke its context menu and select `Export 2 items …`. 
+From the available formats pick `Personal Information Exchange (.p12)`. Then it will ask you to create a password for it. 
+Generate it and note it down, we’ll need it shortly.
+
+![keychain-export-certificate.png](/img/marketplace/apple/keychain-export-certificate.png)
+
+
+
+## Confirm Your Code Signing Identity
+
+To sign code for distribution you need a code signing identity. Choose the right identity for your distribution channel:
+- If you’re distributing an app on the Mac App Store, use an Apple Distribution code signing identity. This is named `Apple Distribution: TTT`, where `TTT` identifies your team.
+- Alternatively, you can use the old school Mac App Distribution code signing identity. This is named `3rd Party Mac Developer Application: TTT`, where `TTT` identifies your team.
+- If you’re distributing a product independently, use a Developer ID Application code signing identity. This is named `Developer ID Application: TTT`, where `TTT` identifies your team.
+
+```bash
+% security find-identity -p codesigning -v
+1) A06E7F3F8237330EE15CB91BE1A511C00B853358 "Apple Distribution: …"
+2) ADC03B244F4C1018384DCAFFC920F26136F6B59B "Developer ID Application: …"
+   2 valid identities found
+```
+
+# App Store Distribution
+
+# Direct/External Distribution
+
 # CICD Pipeline
+
+https://github.com/mitchellh/gon
+https://github.com/create-dmg/create-dmg
+
+
+
 
 # References
 
@@ -58,3 +144,5 @@ grand_parent: Technical
 - <developer.apple.com/app-store/small-business-program>
 - <https://wails.io/docs/guides/signing#macos>
 - <https://www.wellnessliving.com/knowledge-sharing/knowledge-base/enrolling-apple-developer-program-organization/>
+- <https://developer.apple.com/forums/thread/733942>
+- <https://localazy.com/blog/how-to-automatically-sign-macos-apps-using-github-actions>
