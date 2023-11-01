@@ -30,6 +30,16 @@ callouts:
 ga_tracking: G-WZK565L4EN
 mermaid:
   version: "9.1.3"
+# TOC Settings
+#toc:
+#  min_level: 1
+#  max_level: 3
+#  list_id: toc
+#  list_class: section-nav
+#  sublist_class: ''
+#  item_class: toc-entry
+#  item_prefix: toc-
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-toc

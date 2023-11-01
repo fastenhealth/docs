@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md",
+                "file": "technical/marketplace/apple-store.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md",
+                "file": "technical/marketplace/apple-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md",
+                "file": "technical/marketplace/apple-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/github_cicd/selfhosted-runners.md"
+                "file": "technical/marketplace/apple-store.md"
               }
             }
           },
@@ -243,7 +243,10 @@
   },
   "active": "8fe76b87431e4584",
   "lastOpenFiles": [
+    "technical/marketplace/windows-store.md",
+    "technical/marketplace/apple-store.md",
     "technical/github_cicd/selfhosted-runners.md",
+    "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
     "deck",
     "technical/github_cicd/index.md",
@@ -269,7 +272,6 @@
     "technical/PERSISTENT_DATABASE.md",
     "technical/TECH_STACK.md",
     "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
-    "providers/LARGEST_HEALTHCARE_COMPANIES.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
