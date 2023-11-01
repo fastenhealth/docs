@@ -71,7 +71,7 @@ This means you will need to create the following certificates and profiles:
 |  Certificate | `Apple Distribution: TTT` | `Developer ID Application: TTT` |
 |  Provisioning Profile | `App Store Distribution: TTT` | `Developer ID Application: TTT` |
 
-## Create a Certificate Signing Request
+## Create a Signing Certificate
 
 {: .important }
 > You may need to create 2 of these (depending on your distribution methods)
@@ -111,8 +111,15 @@ Generate it and note it down, we’ll need it shortly.
 ![keychain-export-certificate.png](/img/marketplace/apple/keychain-export-certificate.png)
 
 
+> Developer ID signing identities are precious. Anyone with access to one can ship code as you. Given that, you should treat them with care:
+> - You should not create them unnecessarily. Most folks only need to create one (well, one each for Developer ID Application and one Developer ID Installer). For a large organisation it might make sense to create a few, one for sub-units within the organisation.
+> - You should carefully manage access to them. Remember, if one leaks then folks will be able to start shipping code as you.
+>
+> If you’re trying to create a new Developer ID signing identity because you’ve misplaced your previous ones, I encourage you to look harder. If you can find the previous ones, it’ll save you a whole bunch of hassle.
+>
+> <https://developer.apple.com/forums/thread/659545?answerId=631425022#631425022>
 
-## Confirm Your Code Signing Identity
+### Confirm Your Code Signing Identity
 
 To sign code for distribution you need a code signing identity. Choose the right identity for your distribution channel:
 - If you’re distributing an app on the Mac App Store, use an Apple Distribution code signing identity. This is named `Apple Distribution: TTT`, where `TTT` identifies your team.
@@ -126,6 +133,22 @@ To sign code for distribution you need a code signing identity. Choose the right
    2 valid identities found
 ```
 
+# Create an Application Identifier (App ID) & Provisioning Profiles
+
+1. Use [Developer > Account > Identifiers](https://developer.apple.com/account/resources/identifiers/list) to create an App ID for your app. Remember that your App ID is the combination of an App ID prefix and your app’s bundle ID. For new App IDs, use your Team ID as the App ID prefix.
+
+    ![identifier.png](/img/marketplace/apple/identifier.png)
+    ![identifier-type.png](/img/marketplace/apple/identifier-type.png)
+
+2. Use [Developer > Account > Profiles > Distribution](https://developer.apple.com/account/resources/profiles/list) to create a `Developer ID` distribution provisioning profile for that App ID.
+
+    ![profile-store-distribution.png](/img/marketplace/apple/profile-direct-distribution.png)
+
+3. Use [Developer > Account > Profiles > Distribution](https://developer.apple.com/account/resources/profiles/list) to create an `App Store` distribution provisioning profile for that App ID.
+
+    ![profile-direct-distribution.png](/img/marketplace/apple/profile-store-distribution.png)
+
+
 # App Store Distribution
 
 # Direct/External Distribution
@@ -134,15 +157,19 @@ To sign code for distribution you need a code signing identity. Choose the right
 
 https://github.com/mitchellh/gon
 https://github.com/create-dmg/create-dmg
-
+[App Specific Passwords](https://support.apple.com/en-us/102654)
+[App-specific password not available from Managed Apple ID](https://developer.apple.com/forums/thread/128251)
 
 
 
 # References
 
-- <developer.apple.com/programs>
-- <developer.apple.com/app-store/small-business-program>
+- <https://developer.apple.com/programs>
+- <https://developer.apple.com/app-store/small-business-program>
 - <https://wails.io/docs/guides/signing#macos>
 - <https://www.wellnessliving.com/knowledge-sharing/knowledge-base/enrolling-apple-developer-program-organization/>
-- <https://developer.apple.com/forums/thread/733942>
+- [TestFlight, Provisioning Profiles, and the Mac App Store](https://developer.apple.com/forums/thread/733942)
 - <https://localazy.com/blog/how-to-automatically-sign-macos-apps-using-github-actions>
+- [Packaging Mac Software for Distribution](https://developer.apple.com/forums/thread/701581)
+- [Creating Distribution-Signed Code for Mac](https://developer.apple.com/forums/thread/701514)
+- [About Developer ID Application Certificates](https://developer.apple.com/forums/thread/659545?answerId=631425022#631425022)
