@@ -64,7 +64,7 @@ This means you will need to create the following certificates and profiles:
 - **2x [Certificates](https://developer.apple.com/account/resources/certificates/list)** 
   - 1x **Developer ID Application Certificate** for Direct Distribution
   - 1x **Apple Distribution** for App Store Distribution
-- 2x [Provisioning Profiles](https://developer.apple.com/account/resources/profiles/list)
+- **2x [Provisioning Profiles](https://developer.apple.com/account/resources/profiles/list)**
   - 1x **Developer ID Application Profile** for Direct Distribution
   - 1x **App Store Distribution Profile** for App Store Distribution
 
