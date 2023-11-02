@@ -215,7 +215,15 @@ Here are the official instructions for [Generating an API Key for App Store Conn
 - https://help.apple.com/itc/transporteruserguide/en.lproj/static.html
 
 
+# Frequent Issues:
 
+1. ITMS-90242: The product archive is invalid - The Info.plist must contain a LSApplicationCategoryType key, whose value is the UTI for a valid category. For more details, see 'Submitting your Mac apps to the App Store'.
+    - https://developer.apple.com/documentation/bundleresources/information_property_list/lsapplicationcategorytype
+
+1. ITMS-90869: Invalid bundle - The “fasten.app” bundle supports arm64 but not Intel-based Mac computers. Your build must include the x86_64 architecture to support Intel-based Mac computers. To support arm64 only, your macOS deployment tar
+    - https://dev.to/thewraven/universal-macos-binaries-with-go-1-16-3mm3
+
+1. https://stackoverflow.com/questions/30301179/missing-required-icons-when-submitting-app-with-application-loader
 
 # References
 
