@@ -53,6 +53,8 @@ grand_parent: Technical
 Beginning with macOS Catalina (10.15), Apple is [requiring all software distributed outside of the Mac App Store (Direct Distribution) to be signed and notarized](https://developer.apple.com/news/?id=10032019a). 
 Software that isn't properly signed or notarized will be shown an error message with the only actionable option being to "Move to Bin". The software cannot be run even from the command-line.
 
+![gatekeeper.png](/img/marketplace/apple/gatekeeper.png)
+
 Apps submitted to TestFlight need to be signed with an [App Store Distribution Profile](https://developer.apple.com/forums/thread/733942).
 
 For information on how to set up these code signing identities, see [Developer Account Help](https://help.apple.com/developer-account/).
