@@ -218,6 +218,13 @@ Here are the official instructions for [Generating an API Key for App Store Conn
 - <https://developer.apple.com/forums/thread/685723>
 
 
+# Extract Provisioning Profile
+- <https://maniak-dobrii.com/extracting-stuff-from-provisioning-profile/>
+- <https://developer.apple.com/documentation/technotes/tn3126-inside-code-signing-hashes>
+- <https://developer.apple.com/help/account/reference/provisioning-with-managed-capabilities/>
+- [TestFlight for Mac shows "Not Available for Testing"](https://developer.apple.com/forums/thread/689377)
+- 
+
 # Frequent Issues:
 
 1. ITMS-90242: The product archive is invalid - The Info.plist must contain a LSApplicationCategoryType key, whose value is the UTI for a valid category. For more details, see 'Submitting your Mac apps to the App Store'.
