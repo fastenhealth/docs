@@ -213,6 +213,7 @@ Here are the official instructions for [Generating an API Key for App Store Conn
 
 - https://developer.apple.com/help/app-store-connect/manage-builds/upload-builds
 - https://help.apple.com/itc/transporteruserguide/en.lproj/static.html
+- <https://developer.apple.com/forums/thread/685723>
 
 
 # Frequent Issues:
