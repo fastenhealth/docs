@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/marketplace/apple-store.md",
+                "file": "roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Grants",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/marketplace/apple-store.md",
+                "file": "roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/marketplace/apple-store.md",
+                "file": "roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/marketplace/apple-store.md"
+                "file": "roadmap.md"
               }
             }
           },
@@ -241,10 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fe76b87431e4584",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
-    "technical/marketplace/windows-store.md",
     "technical/marketplace/apple-store.md",
+    "technical/marketplace/windows-store.md",
     "technical/github_cicd/selfhosted-runners.md",
     "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
