@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap.md",
+                "file": "technical/grants/sbir-sttr.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "technical/grants/sbir-sttr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmap.md",
+                "file": "technical/grants/sbir-sttr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmap.md"
+                "file": "technical/grants/sbir-sttr.md"
               }
             }
           },
@@ -242,8 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "8fe76b87431e4584",
   "lastOpenFiles": [
+    "roadmap.md",
+    "technical/grants/sbir-sttr.md",
+    "technical/grants",
     "technical/marketplace/apple-store.md",
     "technical/marketplace/windows-store.md",
     "technical/github_cicd/selfhosted-runners.md",
@@ -271,8 +273,6 @@
     "technical/NETWORK_ARCHITECTURE.md",
     "technical/PATIENT_DATA_COLLECTION.md",
     "technical/PERSISTENT_DATABASE.md",
-    "technical/TECH_STACK.md",
-    "technical/ZERO_KNOWLEDGE_ENCRYPTION.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
