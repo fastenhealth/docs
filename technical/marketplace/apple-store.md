@@ -205,6 +205,8 @@ Here are the official instructions for [Generating an API Key for App Store Conn
 - https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution/customizing_the_notarization_workflow
 - [Private Key location for notary tool ](https://developer.apple.com/forums/thread/701859)
 - [Common Notization Issues](https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution/resolving_common_notarization_issues#3087721)
+- [A Peek Behind the Code Signing Curtain](https://developer.apple.com/forums/thread/702351)
+- 
 
 ## Upload Application to TestFlight using Transport
 
