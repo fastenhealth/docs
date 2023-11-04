@@ -6,7 +6,6 @@
 - [ ] Register for account on [sbir.gov](https://www.sbir.gov/registration)
 
 
-
 # Login to SAM.gov
 - [x] Navigate to SAM.gov. ✅ 2023-11-03
 - [x] Select the “Sign In” button in the upper right corner. Select “Accept” to accept the US Government System terms. ✅ 2023-11-03
@@ -58,3 +57,9 @@ Allow up to 12-15 business days after you submit before your registration is act
 - [ ] The status provides a quick summary for an entity, displaying the progress of that entity's most recent record. It will also display what steps remain until it is completed. The steps required are determined based on the purpose of registration.
 - [ ] Select the topic under the ‘More About’ for additional help on any of the status symbols or steps
 - [ ] To get the full entity details with reps and certs or any exclusions or to see non-public entities, you will need to use the main search.
+
+--- 
+
+# SBIR Registration Guide
+
+- https://www.sbir.gov/sites/default/files/Company_Registration_Guide.pdf

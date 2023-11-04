@@ -17,6 +17,7 @@ parent: News
 	- [HN Comments](https://news.ycombinator.com/item?id=36257233)
 - [AI study finds 50% of patient notes duplicated](https://www.healthcareitnews.com/news/ai-study-finds-50-patient-notes-duplicated)
 - <https://www.cdc.gov/chronicdisease/resources/infographic/chronic-diseases.htm>
+- [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
 
 # PHR News
 

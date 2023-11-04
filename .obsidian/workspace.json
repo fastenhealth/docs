@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/grants/sbir-sttr.md",
+                "file": "news/industry-news.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/grants/sbir-sttr.md",
+                "file": "news/industry-news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/grants/sbir-sttr.md",
+                "file": "news/industry-news.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/grants/sbir-sttr.md"
+                "file": "news/industry-news.md"
               }
             }
           },
@@ -243,8 +243,8 @@
   },
   "active": "8fe76b87431e4584",
   "lastOpenFiles": [
-    "roadmap.md",
     "technical/grants/sbir-sttr.md",
+    "roadmap.md",
     "technical/grants",
     "technical/marketplace/apple-store.md",
     "technical/marketplace/windows-store.md",
