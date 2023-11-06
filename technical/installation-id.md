@@ -12,7 +12,7 @@ given the way the Fasten Lighthouse works.
 > local/localhost installation of Fasten where the code is swapped for an Access Token. (In some cases the Fasten 
 > Lighthouse may also be involved in the OAuth code-> access token swap) 
 > 
-> See: https://github.com/fastenhealth/docs/blob/main/technical/authentication.md
+> See: [Authentication](authentication.md) for more information about the Fasten Lighthouse.
 
 
 Here are their concerns in a nutshell:
