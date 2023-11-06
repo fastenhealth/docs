@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "funding.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "funding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "funding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/industry-news.md"
+                "file": "funding.md"
               }
             }
           },
@@ -241,9 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fe76b87431e4584",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
+    "technical/installation-id.md",
     "technical/grants/sbir-sttr.md",
+    "news/industry-news.md",
     "roadmap.md",
     "technical/grants",
     "technical/marketplace/apple-store.md",
@@ -271,8 +273,6 @@
     "technical/LICENSE_MANAGEMENT.md",
     "technical/LOINC_SNOMED_TERMINOLOGY_SERVER.md",
     "technical/NETWORK_ARCHITECTURE.md",
-    "technical/PATIENT_DATA_COLLECTION.md",
-    "technical/PERSISTENT_DATABASE.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
