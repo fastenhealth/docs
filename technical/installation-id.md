@@ -12,7 +12,7 @@ given the way the Fasten Lighthouse works.
 > local/localhost installation of Fasten where the code is swapped for an Access Token. (In some cases the Fasten 
 > Lighthouse may also be involved in the OAuth code-> access token swap) 
 > 
-> See: https://docs.fastenhealth.com/faqs.html#what-is-the-fasten-lighthouse-i-thought-fasten-was-self-hosted
+> See: https://github.com/fastenhealth/docs/blob/main/technical/authentication.md
 
 
 Here are their concerns in a nutshell:
@@ -23,3 +23,23 @@ Here are their concerns in a nutshell:
     - **FEAR**: a completely separate application could use Fasten Lighthouse with their app, completely ignoring the audit and security review process that the Provider has in place for vetting new applications.
 
 Both of these concerns are completely valid, given the 10’s of millions of healthcare records some of these Healthcare providers protect.
+
+---
+
+After discussing potential solutions with the Providers, here’s what I’m proposing to the community:
+
+- Fasten Self-Hosted could implement an installation ID mechanism, which would be sent along with every request to the Fasten Lighthouse. The Installation ID would be associated with a Fasten Self-Hosted administrator Name + Email address (for contact purposes).
+- Fasten Lighthouse could enforce Provider limits for # of registered users per installation ID — in the order of XX rather than XXX (so 10s of users rather than 100’s of users)
+- The idea is that if each installation of Fasten Self-Hosted is limited to XX users per Provider, then the fallout of a misconfiguration or malicious application is limited.
+- You would only need to register an Installation ID once, and it would basically be another config file. The registration information (Name + Email) would only be used to notify system admins if they’re reaching a user limit for a specific Provider.
+- Fasten Lighthouse is **NOT** involved in requesting your medical records from your Provider (that communication is always done directly between your Fasten self-hosted instance and the Provider -- this does not change with this proposal -- only the Auth flow is modified)
+
+---
+
+Obviously this is non-optimal, but the potential for abuse with Lighthouse is a fact that’s come up numerous times with large Providers. None of these providers have ever seen an open-source application like Fasten before, so they're being extra cautious to make sure they're not missing anything.
+
+I’m open to ideas/feedback regarding my proposal (and alternatives!)
+
+Let’s discuss in the dedicated #developers Installation ID Thread: https://discord.com/channels/1023634406935642223/1169976288044388362
+
+---
