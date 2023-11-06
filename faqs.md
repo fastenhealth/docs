@@ -57,7 +57,7 @@ HIE's are ubiquitous and ONC's information blocking rules require providers to c
 **Fasten doesn't integrate with HIE/HIX's** and you will still be able to access your records, even if you decide to opt-out of HIE sharing. Fasten integrates directly with your healthcare institutions to retrieve your health records -- its more tedious, but there's no middleman.
 
 ## What is the Fasten Lighthouse? I thought Fasten was Self-Hosted?
-
+<a id="lighthouse"></a>
 
 1. The Lighthouse allows users to search for any supported healthcare institution by name, tag, address (and eventually country). It returns logos and additional metadata about the endpoint so that the Fasten application knows how to correctly communicate with the healthcare institution. As you can imagine, this dataset will be large ([NPPES](https://www.cms.gov/Regulations-and-Guidance/Administrative-Simplification/NationalProvIdentStand/DataDissemination) is 8gb by itself -- and that only contains US institutions). 
 2. Conforming US Healthcare institutions must allow patient access using the SMART-on-FHIR authentication protocol (its basically OpenID Connect). This means that app developers need to register an app with each EMR system (and sometimes each institution) and then securely store the returned client_id and client_secret. 

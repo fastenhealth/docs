@@ -51,6 +51,43 @@ extra cautious to make sure they're not missing anything.
 
 # FAQ's
 
+## Why do I need the Fasten Lighthouse? Can I create my own version of Fasten Lighthouse?
+
+The Fasten Lighthouse is a required component of the Fasten system. It's the only way to get your medical records from your Provider.
+Fasten Lighthouse is closed source, but it's fairly simple to run & I do plan on open-sourcing the API spec.
+However, keep in mind that it's probably going to be difficult for an individual to recreate their own personal "Fasten Lighthouse"
+
+- See [What is the Fasten Lighthouse? I thought Fasten was Self-Hosted?](../faqs.md#lighthouse)
+
 ## What if I don't want to register an Installation ID?
 
-If you're only using Fasten to manually upload your records, you don't need to register an Installation ID.
+If you're only using Fasten to manually upload your records, you don't really need an Installation ID, since you won't be communicating with the Lighthouse at all. 
+
+## Are you passing Installation ID's to the Provider?
+
+No, the Installation ID is only used by the Fasten Lighthouse to enforce user limits -- it's a correlation ID. 
+It's not passed to the Provider at all.
+
+## What will be the "hard registration limit" per Installation ID?
+
+That's still under discussion. It may end up being Provider specific, but I'm hoping that they'll agree to a reasonable constant limit ~100.
+
+## Would User level encryption or Zero-Knowledge Encryption  help?
+
+- **User level encryption** still requires the user to trust of the application. It won't protect users from a malicious app or
+    malicious system admin, it only makes it more difficult/appealing for hackers who've found a way to dump the database.
+- **[Zero-Knowledge Encryption](https://github.com/fastenhealth/docs/issues/57)** is a great idea, but it's not something that I can implement in the short term as it's complicated for a couple of reasons. 
+    Medical record data is retrieved from the healthcare provider server-side (because a number of EHR systems don't support CORS in any 
+    meaningful way, and server-side sync is basically required for background processing), so a malicious version of the 
+    Fasten App could just dump it to a file that the malicious admin can see. Zero-knowledge encryption also doesn't solve the problem of a
+    non-official Fasten app using the Fasten Lighthouse to skirt the Provider's security review process.
+
+## Is it possible to have Providers redirect directly to the Fasten App, ignoring the Lighthouse completely? 
+
+Unfortunately not. See [What is the Fasten Lighthouse? I thought Fasten was Self-Hosted?](../faqs.md#lighthouse) and [Authentication](authentication.md)
+
+## Would Dynamic Client Registration help?
+
+While [OAuth Dynamic Client Registration (DCR)](https://curity.io/resources/learn/openid-connect-understanding-dcr/) is a thing,
+most Providers don't support it, and these big Providers that have legal and security compliance checklists before providing API credentials definitely don't. 
+
