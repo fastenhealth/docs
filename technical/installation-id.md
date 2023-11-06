@@ -9,7 +9,7 @@ While Fasten has been able to integrate with 27,000+ health care institutions, s
 largest institutions are pushing back because they have concerns about the potential for abuse 
 given the way the Fasten Lighthouse works.
 
-{: .information }
+{: .important }
 > Just a refresher, Fasten Lighthouse is an auth gateway, providing a publicly accessible server for the provider to 
 > redirect the user to (with their OAuth code) after authentication. Fasten Lighthouse then redirects the user to their 
 > local/localhost installation of Fasten where the code is swapped for an Access Token. (In some cases the Fasten 

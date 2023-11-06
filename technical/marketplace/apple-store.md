@@ -185,14 +185,14 @@ Here are the official instructions for [Generating an API Key for App Store Conn
 
 1. From [Users and Access](https://appstoreconnect.apple.com/access/users), click Keys. The page opens with the App Store Connect API selected.
 1. Click Generate API Key.
-    {: .information }
+    {: .important }
     > If you already have an Active API key generated, you can click the add button (+) to add more.
 1. Enter a name for the key. The name is used for your reference only and isn’t part of the key itself.
 1. Under Access, select the [role permissions](https://developer.apple.com/help/app-store-connect/reference/role-permissions) to determine what the API can be used for. API keys are applied across all apps so app access can’t be limited for an API key.
-    {: .information }
+    {: .important }
     > Note: you should create your API key with the `App Manager` role, which will allow you to upload applications to App Store Connect, but will not allow you to submit the application for review.
 1. Click Generate.
-    {: .information }
+    {: .important }
     >Once you generate an API key, you won't be able to edit its name or access level. If you need to make changes, revoke the API key and generate a new one.
 
 ![app-store-connect-api-key.png](/img/marketplace/apple/app-store-connect-api-key.png)
