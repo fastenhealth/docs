@@ -3,6 +3,8 @@ title: Installation ID
 parent: Technical
 ---
 
+# Installation ID
+
 While Fasten has been able to integrate with 27,000+ health care institutions, some of the 
 largest institutions are pushing back because they have concerns about the potential for abuse 
 given the way the Fasten Lighthouse works.
