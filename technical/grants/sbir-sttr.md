@@ -20,9 +20,10 @@
 - [x] Select the “Continue” button to proceed. ✅ 2023-11-03
 - [x] Complete and submit the online registration. If you have all the necessary information ready, this should take approximately 45 minutes to complete. The time to complete could vary depending on the size and complexity of your registration. Steps to complete the registration follow in the next section. ✅ 2023-11-03
 
-- [ ] Wait for [Document Review](https://sam.gov/workspace/em/entities/entity-ticket-review) (2-3 days)
+- [x] Wait for [Document Review](https://sam.gov/workspace/em/entities/entity-ticket-review) (2-3 days) ✅ 2023-11-07
 
 # Completing an Entity Registration in SAM.gov
+-  [ ] https://iae-prd-videos.s3.amazonaws.com/pdf/entity-checklist.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231106T231309Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAY3LPYEEX2QGT3A5E%2F20231106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=70bf5897819a3747a34d60896df0926165278eadddd0e5411e093da3dde5e747
 - [ ] Select your type of entity.
 - [ ] If you are registering in SAM.gov to conduct business with the government through contracts, select “I want to be able to bid on federal contracts or other procurement opportunities. I also want to be able to apply for grants, loans, and other financial assistance programs.”
 - [ ] Complete the Core Data section:
