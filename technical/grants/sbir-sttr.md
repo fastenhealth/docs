@@ -1,9 +1,10 @@
 
-- [ ] Read <https://www.sbir.gov/how-to-apply>
-- [ ] https://www.csr.nih.gov/bpahat/Docs/GettingStarts-QuickStartGuideForContractRegistrations20242025.pdf
+- [x] Read <https://www.sbir.gov/how-to-apply> ✅ 2023-11-09
+- [x] https://www.csr.nih.gov/bpahat/Docs/GettingStarts-QuickStartGuideForContractRegistrations20242025.pdf ✅ 2023-11-09
 - [x] Register for DUNS number ✅ 2023-11-03
 - [x] Register for account on [SAM.gov](https://sam.gov/content/home) ✅ 2023-11-07
-- [ ] Register for account on [sbir.gov](https://www.sbir.gov/registration)
+- [x] Register for account on [sbir.gov](https://www.sbir.gov/registration) ✅ 2023-11-09
+    - https://www.sbir.gov/sites/default/files/Company_Registration_Guide.pdf
 
 
 # Login to SAM.gov
