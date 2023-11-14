@@ -67,6 +67,6 @@ Fasten is designed with a solid foundation that is easily extensible:
 
 ---
 
-See [FAQs](./FAQs.md) for common questions (& answers) regarding Fasten
+See [FAQs](./faqs.md) for common questions (& answers) regarding Fasten
 
-See [FEATURES](./FEATURES.md) for a list of features that are planned for Fasten
+See [FEATURES](./features.md) for a list of features that are planned for Fasten
