@@ -11,9 +11,9 @@ redirect_from:
 ## Production Access
 
 - [x] Incorporate 
-	- See [legal/Corp.md](./legal/Corp.md)
+	- See [legal/corp.md](./legal/corp.html)
 - [ ] Register Trademark
-	- See [legal/INTELLECTUAL_PROPERTY](legal/INTELLECTUAL_PROPERTY.md)
+	- See [legal/INTELLECTUAL_PROPERTY](./legal/intellectual_property.html)
 - [x] Sign up for AWS Activate (funding/credits)
 	- 10k credit with Stripe Atlas
 	- [x] Waiting for confirmation⏳  #task
@@ -22,7 +22,7 @@ redirect_from:
 		- Chase/BoA/etc
 - [x] Move all infrastructure to new AWS account ✅ 2023-07-16
 - [ ] Complete AWS Infrastructure Hardening for Lighthouse
-	- See [security/REFERENCES.md](security/REFERENCES.md)
+	- See [security/REFERENCES.md](security/references.html)
 - [ ] Configure Github CI for Lighthouse
 - [ ] Release source code
 	- [x] Fasten on Premise
