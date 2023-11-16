@@ -18,7 +18,10 @@ parent: News
 - [AI study finds 50% of patient notes duplicated](https://www.healthcareitnews.com/news/ai-study-finds-50-patient-notes-duplicated)
 - <https://www.cdc.gov/chronicdisease/resources/infographic/chronic-diseases.htm>
 - [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
+- [Interoperability Saves Lives Summary - Alberta Health Data Interop Working Group](https://www.albertavirtualcare.org/_files/ugd/efde1a_9564f5202366406d86bded1512799d61.pdf)
+	- [Interoperability Saves Lives Full- Alberta Health Data Interop Working Group](https://www.albertavirtualcare.org/_files/ugd/efde1a_43101bc906434781a6d497cd576602c1.pdf)
 
 # PHR News
 
 - <https://www.mobihealthnews.com/11453/official-google-health-shuts-down-because-it-couldnt-scale>
+

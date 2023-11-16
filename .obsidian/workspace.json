@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "news/industry-news.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "news/industry-news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "news/industry-news.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "providers/largest-healthcare-companies.md"
+                "file": "news/industry-news.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "news/index.md",
+    "news/fasten-health-news.md",
+    "providers/largest-healthcare-companies.md",
     "providers/patient-contributed-data.md",
     "technical/archive/single-page-app.md",
     "reports/reccomendations.md",
@@ -193,9 +196,6 @@
     "getting-started/index.md",
     "marketing/App Gallery.md",
     "legal/21ST_CENTURY_CURES_ACT.md",
-    "getting-started/sandbox.md",
-    "technical/design/LANDING_PAGE.md",
-    "technical/design/UI Widgets.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
