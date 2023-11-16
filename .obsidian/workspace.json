@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "technical/analytics-telemetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "technical/analytics-telemetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "technical/analytics-telemetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/industry-news.md"
+                "file": "technical/analytics-telemetry.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "news/industry-news.md",
     "news/index.md",
     "news/fasten-health-news.md",
     "providers/largest-healthcare-companies.md",
@@ -177,7 +178,6 @@
     "technical/grants/sbir-sttr.md",
     "funding.md",
     "technical/installation-id.md",
-    "news/industry-news.md",
     "roadmap.md",
     "technical/grants",
     "technical/marketplace/apple-store.md",
