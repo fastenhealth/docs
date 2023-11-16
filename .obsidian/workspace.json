@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/analytics-telemetry.md",
+                "file": "faqs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/analytics-telemetry.md",
+                "file": "faqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/analytics-telemetry.md",
+                "file": "faqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/analytics-telemetry.md"
+                "file": "faqs.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "features.md",
+    "technical/analytics-telemetry.md",
     "news/industry-news.md",
     "news/index.md",
     "news/fasten-health-news.md",
@@ -194,8 +196,6 @@
     "providers/sources/cerner.md",
     "getting-started/main.md",
     "getting-started/index.md",
-    "marketing/App Gallery.md",
-    "legal/21ST_CENTURY_CURES_ACT.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",

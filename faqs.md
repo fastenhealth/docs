@@ -33,9 +33,9 @@ Fasten is self-hosted (you run it on your own hardware). I'll never have access 
 
 ## How is my Medical data protected?
 
-Fasten will definitely be storing its data encrypted at rest, however that functionality is not enabled yet.
+Fasten supports [full database encryption](https://en.wikipedia.org/wiki/Database_encryption) to protect your data-at-rest, however users are responsible for [protecting their physical devices](https://www.okta.com/blog/2020/09/6-steps-to-practice-strong-laptop-security/).
 
-I'm still debating the tradeoffs between whole-database encryption vs record encryption, as search-ability is definitely something fasten users will want.
+As an additional layer of protection, we're considering record-level encryption, however that has some ramifications for search-ability.
 
 ## Is my Medical data available offline if I'm unable to communicate with the Provider?
 100%, the (raw) data is stored in a local SQLite DB, and the app will be designed so it can work offline (with certain functionality disabled -- like automatic updates).
