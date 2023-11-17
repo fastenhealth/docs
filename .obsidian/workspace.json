@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faqs.md",
+                "file": "technical/marketplace/apple-store.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faqs.md",
+                "file": "technical/marketplace/apple-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faqs.md",
+                "file": "technical/marketplace/apple-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faqs.md"
+                "file": "technical/marketplace/apple-store.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "faqs.md",
     "features.md",
     "technical/analytics-telemetry.md",
     "news/industry-news.md",
@@ -195,7 +196,6 @@
     "legal/license.md",
     "providers/sources/cerner.md",
     "getting-started/main.md",
-    "getting-started/index.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",

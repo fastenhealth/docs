@@ -225,6 +225,14 @@ Here are the official instructions for [Generating an API Key for App Store Conn
 - [TestFlight for Mac shows "Not Available for Testing"](https://developer.apple.com/forums/thread/689377)
 - 
 
+# Apple Small Business Program
+
+> The App Store Small Business Program is designed to accelerate innovation and help propel your small business forward with the next generation of groundbreaking apps on the App Store. It features a reduced commission rate of 15% on paid apps and in-app purchases, so you can invest more resources into your business to continue building quality apps that customers love.
+>
+> https://developer.apple.com/app-store/small-business-program/
+
+- [x] Join Apple Small Business Program ✅ 2023-11-17
+
 # Frequent Issues:
 
 1. ITMS-90242: The product archive is invalid - The Info.plist must contain a LSApplicationCategoryType key, whose value is the UTI for a valid category. For more details, see 'Submitting your Mac apps to the App Store'.
