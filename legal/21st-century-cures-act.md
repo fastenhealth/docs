@@ -93,3 +93,10 @@ the app, you are not responsible.
 ![](/img/Pasted%20image%2020221018215022.png)
 
 https://www.particlehealth.com/blog/cures-act-timeline
+
+
+> Publication of “FHIR service base URLs” (sometimes also referred to as “FHIR
+endpoints”) - A FHIR service base URL cannot be withheld by an actor as it (just like many other
+technical interfaces) is necessary to enable the access, exchange, and use of EHI
+>
+> https://www.healthit.gov/sites/default/files/page2/2020-03/ONC21stCenturyCuresActFinalRuleOverview.pdf
