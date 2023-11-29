@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "providers/patient-portal-and-sources-testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "providers/patient-portal-and-sources-testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "providers/patient-portal-and-sources-testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/21st-century-cures-act.md"
+                "file": "providers/patient-portal-and-sources-testing.md"
               }
             }
           },
@@ -169,6 +169,9 @@
     "providers/provider-directory.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
+    "providers/largest-healthcare-companies.md",
+    "providers/index.md",
+    "legal/21st-century-cures-act.md",
     "sharing/information-sharing.md",
     "technical/grants/sbir-sttr.md",
     "faqs.md",
@@ -178,7 +181,6 @@
     "news/industry-news.md",
     "news/index.md",
     "news/fasten-health-news.md",
-    "providers/largest-healthcare-companies.md",
     "technical/archive/single-page-app.md",
     "reports/reccomendations.md",
     "dashboard/configuration.md",
@@ -194,8 +196,6 @@
     "deck",
     "technical/github_cicd/index.md",
     "technical/github_cicd/cicd.md",
-    "technical/github_cicd/aws-oidc-provider.md",
-    "legal/hipaa.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
