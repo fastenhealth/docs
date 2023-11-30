@@ -8,3 +8,4 @@ parent: Technical
 - <https://loinc.org/downloads/>
 - <https://github.com/fastenhealth/fasten-onprem/issues/46>
 - <https://github.com/fastenhealth/fasten-onprem/issues/70>
+- https://www.antvaset.com/articles/list-of-fhir-terminology-servers
