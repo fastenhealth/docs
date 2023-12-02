@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ontoserver",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
     "technical/patient-data-collection.md",
     "funding.md",
