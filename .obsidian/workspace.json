@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/terminology-server.md",
+                "file": "providers/patient-portal-and-sources-testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/terminology-server.md",
+                "file": "providers/patient-portal-and-sources-testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/terminology-server.md",
+                "file": "providers/patient-portal-and-sources-testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/terminology-server.md"
+                "file": "providers/patient-portal-and-sources-testing.md"
               }
             }
           },
@@ -165,14 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "technical/patient-data-collection.md",
-    "funding.md",
-    "providers/patient-portal-and-sources-testing.md",
     "providers/provider-directory.md",
     "providers/patient-contributed-data.md",
     "providers/largest-healthcare-companies.md",
+    "providers/sources/index.md",
+    "technical/terminology-server.md",
+    "technical/patient-data-collection.md",
+    "funding.md",
+    "providers/patient-portal-and-sources-testing.md",
     "providers/index.md",
     "legal/21st-century-cures-act.md",
     "sharing/information-sharing.md",
@@ -192,11 +193,9 @@
     "roadmap.md",
     "technical/grants",
     "technical/marketplace/windows-store.md",
-    "technical/github_cicd/selfhosted-runners.md",
     "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
     "deck",
-    "technical/github_cicd/index.md",
     "Untitled.canvas",
     "banner-transparent.png",
     "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
