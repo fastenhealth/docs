@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "providers/patient-portal-and-sources-testing.md",
+                "file": "faqs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "providers/patient-portal-and-sources-testing.md",
+                "file": "faqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "providers/patient-portal-and-sources-testing.md",
+                "file": "faqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "providers/patient-portal-and-sources-testing.md"
+                "file": "faqs.md"
               }
             }
           },
@@ -166,14 +166,15 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "providers/provider-directory.md",
-    "providers/patient-contributed-data.md",
     "providers/largest-healthcare-companies.md",
     "providers/sources/index.md",
+    "providers/sources/cerner.md",
+    "providers/patient-portal-and-sources-testing.md",
+    "providers/provider-directory.md",
+    "providers/patient-contributed-data.md",
     "technical/terminology-server.md",
     "technical/patient-data-collection.md",
     "funding.md",
-    "providers/patient-portal-and-sources-testing.md",
     "providers/index.md",
     "legal/21st-century-cures-act.md",
     "sharing/information-sharing.md",
@@ -192,7 +193,6 @@
     "technical/installation-id.md",
     "roadmap.md",
     "technical/grants",
-    "technical/marketplace/windows-store.md",
     "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
     "deck",

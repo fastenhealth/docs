@@ -7,11 +7,11 @@ parent: Providers
 
 # Insurance Companies & Payers
 
-- [ ] UnitedHealthcare
+- [x] UnitedHealthcare ✅ 2023-12-05
 - [x] Anthem ✅ 2023-10-16
 - [x] Aetna ✅ 2023-10-16
 - [ ] [Cigna Corp. (CI)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CI)
-- [ ] Humana
+- [x] Humana ✅ 2023-12-05
 - [x] [CVS Health Corp. (CVS)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CVS) - Aetna ✅ 2023-10-16
 - [ ] [McKesson Corp. (MCK)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=MCK)
 - [ ] [AmerisourceBergen Corp. (ABC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=ABC)
@@ -20,7 +20,7 @@ parent: Providers
 - [x] [Centene Corp. (CNC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=CNC) - Ambetter ✅ 2023-10-16
 - [ ] [Walgreens Boots Alliance Inc. (WBA)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=WBA)
 - [ ] [Pfizer (PFE)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=PFE)
-- [ ] [Kaiser Permanente](https://www.valuepenguin.com/largest-health-insurance-companies#kaiser "Kaiser Permanente")
+- [x] [Kaiser Permanente](https://www.valuepenguin.com/largest-health-insurance-companies#kaiser "Kaiser Permanente") ✅ 2023-12-05
 - [ ] HCSC - Blue Cross
 - [x] Molina ✅ 2023-10-16
 - [ ] Guidewell - Florida Blue
