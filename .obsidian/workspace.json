@@ -11,11 +11,9 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "faqs.md",
-                "mode": "source",
-                "source": false
+                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ontoserver",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faqs.md",
+                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faqs.md",
+                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faqs.md"
+                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png"
               }
             }
           },
@@ -164,8 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
+    "img/screenshots/Screen Shot 2023-11-09 at 1.19.59 PM.png",
+    "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
+    "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
+    "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
+    "img/screenshots/Screen Shot 2023-11-30 at 7.40.20 PM.png",
+    "img/screenshots/Screen Shot 2023-12-08 at 4.09.01 PM.png",
+    "img/screenshots/Screen Shot 2023-12-07 at 2.27.28 PM.png",
+    "img/screenshots/Screen Shot 2023-12-07 at 2.27.04 PM.png",
+    "img/screenshots/widget-dashboard.png",
+    "img/screenshots/2.b-medical-sources-prod.png",
+    "img/screenshots/1.signup.png",
+    "img/fasten_images_merged.pdf",
+    "faqs.md",
     "providers/largest-healthcare-companies.md",
     "providers/sources/index.md",
     "providers/sources/cerner.md",
@@ -179,7 +190,6 @@
     "legal/21st-century-cures-act.md",
     "sharing/information-sharing.md",
     "technical/grants/sbir-sttr.md",
-    "faqs.md",
     "technical/marketplace/apple-store.md",
     "features.md",
     "technical/analytics-telemetry.md",
@@ -191,22 +201,10 @@
     "dashboard/configuration.md",
     "TODO_TASKS.md",
     "technical/installation-id.md",
-    "roadmap.md",
     "technical/grants",
     "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
     "deck",
-    "Untitled.canvas",
-    "banner-transparent.png",
-    "img/Screen Shot 2022-11-23 at 9.09.22 PM.png",
-    "img/patient-browser.png",
-    "img/Pasted image 20230122210718.png",
-    "img/fred-resource-viewer.png",
-    "img/fasten-cloud.drawio.png",
-    "img/fasten_images_merged.pdf",
-    "img/bluebutton.png",
-    "img/auth.png",
-    "img/sponsors/depot.png",
-    "img/screenshots/2.connect.png"
+    "Untitled.canvas"
   ]
 }
