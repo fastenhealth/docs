@@ -11,11 +11,9 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "marketing/marketing-checklist.md",
-                "mode": "source",
-                "source": false
+                "file": "img/screenshots/2.b-medical-sources-prod.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marketing/marketing-checklist.md",
+                "file": "img/screenshots/2.b-medical-sources-prod.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marketing/marketing-checklist.md",
+                "file": "img/screenshots/2.b-medical-sources-prod.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marketing/marketing-checklist.md"
+                "file": "img/screenshots/2.b-medical-sources-prod.png"
               }
             }
           },
@@ -164,22 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
+    "img/macos-app-store/1.dashboard.png",
+    "img/macos-app-store/2.timeline.png",
+    "img/macos-app-store/3.sources.png",
+    "img/macos-app-store/4.explore.png",
+    "img/macos-app-store/6.secure.png",
+    "img/macos-app-store/5.manual.png",
+    "img/macos-app-store",
+    "img/untitled folder",
+    "img/screenshots/1.signup.png",
+    "marketing/marketing-checklist.md",
     "marketing/index.md",
     "marketing/app-gallery.md",
     "marketing/us-healthcare-institutions.md",
-    "marketing/marketing-checklist.md",
     "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
     "img/screenshots/Screen Shot 2023-11-09 at 1.19.59 PM.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
-    "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
-    "img/screenshots/Screen Shot 2023-11-30 at 7.40.20 PM.png",
-    "img/screenshots/Screen Shot 2023-12-08 at 4.09.01 PM.png",
-    "img/screenshots/Screen Shot 2023-12-07 at 2.27.28 PM.png",
-    "img/screenshots/Screen Shot 2023-12-07 at 2.27.04 PM.png",
-    "img/screenshots/widget-dashboard.png",
     "img/fasten_images_merged.pdf",
     "faqs.md",
     "providers/largest-healthcare-companies.md",
@@ -202,7 +203,6 @@
     "news/index.md",
     "news/fasten-health-news.md",
     "technical/archive/single-page-app.md",
-    "reports/reccomendations.md",
     "technical/grants",
     "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
