@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png"
+                "file": "marketing/marketing-checklist.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
+                "file": "marketing/marketing-checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
+                "file": "marketing/marketing-checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png"
+                "file": "marketing/marketing-checklist.md"
               }
             }
           },
@@ -162,8 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "marketing/index.md",
+    "marketing/app-gallery.md",
+    "marketing/us-healthcare-institutions.md",
+    "marketing/marketing-checklist.md",
+    "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
     "img/screenshots/Screen Shot 2023-11-09 at 1.19.59 PM.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
@@ -173,8 +180,6 @@
     "img/screenshots/Screen Shot 2023-12-07 at 2.27.28 PM.png",
     "img/screenshots/Screen Shot 2023-12-07 at 2.27.04 PM.png",
     "img/screenshots/widget-dashboard.png",
-    "img/screenshots/2.b-medical-sources-prod.png",
-    "img/screenshots/1.signup.png",
     "img/fasten_images_merged.pdf",
     "faqs.md",
     "providers/largest-healthcare-companies.md",
@@ -198,9 +203,6 @@
     "news/fasten-health-news.md",
     "technical/archive/single-page-app.md",
     "reports/reccomendations.md",
-    "dashboard/configuration.md",
-    "TODO_TASKS.md",
-    "technical/installation-id.md",
     "technical/grants",
     "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
