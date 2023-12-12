@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png"
+                "file": "technical/license-management.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png",
+                "file": "technical/license-management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png",
+                "file": "technical/license-management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png"
+                "file": "technical/license-management.md"
               }
             }
           },
@@ -162,8 +164,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/marketplace/Untitled.md",
+    "technical/license-management.md",
+    "technical/installation-id.md",
+    "technical/id-vs-access-token.md",
+    "technical/free-for-dev.md",
+    "technical/fhir-resource-relationships.md",
+    "technical/analytics-telemetry.md",
+    "technical/marketplace/index.md",
+    "technical/marketplace/apple-store.md",
+    "technical/grants/sbir-sttr.md",
+    "technical/archive/single-page-app.md",
+    "technical/archive/index.md",
+    "sharing/information-sharing.md",
+    "security/index.md",
+    "security/hardening.md",
+    "security/cors-relay.md",
+    "reports/patient profile.md",
+    "reports/medical history.md",
+    "reports/labs.md",
+    "reports/contracts - phonebook.md",
+    "providers/provider-directory.md",
+    "providers/patient-portal-and-sources-testing.md",
+    "providers/patient-contributed-data.md",
+    "providers/largest-healthcare-companies.md",
+    "providers/sources/cerner.md",
+    "news/industry-news.md",
+    "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
     "img/macos-app-store/3.sources.png",
@@ -173,36 +202,9 @@
     "img/macos-app-store",
     "img/untitled folder",
     "img/screenshots/1.signup.png",
-    "marketing/marketing-checklist.md",
-    "marketing/index.md",
-    "marketing/app-gallery.md",
-    "marketing/us-healthcare-institutions.md",
     "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
     "img/screenshots/Screen Shot 2023-11-09 at 1.19.59 PM.png",
-    "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
-    "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
     "img/fasten_images_merged.pdf",
-    "faqs.md",
-    "providers/largest-healthcare-companies.md",
-    "providers/sources/index.md",
-    "providers/sources/cerner.md",
-    "providers/patient-portal-and-sources-testing.md",
-    "providers/provider-directory.md",
-    "providers/patient-contributed-data.md",
-    "technical/terminology-server.md",
-    "technical/patient-data-collection.md",
-    "funding.md",
-    "providers/index.md",
-    "legal/21st-century-cures-act.md",
-    "sharing/information-sharing.md",
-    "technical/grants/sbir-sttr.md",
-    "technical/marketplace/apple-store.md",
-    "features.md",
-    "technical/analytics-telemetry.md",
-    "news/industry-news.md",
-    "news/index.md",
-    "news/fasten-health-news.md",
-    "technical/archive/single-page-app.md",
     "technical/grants",
     "technical/marketplace",
     "deck/pitch-deck-v2.pptx.pdf",
