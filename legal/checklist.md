@@ -1,3 +1,36 @@
+## Production Access
+
+- [x] Incorporate 
+	- See [legal/corp.md](./legal/corp.html)
+- [ ] Register Trademark
+	- See [legal/INTELLECTUAL_PROPERTY](./legal/intellectual_property.html)
+- [x] Sign up for AWS Activate (funding/credits)
+	- 10k credit with Stripe Atlas
+	- [x] Waiting for confirmation⏳  #task
+- [x] Open Bank account
+		- SVB or other Stripe Atlas reccomended #task
+		- Chase/BoA/etc
+- [x] Move all infrastructure to new AWS account ✅ 2023-07-16
+- [ ] Complete AWS Infrastructure Hardening for Lighthouse
+	- See [security/REFERENCES.md](security/references.html)
+- [ ] Configure Github CI for Lighthouse
+- [ ] Release source code
+	- [x] Fasten on Premise
+	- [ ] Fasten Lighthouse (timeline unknown)
+- User Interviews
+- Sign Healthcare provider attestations for Production access
+	- Limit to existing healthcare providers
+		- Cerner
+		- Epic
+		- Cigna
+		- HealthIT
+		- Logica
+		- Medicare BlueButton
+		- Athena
+		- CareEvolution
+		- [PATIENT_PORTAL_AND_SOURCES_TESTING](providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md)
+- [ ] Release a production capable version of Fasten
+- [ ] Coordinate with Designers to begin work on the Fasten UI
 
 
 ## Expenses
