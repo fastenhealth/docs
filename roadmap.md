@@ -9,7 +9,9 @@ redirect_from:
 
 
 > [!NOTE]  
-> NOTE: In addition to the features listed below, we'll be continuously adding new [Institutions and EHR Platforms](https://github.com/fastenhealth/fasten-sources/blob/main/PLATFORM_LIST.md)
+> NOTE: In addition to the features listed below, we'll be continuously adding new [Institutions and EHR Platforms](https://github.com/fastenhealth/fasten-sources/blob/main/PLATFORM_LIST.md). 
+> 
+> Fasten Health aims to support 150,000 Healthcare Institutions in the US.
 
 ## 2023
 ### Q4 - 2023
@@ -32,6 +34,7 @@ redirect_from:
 - [ ] Record Search
 - [ ] Share with Practitioner (PDF/Web Export)
 - [ ] Hardening Guide
+- [ ] CCDA support
 
 ### Q2 - 2024
 
