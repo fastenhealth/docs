@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/license-management.md",
+                "file": "legal/checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/license-management.md",
+                "file": "legal/checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/license-management.md",
+                "file": "legal/checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/license-management.md"
+                "file": "legal/checklist.md"
               }
             }
           },
@@ -166,8 +166,16 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "technical/marketplace/Untitled.md",
+    "legal/corp.md",
+    "legal/checklist.md",
+    "roadmap.md",
+    "marketing/marketing-checklist.md",
+    "marketing/index.md",
+    "marketing/app-gallery.md",
+    "security/hardening.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "technical/license-management.md",
+    "technical/marketplace/Untitled.md",
     "technical/installation-id.md",
     "technical/id-vs-access-token.md",
     "technical/free-for-dev.md",
@@ -180,18 +188,10 @@
     "technical/archive/index.md",
     "sharing/information-sharing.md",
     "security/index.md",
-    "security/hardening.md",
     "security/cors-relay.md",
     "reports/patient profile.md",
     "reports/medical history.md",
     "reports/labs.md",
-    "reports/contracts - phonebook.md",
-    "providers/provider-directory.md",
-    "providers/patient-portal-and-sources-testing.md",
-    "providers/patient-contributed-data.md",
-    "providers/largest-healthcare-companies.md",
-    "providers/sources/cerner.md",
-    "news/industry-news.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
