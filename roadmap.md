@@ -23,6 +23,7 @@ redirect_from:
 - [x] Support for Major Hospital Networks & Insurers ✅ 2023-12-13
 - [x] Landing Page ✅ 2023-12-13
 - [x] HIPAA Compliance ✅ 2023-12-13
+- [x] Backwards Compatible Database ✅ 2023-12-13
 
 ## 2024
 
