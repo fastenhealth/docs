@@ -50,6 +50,7 @@ redirect_from:
 
 - [ ] Delegated Access
 - [ ] Document Scanning & Processing (OCR)
+- [ ] Mobile Applications
 - [ ] TBD
 ### Q4 - 2024
 
