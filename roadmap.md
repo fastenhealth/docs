@@ -29,11 +29,11 @@ redirect_from:
 
 ### Q1 - 2024
 
+- [ ] Share with Practitioner (PDF/Web Export)
+- [ ] Record Search
+- [ ] Practitioner Address Book
 - [ ] VA Health Support
 - [ ] Installation IDs
-- [ ] Practitioner Address Book
-- [ ] Record Search
-- [ ] Share with Practitioner (PDF/Web Export)
 - [ ] Hardening Guide
 - [ ] CCDA support
 
@@ -42,10 +42,10 @@ redirect_from:
 - [ ] Smart Medical Devices & Wearables Support
 - [ ] ChatGPT-like Interface for Querying Records
 - [ ] Alternative idP Configurations (LDAP/OIDC/SAML/SSO)
+- [ ] Fasten Cloud
 - [ ] Imaging Sync
 - [ ] Patient Contributed Data (Push from Fasten -> EHRs)
 - [ ] HIE/HIX Patient Access Integrations
-- [ ] Fasten Cloud
 
 ### Q3 - 2024
 
