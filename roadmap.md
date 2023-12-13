@@ -16,7 +16,7 @@ redirect_from:
 ## 2023
 ### Q4 - 2023
 
-- [ ] v1 Release 
+- [x] v1 Release ✅ 2023-12-13
 - [x] Desktop Applications (Windows, Mac) ✅ 2023-12-13
 - [x] Manual Record Entry (Procedures, Lab Results, Medications) ✅ 2023-12-13
 - [x] Database Encryption at Rest ✅ 2023-12-13
