@@ -7,7 +7,7 @@ redirect_from:
 
 # Roadmap
 
-
+{: .information }
 > [!NOTE]  
 > NOTE: In addition to the features listed below, we'll be continuously adding new [Institutions and EHR Platforms](https://github.com/fastenhealth/fasten-sources/blob/main/PLATFORM_LIST.md). 
 > 
