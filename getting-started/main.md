@@ -14,7 +14,13 @@ Run the following commands to download and start the Fasten docker container.
 
 ```
 docker pull ghcr.io/fastenhealth/fasten-onprem:main
-docker run --rm -p 9090:8080 ghcr.io/fastenhealth/fasten-onprem:main
+
+docker run --rm \  
+-p 9090:8080 \  
+-v `pwd`/db:/opt/fasten/db \  
+-v `pwd`/cache:/opt/fasten/cache \  
+ghcr.io/fastenhealth/fasten-onprem:main
+
 ```
 
 To see if Fasten is running, open [http://localhost:9090](http://localhost:9090) in your browser.

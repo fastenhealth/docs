@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap.md",
+                "file": "getting-started/sandbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "getting-started/sandbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmap.md",
+                "file": "getting-started/sandbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmap.md"
+                "file": "getting-started/sandbox.md"
               }
             }
           },
@@ -166,11 +166,13 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "getting-started/main.md",
+    "getting-started/index.md",
+    "roadmap.md",
     "TODO_TASKS.md",
     "UNORGANIZED.md",
     "index.md",
     "funding.md",
-    "roadmap.md",
     "legal/checklist.md",
     "legal/corp.md",
     "marketing/marketing-checklist.md",
@@ -190,8 +192,6 @@
     "technical/grants/sbir-sttr.md",
     "technical/archive/single-page-app.md",
     "technical/archive/index.md",
-    "sharing/information-sharing.md",
-    "security/index.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
