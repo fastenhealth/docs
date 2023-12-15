@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "getting-started/sandbox.md",
+                "file": "technical/fasten-identification-systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "getting-started/sandbox.md",
+                "file": "technical/fasten-identification-systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "getting-started/sandbox.md",
+                "file": "technical/fasten-identification-systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "getting-started/sandbox.md"
+                "file": "technical/fasten-identification-systems.md"
               }
             }
           },
@@ -166,6 +166,11 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/id-vs-access-token.md",
+    "technical/fasten-identification-systems.md",
+    "technical/index.md",
+    "technical/installation-id.md",
+    "getting-started/sandbox.md",
     "getting-started/main.md",
     "getting-started/index.md",
     "roadmap.md",
@@ -182,16 +187,11 @@
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "technical/license-management.md",
     "technical/marketplace/Untitled.md",
-    "technical/installation-id.md",
-    "technical/id-vs-access-token.md",
     "technical/free-for-dev.md",
     "technical/fhir-resource-relationships.md",
     "technical/analytics-telemetry.md",
     "technical/marketplace/index.md",
     "technical/marketplace/apple-store.md",
-    "technical/grants/sbir-sttr.md",
-    "technical/archive/single-page-app.md",
-    "technical/archive/index.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
