@@ -16,6 +16,17 @@ These instructions will help you set up a version of Fasten that only allows you
 
 Run the following commands to download and start the Fasten docker container.
 
+```
+docker pull ghcr.io/fastenhealth/fasten-onprem:sandbox
+
+docker run --rm \
+-p 9090:8080 \
+-v `pwd`/db:/opt/fasten/db \
+-v `pwd`/cache:/opt/fasten/cache \
+ghcr.io/fastenhealth/fasten-onprem:sandbox
+
+```
+
 Next, open a browser to [http://localhost:9090](http://localhost:9090)
 
 At this point, you'll be redirected to the login page.
