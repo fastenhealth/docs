@@ -27,9 +27,9 @@ ghcr.io/fastenhealth/fasten-onprem:sandbox
 
 ```
 
-Next, open a browser to [http://localhost:9090](http://localhost:9090)
+To see if Fasten is running, open [http://localhost:9090](http://localhost:9090) in your browser.
 
-At this point, you'll be redirected to the login page.
+Congrats, you've successfully started Fasten!
 
 ## Logging In
 
