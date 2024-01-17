@@ -11,11 +11,9 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "technical/fasten-identification-systems.md",
-                "mode": "source",
-                "source": false
+                "file": "img/macos-app-store/1.dashboard.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/fasten-identification-systems.md",
+                "file": "img/macos-app-store/1.dashboard.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/fasten-identification-systems.md",
+                "file": "img/macos-app-store/1.dashboard.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/fasten-identification-systems.md"
+                "file": "img/macos-app-store/1.dashboard.png"
               }
             }
           },
@@ -143,7 +141,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -166,12 +166,13 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "technical/id-vs-access-token.md",
+    "getting-started/main.md",
+    "deck/pitch-deck-v2.pptx.pdf",
     "technical/fasten-identification-systems.md",
+    "technical/id-vs-access-token.md",
     "technical/index.md",
     "technical/installation-id.md",
     "getting-started/sandbox.md",
-    "getting-started/main.md",
     "getting-started/index.md",
     "roadmap.md",
     "TODO_TASKS.md",
@@ -191,7 +192,6 @@
     "technical/fhir-resource-relationships.md",
     "technical/analytics-telemetry.md",
     "technical/marketplace/index.md",
-    "technical/marketplace/apple-store.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
@@ -207,7 +207,6 @@
     "img/fasten_images_merged.pdf",
     "technical/grants",
     "technical/marketplace",
-    "deck/pitch-deck-v2.pptx.pdf",
     "deck",
     "Untitled.canvas"
   ]
