@@ -15,10 +15,10 @@ Run the following commands to download and start the Fasten docker container.
 ```
 docker pull ghcr.io/fastenhealth/fasten-onprem:main
 
-docker run --rm \  
--p 9090:8080 \  
--v `pwd`/db:/opt/fasten/db \  
--v `pwd`/cache:/opt/fasten/cache \  
+docker run --rm \
+-p 9090:8080 \
+-v `pwd`/db:/opt/fasten/db \
+-v `pwd`/cache:/opt/fasten/cache \
 ghcr.io/fastenhealth/fasten-onprem:main
 
 ```
@@ -31,12 +31,9 @@ Congrats, you've successfully started Fasten!
 
 Once Fasten has started, you'll next need to create an account by clicking the [Create an Account button](http://localhost:9090/web/auth/signup) on the login screen. You'll be prompted to enter your name, a username, and a password.
 
-It can be as simple as:
+Provide your name, a username, and a password and click `Create Account`.
 
-- **Username:** `testuser`
-- **Password:** `testtest`
-
-Congrats! You're now logged in. You'll be redirected to the dashboard, which will be empty until you connect a healthcare provider.
+You should now be now logged in. You'll be redirected to the dashboard, which will be empty until you connect with a healthcare provider.
 
 ## Dashboard
 
