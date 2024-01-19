@@ -16,31 +16,17 @@ These instructions will help you set up a version of Fasten that only allows you
 
 Run the following commands to download and start the Fasten docker container.
 
-```
-docker pull ghcr.io/fastenhealth/fasten-onprem:sandbox
+Next, open a browser to [http://localhost:9090](http://localhost:9090)
 
-docker run --rm \
--p 9090:8080 \
--v `pwd`/db:/opt/fasten/db \
--v `pwd`/cache:/opt/fasten/cache \
-ghcr.io/fastenhealth/fasten-onprem:sandbox
-
-```
-
-To see if Fasten is running, open [http://localhost:9090](http://localhost:9090) in your browser.
-
-Congrats, you've successfully started Fasten!
+At this point, you'll be redirected to the login page.
 
 ## Logging In
 
 Once you've been redirected to the login page, you'll need to create an account at [http://localhost:9090/web/auth/signup](http://localhost:9090/web/auth/signup).
 
-It can be as simple as
+Provide your name, a username, and a password and click `Create Account`.
 
-- **Username:** `testuser`
-- **Password:** `testtest`
-
-Congrats! You're now logged in. You'll be redirected to the dashboard, which will be empty until you connect with a healthcare provider.
+You should now be now logged in. You'll be redirected to the dashboard, which will be empty until you connect with a healthcare provider.
 
 ## Dashboard
 
