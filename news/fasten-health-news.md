@@ -6,6 +6,7 @@ parent: News
 - [May 19, 2023 - Selfhosted Podcast Episode 97 - 34m25s](https://selfhosted.show/97?t=2087)
 - [May 31, 2023 - Metriport Blog Post - Patent Tools and Apps to Access Health Records](https://www.metriport.com/blog/patient-tools-and-apps-to-access-health-records)
 - [Jun 8, 2023 - DevDays 2023 - Using Graph-Theory to Empower Patients & Answer Questions](https://vimeo.com/834345387/ff867a402e)
+- [Jan 15, 2024 - Fasten Health HIPAA Compliance](https://www.accountablehq.com/post/fasten-health-has-achieved-hipaa-compliance-with-accountable)
 ## Discussions
 
 - https://www.reddit.com/r/selfhosted/comments/13i68rm/fasten_health_open_source_selfhosted_personal/

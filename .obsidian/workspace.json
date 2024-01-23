@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png"
+                "file": "news/fasten-health-news.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png",
+                "file": "news/fasten-health-news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png",
+                "file": "news/fasten-health-news.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png"
+                "file": "news/fasten-health-news.md"
               }
             }
           },
@@ -166,6 +168,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/macos-app-store/1.dashboard.png",
     "getting-started/main.md",
     "deck/pitch-deck-v2.pptx.pdf",
     "technical/fasten-identification-systems.md",
@@ -193,7 +196,6 @@
     "technical/analytics-telemetry.md",
     "technical/marketplace/index.md",
     "img/screenshots/2.b-medical-sources-prod.png",
-    "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
     "img/macos-app-store/3.sources.png",
     "img/macos-app-store/4.explore.png",
