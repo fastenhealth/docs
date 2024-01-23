@@ -24,12 +24,9 @@ At this point, you'll be redirected to the login page.
 
 Once you've been redirected to the login page, you'll need to create an account at [http://localhost:9090/web/auth/signup](http://localhost:9090/web/auth/signup).
 
-It can be as simple as
+Provide your name, a username, and a password and click `Create Account`.
 
-- **Username:** `testuser`
-- **Password:** `testtest`
-
-Congrats! You're now logged in. You'll be redirected to the dashboard, which will be empty until you connect with a healthcare provider.
+You should now be now logged in. You'll be redirected to the dashboard, which will be empty until you connect with a healthcare provider.
 
 ## Dashboard
 
