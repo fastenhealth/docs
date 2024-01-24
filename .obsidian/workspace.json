@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
+    "img/sponsors/health-samurai-logo.png",
     "news/fasten-health-news.md",
     "img/macos-app-store/slides.pdf",
     "img/macos-app-store/1.dashboard.pdf",
@@ -195,7 +196,6 @@
     "technical/free-for-dev.md",
     "technical/fhir-resource-relationships.md",
     "technical/analytics-telemetry.md",
-    "technical/marketplace/index.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/2.timeline.png",
     "img/macos-app-store/3.sources.png",
