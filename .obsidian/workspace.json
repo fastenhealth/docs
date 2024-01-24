@@ -11,11 +11,9 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "news/fasten-health-news.md",
-                "mode": "source",
-                "source": false
+                "file": "img/macos-app-store/slides.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/fasten-health-news.md",
+                "file": "img/macos-app-store/slides.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/fasten-health-news.md",
+                "file": "img/macos-app-store/slides.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/fasten-health-news.md"
+                "file": "img/macos-app-store/slides.pdf"
               }
             }
           },
@@ -168,6 +166,9 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "news/fasten-health-news.md",
+    "img/macos-app-store/slides.pdf",
+    "img/macos-app-store/1.dashboard.pdf",
     "img/macos-app-store/1.dashboard.png",
     "getting-started/main.md",
     "deck/pitch-deck-v2.pptx.pdf",
