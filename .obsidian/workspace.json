@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap.md",
+                "file": "technical/marketplace/windows-store.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "technical/marketplace/windows-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmap.md",
+                "file": "technical/marketplace/windows-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmap.md"
+                "file": "technical/marketplace/windows-store.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "roadmap.md",
     "img/macos-app-store/slides.pdf",
     "img/sponsors/health-samurai-logo.png",
     "news/fasten-health-news.md",
@@ -181,7 +182,6 @@
     "technical/installation-id.md",
     "getting-started/sandbox.md",
     "getting-started/index.md",
-    "roadmap.md",
     "TODO_TASKS.md",
     "UNORGANIZED.md",
     "index.md",
