@@ -35,7 +35,7 @@ redirect_from:
 - [ ] VA Health Support
 - [ ] Installation IDs
 - [ ] Hardening Guide
-- [ ] CCDA support
+- [x] CCDA support ✅ 2024-01-24 - Thanks [Health Samurai](https://www.health-samurai.io/)!
 
 ### Q2 - 2024
 

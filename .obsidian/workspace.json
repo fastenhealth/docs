@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "img/macos-app-store/slides.pdf"
+                "file": "roadmap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/macos-app-store/slides.pdf",
+                "file": "roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/macos-app-store/slides.pdf",
+                "file": "roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/macos-app-store/slides.pdf"
+                "file": "roadmap.md"
               }
             }
           },
@@ -164,11 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/macos-app-store/slides.pdf",
     "img/sponsors/health-samurai-logo.png",
     "news/fasten-health-news.md",
-    "img/macos-app-store/slides.pdf",
     "img/macos-app-store/1.dashboard.pdf",
     "img/macos-app-store/1.dashboard.png",
     "getting-started/main.md",
@@ -206,7 +208,6 @@
     "img/untitled folder",
     "img/screenshots/1.signup.png",
     "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
-    "img/screenshots/Screen Shot 2023-11-09 at 1.19.59 PM.png",
     "img/fasten_images_merged.pdf",
     "technical/grants",
     "technical/marketplace",
