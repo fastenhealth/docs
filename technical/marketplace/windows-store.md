@@ -18,12 +18,23 @@ This may not be required when using MSIX files
 
 
 # MakeAppx.exe
+> https://learn.microsoft.com/en-us/windows/win32/appxpkg/make-appx-package--makeappx-exe-
 
 included in:
 - Microsoft Visual Studio
 - Windows Software Development Kit (SDK) for Windows 8
 - Windows Software Development Kit (SDK) for Windows 8.1 and newer. 
 - Visit [Downloads for developers](https://msdn.microsoft.com/windows/apps/br229516.aspx)
+
+The MakeAppx.exe tool is typically found in operating system version specific locations:
+
+```
+C:\Program Files (x86)\Windows Kits\10\bin<build number><architecture>\makeappx.exe
+
+# Where <architecture> = x86, x64, arm, ar64 or chpe. Alternatively, it may be located in:
+
+C:\Program Files (x86)\Windows Kits\10\App Certification Kit\makeappx.exe
+```
 
 ## Package Manifest (AppxManifest.xml)
 
