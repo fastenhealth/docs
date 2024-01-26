@@ -243,6 +243,12 @@ Here are the official instructions for [Generating an API Key for App Store Conn
 
 1. https://stackoverflow.com/questions/30301179/missing-required-icons-when-submitting-app-with-application-loader
 
+
+
+# Badges
+
+https://tailwindcomponents.com/component/store-buttons-badge
+
 # References
 
 - <https://developer.apple.com/programs>
