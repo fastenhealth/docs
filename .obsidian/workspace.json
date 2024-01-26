@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "getting-started/main.md",
+                "file": "getting-started/sandbox.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "getting-started/main.md",
+                "file": "getting-started/sandbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "getting-started/main.md",
+                "file": "getting-started/sandbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "getting-started/main.md"
+                "file": "getting-started/sandbox.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "getting-started/sandbox.md",
     "getting-started/main.md",
+    "getting-started/sandbox.md",
     "getting-started/index.md",
     "technical/marketplace/windows-store.md",
     "technical/marketplace/apple-store.md",
