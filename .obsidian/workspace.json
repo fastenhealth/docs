@@ -15,7 +15,7 @@
               "state": {
                 "file": "technical/marketplace/windows-store.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -168,10 +168,14 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/logo/logo-text.png",
+    "img/logo/logo2-text.png",
+    "img/logo/logo3-text.png",
+    "img/logo/square.jpg",
+    "technical/marketplace/windows-store.md",
     "getting-started/sandbox.md",
     "getting-started/main.md",
     "getting-started/index.md",
-    "technical/marketplace/windows-store.md",
     "technical/marketplace/apple-store.md",
     "roadmap.md",
     "img/macos-app-store/slides.pdf",
@@ -198,17 +202,13 @@
     "technical/license-management.md",
     "technical/marketplace/Untitled.md",
     "technical/free-for-dev.md",
-    "technical/fhir-resource-relationships.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/2.timeline.png",
     "img/macos-app-store/3.sources.png",
     "img/macos-app-store/4.explore.png",
     "img/macos-app-store/6.secure.png",
-    "img/macos-app-store/5.manual.png",
     "img/macos-app-store",
     "img/untitled folder",
-    "img/screenshots/1.signup.png",
-    "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
     "img/fasten_images_merged.pdf",
     "technical/grants",
     "technical/marketplace",
