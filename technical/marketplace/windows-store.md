@@ -78,4 +78,17 @@ https://github.com/marketplace/actions/upload-microsoft-store-msix-package-to-gi
 https://github.com/microsoft/win32-app-isolation/tree/41854015e3c8ecf2eb923bc75ed43ca82ea41e50
 https://www.reddit.com/r/windows/comments/jvq3h3/msix_packaging_tool_is_not_working/
 
+
+# Testing Locally
+
+https://superuser.com/questions/1543363/how-to-open-a-windows-store-app-from-command-line
+
+```
+# Example app not from Microsoft:
+
+start shell:AppsFolder\XINGAG.XING_xpfg3f7e9an52!App
+
+# Where the string **`XINGAG.XING_xpfg3f7e9an52`**  can be found as folder in **`%userprofile%\AppData\Local\Packages`**
+```
+
 # References
