@@ -76,5 +76,6 @@ https://github.com/marketplace/actions/upload-microsoft-store-msix-package-to-gi
 ## Security
 
 https://github.com/microsoft/win32-app-isolation/tree/41854015e3c8ecf2eb923bc75ed43ca82ea41e50
+https://www.reddit.com/r/windows/comments/jvq3h3/msix_packaging_tool_is_not_working/
 
 # References
