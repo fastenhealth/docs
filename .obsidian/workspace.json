@@ -15,7 +15,7 @@
               "state": {
                 "file": "technical/marketplace/windows-store.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -168,6 +168,8 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/marketplace/apple-store.md",
+    "technical/marketplace/windows-store.md",
     "roadmap.md",
     "img/macos-app-store/slides.pdf",
     "img/sponsors/health-samurai-logo.png",
@@ -197,7 +199,6 @@
     "technical/marketplace/Untitled.md",
     "technical/free-for-dev.md",
     "technical/fhir-resource-relationships.md",
-    "technical/analytics-telemetry.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/macos-app-store/2.timeline.png",
     "img/macos-app-store/3.sources.png",
