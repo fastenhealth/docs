@@ -29,6 +29,15 @@ included in:
 
 https://learn.microsoft.com/en-us/windows/msix/desktop/desktop-to-uwp-manual-conversion
 
+> If you've reserved your application name in the Microsoft Store, you can obtain the Name and Publisher by using [Partner Center](https://partner.microsoft.com/dashboard). If you plan to sideload your application onto other systems, you can provide your own names for these as long as the publisher name that you choose matches the name on the certificate you use to sign your app.
+> 
+> <Identity Name="MyCompany.MySuite.MyApp"
+          Version="1.0.0.0"
+          Publisher="CN=MyCompany, O=MyCompany, L=MyCity, S=MyState, C=MyCountry"
+		ProcessorArchitecture="x64">
+
+
+
 
 ## Mapping File Structure
 
