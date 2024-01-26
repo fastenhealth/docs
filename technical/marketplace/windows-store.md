@@ -8,6 +8,43 @@ grand_parent: Technical
 
 # Signing Credentials
 
+This may not be required when using MSIX files
+
+> `Automatic Digital Signing - MSIX requires digital signing and, by publishing it to Microsoft Store, your app gets signed automatically. Therefore, you don’t need to buy a third-party CA (certification authority), and your app will have the credibility of being secure in case you use your own certification`
+> 
+> https://stackoverflow.com/questions/76982311/microsoft-windows-app-store-digital-signing-requirements
+
 # CICD Pipeline
+
+
+# MakeAppx.exe
+
+included in:
+- Microsoft Visual Studio
+- Windows Software Development Kit (SDK) for Windows 8
+- Windows Software Development Kit (SDK) for Windows 8.1 and newer. 
+- Visit [Downloads for developers](https://msdn.microsoft.com/windows/apps/br229516.aspx)
+
+## Package Manifest (AppxManifest.xml)
+
+https://learn.microsoft.com/en-us/windows/msix/desktop/desktop-to-uwp-manual-conversion
+
+
+## Mapping File Structure
+
+https://learn.microsoft.com/en-us/windows/win32/appxpkg/make-appx-package--makeappx-exe-#to-create-a-package-using-a-mapping-file
+
+- Create a valid package manifest, AppxManifest.xml.
+- Create a mapping file. The first line contains the string **[Files]**, and the lines that follow specify the source (disk) and destination (package) paths in quoted strings.
+```
+[Files]
+"C:\MyApp\StartPage.htm"     "default.html"
+"C:\MyApp\readme.txt"        "doc\readme.txt"
+"\\MyServer\path\icon.png"   "icon.png"
+"MyCustomManifest.xml"       "AppxManifest.xml"
+```
+- Run this command: `**MakeAppx pack /f** _mapping_filepath_ **/p** _filepath_**.appx**`
+
+
 
 # References
