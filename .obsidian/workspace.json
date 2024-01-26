@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/marketplace/windows-store.md",
+                "file": "getting-started/main.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/marketplace/windows-store.md",
+                "file": "getting-started/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/marketplace/windows-store.md",
+                "file": "getting-started/main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/marketplace/windows-store.md"
+                "file": "getting-started/main.md"
               }
             }
           },
@@ -168,22 +168,22 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "technical/marketplace/apple-store.md",
+    "getting-started/sandbox.md",
+    "getting-started/main.md",
+    "getting-started/index.md",
     "technical/marketplace/windows-store.md",
+    "technical/marketplace/apple-store.md",
     "roadmap.md",
     "img/macos-app-store/slides.pdf",
     "img/sponsors/health-samurai-logo.png",
     "news/fasten-health-news.md",
     "img/macos-app-store/1.dashboard.pdf",
     "img/macos-app-store/1.dashboard.png",
-    "getting-started/main.md",
     "deck/pitch-deck-v2.pptx.pdf",
     "technical/fasten-identification-systems.md",
     "technical/id-vs-access-token.md",
     "technical/index.md",
     "technical/installation-id.md",
-    "getting-started/sandbox.md",
-    "getting-started/index.md",
     "TODO_TASKS.md",
     "UNORGANIZED.md",
     "index.md",
