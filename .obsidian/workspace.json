@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/marketplace/apple/gatekeeper.png"
+                "file": "getting-started/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/marketplace/apple/gatekeeper.png",
+                "file": "getting-started/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/marketplace/apple/gatekeeper.png",
+                "file": "getting-started/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/marketplace/apple/gatekeeper.png"
+                "file": "getting-started/index.md"
               }
             }
           },
@@ -166,6 +168,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/marketplace/apple/gatekeeper.png",
     "img/marketplace/apple/app-store-connect-api-key.png",
     "img/logo/square_256.jpg",
     "img/logo/square_256.png",
@@ -185,7 +188,6 @@
     "img/sponsors/health-samurai-logo.png",
     "news/fasten-health-news.md",
     "img/macos-app-store/1.dashboard.pdf",
-    "img/macos-app-store/1.dashboard.png",
     "deck/pitch-deck-v2.pptx.pdf",
     "technical/fasten-identification-systems.md",
     "technical/id-vs-access-token.md",
