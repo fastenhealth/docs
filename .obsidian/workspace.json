@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "getting-started/index.md",
+                "file": "technical/analytics-telemetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "getting-started/index.md",
+                "file": "technical/analytics-telemetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "getting-started/index.md",
+                "file": "technical/analytics-telemetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "getting-started/index.md"
+                "file": "technical/analytics-telemetry.md"
               }
             }
           },
@@ -168,31 +168,35 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/fasten-identification-systems.md",
+    "technical/fhir-community.md",
+    "technical/free-for-dev.md",
+    "technical/id-vs-access-token.md",
+    "technical/installation-id.md",
+    "technical/network-architecture.md",
+    "technical/patient-data-collection.md",
+    "img/windows-app-store/4.manual.png",
+    "img/windows-app-store/6.secure.png",
+    "img/windows-app-store/4.explore.png",
+    "img/windows-app-store/3.sources.png",
+    "img/windows-app-store/2.timeline.png",
+    "img/windows-app-store/1.dashboard.png",
+    "getting-started/index.md",
+    "img/windows-app-store",
     "img/marketplace/apple/gatekeeper.png",
     "img/marketplace/apple/app-store-connect-api-key.png",
     "img/logo/square_256.jpg",
     "img/logo/square_256.png",
-    "img/logo/logo3-text.png",
-    "img/logo/logo2-text.png",
-    "img/logo/logo-text.png",
-    "img/buttons/newsletter.png",
-    "img/buttons/documentation.png",
     "technical/marketplace/apple-store.md",
     "technical/marketplace/windows-store.md",
-    "img/logo/square.jpg",
     "getting-started/sandbox.md",
     "getting-started/main.md",
-    "getting-started/index.md",
     "roadmap.md",
     "img/macos-app-store/slides.pdf",
-    "img/sponsors/health-samurai-logo.png",
     "news/fasten-health-news.md",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
-    "technical/fasten-identification-systems.md",
-    "technical/id-vs-access-token.md",
     "technical/index.md",
-    "technical/installation-id.md",
     "TODO_TASKS.md",
     "UNORGANIZED.md",
     "index.md",
@@ -204,9 +208,6 @@
     "marketing/app-gallery.md",
     "security/hardening.md",
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "technical/license-management.md",
-    "technical/marketplace/Untitled.md",
-    "technical/free-for-dev.md",
     "img/macos-app-store",
     "img/untitled folder",
     "img/fasten_images_merged.pdf",
