@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/analytics-telemetry.md",
+                "file": "faqs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/analytics-telemetry.md",
+                "file": "faqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/analytics-telemetry.md",
+                "file": "faqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/analytics-telemetry.md"
+                "file": "faqs.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/analytics-telemetry.md",
     "technical/fasten-identification-systems.md",
     "technical/fhir-community.md",
     "technical/free-for-dev.md",
@@ -207,7 +208,6 @@
     "marketing/index.md",
     "marketing/app-gallery.md",
     "security/hardening.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "img/macos-app-store",
     "img/untitled folder",
     "img/fasten_images_merged.pdf",
