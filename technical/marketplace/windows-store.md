@@ -70,7 +70,7 @@ https://learn.microsoft.com/en-us/windows/win32/appxpkg/make-appx-package--makea
 # Upload Application
 
 https://github.com/marketplace/actions/upload-microsoft-store-msix-package-to-github-release
-
+https://github.com/isaacrlevin/windows-store-action
 
 
 ## Security

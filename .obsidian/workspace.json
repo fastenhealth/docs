@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faqs.md",
+                "file": "technical/marketplace/windows-store.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faqs.md",
+                "file": "technical/marketplace/windows-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faqs.md",
+                "file": "technical/marketplace/windows-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faqs.md"
+                "file": "technical/marketplace/windows-store.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "faqs.md",
     "technical/analytics-telemetry.md",
     "technical/fasten-identification-systems.md",
     "technical/fhir-community.md",
@@ -207,7 +208,6 @@
     "marketing/marketing-checklist.md",
     "marketing/index.md",
     "marketing/app-gallery.md",
-    "security/hardening.md",
     "img/macos-app-store",
     "img/untitled folder",
     "img/fasten_images_merged.pdf",
