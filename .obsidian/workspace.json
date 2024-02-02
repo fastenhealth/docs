@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/marketplace/windows-store.md",
+                "file": "technical/marketplace/promo-codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/marketplace/windows-store.md",
+                "file": "technical/marketplace/promo-codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/marketplace/windows-store.md",
+                "file": "technical/marketplace/promo-codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/marketplace/windows-store.md"
+                "file": "technical/marketplace/promo-codes.md"
               }
             }
           },
@@ -168,6 +168,18 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
+    "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
+    "UNORGANIZED.md",
+    "technical/marketplace/promo-codes.md",
+    "TODO_TASKS.md",
+    "roadmap.md",
+    "funding.md",
+    "features.md",
+    "marketing/us-healthcare-institutions.md",
+    "marketing/marketing-checklist.md",
+    "marketing/app-gallery.md",
+    "technical/marketplace/windows-store.md",
     "faqs.md",
     "technical/analytics-telemetry.md",
     "technical/fasten-identification-systems.md",
@@ -188,26 +200,14 @@
     "img/marketplace/apple/gatekeeper.png",
     "img/marketplace/apple/app-store-connect-api-key.png",
     "img/logo/square_256.jpg",
-    "img/logo/square_256.png",
     "technical/marketplace/apple-store.md",
-    "technical/marketplace/windows-store.md",
     "getting-started/sandbox.md",
     "getting-started/main.md",
-    "roadmap.md",
     "img/macos-app-store/slides.pdf",
     "news/fasten-health-news.md",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
     "technical/index.md",
-    "TODO_TASKS.md",
-    "UNORGANIZED.md",
-    "index.md",
-    "funding.md",
-    "legal/checklist.md",
-    "legal/corp.md",
-    "marketing/marketing-checklist.md",
-    "marketing/index.md",
-    "marketing/app-gallery.md",
     "img/macos-app-store",
     "img/untitled folder",
     "img/fasten_images_merged.pdf",
