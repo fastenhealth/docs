@@ -78,31 +78,31 @@ parent: Providers
 - [x] Cleveland Clinic: 22 hospitals ✅ 2023-10-16
 - [x] Piedmont Healthcare (Atlanta): 22 hospitals ✅ 2023-10-16
 - [x] Ballad Health (Johnson City, Tenn.): 21 hospitals ✅ 2023-10-16
-- [ ] Northwell Health (New Hyde Park, N.Y.): 21 hospitals   
+- [x] Northwell Health (New Hyde Park, N.Y.): 21 hospitals ✅ 2024-02-03
 - [x] Quorum Health Corp. (Brentwood, Tenn.): 21 hospitals ✅ 2023-10-16
 - [ ] University Hospitals (Cleveland): 21 hospitals   
 - [x] Mayo Clinic Health System (Rochester, Minn.): 16 hospitals ✅ 2023-10-16
 
 ### **Largest Hospitals**
 
-- [ ] Yale New Haven (Conn.) Hospital: 1,541 beds 
-- [ ] Jackson Memorial Hospital (Miami): 1,488 beds  
-- [ ] AdventHealth Orlando (Fla.): 1,400 beds  
-- [ ] Cleveland Clinic: 1,300 beds   
-- [ ] Barnes-Jewish Hospital (St. Louis): 1,278 beds   
-- [ ] Mayo Clinic Hospital-Saint Marys Campus (Rochester, Minn.): 1,265 beds   
+- [x] Yale New Haven (Conn.) Hospital: 1,541 beds ✅ 2024-02-03
+- [x] Jackson Memorial Hospital (Miami): 1,488 beds ✅ 2024-02-03
+- [x] AdventHealth Orlando (Fla.): 1,400 beds ✅ 2024-02-03
+- [x] Cleveland Clinic: 1,300 beds ✅ 2024-02-03
+- [x] Barnes-Jewish Hospital (St. Louis): 1,278 beds ✅ 2024-02-03
+- [x] Mayo Clinic Hospital-Saint Marys Campus (Rochester, Minn.): 1,265 beds ✅ 2024-02-03
 - [ ] Ascension Saint Thomas Hospital (Nashville, Tenn.): 1,224 beds  
-- [ ] UAB Hospital (Birmingham, Ala.): 1,207 beds    
-- [ ] The Johns Hopkins Hospital (Baltimore): 1,162 beds  
-- [ ] Mount Sinai Hospital (New York City): 1,139 beds   
+- [x] UAB Hospital (Birmingham, Ala.): 1,207 beds ✅ 2024-02-03
+- [x] The Johns Hopkins Hospital (Baltimore): 1,162 beds ✅ 2024-02-03
+- [x] Mount Sinai Hospital (New York City): 1,139 beds ✅ 2024-02-03
 - [ ] Beaumont Hospital-Royal Oak (Mich.): 1,131 beds   
-- [ ] Saint Francis Hospital (Tulsa, Okla.): 1,112 beds   
-- [ ] Atrium Health Carolinas Medical Center (Charlotte, N.C.): 1,059 beds  
-- [ ] OhioHealth Riverside Methodist Hospital (Columbus): 1,059 beds   
-- [ ] Memorial Hermann-Texas Medical Center (Houston): 1,058 beds   
-- [ ] Tampa (Fla.) General Hospital: 1,040 beds   
-- [ ] Christiana Hospital (Newark, Del.): 1,039 beds   
-- [ ] UH Cleveland Medical Center: 1,032 beds
+- [x] Saint Francis Hospital (Tulsa, Okla.): 1,112 beds ✅ 2024-02-03
+- [x] Atrium Health Carolinas Medical Center (Charlotte, N.C.): 1,059 beds ✅ 2024-02-03
+- [x] OhioHealth Riverside Methodist Hospital (Columbus): 1,059 beds ✅ 2024-02-03
+- [x] Memorial Hermann-Texas Medical Center (Houston): 1,058 beds ✅ 2024-02-03
+- [x] Tampa (Fla.) General Hospital: 1,040 beds ✅ 2024-02-03
+- [x] Christiana Hospital (Newark, Del.): 1,039 beds ✅ 2024-02-03
+- [x] UH Cleveland Medical Center: 1,032 beds ✅ 2024-02-03
 - [ ] UF Health Shands Hospital (Gainesville, Fla.): 1,030 beds  
 - [ ] Massachusetts General Hospital (Boston): 1,019 beds   
 - [ ] Vanderbilt University Hospital (Nashville, Tenn.): 1,000 beds   
