@@ -103,8 +103,8 @@ parent: Providers
 - [x] Tampa (Fla.) General Hospital: 1,040 beds ✅ 2024-02-03
 - [x] Christiana Hospital (Newark, Del.): 1,039 beds ✅ 2024-02-03
 - [x] UH Cleveland Medical Center: 1,032 beds ✅ 2024-02-03
-- [ ] UF Health Shands Hospital (Gainesville, Fla.): 1,030 beds  
-- [ ] Massachusetts General Hospital (Boston): 1,019 beds   
+- [x] UF Health Shands Hospital (Gainesville, Fla.): 1,030 beds ✅ 2024-02-03
+- [x] Massachusetts General Hospital (Boston): 1,019 beds ✅ 2024-02-03
 - [ ] Vanderbilt University Hospital (Nashville, Tenn.): 1,000 beds   
 - [ ] Hospital of the University of Pennsylvania (Philadelphia): 988 beds  
 - [ ] ECU Health Medical Center (Greenville, N.C.): 974 beds   
