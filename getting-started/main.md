@@ -10,15 +10,17 @@ nav_order: 1
 
 These instructions will help you set up a version of Fasten that lets you connect to 27,000+ institutions using your existing accounts. It will enable you to connect and retrieve your full electronic medical record and store it within Fasten.
 
-Run the following commands to download and start the Fasten docker container.
+First, if you don't have Docker installed on your computer, get Docker by following this [install guide](https://docs.docker.com/get-docker/).
+
+Next, run the following commands from your Mac/Linux terminal or Windows command line to download and start the Fasten docker container.
 
 ```
 docker pull ghcr.io/fastenhealth/fasten-onprem:main
 
 docker run --rm \
 -p 9090:8080 \
--v `pwd`/db:/opt/fasten/db \
--v `pwd`/cache:/opt/fasten/cache \
+-v ./db:/opt/fasten/db \
+-v ./cache:/opt/fasten/cache \
 ghcr.io/fastenhealth/fasten-onprem:main
 
 ```

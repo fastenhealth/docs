@@ -1,0 +1,227 @@
+> source: https://profiles.health.ny.gov/directory/hospitals
+
+- [ ] A.O. Fox Memorial Hospital
+- [ ] A.O. Fox Memorial Hospital - Tri-Town Campus
+- [ ] Adirondack Medical Center-Lake Placid Site
+- [ ] Adirondack Medical Center-Saranac Lake Site
+- [ ] Albany Medical Center - South Clinical Campus
+- [ ] Albany Medical Center Hospital
+- [ ] Arnot Ogden Medical Center
+- [ ] Auburn Community Hospital 
+- [ ] Bellevue Hospital Center
+- [ ] Bertrand Chaffee Hospital
+- [ ] Blythedale Children's Hospital
+- [ ] Bon Secours Community Hospital
+- [ ] BronxCare Hospital Center
+- [ ] BronxCare Hospital Center
+- [ ] Brookdale Hospital Medical Center
+- [ ] Brooklyn Hospital Center - Downtown Campus
+- [ ] Brooks-TLC Hospital System, Inc.
+- [ ] Buffalo General Medical Center 
+- [ ] Calvary Hospital
+- [ ] Calvary Hospital Inc 
+- [ ] Canton-Potsdam Hospital
+- [ ] Carthage Area Hospital Inc
+- [ ] Cayuga Medical Center at Ithaca
+- [ ] Chenango Memorial Hospital Inc
+- [ ] Claxton-Hepburn Medical Center
+- [ ] Clifton Springs Hospital and Clinic
+- [ ] Clifton-Fine Hospital
+- [ ] Cobleskill Regional Hospital
+- [ ] Columbia Memorial Hospital
+- [ ] Community Memorial Hospital Inc
+- [ ] Corning Hospital
+- [ ] Crouse Hospital
+- [ ] Crouse Hospital - Commonwealth Division
+- [ ] Cuba Memorial Hospital Inc
+- [ ] David H. Koch Center For Cancer Care
+- [ ] Degraff Memorial Hospital
+- [ ] Delaware Valley Hospital Inc
+- [ ] Eastern Niagara Hospital - Lockport Division
+- [ ] Ellenville Regional Hospital
+- [ ] Ellis Hospital
+- [ ] Ellis Hospital - Bellevue Woman's Care Center Division
+- [ ] Elmhurst Hospital Center 
+- [ ] Erie County Medical Center
+- [ ] F.F. Thompson Hospital
+- [ ] Faxton St Luke's Healthcare Campus
+- [ ] Flushing Hospital Medical Center
+- [ ] Garnet Health Medical Center
+- [ ] Garnet Health Medical Center - Catskills
+- [ ] Garnet Health Medical Center - Catskills - G. Hermann Site
+- [ ] Geneva General Hospital
+- [ ] Glen Cove Hospital
+- [ ] Glens Falls Hospital
+- [ ] Good Samaritan Hospital Medical Center
+- [ ] Good Samaritan Hospital of Suffern
+- [ ] Gouverneur Hospital
+- [ ] Guthrie Cortland Medical Center
+- [ ] Harlem Hospital Center
+- [ ] HealthAlliance Hospital Broadway Campus
+- [ ] HealthAlliance Hospital Mary's Avenue Campus
+- [ ] Helen Hayes Hospital
+- [ ] Henry J. Carter Specialty Hospital
+- [ ] Highland Hospital
+- [ ] Hospital for Special Surgery
+- [ ] Huntington Hospital
+- [ ] Interfaith Medical Center 
+- [ ] Ira Davenport Memorial Hospital
+- [ ] Jacobi Medical Center
+- [ ] Jamaica Hospital Medical Center
+- [ ] John R. Oishei Children's Hospital
+- [ ] John T Mather Memorial Hospital of Port Jefferson New York Inc
+- [ ] Kenmore Mercy Hospital
+- [ ] Kings County Hospital Center
+- [ ] Kingsbrook Jewish Medical Center
+- [ ] Lakeview Center for Mental Health and Wellness
+- [ ] Lenox Health Greenwich Village
+- [ ] Lenox Hill Hospital
+- [ ] Lewis County General Hospital
+- [ ] Lincoln Medical & Mental Health Center
+- [ ] Little Falls Hospital
+- [ ] Lockport Memorial Hospital, a Campus of Mount St Mary's
+- [ ] Long Island Community Hospital
+- [ ] Long Island Jewish Forest Hills
+- [ ] Long Island Jewish Medical Center
+- [ ] Long Island Jewish Valley Stream
+- [ ] Maimonides Medical Center
+- [ ] Maimonides Midwood Community Hospital
+- [ ] Margaretville Hospital 
+- [ ] Mary Imogene Bassett Hospital
+- [ ] Massena Hospital
+- [ ] Medina Memorial Hospital
+- [ ] Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp
+- [ ] Memorial Hospital for Cancer and Allied Diseases
+- [ ] Mercy Hospital
+- [ ] Mercy Hospital - Mercy Hospital Orchard Park Division
+- [ ] Mercy Hospital of Buffalo
+- [ ] Metropolitan Hospital Center
+- [ ] Mid-Hudson Valley Division of Westchester Medical Center
+- [ ] Millard Fillmore Suburban Hospital
+- [ ] Mohawk Valley Heart Institute, Inc
+- [ ] Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div
+- [ ] Montefiore Medical Center - Henry & Lucy Moses Div
+- [ ] Montefiore Medical Center - Montefiore Westchester Square
+- [ ] Montefiore Medical Center-Wakefield Hospital
+- [ ] Montefiore Mount Vernon Hospital
+- [ ] Montefiore New Rochelle Hospital
+- [ ] Montefiore Nyack
+- [ ] Mount Sinai - Behavioral Health Center
+- [ ] Mount Sinai Beth Israel
+- [ ] Mount Sinai Brooklyn
+- [ ] Mount Sinai Hospital
+- [ ] Mount Sinai Hospital - Mount Sinai Hospital of Queens 
+- [ ] Mount Sinai Morningside
+- [ ] Mount Sinai South Nassau
+- [ ] Mount Sinai West
+- [ ] Mount St. Mary's Hospital and Health Center
+- [ ] Nassau University Medical Center
+- [ ] Nathan Littauer Hospital
+- [ ] New York Eye and Ear Infirmary of Mount Sinai
+- [ ] New York-Presbyterian Brooklyn Methodist Hospital
+- [ ] New York-Presbyterian David H. Koch Center
+- [ ] New York-Presbyterian Hospital - Allen Hospital
+- [ ] New York-Presbyterian Hospital - Columbia Presbyterian Center
+- [ ] New York-Presbyterian Hospital - New York Weill Cornell Center
+- [ ] New York-Presbyterian Westchester
+- [ ] New York-Presbyterian Westchester Behavioral Health Center
+- [ ] New York-Presbyterian/Hudson Valley Hospital
+- [ ] New York-Presbyterian/Lower Manhattan Hospital
+- [ ] New York-Presbyterian/Queens
+- [ ] Newark-Wayne Community Hospital
+- [ ] Niagara Falls Memorial Medical Center
+- [ ] Nicholas H. Noyes Memorial Hospital
+- [ ] North Central Bronx Hospital
+- [ ] North Shore University Hospital
+- [ ] Northern Dutchess Hospital
+- [ ] Northern Westchester Hospital
+- [ ] NYC Health + Hospitals/South Brooklyn Health
+- [ ] NYU Langone Hospital - Joseph S. and Diane H. Steinberg Ambulatory Care Center
+- [ ] NYU Langone Hospital-Brooklyn
+- [ ] NYU Langone Hospital-Long Island
+- [ ] NYU Langone Hospitals
+- [ ] NYU Langone Orthopedic Hospital
+- [ ] O'Connor Hospital
+- [ ] Olean General Hospital
+- [ ] Oneida Health Hospital
+- [ ] Oswego Hospital
+- [ ] Our Lady of Lourdes Memorial Hospital
+- [ ] Peconic Bay Medical Center
+- [ ] Phelps Hospital
+- [ ] Plainview Hospital
+- [ ] Putnam Hospital
+- [ ] Queens Hospital Center
+- [ ] Richmond University Medical Center
+- [ ] River Hospital, Inc.
+- [ ] Rochester General Hospital
+- [ ] Rockefeller University Hospital
+- [ ] Rome Memorial Hospital, Inc
+- [ ] Roswell Park Cancer Institute
+- [ ] RUMC-Bayley Seton
+- [ ] Samaritan Hospital
+- [ ] Samaritan Hospital - Albany Memorial Campus
+- [ ] Samaritan Hospital - St. Mary's Campus
+- [ ] Samaritan Medical Center
+- [ ] Saratoga Hospital
+- [ ] SBH Health System
+- [ ] Schuyler Hospital
+- [ ] Sisters of Charity Hospital
+- [ ] Sisters of Charity Hospital - St. Joseph Campus
+- [ ] SJRH - Dobbs Ferry Pavillion
+- [ ] SJRH - Park Care Pavilion
+- [ ] SJRH - St Johns Division
+- [ ] Soldiers and Sailors Memorial Hospital of Yates County
+- [ ] South Nassau Communities Hospital Off-Campus Emergency Department
+- [ ] South Shore University Hospital
+- [ ] St Anthony Community Hospital
+- [ ] St Catherine of Siena Hospital
+- [ ] St Elizabeth Medical Center
+- [ ] St Johns Episcopal Hospital So Shore
+- [ ] St Luke's Cornwall Hospital/Newburgh 
+- [ ] St. Charles Hospital
+- [ ] St. Francis Hospital & Heart Center
+- [ ] St. James Hospital
+- [ ] St. Joseph Hospital
+- [ ] St. Joseph's Hospital
+- [ ] St. Joseph's Hospital Health Center
+- [ ] St. Joseph's MC-St. Vincent's Westchester Division
+- [ ] St. Joseph's Medical Center
+- [ ] St. Mary's Healthcare 
+- [ ] St. Mary's Healthcare - Amsterdam Memorial Campus
+- [ ] St. Peter's Addiction Recovery Center
+- [ ] St. Peter's Hospital
+- [ ] St. Peter's Hospital - SPARC
+- [ ] Staten Island University Hosp-North
+- [ ] Staten Island University Hospital Prince's Bay
+- [ ] Stony Brook Eastern Long Island Hospital
+- [ ] Stony Brook Southampton Hospital
+- [ ] Stony Brook University Hospital
+- [ ] Strong Memorial Hospital
+- [ ] Sunnyview Hospital and Rehabilitation Center
+- [ ] Syosset Hospital
+- [ ] The Unity Hospital of Rochester 
+- [ ] The University of Vermont Health Network - Alice Hyde Medical Center
+- [ ] The University of Vermont Health Network - Alice Hyde Medical Center
+- [ ] The University of Vermont Health Network - Champlain Valley Physicians Hospital
+- [ ] The University of Vermont Health Network - Elizabethtown Community Hospital
+- [ ] The University of Vermont Health Network - Elizabethtown Community Hospital Moses Ludington
+- [ ] United Health Services Hospitals Inc. - Binghamton General Hospital
+- [ ] United Health Services Hospitals Inc. - Wilson Medical Center 
+- [ ] United Memorial Medical Center Bank Street Campus 
+- [ ] United Memorial Medical Center North Street Campus 
+- [ ] Unity Specialty Hospital
+- [ ] University Hospital of Brooklyn
+- [ ] University Hospital SUNY Health Science Center
+- [ ] UPMC Chautauqua at WCA
+- [ ] UPMC Chautauqua at WCA
+- [ ] UPSTATE University Hospital at Community General
+- [ ] URMC Strong West
+- [ ] Vassar Brothers Medical Center
+- [ ] Westchester Medical Center
+- [ ] Westfield Memorial Hospital Inc
+- [ ] White Plains Hospital Center
+- [ ] Winifred Masterson Burke Rehabilitation Hospital
+- [ ] Woodhull Medical & Mental Health Center
+- [ ] Wyckoff Heights Medical Center
+- [ ] Wynn Hospital
+- [ ] Wyoming County Community Hospital
