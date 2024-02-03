@@ -17,13 +17,14 @@ Fasten is an open-source and self-hosted electronic medical record aggregator fo
 
 {: .warning }
 
-> Fasten is a Work-in-Progress and can only communicate with a limited number of Healthcare Instutions (approx 25,000 at last count).
+> Fasten is a Work-in-Progress and can only communicate with a limited number of healthcare instutions (approx 25,000 at last count).
 > Please fill out this [Google Form](https://forms.gle/SNsYX9BNMXB6TuTw6) if you'd like to be kept up-to-date on Fasten
 >
-> To ensure Fasten's long-term sustainability, we're exploring some funding options. While we're still deciding a long-term monetization strategy, I'm kicking off with a crowdfunding/fundraising experiment for the first 500 users (including a surprise desktop app):
+> To ensure Fasten's long-term sustainability, we're exploring some funding options. The first 500 users have access to a lifetime license, including support for the self-hosted version, as well as all current & future apps. 
 >
 > - [Fasten Self-Hosted Lifetime License - **$200**](https://buy.stripe.com/fZe00deiUexS58Y4gg)
 >
+> The Windows & Mac apps are also available as standalone downloads at the [Microsoft Store](https://apps.microsoft.com/detail/Fasten%20Health/9PL8CZV1NRFP?launch=true&mode=full) and [App Store](https://apps.apple.com/us/app/fasten-health/id6471036301) for a one-time purchase of $50.
 > Got questions or want to learn more about our fundraising experiment? [Click here to dive into the details & FAQs](https://docs.fastenhealth.com/FUNDRAISING.html)
 
 # Introduction
@@ -37,12 +38,12 @@ I wanted a single (private) location to store our medical records, and I just co
 
 - **Self-hosted** - this is my medical history, I'm not willing to give it to some random multi-national corporation to data-mine and sell
 - **All inclusive** - It should aggregate my data from multiple healthcare providers (insurance companies, hospital networks, clinics, labs) across multiple industries (vision, dental, medical) -- all in one dashboard
-- **Automatic** - It should pull my EMR (electronic medical record) directly from my insurance provider/clinic/hospital network - I dont want to scan/OCR physical documents (unless I have to)
-- **Open Source** - The code should be available for contributions & auditing
+- **Automatic** - It should pull my EMR (electronic medical record) directly from my insurance provider/clinic/hospital network - I don't want to scan/OCR physical documents unless I have to
+- **Open-source** - The code should be available for contributions & auditing
 
 So, I built it.
 
-**Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics**
+**Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, able to integrate with the electronc medical records your healthcare providers & insurers are already using.**
 
 <p align="center">
   <a href="https://imgur.com/a/vfgojBD">
@@ -57,12 +58,13 @@ So, I built it.
 Fasten is designed with a solid foundation that is easily extensible:
 
 - Self-hosted
-- Designed for families, not Clinics (unlike OpenEMR and other popular EMR systems)
-- Supports the Medical industry's (semi-standard) FHIR protocol
-- Uses OAuth2 (Smart-on-FHIR) authentication (no passwords necessary)
+- Designed for families, not clinics (unlike the EMR your doctors use)
+- Supports the FHIR protocol required by U.S. law
+- Uses OAuth2 (Smart-on-FHIR) authentication, so you don't need to trust Fasten with your password
 - Uses OAuth's `offline_access` scope (where possible) to automatically pull changes/updates
 - Multi-user support for household/family use
-- (Future) Dashboards & tracking for diagnostic tests
+- Dashboards & tracking for lab work, panels, & vitals
+- Ability to manually add data from paper charts or self-ordered lab work
 - (Future) Integration with smart-devices & wearables
 
 ---

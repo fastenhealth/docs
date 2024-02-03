@@ -16,11 +16,7 @@ Here's my current plan:
 
 # What do you get? 
 
-**A lifetime license to the Fasten Health software.** However, at this point, you'll receive essentially nothing tangible since the app is entirely open source. In the future, we plan to monetize Fasten by offering a SAAS version with a subscription fee and desktop versions which you'll be able to purchase in the Windows/Mac App Stores. Your lifetime license will apply to both. 
-
-{: .important }
-To make sure you still get *something* for your money, users who purchase the lifetime license will get exclusive access to the **Fasten Health Desktop App private beta**. It's a desktop version of the Fasten Health app that is available for Windows, Mac & (eventually) Linux. 
-It's a standalone (non-docker) app that will allow you to access your health record offline, and will open Fasten up to a new set of users who may not have their own home server or understand how Docker works.
+**A lifetime license to the Fasten Health software.** Presently, we offer a desktop version available for sale in the Windows/Mac App Stores. We also plan to potentially offer a cloud-based, self-hosted version of Fasten. Your lifetime license would apply to both. 
 
 # $75,000 is a lot of money! What are you going to do with it? 
 
@@ -29,11 +25,11 @@ Agreed, it sounds like a lot, however after taxes, legal fees & infrastructure c
 
 Specifically, there are a number of features I’ll be prioritizing with this funding: 
 
-- **Enhanced User Experience**
+- **Enhanced user experience**
 - **Smart device/wearable integration**
-- **ChatGPT-Like Offline Interface** for Querying Your Health Record
-- **Predefined Dashboards for Chronic Conditions** - work with a number of chronic condition communities to see how we can display the data they actually care about
-- **Integration of a WHO Recommendation Engine** to highlight discrepancies from the guidelines for condition-based care, vaccines, boosters, checkups, etc. 
+- **ChatGPT-Like offline interface** for Querying Your Health Record
+- **Predefined dashboards for chronic conditions** - work with a number of chronic condition communities to see how we can display the data they actually care about
+- **Integration of a WHO recommendation engine** to highlight discrepancies from the guidelines for condition-based care, vaccines, boosters, checkups, etc. 
 - **Integration of Health Plan Price Transparency Information** - allowing users to see how the cost of their tests, procedures & medications compare between other providers in their region. 
   
 # $75,000 isn’t much money! Why don’t you raise prices/total lifetime license count/capital from VCs?
@@ -42,7 +38,7 @@ Let's be crystal clear, anyone who purchases a “lifetime” license at this po
  
 Increasing the count of total lifetime licenses could have long-term consequences. If Fasten becomes successful, "power-users" who upgrade and use our services regularly will be grandfathered into heavily discounted plans, potentially paying much less than the actual service costs to run. **It's a balancing act.**
 
-As for Venture Capitalists (VCs), while they’ll give money to [almost anyone](https://techcrunch.com/2014/07/18/yo-raises-1-5m-in-funding-at-a-10m-valuation-investors-include-betaworks-and-pete-cashmore), their money comes with serious strings attached. Founders are typically required to rapidly expand their user base and profit, which may not might not align with our mission of patient empowerment.
+As for venture capitalists, while they’ll give money to [almost anyone](https://techcrunch.com/2014/07/18/yo-raises-1-5m-in-funding-at-a-10m-valuation-investors-include-betaworks-and-pete-cashmore), their money comes with serious strings attached. Founders are typically required to rapidly expand their user base and profit, which may not might not align with our mission of patient empowerment.
 Frankly it just makes me uncomfortable, and I believe that selling directly to our users keeps our incentives in alignment.
 
 # This sounds great, sign me up!  
