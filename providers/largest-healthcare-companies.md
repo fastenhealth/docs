@@ -105,9 +105,9 @@ parent: Providers
 - [x] UH Cleveland Medical Center: 1,032 beds ✅ 2024-02-03
 - [x] UF Health Shands Hospital (Gainesville, Fla.): 1,030 beds ✅ 2024-02-03
 - [x] Massachusetts General Hospital (Boston): 1,019 beds ✅ 2024-02-03
-- [ ] Vanderbilt University Hospital (Nashville, Tenn.): 1,000 beds   
-- [ ] Hospital of the University of Pennsylvania (Philadelphia): 988 beds  
-- [ ] ECU Health Medical Center (Greenville, N.C.): 974 beds   
+- [x] Vanderbilt University Hospital (Nashville, Tenn.): 1,000 beds ✅ 2024-02-03
+- [x] Hospital of the University of Pennsylvania (Philadelphia): 988 beds ✅ 2024-02-03
+- [x] ECU Health Medical Center (Greenville, N.C.): 974 beds ✅ 2024-02-03
 - [ ] Texas Children’s Hospital (Houston): 973 beds  
 - [ ] Duke University Hospital (Durham, N.C.): 957 beds  
 - [ ] Grady Hospital (Atlanta): 953 beds  
