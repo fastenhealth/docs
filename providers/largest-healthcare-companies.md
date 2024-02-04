@@ -117,26 +117,26 @@ parent: Providers
 - [ ] Methodist Hospital (San Antonio): 933 beds   
 - [x] Thomas Jefferson University Hospital (Philadelphia): 926 beds ✅ 2024-02-03
 - [x] Inova Fairfax Hospital (Falls Church, Va.): 923 beds ✅ 2024-02-03
-- [ ] Miami Valley Hospital (Dayton, Ohio): 922 beds   
-- [ ] Novant Health Forsyth Medical Center (Winston-Salem, N.C.): 921 beds   
-- [ ] Baylor University Medical Center (Dallas): 914 beds  
-- [ ] MedStar Washington Hospital Center: 912 beds   
-- [ ] The University of Kansas Hospital (Kansas City): 910 beds  
-- [ ] Houston Methodist Hospital: 907 beds
-- [ ] Sarasota Memorial Hospital (Fla.): 901 beds  
-- [ ] Ohio State University Hospital (Columbus): 900 beds   
+- [x] Miami Valley Hospital (Dayton, Ohio): 922 beds ✅ 2024-02-03
+- [x] Novant Health Forsyth Medical Center (Winston-Salem, N.C.): 921 beds ✅ 2024-02-03
+- [x] Baylor University Medical Center (Dallas): 914 beds ✅ 2024-02-03
+- [x] MedStar Washington Hospital Center: 912 beds ✅ 2024-02-03
+- [x] The University of Kansas Hospital (Kansas City): 910 beds ✅ 2024-02-03
+- [x] Houston Methodist Hospital: 907 beds ✅ 2024-02-03
+- [x] Sarasota Memorial Hospital (Fla.): 901 beds ✅ 2024-02-03
+- [x] Ohio State University Hospital (Columbus): 900 beds ✅ 2024-02-03
 - [ ] Medical City Dallas: 899 beds 
-- [ ] Orlando (Fla.) Health Orlando Regional Medical Center: 898 beds  
-- [ ] St. Joseph's Hospital (Tampa, Fla.): 897 beds  
-- [ ] Northwestern Memorial Hospital (Chicago): 894 beds   
-- [ ] Cedars-Sinai Medical Center (Los Angeles): 886 beds   
-- [ ] Wake Forest Baptist Medical Center (Winston-Salem, N.C.): 885 beds   
-- [ ] Huntsville (Ala.) Hospital: 881 beds   
-- [ ] Henry Ford Hospital (Detroit, Mich.): 877 beds  
-- [ ] Hartford (Conn.) Hospital: 867 beds   
+- [x] Orlando (Fla.) Health Orlando Regional Medical Center: 898 beds ✅ 2024-02-03
+- [x] St. Joseph's Hospital (Tampa, Fla.): 897 beds ✅ 2024-02-03
+- [x] Northwestern Memorial Hospital (Chicago): 894 beds ✅ 2024-02-03
+- [x] Cedars-Sinai Medical Center (Los Angeles): 886 beds ✅ 2024-02-03
+- [x] Wake Forest Baptist Medical Center (Winston-Salem, N.C.): 885 beds ✅ 2024-02-03
+- [x] Huntsville (Ala.) Hospital: 881 beds ✅ 2024-02-03
+- [x] Henry Ford Hospital (Detroit, Mich.): 877 beds ✅ 2024-02-03
+- [x] Hartford (Conn.) Hospital: 867 beds ✅ 2024-02-03
 - [ ] Lakeland (Fla.) Regional Health Medical Center: 864 beds 
 - [ ] Memorial Regional Hospital (Hollywood, Fla.): 863 beds  
-- [ ] NewYork-Presbyterian/Weill Cornell Medical Center (New York City): 862 beds   
+- [x] NewYork-Presbyterian/Weill Cornell Medical Center (New York City): 862 beds ✅ 2024-02-03
 - [ ] Mercy Hospital St. Louis: 859 beds   
 - [ ] Texas Heart Institute at Baylor St. Luke's Medical Center (Houston): 850 beds   
 - [ ] NYU Langone Hospitals (New York City): 844 beds   
