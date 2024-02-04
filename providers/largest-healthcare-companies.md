@@ -115,8 +115,8 @@ parent: Providers
 - [ ] Baptist Hospital of Miami (Fla.): 948 beds  
 - [ ] Aurora St. Luke's Medical Center of Aurora Health Care (Milwaukee): 938 beds  
 - [ ] Methodist Hospital (San Antonio): 933 beds   
-- [ ] Thomas Jefferson University Hospital (Philadelphia): 926 beds   
-- [ ] Inova Fairfax Hospital (Falls Church, Va.): 923 beds   
+- [x] Thomas Jefferson University Hospital (Philadelphia): 926 beds ✅ 2024-02-03
+- [x] Inova Fairfax Hospital (Falls Church, Va.): 923 beds ✅ 2024-02-03
 - [ ] Miami Valley Hospital (Dayton, Ohio): 922 beds   
 - [ ] Novant Health Forsyth Medical Center (Winston-Salem, N.C.): 921 beds   
 - [ ] Baylor University Medical Center (Dallas): 914 beds  
