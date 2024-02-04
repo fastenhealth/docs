@@ -108,10 +108,10 @@ parent: Providers
 - [x] Vanderbilt University Hospital (Nashville, Tenn.): 1,000 beds ✅ 2024-02-03
 - [x] Hospital of the University of Pennsylvania (Philadelphia): 988 beds ✅ 2024-02-03
 - [x] ECU Health Medical Center (Greenville, N.C.): 974 beds ✅ 2024-02-03
-- [ ] Texas Children’s Hospital (Houston): 973 beds  
-- [ ] Duke University Hospital (Durham, N.C.): 957 beds  
-- [ ] Grady Hospital (Atlanta): 953 beds  
-- [ ] UNC Medical Center (Chapel Hill, N.C.): 950 beds   
+- [x] Texas Children’s Hospital (Houston): 973 beds ✅ 2024-02-03
+- [x] Duke University Hospital (Durham, N.C.): 957 beds ✅ 2024-02-03
+- [x] Grady Hospital (Atlanta): 953 beds ✅ 2024-02-03
+- [x] UNC Medical Center (Chapel Hill, N.C.): 950 beds ✅ 2024-02-03
 - [ ] Baptist Hospital of Miami (Fla.): 948 beds  
 - [ ] Aurora St. Luke's Medical Center of Aurora Health Care (Milwaukee): 938 beds  
 - [ ] Methodist Hospital (San Antonio): 933 beds   
