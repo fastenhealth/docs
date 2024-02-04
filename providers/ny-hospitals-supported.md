@@ -1,3 +1,5 @@
+> Note: This document is not intended to be a comprehensive list of all healthcare providers and sources that Fasten Health supports. Instead it is just a list of the **largest** healthcare institutions in New York and Fasten's integration status. 
+>
 > source: https://profiles.health.ny.gov/directory/hospitals
 
 - [ ] A.O. Fox Memorial Hospital
