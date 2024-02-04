@@ -139,11 +139,11 @@ parent: Providers
 - [x] NewYork-Presbyterian/Weill Cornell Medical Center (New York City): 862 beds ✅ 2024-02-03
 - [ ] Mercy Hospital St. Louis: 859 beds   
 - [ ] Texas Heart Institute at Baylor St. Luke's Medical Center (Houston): 850 beds   
-- [ ] NYU Langone Hospitals (New York City): 844 beds   
-- [ ] Baptist Health-Little Rock (Ark.): 843 beds   
-- [ ] Parkland Health and Hospital System (Dallas): 836 beds   
-- [ ] Our Lady of the Lake Regional Medical Center (Baton Rouge, La.): 800 beds  
-- [ ] Mayo Clinic Hospital-Methodist Campus (Rochester, Minn.): 794 beds   
-- [ ] ProMedica Toledo (Ohio) Hospital: 794 beds   
-- [ ] Brigham and Women's Hospital (Boston): 793 beds
-- [ ] North Shore University Hospital (Manhasset, N.Y.): 738 beds
+- [x] NYU Langone Hospitals (New York City): 844 beds ✅ 2024-02-04
+- [x] Baptist Health-Little Rock (Ark.): 843 beds ✅ 2024-02-04
+- [x] Parkland Health and Hospital System (Dallas): 836 beds ✅ 2024-02-04
+- [x] Our Lady of the Lake Regional Medical Center (Baton Rouge, La.): 800 beds ✅ 2024-02-04
+- [x] Mayo Clinic Hospital-Methodist Campus (Rochester, Minn.): 794 beds ✅ 2024-02-04
+- [x] ProMedica Toledo (Ohio) Hospital: 794 beds ✅ 2024-02-04
+- [x] Brigham and Women's Hospital (Boston): 793 beds ✅ 2024-02-04
+- [x] North Shore University Hospital (Manhasset, N.Y.): 738 beds ✅ 2024-02-04
