@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "technical/marketplace/promo-codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "technical/marketplace/promo-codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "technical/marketplace/promo-codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "providers/largest-healthcare-companies.md"
+                "file": "technical/marketplace/promo-codes.md"
               }
             }
           },
@@ -168,8 +168,12 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "providers/ny-hospitals-supported.md",
+    "marketing/app-gallery.md",
+    "marketing/index.md",
+    "marketing/marketing-checklist.md",
+    "marketing/us-healthcare-institutions.md",
     "providers/largest-healthcare-companies.md",
+    "providers/ny-hospitals-supported.md",
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "providers/patient-contributed-data.md",
     "providers/patient-portal-and-sources-testing.md",
@@ -182,9 +186,6 @@
     "roadmap.md",
     "funding.md",
     "features.md",
-    "marketing/us-healthcare-institutions.md",
-    "marketing/marketing-checklist.md",
-    "marketing/app-gallery.md",
     "technical/marketplace/windows-store.md",
     "faqs.md",
     "technical/analytics-telemetry.md",
@@ -201,7 +202,6 @@
     "img/windows-app-store/3.sources.png",
     "img/windows-app-store/2.timeline.png",
     "img/windows-app-store/1.dashboard.png",
-    "getting-started/index.md",
     "img/windows-app-store",
     "img/marketplace/apple/gatekeeper.png",
     "img/marketplace/apple/app-store-connect-api-key.png",
