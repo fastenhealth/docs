@@ -15,7 +15,7 @@
               "state": {
                 "file": "technical/marketplace/promo-codes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -168,6 +168,9 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/marketplace/apple-store.md",
+    "technical/marketplace/promo-codes.md",
+    "technical/marketplace/index.md",
     "marketing/app-gallery.md",
     "marketing/index.md",
     "marketing/marketing-checklist.md",
@@ -178,7 +181,6 @@
     "providers/patient-contributed-data.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/provider-directory.md",
-    "technical/marketplace/promo-codes.md",
     "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
     "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
     "UNORGANIZED.md",
@@ -194,8 +196,6 @@
     "technical/free-for-dev.md",
     "technical/id-vs-access-token.md",
     "technical/installation-id.md",
-    "technical/network-architecture.md",
-    "technical/patient-data-collection.md",
     "img/windows-app-store/4.manual.png",
     "img/windows-app-store/6.secure.png",
     "img/windows-app-store/4.explore.png",
