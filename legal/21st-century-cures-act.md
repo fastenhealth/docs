@@ -100,3 +100,36 @@ endpoints”) - A FHIR service base URL cannot be withheld by an actor as it (ju
 technical interfaces) is necessary to enable the access, exchange, and use of EHI
 >
 > https://www.healthit.gov/sites/default/files/page2/2020-03/ONC21stCenturyCuresActFinalRuleOverview.pdf
+
+
+
+https://www.darenasolutions.com/cures-act-for-healthcare-providers
+
+## Information Blocking Claims: By the Numbers
+
+ONC has greatly simplified the [process of submitting](https://www.healthit.gov/sites/default/files/page2/2021-11/Information-Blocking-Portal-Process.pdf) an Information Blocking Claim. Information blocking claims can be submitted online through [ONC’s Report Information Blocking Portal](https://healthit.gov/report-info-blocking). The HHS OIG has the authority to investigate claims of possible information blocking across all types of actors: health care providers, health information networks and health information exchanges, and health IT developers of certified health IT.
+
+The Information Blocking claims and information received by ONC in connection with a claim or suggestion of possible information blocking are generally protected from disclosure as specified by the Cures Act. Claims can be submitted anonymously as well.
+
+ONC is tracking Information Blocking Claims starting from April 5, 2021 and now publishing the results monthly. There has been about a **20% increase in the number of validated Claims** submitted from the end of 2021 to August 31, 2022.
+
+[
+
+![Information-Blocking-Claims](https://images.squarespace-cdn.com/content/v1/5c3ce7fc2714e564a6af4b46/e864333c-262c-4a50-baa4-d11992d3b247/Information-Blocking-Claims.jpg)
+
+
+
+](https://www.healthit.gov/data/quickstats/information-blocking-claims-numbers)
+
+![Claims-Count-Types-of-Claimant](https://images.squarespace-cdn.com/content/v1/5c3ce7fc2714e564a6af4b46/df76fb79-b0c1-4365-a151-cecd77b898d6/Claims-Count-Types-of-Claimant.jpg)
+
+![claims-count-potential-actor](https://images.squarespace-cdn.com/content/v1/5c3ce7fc2714e564a6af4b46/a305bad1-c6d8-4aff-bef5-484817d5cba3/claims-count-potential-actor.png)
+
+- About a 20% increase in the number of claims has been recorded from the end of 2021 to August 31, 2022.
+    
+
+- The number of patients submitting Information Blocking Claims increased by 20% from the end of 2021 to August of 2022.
+    
+- **More than 75% of the Information Blocking Claims are filed on providers.**
+    
+- The number of **Claims against providers went up about 35%** from the end of 2021 to August of 2022.

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/hardening.md",
+                "file": "legal/21st-century-cures-act.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/hardening.md",
+                "file": "legal/21st-century-cures-act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/hardening.md",
+                "file": "legal/21st-century-cures-act.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/hardening.md"
+                "file": "legal/21st-century-cures-act.md"
               }
             }
           },
@@ -168,34 +168,35 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "security/cors-relay.md",
-    "technical/marketplace/promo-codes.md",
-    "technical/marketplace/apple-store.md",
-    "technical/marketplace/index.md",
-    "marketing/app-gallery.md",
-    "marketing/index.md",
-    "marketing/marketing-checklist.md",
-    "marketing/us-healthcare-institutions.md",
-    "providers/largest-healthcare-companies.md",
-    "providers/ny-hospitals-supported.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "providers/patient-contributed-data.md",
-    "providers/patient-portal-and-sources-testing.md",
+    "legal/carin-trust-framework.md",
+    "legal/checklist.md",
+    "legal/cla.md",
+    "legal/corp.md",
+    "legal/fhir-fees.md",
+    "legal/hipaa.md",
+    "legal/index.md",
+    "legal/intellectual-property.md",
+    "legal/license.md",
+    "legal/record-ownership.md",
+    "legal/privacy-policy.md",
     "providers/provider-directory.md",
-    "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
-    "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
-    "UNORGANIZED.md",
-    "TODO_TASKS.md",
-    "roadmap.md",
-    "funding.md",
+    "providers/patient-portal-and-sources-testing.md",
+    "providers/patient-contributed-data.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "features.md",
-    "technical/marketplace/windows-store.md",
-    "faqs.md",
+    "technical/zero-knowledge-encryption.md",
+    "technical/terminology-server.md",
+    "technical/tech-stack.md",
+    "technical/persistent-database.md",
+    "technical/patient-data-collection.md",
+    "banner-transparent.png",
     "technical/analytics-telemetry.md",
+    "technical/authentication.md",
     "technical/fasten-identification-systems.md",
     "technical/fhir-community.md",
-    "technical/free-for-dev.md",
-    "technical/id-vs-access-token.md",
+    "technical/fhir-resource-relationships.md",
+    "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
+    "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
     "img/windows-app-store/4.manual.png",
     "img/windows-app-store/6.secure.png",
     "img/windows-app-store/4.explore.png",
@@ -204,7 +205,6 @@
     "img/windows-app-store/1.dashboard.png",
     "img/windows-app-store",
     "img/marketplace/apple/gatekeeper.png",
-    "img/marketplace/apple/app-store-connect-api-key.png",
     "img/macos-app-store/slides.pdf",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
