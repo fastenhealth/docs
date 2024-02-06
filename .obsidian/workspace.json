@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/marketplace/promo-codes.md",
+                "file": "security/hardening.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/marketplace/promo-codes.md",
+                "file": "security/hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/marketplace/promo-codes.md",
+                "file": "security/hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/marketplace/promo-codes.md"
+                "file": "security/hardening.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "technical/marketplace/apple-store.md",
+    "security/cors-relay.md",
     "technical/marketplace/promo-codes.md",
+    "technical/marketplace/apple-store.md",
     "technical/marketplace/index.md",
     "marketing/app-gallery.md",
     "marketing/index.md",
@@ -195,7 +196,6 @@
     "technical/fhir-community.md",
     "technical/free-for-dev.md",
     "technical/id-vs-access-token.md",
-    "technical/installation-id.md",
     "img/windows-app-store/4.manual.png",
     "img/windows-app-store/6.secure.png",
     "img/windows-app-store/4.explore.png",

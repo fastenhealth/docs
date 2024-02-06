@@ -14,3 +14,7 @@ parent: Security
 
 # Restricted Usernames/Namespaces
 - <https://github.com/dsignr/disallowed-usernames>
+
+# OAuth
+
+- <https://tools.ietf.org/html/rfc6819>
