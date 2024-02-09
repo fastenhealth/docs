@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "legal/record-ownership.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "legal/record-ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "legal/record-ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/21st-century-cures-act.md"
+                "file": "legal/record-ownership.md"
               }
             }
           },
@@ -168,17 +168,18 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "legal/carin-trust-framework.md",
-    "legal/checklist.md",
-    "legal/cla.md",
-    "legal/corp.md",
-    "legal/fhir-fees.md",
-    "legal/hipaa.md",
-    "legal/index.md",
-    "legal/intellectual-property.md",
-    "legal/license.md",
-    "legal/record-ownership.md",
     "legal/privacy-policy.md",
+    "legal/license.md",
+    "legal/intellectual-property.md",
+    "legal/index.md",
+    "legal/hipaa.md",
+    "legal/fhir-fees.md",
+    "legal/corp.md",
+    "legal/cla.md",
+    "legal/checklist.md",
+    "legal/carin-trust-framework.md",
+    "legal/21st-century-cures-act.md",
+    "legal/record-ownership.md",
     "providers/provider-directory.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
@@ -194,7 +195,6 @@
     "technical/authentication.md",
     "technical/fasten-identification-systems.md",
     "technical/fhir-community.md",
-    "technical/fhir-resource-relationships.md",
     "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
     "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
     "img/windows-app-store/4.manual.png",
