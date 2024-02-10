@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/record-ownership.md",
+                "file": "legal/21st-century-cures-act.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "endpoint",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/record-ownership.md",
+                "file": "legal/21st-century-cures-act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/record-ownership.md",
+                "file": "legal/21st-century-cures-act.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/record-ownership.md"
+                "file": "legal/21st-century-cures-act.md"
               }
             }
           },
@@ -168,6 +169,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "legal/record-ownership.md",
     "legal/privacy-policy.md",
     "legal/license.md",
     "legal/intellectual-property.md",
@@ -179,7 +181,6 @@
     "legal/checklist.md",
     "legal/carin-trust-framework.md",
     "legal/21st-century-cures-act.md",
-    "legal/record-ownership.md",
     "providers/provider-directory.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
