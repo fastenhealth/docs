@@ -11,11 +11,9 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
-                "mode": "source",
-                "source": false
+                "file": "img/macos-app-store/1.dashboard.png"
               }
             }
           }
@@ -73,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "img/macos-app-store/1.dashboard.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/21st-century-cures-act.md",
+                "file": "img/macos-app-store/1.dashboard.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/21st-century-cures-act.md"
+                "file": "img/macos-app-store/1.dashboard.png"
               }
             }
           },
@@ -169,6 +166,22 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/macos-app-store/4.explore.png",
+    "img/macos-app-store/2.timeline.png",
+    "img/macos-app-store/1.dashboard.png",
+    "img/logo/logo3-text.png",
+    "img/logo/logo2-text.png",
+    "img/logo/logo-text.png",
+    "img/buttons/documentation.png",
+    "img/banner/banner-transparent.png",
+    "img/banner/banner.png",
+    "img/screenshots/4.dashboard.png",
+    "img/screenshots/3.callback.png",
+    "getting-started/index.md",
+    "getting-started/main.md",
+    "img/macos-app-store/slides.pdf",
+    "img/fasten_images_merged.pdf",
+    "legal/21st-century-cures-act.md",
     "legal/record-ownership.md",
     "legal/privacy-policy.md",
     "legal/license.md",
@@ -180,7 +193,6 @@
     "legal/cla.md",
     "legal/checklist.md",
     "legal/carin-trust-framework.md",
-    "legal/21st-century-cures-act.md",
     "providers/provider-directory.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
@@ -191,27 +203,12 @@
     "technical/tech-stack.md",
     "technical/persistent-database.md",
     "technical/patient-data-collection.md",
-    "banner-transparent.png",
     "technical/analytics-telemetry.md",
-    "technical/authentication.md",
-    "technical/fasten-identification-systems.md",
-    "technical/fhir-community.md",
-    "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
-    "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
-    "img/windows-app-store/4.manual.png",
-    "img/windows-app-store/6.secure.png",
-    "img/windows-app-store/4.explore.png",
-    "img/windows-app-store/3.sources.png",
-    "img/windows-app-store/2.timeline.png",
-    "img/windows-app-store/1.dashboard.png",
     "img/windows-app-store",
-    "img/marketplace/apple/gatekeeper.png",
-    "img/macos-app-store/slides.pdf",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
     "img/macos-app-store",
     "img/untitled folder",
-    "img/fasten_images_merged.pdf",
     "technical/grants",
     "technical/marketplace",
     "deck",
