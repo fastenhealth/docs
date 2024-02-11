@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png"
+                "file": "roadmap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png",
+                "file": "roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png",
+                "file": "roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png"
+                "file": "roadmap.md"
               }
             }
           },
@@ -166,9 +168,9 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/4.explore.png",
     "img/macos-app-store/2.timeline.png",
-    "img/macos-app-store/1.dashboard.png",
     "img/logo/logo3-text.png",
     "img/logo/logo2-text.png",
     "img/logo/logo-text.png",
