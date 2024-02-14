@@ -69,7 +69,7 @@ To do so, you'll need to use a Sandbox user and password from the table below. Y
 | Medicare              | Username: `BBUser00000` <br>Password: `PW00000!`                           | [test accounts](https://bluebutton.cms.gov/developers/#developer-guidelines)                                                          |
 | Meditech              | Username: <br>Password:                                                    |                                                                                                                                       |
 | NextGen               | Username: `patientapitest` <br>Password: `Password1!`                      | [test accounts](https://www.nextgen.com/-/media/files/api/nge-patient-api-auth-guide.pdf)                                             |
-| VA Health             | Username: `va.api.user+idme.101@gmail.com` <br>Password: `Password1234!`   | [test accounts](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/health_test_accounts.md) |
+| VA Health             | Username: `a.api.user+101-2024@gmail.com` <br>Password: `SandboxPassword2024!`   | [test accounts](https://developer.va.gov/explore/api/patient-health/test-users/3617/7058f75892b845dbbd3f371703cc066f398c336a87bb51d73128f1bac24e3105) |
 
 Some providers (such as Cerner) may take a long time to sync as their sandbox accounts have lots of test data. Please be patient.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap.md",
+                "file": "getting-started/sandbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "getting-started/sandbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmap.md",
+                "file": "getting-started/sandbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmap.md"
+                "file": "getting-started/sandbox.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "roadmap.md",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/4.explore.png",
     "img/macos-app-store/2.timeline.png",
@@ -178,7 +179,6 @@
     "img/banner/banner-transparent.png",
     "img/banner/banner.png",
     "img/screenshots/4.dashboard.png",
-    "img/screenshots/3.callback.png",
     "getting-started/index.md",
     "getting-started/main.md",
     "img/macos-app-store/slides.pdf",
