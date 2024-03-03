@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png"
+                "file": "technical/patient-summary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png",
+                "file": "technical/patient-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png",
+                "file": "technical/patient-summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/screenshots/2.b-medical-sources-prod.png"
+                "file": "technical/patient-summary.md"
               }
             }
           },
@@ -164,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "img/screenshots/2.connect.png",
     "img/screenshots/2.b-medical-sources-prod.png",
+    "technical/patient-summary.md",
+    "img/screenshots/2.connect.png",
     "img/screenshots/1.signup.png",
     "img/macos-app-store/6.secure.png",
     "img/macos-app-store/slides.pdf",
@@ -177,7 +180,6 @@
     "img/logo/logo3-text.png",
     "img/logo/logo2-text.png",
     "img/logo/logo-text.png",
-    "img/buttons/newsletter.png",
     "getting-started/sandbox.md",
     "roadmap.md",
     "getting-started/index.md",
@@ -203,7 +205,6 @@
     "technical/zero-knowledge-encryption.md",
     "technical/terminology-server.md",
     "technical/tech-stack.md",
-    "technical/persistent-database.md",
     "img/windows-app-store",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
