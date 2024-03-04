@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "providers/flexpa-supported-payers.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +167,13 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "providers/provider-directory.md",
+    "providers/largest-healthcare-companies.md",
     "providers/flexpa-supported-payers.md",
+    "providers/provider-directory.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "providers/ny-hospitals-supported.md",
-    "providers/largest-healthcare-companies.md",
     "providers/sources/index.md",
     "providers/sources/epic.md",
     "providers/sources/cerner.md",

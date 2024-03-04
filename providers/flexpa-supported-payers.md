@@ -1,4 +1,7 @@
-
+---
+title: Flexpa Supported Payers
+parent: Providers
+---
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">name</th>
