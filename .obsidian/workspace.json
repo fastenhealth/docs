@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/patient-summary.md",
-                "mode": "source",
+                "file": "providers/flexpa-supported-payers.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/patient-summary.md",
+                "file": "providers/flexpa-supported-payers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/patient-summary.md",
+                "file": "providers/flexpa-supported-payers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/patient-summary.md"
+                "file": "providers/flexpa-supported-payers.md"
               }
             }
           },
@@ -168,8 +168,18 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "technical/patient-data-collection.md",
+    "providers/provider-directory.md",
+    "providers/flexpa-supported-payers.md",
+    "providers/patient-portal-and-sources-testing.md",
+    "providers/patient-contributed-data.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "providers/ny-hospitals-supported.md",
+    "providers/largest-healthcare-companies.md",
+    "providers/sources/index.md",
+    "providers/sources/epic.md",
+    "providers/sources/cerner.md",
     "technical/patient-summary.md",
+    "technical/patient-data-collection.md",
     "img/screenshots/2.b-medical-sources-prod.png",
     "img/screenshots/2.connect.png",
     "img/screenshots/1.signup.png",
@@ -196,16 +206,6 @@
     "legal/fhir-fees.md",
     "legal/corp.md",
     "legal/cla.md",
-    "legal/checklist.md",
-    "legal/carin-trust-framework.md",
-    "providers/provider-directory.md",
-    "providers/patient-portal-and-sources-testing.md",
-    "providers/patient-contributed-data.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "features.md",
-    "technical/zero-knowledge-encryption.md",
-    "technical/terminology-server.md",
-    "technical/tech-stack.md",
     "img/windows-app-store",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
