@@ -1,3 +1,7 @@
+---
+title: Patient Summary (IPS)
+parent: Technical
+---
 
 Fasten Health has the ability to generate a [International Patient Summary (IPS)](https://build.fhir.org/ig/HL7/fhir-ips/index.html) compliant summary. 
 

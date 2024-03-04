@@ -15,7 +15,7 @@
               "state": {
                 "file": "technical/patient-summary.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -168,8 +168,9 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "img/screenshots/2.b-medical-sources-prod.png",
+    "technical/patient-data-collection.md",
     "technical/patient-summary.md",
+    "img/screenshots/2.b-medical-sources-prod.png",
     "img/screenshots/2.connect.png",
     "img/screenshots/1.signup.png",
     "img/macos-app-store/6.secure.png",
