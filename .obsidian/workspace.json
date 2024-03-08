@@ -11,11 +11,9 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "providers/flexpa-supported-payers.md",
-                "mode": "source",
-                "source": true
+                "file": "img/macos-app-store/1.dashboard.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "providers/flexpa-supported-payers.md",
+                "file": "img/macos-app-store/1.dashboard.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "providers/flexpa-supported-payers.md",
+                "file": "img/macos-app-store/1.dashboard.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "providers/flexpa-supported-payers.md"
+                "file": "img/macos-app-store/1.dashboard.png"
               }
             }
           },
@@ -167,8 +165,20 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "providers/largest-healthcare-companies.md",
+    "img/macos-app-store/2.timeline.png",
+    "img/macos-app-store/1.dashboard.png",
+    "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
+    "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
+    "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
+    "img/screenshots/Screen Shot 2023-11-09 at 1.19.59 PM.png",
+    "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
+    "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
+    "img/screenshots/widget-dashboard.png",
+    "img/screenshots/security-manager-import.png",
+    "img/screenshots/security-manager-generate.png",
+    "technical/marketplace/promo-codes.md",
     "providers/flexpa-supported-payers.md",
+    "providers/largest-healthcare-companies.md",
     "providers/provider-directory.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
@@ -179,17 +189,7 @@
     "providers/sources/cerner.md",
     "technical/patient-summary.md",
     "technical/patient-data-collection.md",
-    "img/screenshots/2.b-medical-sources-prod.png",
-    "img/screenshots/2.connect.png",
-    "img/screenshots/1.signup.png",
-    "img/macos-app-store/6.secure.png",
     "img/macos-app-store/slides.pdf",
-    "img/macos-app-store/5.manual.png",
-    "img/macos-app-store/1.dashboard.png",
-    "img/logo/square_256.png",
-    "img/logo/logo3-text.png",
-    "img/logo/logo2-text.png",
-    "img/logo/logo-text.png",
     "getting-started/sandbox.md",
     "roadmap.md",
     "getting-started/index.md",
@@ -203,8 +203,6 @@
     "legal/index.md",
     "legal/hipaa.md",
     "legal/fhir-fees.md",
-    "legal/corp.md",
-    "legal/cla.md",
     "img/windows-app-store",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
