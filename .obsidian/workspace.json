@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png"
+                "file": "getting-started/sandbox.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png",
+                "file": "getting-started/sandbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png",
+                "file": "getting-started/sandbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/macos-app-store/1.dashboard.png"
+                "file": "getting-started/sandbox.md"
               }
             }
           },
@@ -165,8 +167,8 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "img/macos-app-store/2.timeline.png",
     "img/macos-app-store/1.dashboard.png",
+    "img/macos-app-store/2.timeline.png",
     "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
     "img/Screen Shot 2024-02-01 at 7.53.28 AM.png",
     "img/Screen Shot 2022-11-23 at 8.29.38 PM.png",
