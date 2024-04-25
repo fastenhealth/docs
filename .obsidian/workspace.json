@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "getting-started/sandbox.md",
+                "file": "legal/hipaa.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "getting-started/sandbox.md",
+                "file": "legal/hipaa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "getting-started/sandbox.md",
+                "file": "legal/hipaa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "getting-started/sandbox.md"
+                "file": "legal/hipaa.md"
               }
             }
           },
@@ -167,6 +167,12 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "legal/fhir-fees.md",
+    "legal/intellectual-property.md",
+    "legal/checklist.md",
+    "legal/carin-trust-framework.md",
+    "legal/21st-century-cures-act.md",
+    "getting-started/sandbox.md",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
     "img/Screen Shot 2024-02-01 at 5.13.39 PM.png",
@@ -177,7 +183,6 @@
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
     "img/screenshots/widget-dashboard.png",
     "img/screenshots/security-manager-import.png",
-    "img/screenshots/security-manager-generate.png",
     "technical/marketplace/promo-codes.md",
     "providers/flexpa-supported-payers.md",
     "providers/largest-healthcare-companies.md",
@@ -192,19 +197,14 @@
     "technical/patient-summary.md",
     "technical/patient-data-collection.md",
     "img/macos-app-store/slides.pdf",
-    "getting-started/sandbox.md",
     "roadmap.md",
     "getting-started/index.md",
     "getting-started/main.md",
     "img/fasten_images_merged.pdf",
-    "legal/21st-century-cures-act.md",
     "legal/record-ownership.md",
     "legal/privacy-policy.md",
     "legal/license.md",
-    "legal/intellectual-property.md",
     "legal/index.md",
-    "legal/hipaa.md",
-    "legal/fhir-fees.md",
     "img/windows-app-store",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
