@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/hipaa.md",
+                "file": "providers/largest-ehr-platforms.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/hipaa.md",
+                "file": "providers/largest-ehr-platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/hipaa.md",
+                "file": "providers/largest-ehr-platforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/hipaa.md"
+                "file": "providers/largest-ehr-platforms.md"
               }
             }
           },
@@ -167,6 +167,15 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "providers/patient-portal-and-sources-testing.md",
+    "providers/provider-directory.md",
+    "providers/patient-contributed-data.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "providers/ny-hospitals-supported.md",
+    "providers/largest-healthcare-companies.md",
+    "providers/largest-ehr-platforms.md",
+    "providers/flexpa-supported-payers.md",
+    "legal/hipaa.md",
     "legal/fhir-fees.md",
     "legal/intellectual-property.md",
     "legal/checklist.md",
@@ -184,13 +193,6 @@
     "img/screenshots/widget-dashboard.png",
     "img/screenshots/security-manager-import.png",
     "technical/marketplace/promo-codes.md",
-    "providers/flexpa-supported-payers.md",
-    "providers/largest-healthcare-companies.md",
-    "providers/provider-directory.md",
-    "providers/patient-portal-and-sources-testing.md",
-    "providers/patient-contributed-data.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "providers/ny-hospitals-supported.md",
     "providers/sources/index.md",
     "providers/sources/epic.md",
     "providers/sources/cerner.md",
@@ -203,8 +205,6 @@
     "img/fasten_images_merged.pdf",
     "legal/record-ownership.md",
     "legal/privacy-policy.md",
-    "legal/license.md",
-    "legal/index.md",
     "img/windows-app-store",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
