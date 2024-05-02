@@ -115,4 +115,3 @@ And just beyond:
 
 # Endpoint Catalog - HTI-1
 - https://www.healthit.gov/sites/default/files/page/2023-12/HTI-1_Gen-Overview_factsheet_508.pdf
-- 
