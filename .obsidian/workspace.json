@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "providers/largest-ehr-platforms.md",
+                "file": "legal/hipaa.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "providers/largest-ehr-platforms.md",
+                "file": "legal/hipaa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "providers/largest-ehr-platforms.md",
+                "file": "legal/hipaa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "providers/largest-ehr-platforms.md"
+                "file": "legal/hipaa.md"
               }
             }
           },
@@ -167,20 +167,22 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "legal/intellectual-property.md",
+    "legal/hipaa.md",
+    "legal/corp.md",
+    "legal/cla.md",
+    "legal/checklist.md",
+    "legal/carin-trust-framework.md",
+    "legal/21st-century-cures-act.md",
+    "providers/largest-ehr-platforms.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/provider-directory.md",
     "providers/patient-contributed-data.md",
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "providers/ny-hospitals-supported.md",
     "providers/largest-healthcare-companies.md",
-    "providers/largest-ehr-platforms.md",
     "providers/flexpa-supported-payers.md",
-    "legal/hipaa.md",
     "legal/fhir-fees.md",
-    "legal/intellectual-property.md",
-    "legal/checklist.md",
-    "legal/carin-trust-framework.md",
-    "legal/21st-century-cures-act.md",
     "getting-started/sandbox.md",
     "img/macos-app-store/1.dashboard.png",
     "img/macos-app-store/2.timeline.png",
@@ -203,8 +205,6 @@
     "getting-started/index.md",
     "getting-started/main.md",
     "img/fasten_images_merged.pdf",
-    "legal/record-ownership.md",
-    "legal/privacy-policy.md",
     "img/windows-app-store",
     "img/macos-app-store/1.dashboard.pdf",
     "deck/pitch-deck-v2.pptx.pdf",
