@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/hipaa.md",
+                "file": "reports/reccomendations.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endpoint",
+                "query": "CQL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/hipaa.md",
+                "file": "reports/reccomendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/hipaa.md",
+                "file": "reports/reccomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/hipaa.md"
+                "file": "reports/reccomendations.md"
               }
             }
           },
@@ -167,8 +168,8 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "legal/intellectual-property.md",
     "legal/hipaa.md",
+    "legal/intellectual-property.md",
     "legal/corp.md",
     "legal/cla.md",
     "legal/checklist.md",
