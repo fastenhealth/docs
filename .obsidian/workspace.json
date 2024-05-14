@@ -11,9 +11,11 @@
             "id": "5fc1dd549bcf0f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png"
+                "file": "reports/reccomendations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "middleware",
+                "query": "CQL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
+                "file": "reports/reccomendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
+                "file": "reports/reccomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png"
+                "file": "reports/reccomendations.md"
               }
             }
           },
@@ -164,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
     "img/screenshots/widget-dashboard.png",
@@ -176,7 +179,6 @@
     "img/screenshots/Screen Shot 2023-12-07 at 2.27.28 PM.png",
     "img/screenshots/Screen Shot 2023-12-07 at 2.27.04 PM.png",
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.20 PM.png",
-    "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "reports/reccomendations.md",
     "legal/hipaa.md",
     "legal/intellectual-property.md",

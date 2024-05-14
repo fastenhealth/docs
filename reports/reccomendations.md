@@ -1,3 +1,7 @@
+[https://www.linkedin.com/in/sandy-weininger-3a68b310/](https://www.linkedin.com/in/sandy-weininger-3a68b310/)
+
+[https://www.massgeneral.org/doctors/17461/julian-goldman](https://www.massgeneral.org/doctors/17461/julian-goldman)
+
 
 
 #CQL
