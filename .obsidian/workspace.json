@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CQL",
+                "query": "middleware",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
