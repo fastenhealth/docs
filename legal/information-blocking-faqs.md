@@ -32,6 +32,14 @@ And just beyond:
 > Q: **Does HIPAA require a covered entity or its EHR system developer to enter into a business associate agreement with an app designated by the individual in order to transmit ePHI to the app?**  
 > HIPAA does not require a covered entity or its business associate (e.g., EHR system developer) to enter into a business associate agreement with an app developer that does not create, receive, maintain, or transmit ePHI on behalf of or for the benefit of the covered entity
 
+## Can EHR Developers require separate informed consent from the Patient before allowing Application developers access?
+
+https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-authentication-authorization-for-single-patient-services
+
+> (v) _Authentication and authorization_—(A) _Authentication and authorization for patient and user scopes_—(1) _First time connections_—(i) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(c) and standard adopted in § 170.215(e). (ii) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(c) and standard adopted in § 170.215(e). (iii) A Health IT Module's authorization server must issue a refresh token for a period of no less than three months to native applications capable of securing a refresh token.
+
+TL;DR - SMART-on-FHIR acts as authorization and authentication, with informed consent.
+
 ## Do EHR Developers need to provide a Provider/Endpoint Catalog?
 
 > Yes, under the HTI-1 Final Rule, EHR developers are required to publish their customers' service base URL information, which includes FHIR endpoints. This is part of the new and updated standards, implementation specifications, and certification criteria for electronic health records and health information technology modules for certification through the ONC certification program.
