@@ -10,8 +10,8 @@ parent: Legal
 - [HTI-1 Final Rule](https://www.federalregister.gov/documents/2024/01/09/2023-28857/health-data-technology-and-interoperability-certification-program-updates-algorithm-transparency-and#p-1250)
 	- [ONC HTI-1 Final Rule Overview](https://www.healthit.gov/sites/default/files/page/2024-01/HTI-1%20Final%20Rule%20Overview_Webinar_508.pdf)
 - [Information Blocking Exceptions](https://www.healthit.gov/sites/default/files/2024-04/IB_Exceptions_Fact_Sheet_508_0.pdf)
-- https://onc-healthit.github.io/api-resource-guide/404-conditions-maintenance/
-- https://onc-healthit.github.io/api-resource-guide/g10-criterion/#data-response-single-patient
+- <https://onc-healthit.github.io/api-resource-guide/404-conditions-maintenance/>
+- <https://onc-healthit.github.io/api-resource-guide/g10-criterion/#data-response-single-patient>
 - [HHS - Access Rights, Health Apps & Apis](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html)
 
 ## Do Patient Access Applications need to be HIPAA compliant?
@@ -38,7 +38,7 @@ And just beyond:
 
 ## Can EHR Developers require separate informed consent from the Patient before allowing Application developers access?
 
-https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-authentication-authorization-for-single-patient-services
+<https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-authentication-authorization-for-single-patient-services>
 
 > (v) _Authentication and authorization_—(A) _Authentication and authorization for patient and user scopes_—(1) _First time connections_—(i) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(c) and standard adopted in § 170.215(e). (ii) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(c) and standard adopted in § 170.215(e). (iii) A Health IT Module's authorization server must issue a refresh token for a period of no less than three months to native applications capable of securing a refresh token.
 
@@ -81,7 +81,7 @@ sequenceDiagram
 ```
 
 
-https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-authentication-authorization-for-single-patient-services
+<https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-authentication-authorization-for-single-patient-services>
 
 ## Do EHR Developers need to provide a Provider/Endpoint Catalog?
 
@@ -90,7 +90,7 @@ https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-auth
 > The API Condition and Maintenance of Certification was updated related to Service Base URLs
 in order to better support patient-facing apps by requiring the use of standardized formats
 for “FHIR endpoints.
-- https://www.healthit.gov/sites/default/files/page/2023-12/HTI-1_Gen-Overview_factsheet_508.pdf
+- <https://www.healthit.gov/sites/default/files/page/2023-12/HTI-1_Gen-Overview_factsheet_508.pdf>
 
 
 ## What Developer Documentation must an EHR provide?
@@ -113,7 +113,7 @@ From Regulation text at § 170.404(A)(2)
 
 ## Can EHRs block my app if it helps facilitate the transfer of patient records to other applications?
 
-https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html
+<https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html>
 
 > 4. **Q: Can a covered entity refuse to disclose ePHI to an app chosen by an individual because of concerns about how the app will use or disclose the ePHI it receives?**
 >
@@ -131,12 +131,12 @@ To submit questions or comments to ONC please use our [Inquiry Portal](https://w
 
 If you believe that a HIPAA-covered entity or its business associate violated your (or someone else’s) health information privacy rights or committed another violation of the Privacy, Security, or Breach Notification Rules, you may file a complaint with the Office for Civil Rights (OCR). OCR can investigate complaints against covered entities (health plans, health care clearinghouses, or health care providers that conduct certain transactions electronically) and their business associates.
 
-https://www.hhs.gov/hipaa/filing-a-complaint/index.html
+<https://www.hhs.gov/hipaa/filing-a-complaint/index.html>
 
 
 #### How may judgments be made electronically about denial of access under the HIPAA Privacy Rule?
 
-https://www.hhs.gov/hipaa/for-professionals/faq/552/how-may-judgments-be-made-electronically-about-denial-of-access-under-hipaa/index.html
+<https://www.hhs.gov/hipaa/for-professionals/faq/552/how-may-judgments-be-made-electronically-about-denial-of-access-under-hipaa/index.html>
 
 > A covered entity may decide, for example, to categorically deny access to certain types of information to which no access right exists, such as psychotherapy notes. The Privacy Rule would permit denial without review, and a case-by-case judgment would not be necessary. Similarly, the covered entity may make such a system-wide decision with respect to other types of protected health information where the Privacy Rule permits an unreviewable denial of access.
 > 
