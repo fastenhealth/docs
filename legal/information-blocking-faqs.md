@@ -13,6 +13,8 @@ parent: Legal
 - <https://onc-healthit.github.io/api-resource-guide/404-conditions-maintenance/>
 - <https://onc-healthit.github.io/api-resource-guide/g10-criterion/#data-response-single-patient>
 - [HHS - Access Rights, Health Apps & Apis](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html)
+- [ONC Information Blocking Actors](https://www.healthit.gov/sites/default/files/2024-04/IB_Actors_Fact_Sheet_508_0.pdf)
+
 
 ## Do Patient Access Applications need to be HIPAA compliant?
 
