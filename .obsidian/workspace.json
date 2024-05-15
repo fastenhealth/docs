@@ -15,7 +15,7 @@
               "state": {
                 "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -179,13 +179,13 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "legal/intellectual-property.md",
+    "legal/license.md",
+    "legal/privacy-policy.md",
+    "legal/information-blocking-faqs.md",
     "legal/index.md",
     "legal/record-ownership.md",
-    "legal/privacy-policy.md",
-    "legal/license.md",
-    "legal/intellectual-property.md",
     "legal/hipaa.md",
-    "legal/information-blocking-faqs.md",
     "legal/fhir-fees.md",
     "legal/corp.md",
     "legal/checklist.md",
