@@ -40,6 +40,48 @@ https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-auth
 
 TL;DR - SMART-on-FHIR acts as authorization and authentication, with informed consent.
 
+> SEE: **First time Authentication / Authorization for Single Patient Services: Sequence Diagram**
+
+```mermaid
+sequenceDiagram
+		participant app as App
+		participant authz as Health IT Module's Authorization Server
+		participant fhir as Health IT Module's FHIR® Server
+
+		alt EHR Launch
+			authz ->> authz: EHR user launches app
+			authz ->> app: Launch Request
+		else Standalone Launch
+			app ->> app: App user connects to EHR
+		end
+		app ->> fhir: Discovery request
+		fhir -->> app: Discovery response
+		app ->> authz: Authorization request
+		authz -->> authz: End-user authorization
+		alt Granted
+			authz -->> app: Authorization granted
+            alt App is a “confidential app” according to an implementation specification adopted in § 170.215(c) (SMART App Launch IG)
+			app ->> authz: Access token request
+			note over app,authz: Client secret used for authentication
+            else App is a native app capable of securing a refresh token
+			app ->> authz: Access token request
+            note over app,authz: Proof Key for Code Exchange (PKCE) can be used by <br/> any OAuth 2.0 app type to increase security when <br/> requesting a token on first time connections
+            end
+			authz -->> app: Initial access token and initial refresh token response
+			loop while initial access token is valid
+				app ->> fhir: Initial access token used to request resources
+			end
+		else Denied
+			authz -->> app: Authorization error
+		end
+```
+As specified in <a target = "_blank" href = "https://tools.ietf.org/html/rfc6749">RFC 6749</a> and the <a target = "_blank" href = "https://hl7.org/fhir/smart-app-launch/1.0.0/">HL7® SMART Application Launch Framework Implementation Guide</a>, some native applications are unable to claim they are confidential. By definition, these non-confidential (i.e., "public") native applications do not have a client secret and thus cannot authenticate with the authorization server when receiving access and refresh tokens. However, there are additional methods that non-confidential native applications can use to increase refresh token security during “First time connections.” Methods like Proof Key for Code Exchange (PKCE), the use of secure redirect URI schemes[^2], and utilizing on-device secure storage techniques to securely store the refresh token can increase the security of an initial refresh token. Methods like these ensure that an authorization server issues initial access and refresh tokens to the correct corresponding authorized application. The paragraph at § 170.315(g)(10)(v)(A)(1)(iii) requires that Health IT Modules issue an initial refresh token to native applications capable of securing a refresh token.
+
+See [Subsequent Authentication / Authorization for Single Patient Services](#subsequent-authentication-authorization-for-single-patient-services) for sequence diagram once the initial access token is invalid (e.g., expiration).
+```
+
+https://onc-healthit.github.io/api-resource-guide/g10-criterion/#first-time-authentication-authorization-for-single-patient-services
+
 ## Do EHR Developers need to provide a Provider/Endpoint Catalog?
 
 > Yes, under the HTI-1 Final Rule, EHR developers are required to publish their customers' service base URL information, which includes FHIR endpoints. This is part of the new and updated standards, implementation specifications, and certification criteria for electronic health records and health information technology modules for certification through the ONC certification program.
