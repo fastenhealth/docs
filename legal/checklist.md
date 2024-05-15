@@ -43,7 +43,7 @@
 
 ## Expanding Healthcare Providers
 
-- [ ] Sign CARIN Trust Framework. 
+- [x] Sign CARIN Trust Framework. ✅ 2024-05-14
 - [ ] User Interviews 
 - [ ] Add support for additional healthcare providers
 	1. Support HL7

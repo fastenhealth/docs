@@ -2,12 +2,14 @@
 ## Helpful Links
 
 - [ONC HealthIT - 170.315(g)(10) - Standardized API for Patient and Population Services](https://www.healthit.gov/test-method/standardized-api-patient-and-population-services)
-- [ONC Health App Use Scenarios & HIPAA(https://www.hhs.gov/sites/default/files/ocr-health-app-developer-scenarios-2-2016.pdf)
+- [ONC Health App Use Scenarios & HIPAA](https://www.hhs.gov/sites/default/files/ocr-health-app-developer-scenarios-2-2016.pdf)
 - [HTI-1 Final Rule](https://www.federalregister.gov/documents/2024/01/09/2023-28857/health-data-technology-and-interoperability-certification-program-updates-algorithm-transparency-and#p-1250)
 	- [ONC HTI-1 Final Rule Overview](https://www.healthit.gov/sites/default/files/page/2024-01/HTI-1%20Final%20Rule%20Overview_Webinar_508.pdf)
 - [Information Blocking Exceptions](https://www.healthit.gov/sites/default/files/2024-04/IB_Exceptions_Fact_Sheet_508_0.pdf)
+- https://onc-healthit.github.io/api-resource-guide/404-conditions-maintenance/
+- https://onc-healthit.github.io/api-resource-guide/g10-criterion/#data-response-single-patient
 
-## Do Patient Access Applications need to be HIPAA compliant
+## Do Patient Access Applications need to be HIPAA compliant?
 
 > <https://www.hhs.gov/sites/default/files/ocr-health-app-developer-scenarios-2-2016.pdf>
 
@@ -29,10 +31,14 @@ And just beyond:
 > Q: **Does HIPAA require a covered entity or its EHR system developer to enter into a business associate agreement with an app designated by the individual in order to transmit ePHI to the app?**  
 > HIPAA does not require a covered entity or its business associate (e.g., EHR system developer) to enter into a business associate agreement with an app developer that does not create, receive, maintain, or transmit ePHI on behalf of or for the benefit of the covered entity
 
-## Do EHR Developers need to provide a Provider/Endpoint Catalog
+## Do EHR Developers need to provide a Provider/Endpoint Catalog?
 
 > Yes, under the HTI-1 Final Rule, EHR developers are required to publish their customers' service base URL information, which includes FHIR endpoints. This is part of the new and updated standards, implementation specifications, and certification criteria for electronic health records and health information technology modules for certification through the ONC certification program.
 
+> The API Condition and Maintenance of Certification was updated related to Service Base URLs
+in order to better support patient-facing apps by requiring the use of standardized formats
+for “FHIR endpoints.
+- https://www.healthit.gov/sites/default/files/page/2023-12/HTI-1_Gen-Overview_factsheet_508.pdf
 
 
 ## What Developer Documentation must an EHR provide?
@@ -45,9 +51,25 @@ From [Paragraph (g)(10)(viii)(A) Documentation – minimum requirements](https:/
 > (_3_) All applicable technical requirements and attributes necessary for an application to be registered with a Health IT Module’s authorization server.
 
 
-
+From Regulation text at § 170.404(A)(2)
+>(2) _Transparency conditions_—
+>(i) _Complete business and technical documentation_. A Certified API Developer must publish complete business and technical documentation, including the documentation described in paragraph (a)(2)(ii) of this section, via a publicly accessible hyperlink that allows any person to directly access the information without any preconditions or additional steps. 
+>(ii) _Terms and conditions_—(A) _Material information_. A Certified API Developer must publish all terms and conditions for its certified API technology, including any fees, restrictions, limitations, obligations, registration process requirements, or other similar requirements that would be: (1) Needed to develop software applications to interact with the certified API technology; (2) Needed to distribute, deploy, and enable the use of software applications in production environments that use the certified API technology; (3) Needed to use software applications, including to access, exchange, and use electronic health information by means of the certified API technology; (4) Needed to use any electronic health information obtained by means of the certified API technology; (5) Used to verify the authenticity of API Users; and (6) Used to register software applications. (B) _API fees_. Any and all fees charged by a Certified API Developer for the use of its certified API technology must be described in detailed, plain language. The description of the fees must include all material information, including but not limited to: (1) The persons or classes of persons to whom the fee applies; (2) The circumstances in which the fee applies; and (3) The amount of the fee, which for variable fees must include the specific variable(s) and methodology(ies) that will be used to calculate the fee.
 
 ## Sandbox for Testing
 
 
-### How can I file an Information Blocking 
+## Can EHRs block my app if it helps facilitate the transfer of patient records to other applications?
+
+
+## How can I file an Information Blocking Complaint
+
+To submit questions or comments to ONC please use our [Inquiry Portal](https://www.healthit.gov/feedback). Anonymized versions of the § 170.404 inquires and responses that ONC has handled through this portal can be accessed on the [Health IT Feedback and Inquiry Portal: API Conditions and Maintenance of Certification at § 170.404](https://onc-healthit.github.io/api-resource-guide/inquiry-portal/404-inquiries/) page.
+
+[Information Blocking Portal](https://inquiry.healthit.gov/support/plugins/servlet/desk/portal/6)
+
+## How can I file a Privacy Complaint
+
+If you believe that a HIPAA-covered entity or its business associate violated your (or someone else’s) health information privacy rights or committed another violation of the Privacy, Security, or Breach Notification Rules, you may file a complaint with the Office for Civil Rights (OCR). OCR can investigate complaints against covered entities (health plans, health care clearinghouses, or health care providers that conduct certain transactions electronically) and their business associates.
+
+https://www.hhs.gov/hipaa/filing-a-complaint/index.html

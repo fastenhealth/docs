@@ -100,18 +100,3 @@ At the end of the day, while there is a need for something like this, I don't kn
 
 
 
-# Can Providers/EHR platforms require a BAA?
-
-See [https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html#:~:text=The%20HIPAA%20Privacy%20Rule%20generally%20prohibits%20a%20covered%20entity%20from%20refusing%20to%20disclose%20ePHI%20to%20a%20third%2Dparty%20app%20designated%20by%20the%20individual%20if%20the%20ePHI%20is%20readily%20producible%20in%20the%20form%20and%20format%20used%20by%20the%20app](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html#:~:text=The%20HIPAA%20Privacy%20Rule%20generally%20prohibits%20a%20covered%20entity%20from%20refusing%20to%20disclose%20ePHI%20to%20a%20third%2Dparty%20app%20designated%20by%20the%20individual%20if%20the%20ePHI%20is%20readily%20producible%20in%20the%20form%20and%20format%20used%20by%20the%20app "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html#:~:text=The%20HIPAA%20Privacy%20Rule%20generally%20prohibits%20a%20covered%20entity%20from%20refusing%20to%20disclose%20ePHI%20to%20a%20third%2Dparty%20app%20designated%20by%20the%20individual%20if%20the%20ePHI%20is%20readily%20producible%20in%20the%20form%20and%20format%20used%20by%20the%20app").
-
-> The HIPAA Privacy Rule generally prohibits a covered entity from refusing to disclose ePHI to a third-party app designated by the individual if the ePHI is readily producible in the form and format used by the app.
-
-And just beyond:
-
-> 5. Q: Does HIPAA require a covered entity or its EHR system developer to enter into a business associate agreement with an app designated by the individual in order to transmit ePHI to the app?
-
-> HIPAA does not require a covered entity or its business associate (e.g., EHR system developer) to enter into a business associate agreement with an app developer that does not create, receive, maintain, or transmit ePHI on behalf of or for the benefit of the covered entity
-
-
-# Endpoint Catalog - HTI-1
-- https://www.healthit.gov/sites/default/files/page/2023-12/HTI-1_Gen-Overview_factsheet_508.pdf
