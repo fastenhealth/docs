@@ -15,6 +15,14 @@ parent: Legal
 - [HHS - Access Rights, Health Apps & Apis](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html)
 - [ONC Information Blocking Actors](https://www.healthit.gov/sites/default/files/2024-04/IB_Actors_Fact_Sheet_508_0.pdf)
 
+## Which "Actors" are regulated by the Information Blocking  section of the Cures Act Final Rule?
+
+<https://www.healthit.gov/sites/default/files/2024-04/IB_Actors_Fact_Sheet_508_0.pdf>
+
+- Health Care Provider
+	- A health care provider is a: hospital; skilled nursing facility; nursing facility; home health entity or other long term care facility; health care clinic; community mental health center; renal dialysis facility; blood center; ambulatory surgical center; emergency medical services provider; federally qualified health center; group practice; pharmacist; pharmacy; laboratory; physician; practitioner; provider operated by or under contract with the Indian Health Service or by an Indian tribe, tribal organization, or urban Indian organization; rural health clinic; covered entity under 42 U.S.C. 256b; ambulatory surgical center; therapist; and any other category of health care facility, entity, practitioner, or clinician determined appropriate by the HHS Secretary.
+- Health Information Network or Health Information Exchange (HEI)
+- Health IT Developer of Certified Health IT
 
 ## Do Patient Access Applications need to be HIPAA compliant?
 
