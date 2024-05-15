@@ -8,6 +8,7 @@
 - [Information Blocking Exceptions](https://www.healthit.gov/sites/default/files/2024-04/IB_Exceptions_Fact_Sheet_508_0.pdf)
 - https://onc-healthit.github.io/api-resource-guide/404-conditions-maintenance/
 - https://onc-healthit.github.io/api-resource-guide/g10-criterion/#data-response-single-patient
+- [HHS - Access Rights, Health Apps & Apis](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html)
 
 ## Do Patient Access Applications need to be HIPAA compliant?
 
@@ -61,6 +62,13 @@ From Regulation text at § 170.404(A)(2)
 
 ## Can EHRs block my app if it helps facilitate the transfer of patient records to other applications?
 
+https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html
+
+> 4. **Q: Can a covered entity refuse to disclose ePHI to an app chosen by an individual because of concerns about how the app will use or disclose the ePHI it receives?**
+>
+   A: No. The HIPAA Privacy Rule generally prohibits a covered entity from refusing to disclose ePHI to a third-party app designated by the individual if the ePHI is readily producible in the form and format used by the app. See 45 CFR 164.524(a)(1), (c)(2)(ii), (c)(3)(ii). The HIPAA Rules do not impose any restrictions on how an individual or the individual's designee, such as an app, may use the health information that has been disclosed pursuant to the individual's right of access. For instance, a covered entity is not permitted to deny an individual's right of access to their ePHI where the individual directs the information to a third-party app because the app will share the individual's ePHI for research or because the app does not encrypt the individual's data when at rest. In addition, as discussed in Question 1 above, the HIPAA Rules do not apply to entities that do not meet the definition of a HIPAA covered entity or business associate.
+
+
 
 ## How can I file an Information Blocking Complaint
 
@@ -68,8 +76,17 @@ To submit questions or comments to ONC please use our [Inquiry Portal](https://w
 
 [Information Blocking Portal](https://inquiry.healthit.gov/support/plugins/servlet/desk/portal/6)
 
-## How can I file a Privacy Complaint
+## How can I file a Privacy Rule Complaint
 
 If you believe that a HIPAA-covered entity or its business associate violated your (or someone else’s) health information privacy rights or committed another violation of the Privacy, Security, or Breach Notification Rules, you may file a complaint with the Office for Civil Rights (OCR). OCR can investigate complaints against covered entities (health plans, health care clearinghouses, or health care providers that conduct certain transactions electronically) and their business associates.
 
 https://www.hhs.gov/hipaa/filing-a-complaint/index.html
+
+
+#### How may judgments be made electronically about denial of access under the HIPAA Privacy Rule?
+
+https://www.hhs.gov/hipaa/for-professionals/faq/552/how-may-judgments-be-made-electronically-about-denial-of-access-under-hipaa/index.html
+
+> A covered entity may decide, for example, to categorically deny access to certain types of information to which no access right exists, such as psychotherapy notes. The Privacy Rule would permit denial without review, and a case-by-case judgment would not be necessary. Similarly, the covered entity may make such a system-wide decision with respect to other types of protected health information where the Privacy Rule permits an unreviewable denial of access.
+> 
+> In contrast, reviewable grounds for denial of access require decisions be made on a case-by-case basis through the professional judgment of licensed health care providers. Professional judgment also would be required if individuals exercise their right to appeal a denial of access made on reviewable grounds. As computer logic cannot be a substitute for professional judgment in these cases, these types of activities cannot be carried out categorically or in an automated way. Neither could these decisions be delegated to a health information organization (HIO), unless a licensed health care professional at the HIO were assigned the task of making the access determinations.
