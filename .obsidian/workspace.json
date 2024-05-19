@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "features.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "research",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/information-blocking-faqs.md"
+                "file": "features.md"
               }
             }
           },
@@ -179,23 +180,32 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "faqs.md",
+    "features.md",
+    "UNORGANIZED.md",
+    "reports/reccomendations.md",
+    "marketing/marketing-checklist.md",
+    "technical/design/landing-page.md",
+    "sharing/information-sharing.md",
+    "legal/information-blocking-faqs.md",
+    "providers/largest-ehr-platforms.md",
+    "providers/index.md",
+    "providers/flexpa-supported-payers.md",
+    "providers/provider-directory.md",
+    "providers/patient-portal-and-sources-testing.md",
+    "providers/patient-contributed-data.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "providers/ny-hospitals-supported.md",
+    "providers/largest-healthcare-companies.md",
     "legal/intellectual-property.md",
     "legal/license.md",
     "legal/privacy-policy.md",
-    "legal/information-blocking-faqs.md",
     "legal/index.md",
     "legal/record-ownership.md",
     "legal/hipaa.md",
     "legal/fhir-fees.md",
     "legal/corp.md",
     "legal/checklist.md",
-    "legal/cla.md",
-    "legal/carin-trust-framework.md",
-    "legal/21st-century-cures-act.md",
-    "funding.md",
-    "features.md",
-    "faqs.md",
-    "reports/reccomendations.md",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
@@ -206,15 +216,6 @@
     "img/screenshots/Screen Shot 2023-12-08 at 4.09.01 PM.png",
     "img/screenshots/Screen Shot 2023-12-07 at 2.27.28 PM.png",
     "img/screenshots/Screen Shot 2023-12-07 at 2.27.04 PM.png",
-    "providers/largest-ehr-platforms.md",
-    "providers/patient-portal-and-sources-testing.md",
-    "providers/provider-directory.md",
-    "providers/patient-contributed-data.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "providers/ny-hospitals-supported.md",
-    "providers/largest-healthcare-companies.md",
-    "providers/flexpa-supported-payers.md",
-    "getting-started/sandbox.md",
     "img/macos-app-store/slides.pdf",
     "img/fasten_images_merged.pdf",
     "img/windows-app-store",
