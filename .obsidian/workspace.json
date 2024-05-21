@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "features.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "features.md",
+                "file": "legal/information-blocking-faqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "features.md",
+                "file": "legal/information-blocking-faqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "features.md"
+                "file": "legal/information-blocking-faqs.md"
               }
             }
           },
@@ -180,8 +179,8 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "faqs.md",
     "features.md",
+    "faqs.md",
     "UNORGANIZED.md",
     "reports/reccomendations.md",
     "marketing/marketing-checklist.md",
