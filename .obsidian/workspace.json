@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "technical/free-for-dev.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "technical/free-for-dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "technical/free-for-dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/information-blocking-faqs.md"
+                "file": "technical/free-for-dev.md"
               }
             }
           },
@@ -179,6 +179,11 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/cloud/terraform.md",
+    "technical/cloud/index.md",
+    "technical/cloud/cloudflare-reverse-proxy.md",
+    "technical/cloud/architecture.md",
+    "legal/information-blocking-faqs.md",
     "features.md",
     "faqs.md",
     "UNORGANIZED.md",
@@ -186,7 +191,6 @@
     "marketing/marketing-checklist.md",
     "technical/design/landing-page.md",
     "sharing/information-sharing.md",
-    "legal/information-blocking-faqs.md",
     "providers/largest-ehr-platforms.md",
     "providers/index.md",
     "providers/flexpa-supported-payers.md",
@@ -201,10 +205,6 @@
     "legal/privacy-policy.md",
     "legal/index.md",
     "legal/record-ownership.md",
-    "legal/hipaa.md",
-    "legal/fhir-fees.md",
-    "legal/corp.md",
-    "legal/checklist.md",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
