@@ -10,3 +10,5 @@ parent: Technical
 
 https://www.f6s.com/company-deals/amazonwebservices/5k-in-aws-web-hosting-7962 - 5k credits
 https://www.argonaut.dev/blog/aws-free-credits
+https://community.aws/content/2aEQy4l7lCyRaFSO3jlThfw6Voi/unlocking-aws-credits-a-comprehensive-guide-to-maximize-cloud-savings-and-resources?lang=en
+https://cloudvisor.co/aws-for-startups/
