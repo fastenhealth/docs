@@ -177,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
+    "img/sponsors/browserstack.png",
     "technical/cloud/terraform.md",
     "technical/cloud/index.md",
     "technical/cloud/cloudflare-reverse-proxy.md",
@@ -204,7 +205,6 @@
     "legal/license.md",
     "legal/privacy-policy.md",
     "legal/index.md",
-    "legal/record-ownership.md",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
