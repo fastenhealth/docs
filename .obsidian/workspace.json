@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "news/industry-news.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "news/industry-news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "news/industry-news.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/information-blocking-faqs.md"
+                "file": "news/industry-news.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "legal/21st-century-cures-act.md",
+    "news/fasten-health-news.md",
     "technical/design/ui-ux.md",
+    "technical/design/ui-widgets.md",
+    "legal/information-blocking-faqs.md",
+    "legal/21st-century-cures-act.md",
     "technical/design/landing-page.md",
     "technical/design/index.md",
     "technical/design/angular-to-react.md",
@@ -203,9 +206,6 @@
     "technical/terminology-server.md",
     "technical/zero-knowledge-encryption.md",
     "img/sponsors/browserstack.png",
-    "technical/cloud/terraform.md",
-    "technical/cloud/index.md",
-    "technical/cloud/cloudflare-reverse-proxy.md",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
     "img/screenshots/Screen Shot 2023-11-30 at 7.40.12 PM.png",
