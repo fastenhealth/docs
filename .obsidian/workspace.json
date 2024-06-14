@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "5fbff055da9ec897",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
             "id": "cbf291258ad3203d",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fbff055da9ec897",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
     "getting-started/img.png",
     "news/fasten-health-news.md",

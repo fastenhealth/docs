@@ -21,6 +21,7 @@ parent: News
 - [Interoperability Saves Lives Summary - Alberta Health Data Interop Working Group](https://www.albertavirtualcare.org/_files/ugd/efde1a_9564f5202366406d86bded1512799d61.pdf)
 	- [Interoperability Saves Lives Full- Alberta Health Data Interop Working Group](https://www.albertavirtualcare.org/_files/ugd/efde1a_43101bc906434781a6d497cd576602c1.pdf)
 - [https://www.healthit.gov/data/data-briefs/interoperable-exchange-patient-health-information-among-us-hospitals-2023](https://www.healthit.gov/data/data-briefs/interoperable-exchange-patient-health-information-among-us-hospitals-2023)
+- [The State of CMS Patient Access API - CARIN Alliance](https://vimeo.com/953965310/9d7a894bc4)
 
 # PHR News
 
