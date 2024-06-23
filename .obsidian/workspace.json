@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "technical/terminology-server.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "technical/terminology-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/industry-news.md",
+                "file": "technical/terminology-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/industry-news.md"
+                "file": "technical/terminology-server.md"
               }
             }
           },
@@ -177,8 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/patient-summary.md",
+    "technical/patient-data-collection.md",
+    "technical/network-architecture.md",
+    "technical/fhir-resource-relationships.md",
+    "news/industry-news.md",
     "getting-started/img.png",
     "news/fasten-health-news.md",
     "technical/design/ui-ux.md",
@@ -193,15 +198,11 @@
     "technical/analytics-telemetry.md",
     "technical/authentication.md",
     "technical/fasten-identification-systems.md",
-    "technical/fhir-resource-relationships.md",
     "technical/free-for-dev.md",
     "technical/id-vs-access-token.md",
     "technical/index.md",
     "technical/installation-id.md",
     "technical/license-management.md",
-    "technical/network-architecture.md",
-    "technical/patient-data-collection.md",
-    "technical/patient-summary.md",
     "technical/persistent-database.md",
     "technical/tech-stack.md",
     "technical/terminology-server.md",
@@ -214,7 +215,6 @@
     "img/screenshots/security-manager-generate.png",
     "img/screenshots/Screen Shot 2023-12-08 at 4.12.35 PM.png",
     "img/screenshots/Screen Shot 2023-12-08 at 4.09.01 PM.png",
-    "img/screenshots/Screen Shot 2023-12-07 at 2.27.28 PM.png",
     "img/macos-app-store/slides.pdf",
     "img/fasten_images_merged.pdf",
     "img/windows-app-store",
