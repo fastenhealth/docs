@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/terminology-server.md",
+                "file": "technical/zero-knowledge-encryption.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/terminology-server.md",
+                "file": "technical/zero-knowledge-encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/terminology-server.md",
+                "file": "technical/zero-knowledge-encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/terminology-server.md"
+                "file": "technical/zero-knowledge-encryption.md"
               }
             }
           },
@@ -179,33 +179,33 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/terminology-server.md",
+    "technical/tech-stack.md",
+    "technical/persistent-database.md",
     "technical/patient-summary.md",
     "technical/patient-data-collection.md",
     "technical/network-architecture.md",
+    "technical/license-management.md",
+    "technical/installation-id.md",
+    "technical/index.md",
+    "technical/id-vs-access-token.md",
+    "technical/free-for-dev.md",
     "technical/fhir-resource-relationships.md",
-    "news/industry-news.md",
-    "getting-started/img.png",
-    "news/fasten-health-news.md",
+    "technical/fhir-community.md",
+    "technical/fasten-identification-systems.md",
+    "technical/authentication.md",
+    "technical/analytics-telemetry.md",
+    "technical/marketplace/promo-codes.md",
+    "technical/marketplace/apple-store.md",
+    "technical/grants/sbir-sttr.md",
     "technical/design/ui-ux.md",
-    "technical/design/ui-widgets.md",
-    "legal/information-blocking-faqs.md",
-    "legal/21st-century-cures-act.md",
     "technical/design/landing-page.md",
     "technical/design/index.md",
     "technical/design/angular-to-react.md",
-    "technical/marketplace/promo-codes.md",
-    "technical/marketplace/windows-store.md",
-    "technical/analytics-telemetry.md",
-    "technical/authentication.md",
-    "technical/fasten-identification-systems.md",
-    "technical/free-for-dev.md",
-    "technical/id-vs-access-token.md",
-    "technical/index.md",
-    "technical/installation-id.md",
-    "technical/license-management.md",
-    "technical/persistent-database.md",
-    "technical/tech-stack.md",
-    "technical/terminology-server.md",
+    "technical/cloud/terraform.md",
+    "technical/cloud/index.md",
+    "technical/cloud/cloudflare-reverse-proxy.md",
+    "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
     "img/screenshots/Screen Shot 2023-11-26 at 5.41.08 PM.png",
