@@ -122,6 +122,9 @@ From Regulation text at § 170.404(A)(2)
 
 TODO:
 
+## Can an EHR/Actor block access to my application if they already provide access to another similar application?
+
+
 
 ## Can EHRs block my app if it helps facilitate the transfer of patient records to other applications?
 
