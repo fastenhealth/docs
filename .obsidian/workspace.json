@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "marketing/marketing-checklist.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "marketing/marketing-checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "marketing/marketing-checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/information-blocking-faqs.md"
+                "file": "marketing/marketing-checklist.md"
               }
             }
           },
@@ -179,6 +179,14 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "marketing/index.md",
+    "marketing/app-gallery.md",
+    "legal/information-blocking-faqs.md",
+    "legal/corp.md",
+    "legal/cla.md",
+    "legal/checklist.md",
+    "legal/carin-trust-framework.md",
+    "legal/21st-century-cures-act.md",
     "technical/zero-knowledge-encryption.md",
     "technical/tech-stack.md",
     "technical/patient-summary.md",
@@ -197,14 +205,6 @@
     "technical/fasten-identification-systems.md",
     "technical/authentication.md",
     "technical/analytics-telemetry.md",
-    "technical/marketplace/promo-codes.md",
-    "technical/marketplace/apple-store.md",
-    "technical/grants/sbir-sttr.md",
-    "technical/design/ui-ux.md",
-    "technical/design/landing-page.md",
-    "technical/design/index.md",
-    "technical/design/angular-to-react.md",
-    "technical/cloud/terraform.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
