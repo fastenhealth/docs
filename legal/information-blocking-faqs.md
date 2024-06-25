@@ -160,3 +160,13 @@ If you believe that a HIPAA-covered entity or its business associate violated yo
 
 # What about TEFCA
 - https://www.jmir.org/2022/11/e41750/
+
+
+
+
+
+-----
+
+# Uncategorized:
+
+- https://www.hhs.gov/about/news/2024/06/24/hhs-finalizes-rule-establishing-disincentives-health-care-providers-that-have-committed-information-blocking.html

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/zero-knowledge-encryption.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/zero-knowledge-encryption.md",
+                "file": "legal/information-blocking-faqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/zero-knowledge-encryption.md",
+                "file": "legal/information-blocking-faqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/zero-knowledge-encryption.md"
+                "file": "legal/information-blocking-faqs.md"
               }
             }
           },
@@ -179,13 +179,15 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "technical/terminology-server.md",
+    "technical/zero-knowledge-encryption.md",
     "technical/tech-stack.md",
-    "technical/persistent-database.md",
     "technical/patient-summary.md",
     "technical/patient-data-collection.md",
-    "technical/network-architecture.md",
     "technical/license-management.md",
+    "technical/terminology-server.md",
+    "technical/marketplace/windows-store.md",
+    "technical/persistent-database.md",
+    "technical/network-architecture.md",
     "technical/installation-id.md",
     "technical/index.md",
     "technical/id-vs-access-token.md",
@@ -203,8 +205,6 @@
     "technical/design/index.md",
     "technical/design/angular-to-react.md",
     "technical/cloud/terraform.md",
-    "technical/cloud/index.md",
-    "technical/cloud/cloudflare-reverse-proxy.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
