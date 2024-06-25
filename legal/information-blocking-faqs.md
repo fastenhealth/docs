@@ -103,6 +103,10 @@ for “FHIR endpoints.
 - <https://www.healthit.gov/sites/default/files/page/2023-12/HTI-1_Gen-Overview_factsheet_508.pdf>
 
 
+> By December 31, 2024, the health IT developer publishes the service base URLs and related organization details in a standardized FHIR® format for all Health IT Modules certified to § 170.315(g)(10) that can be used by patients to access their electronic health information.
+> <https://www.healthit.gov/condition-ccg/application-programming-interfaces>
+
+
 ## What Developer Documentation must an EHR provide?
 
 From [Paragraph (g)(10)(viii)(A) Documentation – minimum requirements](https://www.healthit.gov/test-method/standardized-api-patient-and-population-services)
