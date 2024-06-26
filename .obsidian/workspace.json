@@ -179,8 +179,9 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "legal/information-blocking-complaint.md",
+    "legal/hipaa.md",
     "legal/information-blocking-faqs.md",
+    "legal/information-blocking-complaint.md",
     "providers/largest-healthcare-companies.md",
     "marketing/marketing-checklist.md",
     "marketing/index.md",
@@ -204,7 +205,6 @@
     "technical/id-vs-access-token.md",
     "technical/free-for-dev.md",
     "technical/fhir-resource-relationships.md",
-    "technical/fhir-community.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
