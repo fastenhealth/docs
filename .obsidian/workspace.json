@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d9083f37705a6c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "9d9083f37705a6c0",
   "lastOpenFiles": [
     "legal/information-blocking-faqs.md",
     "legal/hipaa.md",
