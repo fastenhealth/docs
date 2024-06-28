@@ -32,7 +32,7 @@ redirect_from:
 - [ ] Share with Practitioner (PDF/Web Export)
 - [ ] Record Search
 - [ ] Practitioner Address Book
-- [ ] VA Health Support
+- [x] VA Health Support ✅ 2024-06-20
 - [x] Installation IDs ✅ 2024-02-10
 - [ ] Hardening Guide
 - [x] CCDA support ✅ 2024-01-24 - Thanks [Health Samurai](https://www.health-samurai.io/)!
