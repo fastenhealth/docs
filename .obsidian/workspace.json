@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "personal health",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d9083f37705a6c0",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
     "legal/information-blocking-faqs.md",
     "legal/hipaa.md",
