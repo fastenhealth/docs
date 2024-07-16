@@ -139,6 +139,19 @@ TODO:
    A: No. The HIPAA Privacy Rule generally prohibits a covered entity from refusing to disclose ePHI to a third-party app designated by the individual if the ePHI is readily producible in the form and format used by the app. See 45 CFR 164.524(a)(1), (c)(2)(ii), (c)(3)(ii). The HIPAA Rules do not impose any restrictions on how an individual or the individual's designee, such as an app, may use the health information that has been disclosed pursuant to the individual's right of access. For instance, a covered entity is not permitted to deny an individual's right of access to their ePHI where the individual directs the information to a third-party app because the app will share the individual's ePHI for research or because the app does not encrypt the individual's data when at rest. In addition, as discussed in Question 1 above, the HIPAA Rules do not apply to entities that do not meet the definition of a HIPAA covered entity or business associate.
 
 
+## How long can a Certified EHR take to verify my identity and application?
+
+https://www.healthit.gov/sites/default/files/page2/2020-03/ConditionsofCertificationWebinar.pdf
+
+**Authenticity Verification**
+- A Certified API Developer is permitted to institute a process to verify the authenticity
+of API Users so long as such process is objective and the same for all API Users and
+completed within ten business days.
+
+**Application Registration**
+-  A Certified API Developer must register and enable all applications for production use
+within five business days of completing its verification of an API User’s authenticity.
+
 ## What kind of Security Review can be used to delay access?
 <a id="security_review"/>
 
