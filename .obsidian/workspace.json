@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/grants/sbir-sttr.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/grants/sbir-sttr.md",
+                "file": "legal/information-blocking-faqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/grants/sbir-sttr.md",
+                "file": "legal/information-blocking-faqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/grants/sbir-sttr.md"
+                "file": "legal/information-blocking-faqs.md"
               }
             }
           },
@@ -187,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/grants/sbir-sttr.md",
     "marketing/marketing-checklist.md",
     "technical/marketplace/promo-codes.md",
     "legal/information-blocking-faqs.md",
@@ -214,7 +215,6 @@
     "technical/installation-id.md",
     "technical/index.md",
     "technical/id-vs-access-token.md",
-    "technical/free-for-dev.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
