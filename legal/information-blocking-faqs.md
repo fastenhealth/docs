@@ -145,14 +145,18 @@ TODO:
 
 https://www.healthit.gov/sites/default/files/page2/2020-03/ConditionsofCertificationWebinar.pdf
 
+This is the 5 day / 10 day rule 
+https://www.ecfr.gov/current/title-45/part-170#p-170.404(b)(1)
+
 **Authenticity Verification**
 - A Certified API Developer is permitted to institute a process to verify the authenticity
 of API Users so long as such process is objective and the same for all API Users and
-completed within ten business days.
+completed within **ten business days.**
 
 **Application Registration**
 -  A Certified API Developer must register and enable all applications for production use
-within five business days of completing its verification of an API User’s authenticity.
+within **five business days** of completing its verification of an API User’s authenticity.
+
 
 ## What kind of Security Review can be used to delay access?
 <a id="security_review"/>
@@ -170,6 +174,7 @@ within five business days of completing its verification of an API User’s auth
 To submit questions or comments to ONC please use our [Inquiry Portal](https://www.healthit.gov/feedback). Anonymized versions of the § 170.404 inquires and responses that ONC has handled through this portal can be accessed on the [Health IT Feedback and Inquiry Portal: API Conditions and Maintenance of Certification at § 170.404](https://onc-healthit.github.io/api-resource-guide/inquiry-portal/404-inquiries/) page.
 
 [Information Blocking Portal](https://inquiry.healthit.gov/support/plugins/servlet/desk/portal/6)
+
 
 ## How can I file a Privacy Rule Complaint
 
