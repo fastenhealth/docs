@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/marketplace/promo-codes.md",
+                "file": "technical/grants/sbir-sttr.md",
                 "mode": "source",
                 "source": true
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "workspace",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/marketplace/promo-codes.md",
+                "file": "technical/grants/sbir-sttr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/marketplace/promo-codes.md",
+                "file": "technical/grants/sbir-sttr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/marketplace/promo-codes.md"
+                "file": "technical/grants/sbir-sttr.md"
               }
             }
           },
@@ -188,13 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
+    "marketing/marketing-checklist.md",
+    "technical/marketplace/promo-codes.md",
     "legal/information-blocking-faqs.md",
     "legal/hipaa.md",
     "legal/information-blocking-complaint.md",
     "providers/largest-healthcare-companies.md",
-    "marketing/marketing-checklist.md",
     "marketing/index.md",
     "marketing/app-gallery.md",
     "legal/corp.md",
@@ -215,7 +215,6 @@
     "technical/index.md",
     "technical/id-vs-access-token.md",
     "technical/free-for-dev.md",
-    "technical/fhir-resource-relationships.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
