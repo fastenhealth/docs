@@ -97,6 +97,9 @@ sequenceDiagram
 
 ## Do EHR Developers need to provide a Provider/Endpoint Catalog?
 
+https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-D/part-170#p-170.404(b)(1)
+
+
 > Yes, under the HTI-1 Final Rule, EHR developers are required to publish their customers' service base URL information, which includes FHIR endpoints. This is part of the new and updated standards, implementation specifications, and certification criteria for electronic health records and health information technology modules for certification through the ONC certification program.
 
 > The API Condition and Maintenance of Certification was updated related to Service Base URLs
