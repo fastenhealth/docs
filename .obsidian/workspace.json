@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "marketing/marketing-checklist.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "marketing/marketing-checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "marketing/marketing-checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/information-blocking-faqs.md"
+                "file": "marketing/marketing-checklist.md"
               }
             }
           },
@@ -189,10 +189,10 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "legal/information-blocking-faqs.md",
     "technical/grants/sbir-sttr.md",
     "marketing/marketing-checklist.md",
     "technical/marketplace/promo-codes.md",
-    "legal/information-blocking-faqs.md",
     "legal/hipaa.md",
     "legal/information-blocking-complaint.md",
     "providers/largest-healthcare-companies.md",
