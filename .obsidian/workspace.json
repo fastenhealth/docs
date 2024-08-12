@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/marketing-checklist.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": true
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "workspace",
+                "query": "CQL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marketing/marketing-checklist.md",
+                "file": "legal/information-blocking-faqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marketing/marketing-checklist.md",
+                "file": "legal/information-blocking-faqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marketing/marketing-checklist.md"
+                "file": "legal/information-blocking-faqs.md"
               }
             }
           },
@@ -189,9 +189,12 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "faqs.md",
+    "legal/fhir-fees.md",
+    "reports/reccomendations.md",
     "legal/information-blocking-faqs.md",
-    "technical/grants/sbir-sttr.md",
     "marketing/marketing-checklist.md",
+    "technical/grants/sbir-sttr.md",
     "technical/marketplace/promo-codes.md",
     "legal/hipaa.md",
     "legal/information-blocking-complaint.md",
@@ -212,9 +215,6 @@
     "technical/marketplace/windows-store.md",
     "technical/persistent-database.md",
     "technical/network-architecture.md",
-    "technical/installation-id.md",
-    "technical/index.md",
-    "technical/id-vs-access-token.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
