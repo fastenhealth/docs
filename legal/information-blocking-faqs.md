@@ -112,6 +112,8 @@ for “FHIR endpoints.
 > <https://www.healthit.gov/condition-ccg/application-programming-interfaces>
 
 
+
+
 ## What Developer Documentation must an EHR provide?
 
 From [Paragraph (g)(10)(viii)(A) Documentation – minimum requirements](https://www.healthit.gov/test-method/standardized-api-patient-and-population-services)

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "legal/information-blocking-faqs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
