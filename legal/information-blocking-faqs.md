@@ -127,6 +127,25 @@ From Regulation text at § 170.404(A)(2)
 >(i) _Complete business and technical documentation_. A Certified API Developer must publish complete business and technical documentation, including the documentation described in paragraph (a)(2)(ii) of this section, via a publicly accessible hyperlink that allows any person to directly access the information without any preconditions or additional steps. 
 >(ii) _Terms and conditions_—(A) _Material information_. A Certified API Developer must publish all terms and conditions for its certified API technology, including any fees, restrictions, limitations, obligations, registration process requirements, or other similar requirements that would be: (1) Needed to develop software applications to interact with the certified API technology; (2) Needed to distribute, deploy, and enable the use of software applications in production environments that use the certified API technology; (3) Needed to use software applications, including to access, exchange, and use electronic health information by means of the certified API technology; (4) Needed to use any electronic health information obtained by means of the certified API technology; (5) Used to verify the authenticity of API Users; and (6) Used to register software applications. (B) _API fees_. Any and all fees charged by a Certified API Developer for the use of its certified API technology must be described in detailed, plain language. The description of the fees must include all material information, including but not limited to: (1) The persons or classes of persons to whom the fee applies; (2) The circumstances in which the fee applies; and (3) The amount of the fee, which for variable fees must include the specific variable(s) and methodology(ies) that will be used to calculate the fee.
 
+## Charging Fees for Patient Access Apps would be Information Blocking
+
+Couple more explicit examples where Fees would qualify as information blocking:
+
+[https://www.federalregister.gov/d/2020-07419/p-1315](https://www.federalregister.gov/d/2020-07419/p-1315)  
+
+> As discussed in the Proposed Rule in [84 FR 7481](https://www.federalregister.gov/citation/84-FR-7481) and finalized in § 170.404(a)(3)(i)(A), any **API-related fee imposed by a Certified API Developer that is not expressly permitted is prohibited.**
+> ..
+> 
+> **(3) Any fee in connection with any services that would be essential to a developer or other person's ability to develop and commercially distribute production-ready applications that use certified API technology. These services could include, for example, access to “test environments” and other resources that an application developer would need to efficiently design and develop apps.** The services could also include access to distribution channels if they are necessary to deploy production-ready software and to production resources, such as the information needed to connect to certified API technology ( _e.g.,_ service base URLs) or the ability to dynamically register with an authorization server.
+
+[https://www.federalregister.gov/d/2020-07419/p-1352](https://www.federalregister.gov/d/2020-07419/p-1352)
+
+> We have finalized an approach that permits Certified API Developers to recover incremental usage costs reasonably incurred during the process of hosting certified API technology on behalf of an API Information Source, which could include fees to the API Information Source for providing and supporting patient access. However, the Certified API Developers and API Information Sources **cannot recover these costs from patients or the developers of applications that facilitate access to and receipt of patients' EHI**. Patients have already effectively paid for their EHI, either directly or through their employers, health plans, and other entities that negotiate and purchase health care items and services on their behalf.
+
+[https://www.federalregister.gov/d/2020-07419/p-2660](https://www.federalregister.gov/d/2020-07419/p-2660)
+
+> For example, a health care provider that charges individuals a fee in order for the individuals to receive access to their EHI via the health care provider's patient portal or another internet-based method, would not be able to benefit from this exception. Similarly, **where an individual authorizes (approves) a consumer-facing app to receive EHI on the individual's behalf, the exception would not apply** to practices where an actor charges the app or its developer a fee to access or use APIs that enable an individual's access to the individual's EHI.
+
 ## Sandbox for Testing
 
 TODO:
