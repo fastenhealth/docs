@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "technical/patient-summary.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "patient-summary"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "legal/hipaa.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "hipaa"
             }
           },
           {
@@ -38,7 +42,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.5"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.5"
             }
           }
         ]
@@ -61,7 +67,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +84,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -92,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "technical/patient-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for patient-summary"
             }
           },
           {
@@ -132,10 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "technical/patient-summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from patient-summary"
             }
           },
           {
@@ -146,7 +164,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -155,8 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legal/information-blocking-faqs.md"
-              }
+                "file": "technical/patient-summary.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of patient-summary"
             }
           },
           {
@@ -168,7 +190,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -190,32 +214,32 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
-    "faqs.md",
-    "legal/fhir-fees.md",
-    "reports/reccomendations.md",
-    "legal/information-blocking-faqs.md",
-    "marketing/marketing-checklist.md",
-    "technical/grants/sbir-sttr.md",
-    "technical/marketplace/promo-codes.md",
-    "legal/hipaa.md",
-    "legal/information-blocking-complaint.md",
-    "providers/largest-healthcare-companies.md",
-    "marketing/index.md",
-    "marketing/app-gallery.md",
-    "legal/corp.md",
-    "legal/cla.md",
-    "legal/checklist.md",
-    "legal/carin-trust-framework.md",
-    "legal/21st-century-cures-act.md",
-    "technical/zero-knowledge-encryption.md",
+    "technical/persistent-database.md",
     "technical/tech-stack.md",
+    "technical/zero-knowledge-encryption.md",
+    "technical/terminology-server.md",
     "technical/patient-summary.md",
     "technical/patient-data-collection.md",
-    "technical/license-management.md",
-    "technical/terminology-server.md",
-    "technical/marketplace/windows-store.md",
-    "technical/persistent-database.md",
     "technical/network-architecture.md",
+    "technical/license-management.md",
+    "technical/installation-id.md",
+    "technical/index.md",
+    "technical/id-vs-access-token.md",
+    "technical/free-for-dev.md",
+    "technical/fhir-resource-relationships.md",
+    "technical/fhir-community.md",
+    "technical/fasten-identification-systems.md",
+    "technical/authentication.md",
+    "technical/analytics-telemetry.md",
+    "technical/marketplace/apple-store.md",
+    "technical/grants/sbir-sttr.md",
+    "technical/github_cicd/selfhosted-runners.md",
+    "technical/github_cicd/index.md",
+    "technical/github_cicd/cicd.md",
+    "technical/github_cicd/aws-oidc-provider.md",
+    "technical/design/ui-widgets.md",
+    "technical/design/ui-ux.md",
+    "technical/design/landing-page.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
