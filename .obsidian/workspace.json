@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/patient-summary.md",
+                "file": "technical/design/ui-ux.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "patient-summary"
+              "title": "ui-ux"
             }
           },
           {
@@ -214,11 +214,11 @@
   },
   "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/patient-summary.md",
     "technical/persistent-database.md",
     "technical/tech-stack.md",
     "technical/zero-knowledge-encryption.md",
     "technical/terminology-server.md",
-    "technical/patient-summary.md",
     "technical/patient-data-collection.md",
     "technical/network-architecture.md",
     "technical/license-management.md",
