@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/design/ui-ux.md",
+                "file": "marketing/marketing-checklist.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ui-ux"
+              "title": "marketing-checklist"
             }
           },
           {
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CQL",
+                "query": "subreddit",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,8 +213,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
+    "UNORGANIZED.md",
+    "legal/license.md",
+    "news/industry-news.md",
+    "legal/hipaa.md",
+    "faqs.md",
+    "marketing/marketing-checklist.md",
+    "technical/fhir-community.md",
+    "roadmap.md",
+    "marketing/index.md",
+    "technical/design/ui-ux.md",
     "technical/patient-summary.md",
     "technical/persistent-database.md",
     "technical/tech-stack.md",
@@ -227,19 +238,9 @@
     "technical/id-vs-access-token.md",
     "technical/free-for-dev.md",
     "technical/fhir-resource-relationships.md",
-    "technical/fhir-community.md",
     "technical/fasten-identification-systems.md",
     "technical/authentication.md",
     "technical/analytics-telemetry.md",
-    "technical/marketplace/apple-store.md",
-    "technical/grants/sbir-sttr.md",
-    "technical/github_cicd/selfhosted-runners.md",
-    "technical/github_cicd/index.md",
-    "technical/github_cicd/cicd.md",
-    "technical/github_cicd/aws-oidc-provider.md",
-    "technical/design/ui-widgets.md",
-    "technical/design/ui-ux.md",
-    "technical/design/landing-page.md",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
     "img/screenshots/Screen Shot 2023-11-22 at 9.58.36 AM.png",
