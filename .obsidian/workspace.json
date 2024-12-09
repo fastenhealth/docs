@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/marketing-checklist.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "marketing-checklist"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subreddit",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,14 +212,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "marketing/marketing-checklist.md",
     "UNORGANIZED.md",
     "legal/license.md",
     "news/industry-news.md",
     "legal/hipaa.md",
     "faqs.md",
-    "marketing/marketing-checklist.md",
     "technical/fhir-community.md",
     "roadmap.md",
     "marketing/index.md",
