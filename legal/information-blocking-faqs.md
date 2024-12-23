@@ -204,6 +204,22 @@ To submit questions or comments to ONC please use our [Inquiry Portal](https://w
 
 [Information Blocking Portal](https://inquiry.healthit.gov/support/plugins/servlet/desk/portal/6)
 
+https://www.healthit.gov/topic/certified-health-it-complaint-process
+
+## How can I contact the Authorized Certification Bodies (ONC-ACBs)
+
+You can find the ONC-ACB for a Certified Health IT Module on the CHPL by searching the listing.
+
+The ONC-ACB will:
+
+- Check to see if the reported issue is applicable to one or more certified capabilities,
+- Work with the complainant and developer to get more information and may perform surveillance to determine if non-conformities exist,
+- Report findings on the CHPL if non-conformities are found, and require the developer to implement a corrective action plan, and
+- Report any information to ONC concerning potential non-conformities to the Conditions and Maintenance of Certification.
+
+- Drummond Group - [ehrcomplaints@drummondgroup.com](mailto:ehrcomplaints@drummondgroup.com)
+- Leidos – [HIT-ACB-Team@leidos.com](mailto:HIT-ACB-Team@leidos.com)
+- SLI Compliance - [ACB@slicompliance.com](mailto:ACB@slicompliance.com)
 
 ## How can I file a Privacy Rule Complaint
 
