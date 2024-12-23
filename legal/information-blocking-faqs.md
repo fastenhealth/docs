@@ -131,6 +131,9 @@ From Regulation text at § 170.404(A)(2)
 
 ## Charging Fees for Patient Access Apps would be Information Blocking
 
+Please be advised that developers of Certified Health IT, may not charge a fee to application developers (“API Users”) requesting access to their Certified Patient Access APIs. Doing so would violate the Conditions and Maintenance of Certification for Patient Access APIs of the 21st Century Cures Act (45 CFR 170.404). The only fees a Certified API Developer is permitted to charge to an API User are for “value-added services related to certified API technology, so long as such services are not necessary to efficiently and effectively develop and deploy production-ready software that interacts with certified API technology.”
+
+
 Couple more explicit examples where Fees would qualify as information blocking:
 
 [https://www.federalregister.gov/d/2020-07419/p-1315](https://www.federalregister.gov/d/2020-07419/p-1315)  
@@ -147,6 +150,8 @@ Couple more explicit examples where Fees would qualify as information blocking:
 [https://www.federalregister.gov/d/2020-07419/p-2660](https://www.federalregister.gov/d/2020-07419/p-2660)
 
 > For example, a health care provider that charges individuals a fee in order for the individuals to receive access to their EHI via the health care provider's patient portal or another internet-based method, would not be able to benefit from this exception. Similarly, **where an individual authorizes (approves) a consumer-facing app to receive EHI on the individual's behalf, the exception would not apply** to practices where an actor charges the app or its developer a fee to access or use APIs that enable an individual's access to the individual's EHI.
+
+
 
 ## Sandbox for Testing
 

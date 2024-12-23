@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "getting-started/sandbox.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sandbox"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -212,8 +212,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "getting-started/sandbox.md",
     "getting-started/index.md",
     "legal/21st-century-cures-act.md",
     "legal/carin-trust-framework.md",
@@ -239,7 +240,6 @@
     "providers/flexpa-supported-payers.md",
     "providers/index.md",
     "providers/largest-ehr-platforms.md",
-    "providers/largest-healthcare-companies.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
