@@ -236,6 +236,7 @@ If you believe that a HIPAA-covered entity or its business associate violated yo
 > 
 > In contrast, reviewable grounds for denial of access require decisions be made on a case-by-case basis through the professional judgment of licensed health care providers. Professional judgment also would be required if individuals exercise their right to appeal a denial of access made on reviewable grounds. As computer logic cannot be a substitute for professional judgment in these cases, these types of activities cannot be carried out categorically or in an automated way. Neither could these decisions be delegated to a health information organization (HIO), unless a licensed health care professional at the HIO were assigned the task of making the access determinations.
 
+## Do patients need to request my app before they need to give me access to their API
 
 
 
