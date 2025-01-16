@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "providers/patient-portal-and-sources-testing.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "patient-portal-and-sources-testing"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -212,8 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "5fc1dd549bcf0f60",
   "lastOpenFiles": [
+    "technical/authentication.md",
+    "providers/patient-portal-and-sources-testing.md",
     "legal/information-blocking-faqs.md",
     "getting-started/sandbox.md",
     "getting-started/index.md",
@@ -238,8 +240,6 @@
     "providers/sources/epic.md",
     "providers/sources/index.md",
     "providers/flexpa-supported-payers.md",
-    "providers/index.md",
-    "providers/largest-ehr-platforms.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
