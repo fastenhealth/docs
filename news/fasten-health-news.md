@@ -7,6 +7,8 @@ parent: News
 - [May 31, 2023 - Metriport Blog Post - Patent Tools and Apps to Access Health Records](https://www.metriport.com/blog/patient-tools-and-apps-to-access-health-records)
 - [Jun 8, 2023 - DevDays 2023 - Using Graph-Theory to Empower Patients & Answer Questions](https://vimeo.com/834345387/ff867a402e)
 - [Jan 15, 2024 - Fasten Health HIPAA Compliance](https://www.accountablehq.com/post/fasten-health-has-achieved-hipaa-compliance-with-accountable)
+- [Dec, 2024 - Techstars NYC Demoday](https://www.youtube.com/watch?v=-syfncmv8NU)
+- [Feb 5, 2025 - Selfii advocates for Fasten as a Patient-Centric platform](https://selfii.com/blog-balancing-privacy)
 ## Discussions
 
 - https://www.reddit.com/r/selfhosted/comments/13i68rm/fasten_health_open_source_selfhosted_personal/

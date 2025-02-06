@@ -157,9 +157,16 @@ Couple more explicit examples where Fees would qualify as information blocking:
 
 TODO:
 
-## Can an EHR/Actor block access to my application if they already provide access to another similar application?
+## Discriminate Between Apps - Can an EHR/Actor block access to my application if they already provide access to another similar application? 
 
+EHRs and Health Systems cannot discriminate between apps. 
 
+> Furthermore, we believe these fee policies are necessary in light of the potential for Certified API Developers to use their market position and control over certified API technology to engage in discriminatory practices that create special effort and barriers to the use of certified API technology.
+
+> We proposed in 84 FR 7595 in  
+§ 170.404(a)(4) that an API Technology Supplier must grant API Data Providers the sole authority and autonomy to permit API Users to interact with the API technology deployed by the API Data Provider in a non-discriminatory manner; provide all reasonably necessary support and other services to enable the effective development, deployment, and use of API technology by API Data Providers and its API Users to access, exchange, and use EHI in production environments; not impose collateral terms or agreements that could interfere with the use of API technology; and provide reasonable notice prior to making changes to its API technology or terms and conditions.
+
+> We emphasized that, most acutely, the information blocking provision may be implicated if an actor were to refuse to license or allow the disclosure of interoperability elements to persons who require those elements to develop and provide interoperable technologies or services—including those that might complement or compete with the actor’s own technology or services. The same would be true if the actor were to allow access to interoperability elements but were to restrict their use for these purposes. We provided a list of non- exhaustive examples to illustrate practices that would likely implicate the information blocking provision by interfering with access, exchange, or use of EHI (84 FR 7519 and 7520). We encourage readers to review those examples in the Proposed Rule, as they are still applicable.
 
 ## Can EHRs block my app if it helps facilitate the transfer of patient records to other applications?
 
