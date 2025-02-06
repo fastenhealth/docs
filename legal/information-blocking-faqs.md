@@ -205,6 +205,13 @@ within **five business days** of completing its verification of an API User’s 
 > We do note, however, that actors, such as health care providers, have the ability to conduct whatever “vetting” they deem necessary of entities (_e.g.,_ app developers) that would be their business associates under HIPAA before the entities start using or maintaining EHI on behalf of the actor. In this regard, covered entities must conduct necessary vetting in order to comply with the HIPAA Security Rule ([85 FR 25815](https://www.federalregister.gov/d/2020-07419/p-1927)).
 
 
+
+## Undue Burden - Special Effort - Can the EHR vendor require us to do extra steps to integrate with their platform
+
+> For example, as mentioned above, the final rule establishes application programming interface (API) requirements, including for patients’ access to their health information without special effort. The API approach also supports health care providers’ independence to choose the ‘‘provider-facing’’ third-party services they want to use to interact with the certified API technology they have acquired.
+
+
+
 ## How can I file an Information Blocking Complaint
 
 To submit questions or comments to ONC please use our [Inquiry Portal](https://www.healthit.gov/feedback). Anonymized versions of the § 170.404 inquires and responses that ONC has handled through this portal can be accessed on the [Health IT Feedback and Inquiry Portal: API Conditions and Maintenance of Certification at § 170.404](https://onc-healthit.github.io/api-resource-guide/inquiry-portal/404-inquiries/) page.
