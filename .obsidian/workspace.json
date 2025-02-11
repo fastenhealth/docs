@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "providers/largest-ehr-platforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "information-blocking-faqs"
+              "title": "largest-ehr-platforms"
+            }
+          },
+          {
+            "id": "cd8c4bd62a9b88b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -47,7 +59,8 @@
               "title": "Release Notes 1.6.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -212,34 +226,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc1dd549bcf0f60",
+  "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
-    "news/fasten-health-news.md",
-    "legal/information-blocking-faqs.md",
-    "technical/authentication.md",
-    "providers/patient-portal-and-sources-testing.md",
-    "getting-started/sandbox.md",
-    "getting-started/index.md",
-    "legal/21st-century-cures-act.md",
-    "legal/carin-trust-framework.md",
-    "legal/checklist.md",
-    "legal/cla.md",
-    "legal/corp.md",
-    "legal/fhir-fees.md",
-    "legal/hipaa.md",
-    "legal/index.md",
-    "legal/intellectual-property.md",
-    "legal/license.md",
-    "legal/privacy-policy.md",
-    "legal/record-ownership.md",
-    "marketing/app-gallery.md",
-    "marketing/index.md",
-    "marketing/marketing-checklist.md",
-    "marketing/us-healthcare-institutions.md",
-    "news/index.md",
-    "providers/sources/epic.md",
-    "providers/sources/index.md",
+    "providers/largest-healthcare-companies.md",
+    "providers/largest-ehr-platforms.md",
+    "providers/index.md",
     "providers/flexpa-supported-payers.md",
+    "providers/sources/epic.md",
+    "providers/sources/cerner.md",
+    "news/industry-news.md",
+    "news/index.md",
+    "news/fasten-health-news.md",
+    "marketing/us-healthcare-institutions.md",
+    "marketing/marketing-checklist.md",
+    "marketing/index.md",
+    "marketing/app-gallery.md",
+    "legal/record-ownership.md",
+    "legal/privacy-policy.md",
+    "legal/license.md",
+    "legal/intellectual-property.md",
+    "legal/information-blocking-faqs.md",
+    "legal/index.md",
+    "legal/hipaa.md",
+    "legal/fhir-fees.md",
+    "legal/corp.md",
+    "legal/cla.md",
+    "legal/checklist.md",
+    "legal/carin-trust-framework.md",
+    "legal/21st-century-cures-act.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
