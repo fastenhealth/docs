@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CHPL",
+                "query": "CHPLR",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +123,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd8c4bd62a9b88b7",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
     "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
