@@ -25,12 +25,14 @@
             "id": "cd8c4bd62a9b88b7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "legal/information-blocking-faqs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -226,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
     "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
