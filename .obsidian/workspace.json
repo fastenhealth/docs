@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "marketing/marketing-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "information-blocking-faqs"
+              "title": "marketing-checklist"
+            }
+          },
+          {
+            "id": "e5213cec7fa869bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,8 +240,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd8c4bd62a9b88b7",
+  "active": "e5213cec7fa869bd",
   "lastOpenFiles": [
+    "marketing/index.md",
+    "marketing/app-gallery.md",
+    "legal/privacy-policy.md",
+    "legal/intellectual-property.md",
+    "legal/information-blocking-faqs.md",
+    "legal/index.md",
+    "legal/carin-trust-framework.md",
+    "legal/21st-century-cures-act.md",
+    "getting-started/index.md",
     "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
     "providers/index.md",
@@ -241,21 +262,12 @@
     "news/fasten-health-news.md",
     "marketing/us-healthcare-institutions.md",
     "marketing/marketing-checklist.md",
-    "marketing/index.md",
-    "marketing/app-gallery.md",
     "legal/record-ownership.md",
-    "legal/privacy-policy.md",
     "legal/license.md",
-    "legal/intellectual-property.md",
-    "legal/information-blocking-faqs.md",
-    "legal/index.md",
     "legal/hipaa.md",
     "legal/fhir-fees.md",
     "legal/corp.md",
     "legal/cla.md",
-    "legal/checklist.md",
-    "legal/carin-trust-framework.md",
-    "legal/21st-century-cures-act.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
