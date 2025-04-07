@@ -179,6 +179,8 @@ EHRs and Health Systems cannot discriminate between apps.
 
 ## How long can a Certified EHR take to verify my identity and application?
 
+> SEE FASTEN BLOG POST - https://blog.fastenhealth.com/developers-need-to-know-5day-10day-rule
+
 https://www.healthit.gov/sites/default/files/page2/2020-03/ConditionsofCertificationWebinar.pdf
 
 This is the 5 day / 10 day rule 
@@ -213,6 +215,8 @@ within **five business days** of completing its verification of an API User’s 
 
 
 ## How can I file an Information Blocking Complaint
+
+> SEE FASTEN BLOG POST: https://blog.fastenhealth.com/developers-need-to-know-information-blocking-complaint
 
 To submit questions or comments to ONC please use our [Inquiry Portal](https://www.healthit.gov/feedback). Anonymized versions of the § 170.404 inquires and responses that ONC has handled through this portal can be accessed on the [Health IT Feedback and Inquiry Portal: API Conditions and Maintenance of Certification at § 170.404](https://onc-healthit.github.io/api-resource-guide/inquiry-portal/404-inquiries/) page.
 
@@ -273,6 +277,12 @@ https://www.federalregister.gov/d/2020-07419/p-886
 > Response. Where the actor does not have a reasonable belief that a practice interfering with minors’ access to their own EHI will substantially reduce a risk of harm cognizable under this exception, the Preventing Harm Exception (§ 171.201) would not apply. This exception would also not apply where any person—whether adult, emancipated minor, or non- emancipated minor—is not able to provide adequate verification of their identity consistent with the actor’s health information privacy or security protection policies. Actors should assess practices related to verifying the identity of a patient, or a legal representative of the patient, for consistency with the conditions of the Privacy Exception as finalized in  § 171.202 and/or the Security Exception as finalized in § 171.203. Likewise, practices implemented to confirm a representative’s legal authority to access or request or authorize access, exchange, or use of a minor’s EHI on behalf of the minor, should be analyzed in the context of the Privacy Exception as finalized in § 171.202 and/or the Security Exception as finalized in § 171.203. Where otherwise applicable law prohibits a specific access, exchange, or use of information, an exception to part 171 is not necessary due to the exclusion of ‘‘required by law’’ practices from the statutory information blocking definition in section 3022 of the PHSA (as discussed in section VIII.C.1 of this preamble). However, where an actor simply lacks the technical capability to provide access, exchange, or use in a specific requested mechanism, format, or manner, we would encourage the actor to review its practices for consistency with the new Content and Manner Exception finalized in § 171.301 or the Infeasibility Exception finalized in § 171.204.
 
 -----
+
+
+# Payers & Prior Auth Requirements
+- https://www.cms.gov/files/document/cms-interoperability-and-prior-authorization-final-rule-presentation-3-26-24.pdf?utm_source=chatgpt.com
+- 
+
 
 # Uncategorized:
 
