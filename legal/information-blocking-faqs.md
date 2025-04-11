@@ -264,8 +264,11 @@ https://www.federalregister.gov/d/2020-07419/p-1910
 
 # What about TEFCA
 - https://www.jmir.org/2022/11/e41750/
-
-
+- https://rce.sequoiaproject.org/tefca-and-rce-resources/
+- [Exchange Purpose (XP) Implementation SOP: Individual Access Services (IAS)](https://rce.sequoiaproject.org/wp-content/uploads/2025/04/SOP-IAS-Exchange-Purpose-Implementation-v2.1-April-2025_Clean-Ready-for-508.pdf)
+- [Exchange Purpose (XP) Implementation SOP: Treatment](https://rce.sequoiaproject.org/wp-content/uploads/2025/04/SOP-Treatment-XP-Implementation_v1.1_April-2025_Clean-Ready-for-508.pdf)
+- [Standard Operating Procedure (SOP): Individual Access Service (IAS) Provider Requirements](https://rce.sequoiaproject.org/wp-content/uploads/2024/07/SOP-IAS-Provider-Requirements-v2_508.pdf)
+- [Standard Operating Procedure(SOP): Exchange Purposes (XPs)](https://rce.sequoiaproject.org/wp-content/uploads/2025/01/SOP-Exchange-Purposes_CA-v2_v4-508.pdf)
 
 ## Can EHRs block access to Medical Records for minors?
 
