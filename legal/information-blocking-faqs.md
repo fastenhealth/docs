@@ -270,6 +270,18 @@ https://www.federalregister.gov/d/2020-07419/p-1910
 - [Standard Operating Procedure (SOP): Individual Access Service (IAS) Provider Requirements](https://rce.sequoiaproject.org/wp-content/uploads/2024/07/SOP-IAS-Provider-Requirements-v2_508.pdf)
 - [Standard Operating Procedure(SOP): Exchange Purposes (XPs)](https://rce.sequoiaproject.org/wp-content/uploads/2025/01/SOP-Exchange-Purposes_CA-v2_v4-508.pdf)
 
+
+# Are TEFCA IAS Providers (Apps) required to respond to Requests? (Reciprocity)
+No.
+
+> 4.6 Exceptions to Required Responses
+a) The below are exceptions to the Response requirements set forth in Section 4.5 of this
+SOP.
+i. If the Response is prohibited by Applicable Law; **is inconsistent with Signatory’s IAS**
+**Privacy and Security Notice,** if applicable; or is not in accordance with the Common
+Agreement;
+
+
 ## Can EHRs block access to Medical Records for minors?
 
 > We received several comments suggesting the use of pediatric-focused clinicians and settings to test EHR systems as part of these provisions, specifically recommending that we should require EHR developers to use pediatric-focused scenarios and mock pediatric patients when testing functionality, as well as requiring the inclusion of pediatric clinicians as part of end-user testing.
