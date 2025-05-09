@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/patient-summary.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "patient-summary"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "patient",
+                "query": "faq",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -245,13 +245,13 @@
   },
   "active": "e5213cec7fa869bd",
   "lastOpenFiles": [
+    "technical/patient-summary.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
     "technical/patient-data-collection.md",
     "reports/patient profile.md",
     "dashboard/where_clause.md",
     "features.md",
-    "technical/patient-summary.md",
     "technical/fasten-identification-systems.md",
     "technical/fhir-resource-relationships.md",
     "news/index.md",

@@ -293,6 +293,8 @@ https://www.federalregister.gov/d/2020-07419/p-886
 
 -----
 
+# Information Blocking Claims By the Numbers
+- https://www.healthit.gov/data/quickstats/information-blocking-claims-numbers
 
 # Payers & Prior Auth Requirements
 - https://www.cms.gov/files/document/cms-interoperability-and-prior-authorization-final-rule-presentation-3-26-24.pdf?utm_source=chatgpt.com
