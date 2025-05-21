@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fc1dd549bcf0f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "providers/largest-ehr-platforms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "largest-ehr-platforms"
-            }
-          },
-          {
             "id": "cd8c4bd62a9b88b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/marketing-checklist.md",
+                "file": "providers/largest-healthcare-companies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "marketing-checklist"
+              "title": "largest-healthcare-companies"
             }
           },
           {
@@ -75,8 +61,7 @@
               "title": "Release Notes 1.6.5"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "faq",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,8 +124,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,8 +227,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5213cec7fa869bd",
+  "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
+    "providers/largest-ehr-platforms.md",
+    "providers/index.md",
+    "providers/flexpa-supported-payers.md",
+    "providers/sources/cerner.md",
+    "marketing/us-healthcare-institutions.md",
+    "marketing/marketing-checklist.md",
+    "legal/information-blocking-faqs.md",
     "technical/patient-summary.md",
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
@@ -256,21 +247,14 @@
     "technical/fhir-resource-relationships.md",
     "news/index.md",
     "news/fasten-health-news.md",
-    "marketing/us-healthcare-institutions.md",
     "legal/record-ownership.md",
     "legal/license.md",
     "legal/intellectual-property.md",
-    "legal/information-blocking-faqs.md",
     "legal/21st-century-cures-act.md",
     "legal/carin-trust-framework.md",
     "marketing/index.md",
     "marketing/app-gallery.md",
     "legal/privacy-policy.md",
-    "legal/index.md",
-    "getting-started/index.md",
-    "providers/largest-healthcare-companies.md",
-    "providers/largest-ehr-platforms.md",
-    "providers/index.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
