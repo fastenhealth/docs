@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/design/ui-ux.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ui-ux"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -229,6 +229,15 @@
   },
   "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
+    "marketing/index.md",
+    "news/fasten-health-news.md",
+    "providers/flexpa-supported-payers.md",
+    "faqs.md",
+    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
+    "providers/largest-healthcare-companies.md",
+    "providers/largest-ehr-platforms.md",
+    "providers/index.md",
+    "technical/design/ui-ux.md",
     "technical/design/landing-page.md",
     "technical/design/index.md",
     "technical/design/angular-to-react.md",
@@ -238,10 +247,6 @@
     "technical/cloud/architecture.md",
     "technical/archive/single-page-app.md",
     "technical/archive/index.md",
-    "providers/largest-healthcare-companies.md",
-    "providers/largest-ehr-platforms.md",
-    "providers/index.md",
-    "providers/flexpa-supported-payers.md",
     "providers/sources/cerner.md",
     "marketing/us-healthcare-institutions.md",
     "marketing/marketing-checklist.md",
@@ -250,11 +255,6 @@
     "providers/patient-portal-and-sources-testing.md",
     "providers/patient-contributed-data.md",
     "technical/patient-data-collection.md",
-    "reports/patient profile.md",
-    "dashboard/where_clause.md",
-    "features.md",
-    "technical/fasten-identification-systems.md",
-    "technical/fhir-resource-relationships.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
