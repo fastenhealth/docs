@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "largest-healthcare-companies"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -229,6 +229,7 @@
   },
   "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
+    "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
     "providers/index.md",
     "providers/flexpa-supported-payers.md",
@@ -251,7 +252,6 @@
     "marketing/index.md",
     "faqs.md",
     "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
-    "providers/largest-healthcare-companies.md",
     "technical/design/ui-ux.md",
     "technical/design/landing-page.md",
     "technical/design/index.md",
