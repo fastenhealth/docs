@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/index.md",
+                "file": "news/fasten-health-news.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "fasten-health-news"
             }
           },
           {
@@ -227,8 +227,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8360a188f8a1d092",
+  "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
+    "news/index.md",
+    "news/industry-news.md",
     "legal/license.md",
     "legal/record-ownership.md",
     "legal/privacy-policy.md",
@@ -253,8 +255,6 @@
     "legal/checklist.md",
     "legal/intellectual-property.md",
     "marketing/index.md",
-    "faqs.md",
-    "providers/PATIENT_PORTAL_AND_SOURCES_TESTING.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
