@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/fasten-health-news.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fasten-health-news"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -229,6 +229,8 @@
   },
   "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
+    "legal/fhir-fees.md",
+    "news/fasten-health-news.md",
     "news/index.md",
     "news/industry-news.md",
     "legal/license.md",
@@ -236,7 +238,6 @@
     "legal/privacy-policy.md",
     "legal/information-blocking-faqs.md",
     "legal/hipaa.md",
-    "legal/fhir-fees.md",
     "legal/corp.md",
     "legal/cla.md",
     "legal/carin-trust-framework.md",
@@ -248,7 +249,6 @@
     "providers/sources/index.md",
     "providers/sources/epic.md",
     "providers/sources/cerner.md",
-    "news/fasten-health-news.md",
     "marketing/us-healthcare-institutions.md",
     "marketing/marketing-checklist.md",
     "marketing/app-gallery.md",
