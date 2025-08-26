@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "providers/largest-healthcare-companies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "information-blocking-faqs"
+              "title": "largest-healthcare-companies"
             }
           },
           {
@@ -124,8 +124,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,22 +227,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237732b2ceb60fc0",
+  "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
-    "legal/fhir-fees.md",
-    "news/fasten-health-news.md",
-    "news/index.md",
-    "news/industry-news.md",
-    "legal/license.md",
-    "legal/record-ownership.md",
-    "legal/privacy-policy.md",
-    "legal/information-blocking-faqs.md",
-    "legal/hipaa.md",
-    "legal/corp.md",
-    "legal/cla.md",
-    "legal/carin-trust-framework.md",
-    "legal/21st-century-cures-act.md",
-    "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
     "providers/index.md",
     "providers/flexpa-supported-payers.md",
@@ -251,11 +236,25 @@
     "providers/sources/epic.md",
     "providers/sources/cerner.md",
     "marketing/us-healthcare-institutions.md",
-    "marketing/marketing-checklist.md",
+    "marketing/index.md",
     "marketing/app-gallery.md",
+    "marketing/marketing-checklist.md",
+    "legal/information-blocking-faqs.md",
+    "legal/fhir-fees.md",
+    "news/fasten-health-news.md",
+    "news/index.md",
+    "news/industry-news.md",
+    "legal/license.md",
+    "legal/record-ownership.md",
+    "legal/privacy-policy.md",
+    "legal/hipaa.md",
+    "legal/corp.md",
+    "legal/cla.md",
+    "legal/carin-trust-framework.md",
+    "legal/21st-century-cures-act.md",
+    "providers/largest-healthcare-companies.md",
     "legal/checklist.md",
     "legal/intellectual-property.md",
-    "marketing/index.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",

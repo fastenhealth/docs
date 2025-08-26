@@ -42,7 +42,7 @@ parent: Providers
 
 
 - [x] HCA Healthcare (Nashville, Tenn.): 182 hospitals ✅ 2023-10-16
-- [ ] Veterans Health Administration: 171 hospitals   
+- [x] Veterans Health Administration: 171 hospitals ✅ 2025-08-26
 - [x] CommonSpirit Health (Chicago): 140 hospitals ✅ 2023-10-16
 - [x] Ascension (St. Louis): 139 hospitals ✅ 2023-10-16
 - [x] Trinity Health (Livonia, Mich.): 88 hospitals ✅ 2023-10-16
