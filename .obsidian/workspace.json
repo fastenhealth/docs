@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SNF",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -124,7 +124,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd8c4bd62a9b88b7",
+  "active": "237732b2ceb60fc0",
   "lastOpenFiles": [
     "legal/fhir-fees.md",
     "news/fasten-health-news.md",
