@@ -303,6 +303,14 @@ https://www.federalregister.gov/d/2020-07419/p-886
 > - where a delay occurs in providing a patient’s EHI via an API to an app that the patient has authorized to receive their EHI.
 https://www.healthit.gov/faq/when-would-delay-fulfilling-request-access-exchange-or-use-ehi-be-considered-interference-under
 
+> Are actors (for example, health care providers) expected to release test results to patients through a patient portal or application programming interface (API) as soon as the results are available to the ordering clinician?
+>
+  While the information blocking regulations do not require actors to proactively make electronic health information (EHI) available, once a request to access, exchange or use EHI is made actors must timely respond to the request (for example, from a patient for their test results). Delays or other unnecessary impediments could implicate the information blocking provisions.
+>
+  In practice, this could mean a patient would be able to access EHI such as test results in parallel to the availability of the test results to the ordering clinician.
+https://www.healthit.gov/faq/are-actors-example-health-care-providers-expected-release-test-results-patients-through-patient
+
+
 -----
 
 # Information Blocking Claims By the Numbers
