@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "9d9083f37705a6c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.5"
+            }
+          },
+          {
             "id": "cbf291258ad3203d",
             "type": "leaf",
             "state": {
@@ -47,18 +59,6 @@
               },
               "icon": "lucide-file",
               "title": "hipaa"
-            }
-          },
-          {
-            "id": "9d9083f37705a6c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.5"
             }
           }
         ]
@@ -229,32 +229,33 @@
   },
   "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
-    "legal/information-blocking-faqs.md",
-    "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
     "providers/index.md",
     "providers/flexpa-supported-payers.md",
-    "providers/sources/index.md",
-    "providers/sources/epic.md",
-    "providers/sources/cerner.md",
+    "news/industry-news.md",
+    "news/index.md",
+    "news/fasten-health-news.md",
     "marketing/us-healthcare-institutions.md",
+    "marketing/marketing-checklist.md",
     "marketing/index.md",
     "marketing/app-gallery.md",
-    "marketing/marketing-checklist.md",
-    "legal/fhir-fees.md",
-    "news/fasten-health-news.md",
-    "news/index.md",
-    "news/industry-news.md",
-    "legal/license.md",
     "legal/record-ownership.md",
     "legal/privacy-policy.md",
+    "legal/license.md",
+    "legal/information-blocking-faqs.md",
+    "legal/index.md",
     "legal/hipaa.md",
+    "legal/intellectual-property.md",
+    "legal/fhir-fees.md",
     "legal/corp.md",
     "legal/cla.md",
     "legal/carin-trust-framework.md",
-    "legal/21st-century-cures-act.md",
     "legal/checklist.md",
-    "legal/intellectual-property.md",
+    "legal/21st-century-cures-act.md",
+    "getting-started/index.md",
+    "deck/pitch-deck-v2.pptx.pdf",
+    "providers/largest-healthcare-companies.md",
+    "providers/sources/index.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
@@ -269,7 +270,6 @@
     "img/fasten_images_merged.pdf",
     "img/windows-app-store",
     "img/macos-app-store/1.dashboard.pdf",
-    "deck/pitch-deck-v2.pptx.pdf",
     "img/macos-app-store",
     "img/untitled folder",
     "technical/grants",
