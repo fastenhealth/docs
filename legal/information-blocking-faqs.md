@@ -291,6 +291,18 @@ https://www.federalregister.gov/d/2020-07419/p-886
 >
 > Response. Where the actor does not have a reasonable belief that a practice interfering with minors’ access to their own EHI will substantially reduce a risk of harm cognizable under this exception, the Preventing Harm Exception (§ 171.201) would not apply. This exception would also not apply where any person—whether adult, emancipated minor, or non- emancipated minor—is not able to provide adequate verification of their identity consistent with the actor’s health information privacy or security protection policies. Actors should assess practices related to verifying the identity of a patient, or a legal representative of the patient, for consistency with the conditions of the Privacy Exception as finalized in  § 171.202 and/or the Security Exception as finalized in § 171.203. Likewise, practices implemented to confirm a representative’s legal authority to access or request or authorize access, exchange, or use of a minor’s EHI on behalf of the minor, should be analyzed in the context of the Privacy Exception as finalized in § 171.202 and/or the Security Exception as finalized in § 171.203. Where otherwise applicable law prohibits a specific access, exchange, or use of information, an exception to part 171 is not necessary due to the exclusion of ‘‘required by law’’ practices from the statutory information blocking definition in section 3022 of the PHSA (as discussed in section VIII.C.1 of this preamble). However, where an actor simply lacks the technical capability to provide access, exchange, or use in a specific requested mechanism, format, or manner, we would encourage the actor to review its practices for consistency with the new Content and Manner Exception finalized in § 171.301 or the Infeasibility Exception finalized in § 171.204.
 
+## Does delaying consumer requests count as information blocking
+
+> **_Likely_** _to be an Interference_
+>
+  It would **_likely_** be considered an interference for purposes of information blocking if a health care provider established an organizational policy that, for example, imposed delays on the release of lab results for any period of time in order to allow an ordering clinician to review the results or in order to personally inform the patient of the results before a patient can electronically access such results (_see also_ 85 FR 25842 specifying that such a practice does not qualify for the “Preventing Harm” Exception).
+> 
+  To further illustrate, it also would **_likely_** be considered an interference:
+>
+> - where a delay in providing access, exchange, or use occurs after a patient logs in to a patient portal to access EHI that a health care provider has (including, for example, lab results) and such EHI is not available—for any period of time—through the portal.
+> - where a delay occurs in providing a patient’s EHI via an API to an app that the patient has authorized to receive their EHI.
+https://www.healthit.gov/faq/when-would-delay-fulfilling-request-access-exchange-or-use-ehi-be-considered-interference-under
+
 -----
 
 # Information Blocking Claims By the Numbers

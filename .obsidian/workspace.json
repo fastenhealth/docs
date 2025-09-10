@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "providers/largest-healthcare-companies.md",
+                "file": "legal/information-blocking-faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "largest-healthcare-companies"
+              "title": "information-blocking-faqs"
             }
           },
           {
@@ -229,6 +229,7 @@
   },
   "active": "cd8c4bd62a9b88b7",
   "lastOpenFiles": [
+    "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
     "providers/index.md",
     "providers/flexpa-supported-payers.md",
@@ -254,7 +255,6 @@
     "legal/21st-century-cures-act.md",
     "getting-started/index.md",
     "deck/pitch-deck-v2.pptx.pdf",
-    "providers/largest-healthcare-companies.md",
     "providers/sources/index.md",
     "banner-transparent.png",
     "getting-started/img.png",
