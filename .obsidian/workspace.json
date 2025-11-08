@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legal/information-blocking-faqs.md",
+                "file": "providers/patient-portal-and-sources-testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "information-blocking-faqs"
+              "title": "patient-portal-and-sources-testing"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SNF",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +110,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -227,8 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd8c4bd62a9b88b7",
+  "active": "8360a188f8a1d092",
   "lastOpenFiles": [
+    "legal/information-blocking-faqs.md",
+    "technical/cloud/cloudflare-reverse-proxy.md",
+    "technical/authentication.md",
+    "legal/21st-century-cures-act.md",
     "providers/largest-healthcare-companies.md",
     "providers/largest-ehr-platforms.md",
     "providers/index.md",
@@ -243,7 +248,6 @@
     "legal/record-ownership.md",
     "legal/privacy-policy.md",
     "legal/license.md",
-    "legal/information-blocking-faqs.md",
     "legal/index.md",
     "legal/hipaa.md",
     "legal/intellectual-property.md",
@@ -252,10 +256,7 @@
     "legal/cla.md",
     "legal/carin-trust-framework.md",
     "legal/checklist.md",
-    "legal/21st-century-cures-act.md",
-    "getting-started/index.md",
     "deck/pitch-deck-v2.pptx.pdf",
-    "providers/sources/index.md",
     "banner-transparent.png",
     "getting-started/img.png",
     "img/sponsors/browserstack.png",
