@@ -311,6 +311,23 @@ https://www.healthit.gov/faq/when-would-delay-fulfilling-request-access-exchange
 https://www.healthit.gov/faq/are-actors-example-health-care-providers-expected-release-test-results-patients-through-patient
 
 
+# Delegated/Proxy/Personal Representative Access
+
+If a caregiver has delegated/proxy access to the patient in question, most EHRs will show a "patient picker" when they login:
+
+![](img/Pasted%20image%2020251203222134.png) 
+
+They can then select which patients' records they would like to access and share with you. 
+
+You'll want to consult with your legal counsel if you're asking the common practice of "password sharing" and how that works in a world where the Caregiver or family member is a official proxy or has a HIPAA waiver, but here are some links that might be relevant:
+
+- https://www.healthit.gov/faq/where-patient-minor-and-avoid-breaching-patients-confidentiality-and-trust-provider-will
+- https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html (search for Personal Representatives)
+- https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/personal-representatives/index.html
+- https://www.federalregister.gov/d/2020-07419/p-1201
+
+
+
 -----
 
 # Information Blocking Claims By the Numbers
