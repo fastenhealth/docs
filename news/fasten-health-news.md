@@ -9,6 +9,7 @@ parent: News
 - [Jan 15, 2024 - Fasten Health HIPAA Compliance](https://www.accountablehq.com/post/fasten-health-has-achieved-hipaa-compliance-with-accountable)
 - [Dec, 2024 - Techstars NYC Demoday](https://www.youtube.com/watch?v=-syfncmv8NU)
 - [Feb 5, 2025 - Selfii advocates for Fasten as a Patient-Centric platform](https://selfii.com/blog-balancing-privacy)
+- https://healthapiguy.substack.com/p/another-one-anthropics-healthcare
 ## Discussions
 
 - https://www.reddit.com/r/selfhosted/comments/13i68rm/fasten_health_open_source_selfhosted_personal/
